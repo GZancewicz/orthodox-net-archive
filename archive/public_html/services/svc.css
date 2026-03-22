@@ -1,0 +1,41 @@
+<style type="text/css">
+.s { font-family: Georgia, Palatino, "Times New Roman", serif ; font-size:medium; }
+.ssbi  {  font-family: Verdana, Arial, Helvetica, sans-serif; font-weight:bolder; font-style:italic;}
+.pessbi
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: smaller;
+	font-weight:bolder;
+	font-style:italic;
+}
+.pe
+{
+	text-align:justify;
+	font-size: smaller;
+	margin-left: 5%; margin-right: 5%;
+}
+.si
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: large;
+	text-align:justify;
+	color:gray;
+	margin-left: 10%; margin-right: 10%;
+}
+.ru
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style:italic;
+	font-size: 8pt;
+	color:red;
+}
+.ruq
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style:italic; text-align:justify;
+	color:red;
+	margin-left: 5%; margin-right: 5%;
+}
+h2 { text-align:center; }
+body { margin-right:2%; }
+</STYLE>

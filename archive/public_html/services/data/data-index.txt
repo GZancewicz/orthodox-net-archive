@@ -1,0 +1,63 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|horologion_matins|Matins|||||||||||||||||FORMATS: FORMAT:RTF FORMAT:PDF |||||||||||||
+002|horologion_hours-and-typika_first-hour_third-hour_sixth-hour_ninth-hour_typika|Hours and Typika|||||||||||||||||Contains:First Hour,Third Hour,Sixth Hour,Ninth Hour,Typika FORMATS: FORMAT:RTF FORMAT:PDF |||||||||||||
+003|horologion_great-compline|Great Compline|||||||||||||||||FORMATS: FORMAT:RTF FORMAT:PDF |||||||||||||
+004|great-compline|Great Compline|||||||||||||||||Served in Great Lent and in the Vigil for certain feasts Contains the stirring prophetical anthem "For God is with us" Formats: FORMAT:PDF FORMAT:RTF FORMAT:HTML |||||||||||||
+005|small-compline|Small Compline|||||||||||||||||Served Daily outside Great Lent Many people use this service for their evening prayers Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+006|midnight-office-mon-sat|Midnight Office for Weekdays and Saturdays|||||||||||||||||Other FORMATs: FORMAT:PDF  FORMAT:RTF |||||||||||||
+007|morning-prayers|Morning Prayers for an Orthodox Christian|||||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF FORMAT:PDB:Palm Pilot |||||||||||||
+008|evening-prayers|Evening  Prayers for an Orthodox Christian|||||||||||||||||Other FORMATs: FORMAT:PDF  FORMAT:RTF FORMAT:PDB:Palm-Pilot |||||||||||||
+009|sluzebnic-vespers-lamplighting-prayers|Vespers Lamplighting prayers |||||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+010|sluzebnic-matins-morning-prayers-during-the-six-psalms|Matins morning prayers said privately during the Six Psalms by the priest|||||||||||||||||Other Formats:FORMAT:RTF |||||||||||||
+011|occasional_prayers|Occasional Prayers: PalmPilot FORMAT||||||||||||||||||||||||||||||
+012|prayers_during_the_day|Prayers during the day: PalmPilot FORMAT||||||||||||||||||||||||||||||
+013|sluzebnic-vespers-lamplighting-prayers|Vespers Lamplighting prayers |||||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+014|sluzebnic-vespers|Sluzebnic for Vespers||||||||||||||||||||||||||||||
+015|sluzebnic-matins-morning-prayers-during-the-six-psalms|Matins morning prayers said privately during the Six Psalms by the priest|||||||||||||||||Also in FORMAT FORMAT:PDF |||||||||||||
+016|prayers-b4-liturgy|Prayers a priest may say before serving the Divine Liturgy|||||||||||||||||From the Liturgy of St James Other FORMATs: FORMAT:PDF FORMAT:PDF |||||||||||||
+017|proskomede|Proskomede or Proskimedia|||||||||||||||||The Service of preparation before the Divine Liturgy English only,with rubrics for the Priest and Deacon With many endnotes giving Scriptural references. There are also various private prayers, that a priest may use in his personal preparation.  This format is ideal to print in booklet form, with a program like <a href="http://clickbook.com/">Clickbook</a> Other FORMATS: <a href="https://www.orthodox.net//services/proskomede.html">HTML</a> <a href="https://www.orthodox.net//services/proskomede.doc">WORD</a> <a href="https://www.orthodox.net//services/proskomede.rtf">RTF</a> <a href="https://www.orthodox.net//services/proskomede.pdf">pdf</a>  |||||||||||||
+018|sluzebnic-chrysostom|Divine Liturgy of St John Chrysostom|||||||||||||||||English only,with rubrics and private prayers  Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+019|sluzebnic-chrysostom-es|Divine Liturgy of St John Chrysostom|||||||||||||||||All audible parts in English and Slavonic Rubrics and private prayers in English.  Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+020|sluzebnic-basil-es|Divine Liturgy of St Basil|||||||||||||||||All audible parts in English and Slavonic Rubrics and private prayers in English.  VERY LARGE! almost 500K! Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+021|prayer-behind-the-ambvon|Prayer behind the Ambvon|||||||||||||||||Used in St John's Liturgy Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+022|prayer-behind-the-ambvon-basil|Two Prayers behind the Ambvon |||||||||||||||||Used in St Basil's Liturgy Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+023|great-entrance-exclamations-as-said-at-saint-nicholas|Great Entrance exclamations as said at St Nicholas|||||||||||||||||These exclamations are slightly edited from the official ROCOR versions (a prayer for Serbia is added). |||||||||||||
+024|prayer-for-the-prosperity-of-the-russian-orthodox-church|Prayer for the Prosperity of the Russian Orthodox Church|||||||||||||||||On May 13, 2008, the Council of Bishops of the Russian Orthodox Church Outside of Russia adopted the Prayer for the Prosperity of the Church of Russia, to be read during Divine Liturgy on the Ascension of the Lord; and, as desired, on the feast day of All Russian Saints; the feast days of St Vladimir, St Olga and especially-venerated Russian saints. This prayer replaces the Prayer for the Salvation of Russia. Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+025|ectenia-petitions-for-various-needs|Prayers for various needs|||||||||||||||||From the Orthodox Sluzebnic  #Petitions for Various Needs from the Orthodox Sluzebnic, Ectenia for the Ailing, For those who journey, Thanksgiving for Petitions Granted Inserted in:<UL><LI>the Divine Liturgy of St John Chrysostom<LI>or St Basil<LI>or the Moleben</UL>  Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+026|ectenia-petitions-serbia-kosovo|Petitions for Serbia and Kosovo - four cards to a page|||||||||||||||||Acrobat Reader pdf FORMAT  Other FORMAT: RTF |||||||||||||
+027|ectenia-petitions-for-those-persecuted|Petitions for the persecuted because of their faith in Christ, and our brethren that are suffering because of war.|||||||||||||||||Use these in ectenias in Liturgy, Vespers, Matins & Molebens, AND AT HOME (when used at home, they can be modified a little since, you are alone). Revise countries, and people commemorated as desired.  Also in <a href="https://www.orthodox.net//services/ectenia-petitions-for-those-persecuted.doc">WORD format</a> &amp; <a href="https://www.orthodox.net//services/ectenia-petitions-for-those-persecuted.pdf">PDF format</a><br />  ALSO IN a CARD : <a href="https://www.orthodox.net//services/ectenia-petitions-for-those-persecuted-card.doc">WORD </a> &amp; <a href="https://www.orthodox.net//services/ectenia-petitions-for-those-persecuted-card.pdf">PDF </a> |||||||||||||
+028|litya-for-kolyva-or-bread-offered-to-a-saint|Litya Service                    |||||||||||||||||For Phanouropita, or any bread or Kolyva offered in honor of a Saint Other formats: FORMAT:PDF FORMAT:RTF |||||||||||||
+029|canons-for-communion|The Canons (and Akathists) for Holy Communion|||||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+030|order-of-preparation-for-holy-communion|The Order of Preparation for Holy Communion. |||||||||||||||||These prayers are usually said the evening before or the morning that Holy Communion is to be received.   Other formats: FORMAT:PDF |||||||||||||
+031|prayers-b4-liturgy|Prayers a priest may say before serving the Divine Liturgy|||||||||||||||||From the Liturgy of St James Other FORMATs: FORMAT:PDF FORMAT:PDF |||||||||||||
+032|3-prayers-from-canons|Prayers to Our Lord Jesus Christ,the theotokos and the Guardian Angel|||||||||||||||||From their supplicatory canons Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+033|moleben|The Order of the General Moleben |||||||||||||||||According to usage in the Russian Orthodox Church Other FORMATs: FORMAT:PDF FORMAT:RTF FORMAT:PDB:PalmPilot |||||||||||||
+034|thanksgiving_moleben|Thanksgiving Moleben||||||||||||||||||||||||||||||
+035|prokeimena-daily-vespers|Vespers Prokeimena|||||||||||||||||For Vespers outside of Great Lent Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+036|prokeimena-various|Prokeimena for various occasions|||||||||||||||||Used in Divine Liturgy Also used whenever a Gospel may be read,such as in a Moleben Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+037|symbol-es|The Symbol of Faith|||||||||||||||||English and Slavonic Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+038|6psalms|The Six Psalms|||||||||||||||||Read near the beginning of matins With rubrics Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+039|great-doxology|Great Doxology |||||||||||||||||A prayer,which is usually sung,during Matins and Great Compline. Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+040|our-father|Our Father |||||||||||||||||English and Transliterated Slavonic Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+041|resurrection-troparia-kontakia|Resurrection Troparia and Kontakia in the 8 Tones|||||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+042|save-o-god|Save O God Thy People |||||||||||||||||A prayer during Litya and matins Small Card that fits inside the Sluzebnic Other FORMATs: FORMAT:PDF FORMAT:RTF FORMAT:PDF |||||||||||||
+043|vespers-matins-first-hour-card-3.5|Vespers,Matins and First Hour exclamations and prayers|||||||||||||||||Small Card that fits inside the Sluzebnic Other FORMATs: FORMAT:RTF |||||||||||||
+044|moleben-gospel-readings-chart|Chart of Moleben Gospel Readings (PDF FORMAT)|||||||||||||||||Other FORMATs: FORMAT:RTF |||||||||||||
+045|lectionary-gospels-special|Gospel Lectionary |||||||||||||||||For various Saints and occasions Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+046|lenten-lectionary-1st-week|Lenten Lectionary for the First Week of Great Lent||||||||||||||||||||||||||||||
+047|lenten-lectionary-2nd-week|Lenten Lectionary for the Second Week of Great Lent||||||||||||||||||||||||||||||
+048|lenten-lectionary-3rd-week|Lenten Lectionary for the Third Week of Great Lent||||||||||||||||||||||||||||||
+049|lenten-lectionary-4th-week|Lenten Lectionary for the Fourth Week of Great Lent||||||||||||||||||||||||||||||
+050|lenten-lectionary-5th-week|Lenten Lectionary for the Fifth Week of Great Lent||||||||||||||||||||||||||||||
+051|lenten-lectionary-6th-week|Lenten Lectionary for the Sixth Week of Great Lent||||||||||||||||||||||||||||||
+052|lenten-lectionary-holy-week|Lenten Lectionary for Holy Week||||||||||||||||||||||||||||||
+053|matinal-gospels-card|The Eleven Matinal Gospels (PDF format)|||||||||||||||||Other FORMATs (4 cards on a page):  FORMAT:RTF |||||||||||||
+054|o-pure-virgin|Aghni Parthene   &quot;O Pure Virgin&quot; |||||||||||||||||by St. Nectarios of Aegina  Tone 5 |||||||||||||
+055|katavasiae-exaltation|Katavasiae for the Exaltation of the Cross|||||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+056|megalynaria-theotokos|Megalynaria of the Theotokos|||Sung after the Supplicatory Canon to her ||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+057|requiem-for-nonorthodox|Requiem Service for non Orthodox|||||||||||||||||Other FORMATs: FORMAT:PDF FORMAT:RTF |||||||||||||
+058|panteleimon-07-27|<b>St Panteleimon</b> - Troparion, Kontakion, Megalynarion, Magnification, Two prayers|||||||||||||||||Also in <a href="https://www.orthodox.net//services/panteleimon-07-27.doc">Word format</a> Also in <a href="https://www.orthodox.net//services/panteleimon-07-27-card.pdf">4x4 card format (PDF)</a> Also in <a href="https://www.orthodox.net//services/panteleimon-07-27-card.doc">4x4 card format (WORD)</a> Commemorated July 27 / Aug 9 |||||||||||||
+059|panteleimon-07-27-moleben|<b>St Panteleimon</b> Moleben as sung every day at the Hermitage of the Holy Cross, Wayne WV|||||||||||||||||Also in <a href="https://www.orthodox.net//services/panteleimon-07-27-moleben.doc">Word format</a> Also in <a href="https://www.orthodox.net//services/panteleimon-07-27-moleben-card.pdf">4x4 card format (PDF)</a> Also in <a href="https://www.orthodox.net//services/panteleimon-07-27-moleben-card.doc">4x4 card format (WORD)</a> Commemorated July 27 / Aug 9 |||||||||||||

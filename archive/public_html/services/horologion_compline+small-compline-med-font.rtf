@@ -1,0 +1,788 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f285\fswiss\fcharset0\fprq2{\*\panose 020b0603020202020204}Trebuchet MS{\*\falt Arial};}{\f304\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garamond;}{\f434\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f435\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f437\froman\fcharset161\fprq2 Times New Roman Greek;}{\f438\froman\fcharset162\fprq2 Times New Roman Tur;}{\f439\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f440\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f441\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f442\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f444\fswiss\fcharset238\fprq2 Arial CE;}
+{\f445\fswiss\fcharset204\fprq2 Arial Cyr;}{\f447\fswiss\fcharset161\fprq2 Arial Greek;}{\f448\fswiss\fcharset162\fprq2 Arial Tur;}{\f449\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f450\fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f451\fswiss\fcharset186\fprq2 Arial Baltic;}{\f452\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f454\fmodern\fcharset238\fprq1 Courier New CE;}{\f455\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f457\fmodern\fcharset161\fprq1 Courier New Greek;}
+{\f458\fmodern\fcharset162\fprq1 Courier New Tur;}{\f459\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f460\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f461\fmodern\fcharset186\fprq1 Courier New Baltic;}
+{\f462\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f3284\fswiss\fcharset238\fprq2 Trebuchet MS CE{\*\falt Arial};}{\f3285\fswiss\fcharset204\fprq2 Trebuchet MS Cyr{\*\falt Arial};}
+{\f3287\fswiss\fcharset161\fprq2 Trebuchet MS Greek{\*\falt Arial};}{\f3288\fswiss\fcharset162\fprq2 Trebuchet MS Tur{\*\falt Arial};}{\f3291\fswiss\fcharset186\fprq2 Trebuchet MS Baltic{\*\falt Arial};}{\f3474\froman\fcharset238\fprq2 Garamond CE;}
+{\f3475\froman\fcharset204\fprq2 Garamond Cyr;}{\f3477\froman\fcharset161\fprq2 Garamond Greek;}{\f3478\froman\fcharset162\fprq2 Garamond Tur;}{\f3481\froman\fcharset186\fprq2 Garamond Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \f1\fs36\cf15 \sbasedon10 SC;}{\s16\ql \li0\ri0\widctlpar
+\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 header;}{\*\cs17 \additive \b\i\f1\fs24\cf15 \sbasedon10 SCL;}{
+\s18\ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext18 SDOA;}{\s19\qj \li576\ri576\sb100\sa100\sl360\slmult1
+\nowidctlpar\faauto\adjustright\rin576\lin576\itap0 \f1\fs36\cf15\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext19 SPS;}{\s20\qj \li576\ri576\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\adjustright\rin576\lin576\itap0 
+\i\f1\fs36\cf16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext20 SDS;}{\s21\qj \li576\ri576\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\adjustright\rin576\lin576\itap0 
+\b\i\f1\fs28\cf16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon20 \snext21 SDSL;}{\s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 SL;}{\*\cs23 
+\additive \b\f1\fs36 \sbasedon10 SPA;}{\*\cs24 \additive \b\i\f1\fs28 \sbasedon23 SPAL;}{\s25\qj \li576\ri576\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\adjustright\rin576\lin576\itap0 \b\i\f1\fs28\cf15\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon19 \snext19 SPSL;}{\*\cs26 \additive \f1\fs32 \sbasedon10 SR;}{\*\cs27 \additive \i\f1\fs24 \sbasedon26 SRL;}{\*\cs28 \additive \i\f1\fs24\cf6 \sbasedon10 SRU;}{\s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 \snext0 SRUL;}{\s30\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f285\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext30 svc name;}{
+\s31\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f304\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext31 svc rubrics;}{\s32\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\f304\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext32 svc stichera;}{\s33\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f304\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon32 \snext33 svc sess hymn;}
+{\s34\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext34 footer;}{\*\cs35 \additive \i\f1\fs36\ul\cf15 \sbasedon15 SCE;}{
+\s36\qc \li0\ri0\sb240\sa60\widctlpar\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext36 Title;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable
+{\list\listtemplateid-1141178746\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720
+\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid443768133}{\list\listtemplateid-1529309830\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid686754377}{\list\listtemplateid1450843704{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li788\jclisttab\tx788\lin788 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li1508\jclisttab\tx1508\lin1508 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2228\jclisttab\tx2228\lin2228 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2948\jclisttab\tx2948\lin2948 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3668\jclisttab\tx3668\lin3668 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4388\jclisttab\tx4388\lin4388 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li5108\jclisttab\tx5108\lin5108 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5828\jclisttab\tx5828\lin5828 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6548\jclisttab\tx6548\lin6548 }{\listname ;}\listid774403127}{\list\listtemplateid278402556
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li788\jclisttab\tx788\lin788 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1508\jclisttab\tx1508\lin1508 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2228\jclisttab\tx2228\lin2228 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li2948\jclisttab\tx2948\lin2948 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3668\jclisttab\tx3668\lin3668 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4388\jclisttab\tx4388\lin4388 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5108\jclisttab\tx5108\lin5108 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5828\jclisttab\tx5828\lin5828 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 
+\fi-360\li6548\jclisttab\tx6548\lin6548 }{\listname ;}\listid786772708}{\list\listtemplateid-381932424{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 
+\fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1399522433}{\list\listtemplateid345141472{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li856\jclisttab\tx856\lin856 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1576\jclisttab\tx1576\lin1576 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 
+\fi-360\li2296\jclisttab\tx2296\lin2296 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3016\jclisttab\tx3016\lin3016 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3736\jclisttab\tx3736\lin3736 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4456\jclisttab\tx4456\lin4456 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5176\jclisttab\tx5176\lin5176 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5896
+\jclisttab\tx5896\lin5896 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6616\jclisttab\tx6616\lin6616 }{\listname 
+;}\listid1633822899}{\list\listtemplateid-1091381106\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1649358096}{\list\listtemplateid-1860022562\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1844316625}{\list\listtemplateid1078726554\listhybrid
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }
+{\listname ;}\listid2140489052}}{\*\listoverridetable{\listoverride\listid1399522433\listoverridecount0\ls1}{\listoverride\listid786772708\listoverridecount0\ls2}{\listoverride\listid774403127\listoverridecount0\ls3}{\listoverride\listid1633822899
+\listoverridecount0\ls4}{\listoverride\listid1649358096\listoverridecount0\ls5}{\listoverride\listid686754377\listoverridecount0\ls6}{\listoverride\listid2140489052\listoverridecount0\ls7}{\listoverride\listid1844316625\listoverridecount0\ls8}
+{\listoverride\listid443768133\listoverridecount0\ls9}}{\*\rsidtbl \rsid6574074\rsid7031384\rsid13072411}{\*\generator Microsoft Word 11.0.5604;}{\info{\title Service Label }{\author Fr Seraphim Holland}{\operator User}
+{\creatim\yr2014\mo9\dy23\hr13\min12}{\revtim\yr2014\mo9\dy23\hr13\min24}{\printim\yr2014\mo9\dy23\hr13\min20}{\version4}{\edmins12}{\nofpages20}{\nofwords5700}{\nofchars32493}{\*\company St Nicholas Russian Orthodox Church}{\nofcharsws38117}{\vern24689}}
+\margl720\margr720\margt720\margb720 \widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale110\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot7031384 \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid6574074 \chftnsep 
+
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid6574074 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid6574074 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid6574074 \chftnsepc 
+\par }}\sectd \psz1\linex0\headery0\endnhere\titlepg\sectlinegrid360\sectdefaultcl\sftnbj {\footer \pard\plain \s34\qc \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid13072411 Page }{\field{\*\fldinst {\insrsid13072411  PAGE }}{\fldrslt {\lang1024\langfe1024\noproof\insrsid6574074 20}}}{\insrsid13072411  of }{\field{\*\fldinst {\insrsid13072411  NUMPAGES 
+}}{\fldrslt {\lang1024\langfe1024\noproof\insrsid6574074 20}}}{\insrsid13072411 
+\par }}{\headerf \pard\plain \s22\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid13072411 SMALL COMPLINE with the Prayers before Sleep}{\insrsid6574074 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs20\insrsid6574074 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs23\b\f1\fs34\insrsid6574074 Blessed is our God, always, now and ever, and unto the ages of ages. 
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs27\i\f1\insrsid6574074 READER:}{\cs27\i\f1\fs20\insrsid6574074 : }{\cs26\f1\insrsid6574074\charrsid7031384  Amen. Glory to Thee, our God, glory to Thee.
+\par 
+\par O Heavenly King, Comforter, Spirit of Truth, Who art everywhere present and fillest all things, Treasury of good things and Giver of life: Come and dwell in us, and cleanse us of all impurity, and save our souls, O Good One. 
+\par 
+\par Holy God, Holy Mighty, Holy Immortal, have mercy on us. }{\cs28\b\i\f1\cf6\insrsid6574074 (Thrice)}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen.
+\par 
+\par O Most Holy Trinity, have mercy on us. O Lord, blot out our sins. O Master, pardon our iniquities. O Holy One, visit and heal our infirmities for Thy name's sake. 
+\par 
+\par Lord have mercy. }{\cs28\b\i\f1\cf6\insrsid6574074 (Thrice)}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par Glory to the Father and to the Son and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen. 
+\par 
+\par Our Father, Who art in the Heavens, hallowed by Thy Name. Thy Kingdom come, Thy will be done
+, on earth as it is in Heaven. Give us this day our daily bread, and forgive us our debts, as we forgive our debtors; and lead us not into temptation, but deliver us from the evil one.
+\par  
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs23\b\f1\fs34\insrsid6574074 For Thine is the Kingdom, and the power, and the glory; of t
+he Father, and of the Son, and of the Holy Spirit, now and ever, and unto the ages of ages.}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs27\i\f1\insrsid6574074 READER:}{\cs27\i\f1\fs20\insrsid6574074 : }{\cs26\f1\insrsid6574074\charrsid7031384  Amen.  Lord have mercy.}{\cs28\b\i\f1\cf6\insrsid6574074  (12 Times}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs26\f1\insrsid13072411 
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 Glory to the Father and to the Son and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen. 
+\par 
+\par O come, let us worship God our King. 
+\par O come, let us worship and fall down before Christ our King and God.
+\par O come, let us worship and fall down before Christ Himself, our King and God. 
+\par  
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 Psalm 50
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par Have mercy on me, O God, according to Thy g
+reat mercy; and according to the multitude of Thy compassions blot out my transgression. Wash me thoroughly from mine iniquity, and cleanse me from my sin. For I know mine iniquity, and my sin is ever before me. Against Thee only have I sinned and done th
+i
+s evil before Thee, that Thou mightest be justified in Thy words, and prevail when Thou art judged. For behold, I was conceived in iniquities, and in sins did my mother bear me. For behold, Thou hast loved truth; the hidden and secret things of Thy wisdom
+ 
+hast Thou made manifest unto me. Thou shalt sprinkle me with hyssop, and I shall be made clean; Thou shalt wash me, and I shall be made whiter than snow. Thou shalt make me to hear joy and gladness; the bones that be humbled, they shall rejoice. Turn Thy 
+f
+ace away from my sins, and blot out all mine iniquities. Create in me a clean heart, O God, and renew a right spirit within me. Cast me not away from Thy presence, and take not Thy Holy Spirit from me. Restore unto me the joy of Thy salvation, and with Th
+y
+ governing Spirit establish me. I shall teach transgressors Thy ways, and the ungodly shall turn back unto Thee. Deliver me from blood-guiltiness, O God, Thou God of my salvation; my tongue shall rejoice in Thy righteousness. O Lord, Thou shalt open my li
+p
+s, and my mouth shall declare Thy praise. For if Thou hadst desired sacrifice, I had given it; with whole-burnt offerings Thou shalt not be pleased. A sacrifice unto God is a broken spirit; a heart that is broken and humbled God will not despise. Do good,
+ O Lord, in Thy good pleasure unto Sion, and let the walls of Jerusalem be builded. Then shalt Thou be pleased with a sacrifice of righteousness, with oblation and whole-burnt offerings. Then shall they offer bullocks upon Thine altar.
+\par }\pard\plain \s22\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 Psalm 69 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O God, be attentive unto helping me; O Lord, make haste to help me. Let them be shamed and confounded that seek after my soul. 
+\par 
+\par Let them be turned back and brought to shame that desire evils against me. Let them be turned back straightway in shame that say unto me: Well done! Well done! 
+\par 
+\par Let them be glad and rejoice in Thee all that seek after Thee, O God, and let them that love Thy salvation say continually: The Lord be magnified. 
+\par 
+\par But as for me, I am poor and needy; O God come unto mine aid. 
+\par 
+\par My helper and my deliverer art Thou, O Lord; make no long tarrying.
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 Psalm 142
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Lord, hear my prayer; give ear unto my supplication in Thy truth; hearken unto me in Thy righteousness. 
+\par 
+\par And enter not into judgment with Thy servant, for in Thy sight shall no man living be justified. 
+\par 
+\par For the enemy hath persecuted my soul; he hath humbled my life down to the earth. 
+\par 
+\par He hath sat me in darkness as those that have been long dead, and my spirit within me is become despondent; within me my heart is troubled. 
+\par 
+\par I remembered days of old, I meditated on all Thy works, I pondered on the creations of Thy hands. 
+\par 
+\par I stretched forth my hands unto Thee; my soul thirsteth after Thee like a waterless land. 
+\par 
+\par Quickly hear me, O Lord; my spirit hath fainted away. 
+\par 
+\par Turn not Thy face away from me, lest I be like unto them that go down into the pit. 
+\par 
+\par Cause me to hear Thy mercy in the morning; for in Thee have I put my hope. 
+\par 
+\par Cause me to know, O Lord, the way wherein I should walk; for unto Thee have I lifted up my soul. 
+\par 
+\par Rescue me from mine enemies, O Lord; unto Thee have I fled for refuge. 
+\par 
+\par Teach me to do Thy will, for Thou art my God. 
+\par 
+\par Thy good Spirit shall lead me in the land of uprightness; for Thy name's sake, O Lord, shalt Thou quicken me. 
+\par 
+\par In Thy righteousness shalt Thou bring my soul out of affliction, and in Thy mercy shalt Thou utterly destroy mine enemies. 
+\par 
+\par And Thou shalt cut off all them that afflict my soul, for I am Thy servant.
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid13072411 
+\par }{\cs26\fs24\insrsid6574074\charrsid7031384 The Doxology
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384  
+\par Glory to God in the highest, and on earth, peace and good will among men.
+\par 
+\par  We praise Thee, we bless Thee, we worship Thee, we glorify Thee, we give thanks to  Thee for Thy great glory.
+\par 
+\par  O Lord, heavenly King, God the Father Almighty; O Lord, the only-begotten Son, Jesus Christ; and O Holy Spirit.
+\par 
+\par  O Lord God, Lamb of God, Son of the Father, that takest away the sin of the world; have mercy on us; Thou that takest away the sins of the world, receive our prayer; Thou that sittest at the right hand of the Father, have mercy on us.
+\par 
+\par  For Thou only art holy; Thou only art the Lord, O Jesus Christ, to the glory of God the Father.  Amen.
+\par 
+\par  Every night will I bless Thee, and I will praise Thy Name forever, yea, forever and forever.
+\par 
+\par  Lord, thou hast been our refuge in generation and generation.
+\par 
+\par  I said: O Lord, have mercy on me, heal my soul, for I have sinned against Thee.
+\par 
+\par  O Lord, unto Thee have I fled for refuge, teach me to do Thy will, for Thou art my God.
+\par 
+\par  For in Thee is the fountain of life, in Thy light shall we see light.
+\par 
+\par  O continue Thy mercy unto them that know Thee.
+\par 
+\par  Vouchsafe, O Lord, to keep us this night without sin.
+\par 
+\par  Blessed art Thou, O Lord, the God of our Fathers, and praised and glorified is Thy name unto the ages of ages. Amen.
+\par 
+\par  Let Thy mercy, O Lord, be upon us, according as we have hoped in Thee.
+\par 
+\par  Blessed art Thou, O Lord, teach me Thy statutes.
+\par 
+\par  Blessed art Thou, O Master, give me understanding of Thy statutes.
+\par 
+\par  Blessed art Thou, O Holy One, enlighten me by Thy statutes.
+\par 
+\par  O Lord, Thy mercy endureth forever; disdain not the works of Thy hands.
+\par 
+\par  To Thee is due praise, to Thee is due a song, to Thee glory is due, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto the ages of ages. Amen.
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 The Symbol Of Faith
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par I believe in one God, the Father Almighty, Maker of heaven and the earth and of all things visible and invisible. And in one Lord Jesus Christ, the Son of God, the Only-begotten, begotten of the Father before all ages; Light of Light, true God of true God
+;
+ begotten, not made; of one essence with the Father, by Whom all things were made; Who for us men and for our salvation  came down from the heavens, and was incarnate of the Holy Spirit and the Virgin Mary, and became man; And was crucified for us under P
+o
+ntius Pilate, and suffered and was buried; And arose again on the third day according to the Scriptures; And ascended into the heavens, and sitteth at the right hand of the Father; And shall come again, with glory, to judge both the living and the dead; W
+h
+ose kingdom shall have no end. And in the Holy Spirit, the Lord, the Giver of life; Who proceedeth from the Father; Who with the Father and the Son together is worshipped and glorified; Who spake by the prophets. In One, Holy, Catholic, and Apostolic Chur
+ch. I confess one baptism for the remission of sins. I look for the resurrection of the dead, And the life of the age to come. Amen.
+\par 
+\par }{\cs28\i\f1\cf6\insrsid6574074 At this point, a canon is read, being for the Theotokos, from the Oktoechos, or from the Menaion.
+\par 
+\par And after the canon, the Stichera from Vespers, or from the Praises of Matins if there be any appointed for the Saint.
+\par 
+\par Then: 
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par It is truly meet to bless thee, the Theotokos, ever blessed and most blameless, and Mother of our God. More honorable than the Cherubim, and beyond comp
+are more glorious than the Seraphim, who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify.
+\par 
+\par Holy God, Holy Mighty, Holy Immortal, have mercy on us. }{\cs28\i\f1\fs20\cf6\insrsid6574074 (Thrice)}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the unto the ages of ages. Amen.
+\par 
+\par O Most Holy Trinity, have mercy on us. O Lord, blot out our sins. O Master, pardon our iniquities. O Holy One, visit and heal our infirmities for Thy name's sake. 
+\par 
+\par Lord have mercy. }{\cs28\i\f1\cf6\insrsid6574074 (Thrice)}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen.
+\par 
+\par Our Father, Who art in the Heavens, hallowed by Thy Name. Thy Kingdom come, Thy will be done, on earth as it is in Heaven. Give us this day o
+ur daily bread, and forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from the evil one.
+\par 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384   }{\cs23\b\f1\fs34\insrsid6574074 For Thine is the Kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit
+, now and ever, and unto the ages of ages.}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs27\i\f1\insrsid6574074 READER:}{\cs27\i\f1\fs20\insrsid6574074 : }{\cs26\f1\insrsid6574074\charrsid7031384  Amen.
+\par 
+\par }{\cs28\i\f1\cf6\insrsid6574074 \page If the temple be dedicated to the Lord or to the Theotokos:
+\par {\listtext\pard\plain\cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls8\adjustright\rin0\lin720\itap0 {\cs28\i\f1\cf6\insrsid6574074 the troparion of the temple is said first, 
+\par {\listtext\pard\plain\cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}then the troparion of the day (see below),
+\par {\listtext\pard\plain\cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}then "O God of our Fathers...", etc. 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\cs28\i\f1\cf6\insrsid6574074 
+\par If the temple be dedicated to a saint:
+\par {\listtext\pard\plain\cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls9\adjustright\rin0\lin720\itap0 {\cs28\i\f1\cf6\insrsid6574074 the troparion of the day is said first, 
+\par {\listtext\pard\plain\cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}then the troparion of the temple, 
+\par {\listtext\pard\plain\cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}then "O God of our fathers...", etc. 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 Troparion of the Day: 
+\par 
+\par On Sunday night: 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par Supreme Commanders of the Heavenly Hosts, we unwort
+hy ones implore you that by your supplications ye will encircle us with the shelter of the wings of your immaterial glory, and guard us who fall down before you and fervently cry: Deliver us from dangers since ye are the Marshals of the Hosts on high.
+
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 On Monday night:
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par The memory of righteous is celebrated with hymns of praise, but the Lord's testimony is sufficient for thee, O Forerunner; for thou hast proved to be even more venerable than the prophets since thou wast granted to baptize in the running wat
+ers Him Whom they proclaimed. Wherefore, having contested for the truth, thou didst rejoice to announce the good tidings even to those in Hades; that God hath appeared in the flesh, taking away the sin of the world and granting us great mercy.
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 
+\par On Tuesday night: 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par Save, O Lord, Thy people, and bless Thine inheritance; grant Thou unto Orthodox Christians victory over enemies; and by the power of Thy Cross do Thou preserve Thy commonwealth.\'b7
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 \page On Wednesday night:
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O holy Apostles, intercede with the merciful God, that He grant unto our souls forgiveness of offenses.
+\par 
+\par }{\cs28\i\f1\cf6\insrsid6574074 And to St. Nicholas, Fourth Tone:
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par The truth of things hath revealed thee to thy flock as a rule of faith, an icon of meekness and a teacher of tempera
+nce; therefore thou hast achieved the heights by humility, riches by poverty. O Father and Hierarch Nicholas, intercede with Christ God that our souls be saved.
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 On Thursday night: 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par Save, O Lord, Thy people, and bless Thine inheritance; grant Thou unto Orthodox Christians victory over enemies; and by the power of Thy Cross do Thou preserve Thy commonwealth.
+\par 
+\par }{\cs28\i\f1\cf6\insrsid6574074 Then, Sunday night through Thursday night (if simple service):}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par O God of our fathers, Who ever dealest by us according to Thy kindness, do not withdraw Thy mercy from us, but through their intercessions guide our life in peace. 
+\par 
+\par Adorned in the blood of Thy martyrs throughout all the world, as in purple and fine linen, Thy Church, through them, doth cry unto Thee, O Christ God: Send down Thy compassions upon Thy people; grant to Thy community, and to our souls great mercy. 
+\par 
+\par Glory to the Father, and to the Son, and to the Holy Spirit.
+\par 
+\par With the saints give rest, O Christ, to the souls of Thy servants, where there is neither sickness, nor sorrow, nor sighing, but life everlasting. 
+\par 
+\par Both now and ever, and unto the ages of ages. Amen. 
+\par 
+\par Through the intercessions, O Lord, of all the saints and the Theotokos, grant us Thy peace, and have mercy on us, as Thou alone art compassionate. 
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 On Friday night: 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Apostles, Martyrs, and Prophets, Venerable and Righteous Ones; ye that have accomplished a good labor and kept the Faith, that have boldness before the Savior; O Good Ones, intercede for us, we pray, that our souls be saved.
+\par 
+\par Glory to the Father and to the Son, and to the Holy Spirit. 
+\par 
+\par With the saints give rest, O Christ, to the souls of Thy servants, where there is neither sickness, nor sorrow, nor sighing, but life everlasting.
+\par 
+\par Both now and ever, and unto the ages of ages. Amen. 
+\par 
+\par To Thee, O Lord, the Planter of creation, the world doth offer the God-bearing martyrs as the first-fruits of nature. By their intercessions preserve Thy Church, Thy commonwealth, in profound peace, through the Theotokos, O Greatly-merciful One. 
+\par 
+\par }{\cs28\i\f1\cf6\insrsid6574074 The troparion for a church patron saint is not said on Saturdays. 
+\par 
+\par On Saturday at Compline, the troparion and Kontakion of the Resurrection in the occurring tone are read.
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 \page }{\cs28\i\fs24\cf6\insrsid6574074 
+Troparion of the Resurrection. First Tone.}{\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 When the stone had been sealed by the
+ Jews, and the soldiers where guarding Thine immaculate Body, Thou didst rise on the third day, O Savior, granting life unto the world. Wherefore, the Hosts of the Heavens cried out to Thee, O Life-giver: Glory to Thy Resurrection, O Christ. Glory to Thy 
+kingdom. Glory to Thy dispensation, O only Lover of mankind.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Kontakion of the Resurrection. First Tone.}{
+\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 As God Thou didst arise from the tomb in glory, and Thou didst raise the world together with Thyself. And mortal nature praiseth Thee as God, and death
+ hath vanished. And Adam danceth, O Master, and Eve, now freed from fetters, rejoiceth as she crieth out: Thou art He, O Christ, that grantest unto all resurrection.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Troparion of the Resurrection. Second Tone.}{
+\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 When Thou didst descend unto death, O Life I
+mmortal, then didst Thou slay Hades with the lightning of Thy Divinity. And when Thou didst also raise the dead out of the nethermost depths, all the Hosts of Heavens cried out: O Lifegiver, Christ our God, glory be to Thee. 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Kontakion of the Resurrection}{\cs28\i\fs24\cf6\insrsid13072411 
+. Second Tone }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Thou didst arise from the tomb, O omnipotent Savior, and Hades was terrified on beholding the wonder; and the dead arose, and creation at the sight thereof rejoiceth with Thee. And Adam also is joyful, and world, O my Savior, praiseth Thee for ever.
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Troparion of the Resurrection. Third Tone}{
+\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Let the heavens be glad; let earthly things rejoice; for the Lord hath wrought might with His arm. He hath trampled down death by death; the first-born of the dead hath He become. From the belly of Hades hath He delivered us and hath granted to the world 
+great mercy.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Kontakion of the Resurrection. Third Tone.}{
+\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Thou didst rise today from the tomb, O Merciful One, and didst lead us out of the gates of death. Today Adam danceth and Eve rejoiceth; and together with them both the Prophets and Patriarchs unceasingly praise the divine might of Thine authority.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Troparion of the Resurrection. Fourth Tone.}{
+\cs26\fs24\insrsid6574074\charrsid7031384  }{\cs26\fs24\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Having learned the joyful proclamation of the Resurrection from the angel, and having cast off the ancestral condemnation, the women disciples of the Lord spake
+ to the apostles exultantly: Death is despoiled and Christ God is risen, granting to the world great mercy. 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Kontakion of the Resurrection. Fourth Tone.}{
+\cs26\fs24\insrsid6574074\charrsid7031384  }{\cs26\fs24\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 My Savior and Redeemer hath, as God, raised up the earthborn from the grave and from their fetters, 
+and He hath broken the gates of Hades, and, Master, hath risen on the third day.
+\par }{\cs28\i\fs24\cf6\insrsid13072411 
+\par Troparion of the Resurrection. Fifth Tone. }{\cs26\b0\fs24\insrsid13072411\charrsid13072411 Let us, O faithful, praise and worship the Word Who is co-unorignate with the Father and the Spirit, and Who was born of the Virgi
+n for our salvation; for He was pleased to ascend the Cross in the flesh and to endure death, and to raise the dead by His glorious Resurrection
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid13072411\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid13072411 Kontakion of the Resurrection. Fifth Tone.}{
+\cs26\fs24\insrsid13072411\charrsid7031384  }{\cs26\fs24\insrsid13072411  }{\cs26\b0\fs24\insrsid13072411\charrsid13072411 Unto Hades, O my Savior, didst Thou descend, and having broken it
+s gates as One omnipotent, Thou, as Creator, didst raise up the dead together with Thyself. And Thou didst break the sting of death, and didst deliver Adam from the curse, O Lover of mankind. Wherefore, we all cry unto Thee: Save us, O Lord.}{
+\cs26\fs24\insrsid13072411\charrsid7031384 
+\par }{\cs26\fs24\insrsid13072411 
+\par }{\cs28\i\fs24\cf6\insrsid6574074 Troparion of the Resurrection. Sixth Tone.}{\cs26\fs24\insrsid6574074\charrsid7031384  }{\cs26\fs24\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Angelic Hosts were above Thy tomb, and they that guarded Thee became as dead. And Mary stood by the grave seeking Thine immaculate Body. Thou didst despoil Hades and wast not tempted by it. Thou didst meet the Virgin and di
+dst grant us life. O Thou Who didst rise from the dead, O Lord, glory be to Thee.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Kontakion of the Resurrection. Sixth Tone.}{
+\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Having by His life-bestowing hand raised up all the dead out of the dark abysses, Christ God, the Giver of Life, hath bestowed the Resurrection upon the fallen human race; for He is the Savior of all, the Resurrection, and the Life, and the God of all.
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Troparion of the Resurrection. Seventh Tone.}{
+\cs26\fs24\insrsid6574074\charrsid7031384  }{\cs26\fs24\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Thou didst destroy death by Thy Cross, Thou didst open Paradise to the thief. Thou didst change the lamentation of the Myrrh-bearers, and Thou didst command Thine Apostles to proclaim that Thou didst arise, O Ch
+rist God, and grantest to the world great mercy. 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Kontakion of the Resurrection. Seventh Tone.}{
+\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 No longer will the dominion of death be able to keep men captive; for Christ hath descended, demolishing and destroying the powers thereof. Hades is bound; the
+ Prophets rejoice with one voice, saying: A Savior hath come for them that have faith. Come forth, ye faithful, for the Resurrection.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Troparion of the Resurrection. Eighth Tone.}{\cs28\i\fs24\cf6\insrsid13072411  }{
+\cs26\b0\fs24\insrsid6574074\charrsid13072411 From on high didst Thou descend, O Compassionate One; to burial of three days hast Thou submitted that Thou mightest free us from our passions. O our Life and Resurrection, O Lord, glory be to Thee. }{
+\cs26\b0\fs24\insrsid13072411 
+\par 
+\par }\pard \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 {\cs28\i\fs24\cf6\insrsid6574074 Kontakion of the Resurrection. Eighth Tone.}{\cs28\i\fs24\cf6\insrsid13072411  }{\cs26\b0\fs24\insrsid6574074\charrsid13072411 
+Having arisen from the tomb, Thou didst raise up the dead and didst resurrect Adam. Eve also danceth at Thy Resurrection, and the ends of the world celebrate Thine arising from the dead, O Greatly-merciful One.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Rubrics pertaining to the Kontakion read on Saturday:
+\par 
+\par IT SHOULD BE KNOWN: that from
+\par {\listtext\pard\plain\s22 \cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \s22\ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls5\adjustright\rin0\lin720\itap0 {\cs28\i\fs24\cf6\insrsid6574074 the Sunday of the Publican and the Pharisee, 
+
+\par {\listtext\pard\plain\s22 \cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}and during all of the Holy Great Lent, 
+\par {\listtext\pard\plain\s22 \cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}on all Saturdays 
+\par }\pard \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\cs28\i\fs24\cf6\insrsid6574074 at Compline the Kontakion of the Resurrection is not read, but rather the one from the Triodion (except the fifth week of Lent).
+\par 
+\par Also during the Holy Pentecost season on all days the Kontakion from the Pentecostarion is read, until the Sunday of All Saints. 
+\par 
+\par If there occur on Sunday a feast of the Lord, only the Kontakion of the feast is read. 
+\par 
+\par But if there be
+\par {\listtext\pard\plain\s22 \cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \s22\ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls7\adjustright\rin0\lin720\itap0 {\cs28\i\fs24\cf6\insrsid6574074 a feast of the Theotokos, 
+\par {\listtext\pard\plain\s22 \cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}or one of the saints that have a Polyeleos, 
+\par {\listtext\pard\plain\s22 \cs28\f3\cf6 \loch\af3\dbch\af0\hich\f3 \'b7\tab}or a great doxology, 
+\par }\pard \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\cs28\i\fs24\cf6\insrsid6574074 the Kontakion of the Resurrection is read, but that of the occurring feast or saint is omitted.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs27\i\f1\insrsid13072411 \sect }\sectd \psz1\linex0\headery0\endnhere\titlepg\sectlinegrid360\sectdefaultcl\sftnbj {\headerf \pard\plain \s22\qr \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\lang1024\langfe1024\noproof\insrsid6574074 
+{\shp{\*\shpinst\shpleft0\shptop360\shpright10800\shpbottom360\shpfhdr1\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplid2053{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8192
+\dpline\dpptx0\dppty0\dpptx10800\dppty0\dpx0\dpy360\dpxsize10800\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\insrsid6574074 
+\par }}{\footerf \pard\plain \qr \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\lang1024\langfe1024\noproof\insrsid6574074 
+{\shp{\*\shpinst\shpleft0\shptop12\shpright10800\shpbottom12\shpfhdr1\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz1\shplid2054{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8193
+\dpline\dpptx0\dppty0\dpptx10800\dppty0\dpx0\dpy12\dpxsize10800\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\fs20\insrsid6574074 SMALL COMPLINE
+\par Page }{\field{\*\fldinst {\fs20\insrsid6574074  PAGE }}{\fldrslt {\fs20\lang1024\langfe1024\noproof\insrsid6574074 11}}}{\fs20\insrsid6574074  of }{\field{\*\fldinst {\fs20\insrsid6574074  NUMPAGES }}{\fldrslt {
+\fs20\lang1024\langfe1024\noproof\insrsid6574074 20}}}{\fs20\insrsid6574074 
+\par }}\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs27\i\f1\insrsid6574074 READER:}{\cs26\f1\insrsid6574074\charrsid7031384  LORD, HAVE MERCY. }{
+\cs28\b\i\f1\cf6\insrsid6574074 (FORTY TIMES)
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par Thou Who at all times and every hour, 
+in heaven and in earth, art worshipped and glorified, O Christ God, Who art long-suffering, plenteous in mercy, most compassionate, Who loveth the righteous and hast mercy on sinners, Who callest all to salvation through the promise of good things to come
+:
+ Receive, O Lord, our prayers at this hour, and guide our life toward Thy commandments. Sanctify our souls, make chaste our bodies, correct our thoughts, purify our intentions, and deliver us from every sorrow, evil and pain. Compass us about with Thy hol
+y angels, that, guarded and guided by their array, we may attain to the unity of the faith and the knowledge of Thine unapproachable glory; for blessed art Thou unto the ages of ages. Amen. 
+\par 
+\par Lord have mercy. }{\cs28\b\i\f1\cf6\insrsid6574074 (Thrice)}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen.
+\par 
+\par More honorable than the Cherubim, and beyond compare more glorious than the Seraphim; who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify. 
+\par 
+\par In the name of the Lord, Father bless.
+\par 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 Priest: }{\cs23\b\f1\fs34\insrsid6574074 THROUGH THE PRAYERS OF OUR HOLY FATHERS, O LORD JESUS CHRIST OUR GOD, HAVE MERCY ON US.
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs27\i\f1\insrsid6574074 READER:}{\cs26\f1\insrsid6574074\charrsid7031384  AMEN.
+\par 
+\par O undefiled, untainted, uncorrupted, most pure, chaste Virgin, Thou Bride of God and Sovereign Lady, wh
+o didst unite the Word of God to mankind though thy most glorious birth giving, and hast linked the apostate nature of our race with the heavenly; who art the only hope of the hopeless, and the helper of the struggling, the ever-ready protection of them t
+h
+at hasten unto thee, and the refuge of all Christians: Do not shrink with loathing from me a sinner, defiled, who with polluted thoughts, words, and deeds have made myself utterly unprofitable, and through slothfulness of mind have become a slave to the p
+l
+easures of life. But as the Mother of God Who loveth mankind, show thy love for mankind and mercifully have compassion upon me a sinner and prodigal, and accept my supplication, which is offered to thee out of my defiled mouth; and making use of thy mothe
+r
+ly boldness, entreat thy Son and our Master and Lord that He may be pleased to open for me the bowels of His lovingkindness and graciousness to mankind, and, disregarding my numberless offenses, will turn me back to repentance, and show me to be tried wor
+k
+er of His precepts. And be thou ever present unto me as merciful, compassionate and well disposed; in the present life be thou a fervent intercessor and helper, repelling the assaults of adversaries and guiding me to salvation, and at the time of my depar
+t
+ure taking care of my miserable soul, and driving far away from it the dark countenances of the evil demons; lastly, at the dreadful day of judgment delivering me from torment eternal and showing me to be an heir of the ineffable glory of thy Son and our 
+G
+od; all of which may I attain, O my Sovereign Lady, most holy Theotokos, in virtue of thine intercession and protection, through the grace and love to mankind of thine only begotten Son, our Lord and God and Savior, Jesus Christ, to Whom is due all glory,
+ honor and worship, together with His unoriginate Father, and His Most Holy and good and life creating Spirit, now and ever, and unto ages of ages. Amen.
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Another Prayer to our Lord Jesus Christ, by Antiochus the monk}{
+\cs26\fs24\insrsid6574074\charrsid7031384  
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par And grant unto us, O Master, in the coming sleep, rest for body and soul, and preserve us from the gloomy slumber of sin, and from every dark and nocturnal sensuality. Subdue the impulses of passions, extinguish the fiery darts of the evil one that are cu
+n
+ningly hurled against us, assuage the rebellions of our flesh, and every earthly and fleshly subtlety of ours lull to sleep. And grant unto us, O God, a watchful mind, chaste thought, a sober heart, a sleep gentle and free from every satanic illusion. Rai
+s
+e us up at the time of prayer firmly grounded in Thy judgments. All the night long grant us a doxology, that we may hymn and bless and glorify Thy most honorable and majestic name: of the Father, and of the Son, and of the Holy Spirit, now and ever, and u
+nto the ages of ages. Amen.
+\par 
+\par }{\cs28\b\i\f1\cf6\insrsid6574074 And these Troparia, 6th Tone:}{\cs28\i\f1\fs20\cf6\insrsid6574074 
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs15\f1\fs36\cf15\insrsid6574074 Have mercy on us, O Lord, have mercy on us; / for at a loss for any defense, / this prayer do we sinners offer unto Thee as Master; // have mercy on us.
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs15\f1\fs36\cf15\insrsid6574074 Glory to the Father, and to the Son, and to the Holy Spirit.}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par }{\cs15\f1\fs36\cf15\insrsid6574074 
+Lord, have mercy on us; / for we have hoped in Thee, be not angry with us greatly,  / neither remember our iniquities; / but look upon us now as Thou art compassionate,  / and deliver us from our enemies, / for Thou art our God, and we, 
+Thy people, // all are the works of Thy hands, and we call upon Thy name.}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par }{\cs15\f1\fs36\cf15\insrsid6574074 Both now and ever, and unto the ages of ages. Amen.}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs15\f1\fs36\cf15\insrsid6574074 The door of compassion open unto us, O blessed Theotokos, / for, hoping in thee, let us not perish; / through thee may we be delivered from adversities, // for thou art the salvation of the Christian race.}{
+\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par Lord, have mercy}{\cs28\b\i\f1\cf6\insrsid6574074 . (Twelve Times)
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer I, of St. Macarius the Great.}{\cs26\fs24\insrsid6574074\charrsid7031384  
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Eternal God and King of all creation, Who hast vouchsafed me to arrive at this hour, forgive me the 
+sins that I have committed this day in deed, word, and thought; and cleanse, O Lord, my lowly soul of all impurity of flesh and spirit, and grant me, O Lord, to pass the sleep of this night in peace; that, rising from my lowly bed, I may please Thy most h
+o
+ly name all the days of my life, and thwart the enemies, fleshly and bodiless, that war against me. And deliver me, O Lord, from vain thoughts and evil desires which defile me. For Thine is the kingdom, and the power, and the glory: of the Father, and of 
+the Son, and of the Holy Spirit, now, and ever, and unto the ages of ages. Amen.
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer II, of St. Antiochus:}{\cs26\fs24\insrsid6574074\charrsid7031384 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Ruler of all, Word of the Father, O Jesus Christ, Thou Who art perfect: for the sake of the plenitude of Thy mercy, never depart from me, but a
+lways remain in me, Thy servant. O Jesus, Good Shepherd of Thy sheep, deliver me not over to the sedition of the serpent, and leave me not to the will of Satan, for the seed of corruption is in me. But do Thou, O Lord, worshipful God, Holy King, Jesus Chr
+i
+st, as I sleep, guard me by the Unwaning Light, Thy Holy Spirit, by Whom Thou didst sanctify Thy disciples. O Lord, grant me, thine unworthy servant, Thy salvation upon my bed. Enlighten my mind with the light of understanding of Thy Holy Gospel; my soul,
+ 
+with the love of Thy Cross; my heart, with the purity of Thy word; my body, with Thy passionless passion. Keep my thoughts in Thy humility, and raise me up at the proper time for Thy glorification. For most glorified art Thou together with Thine unorigina
+te Father, and the Most Holy Spirit, unto the ages. Amen.
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer III, to the Most Holy Spirit:}{\cs26\fs24\insrsid6574074\charrsid7031384 
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Lord, Heavenly King, Comforter, Spirit of Truth, show compassion and have mercy on me, Thy sinful servant, 
+and loose me from mine unworthiness, and forgive all wherein I have sinned against Thee today as a man, and not only as a man, but even worse than a beast, my sins voluntary and involuntary, known and unknown, whether from youth, and from evil suggestion,
+ or whether from brazenness and despondency. 
+\par 
+\par If I have sworn by Thy name, 
+\par 
+\par or blasphemed it in my thoughts; 
+\par 
+\par or grieved anyone, 
+\par 
+\par or have become angry about anything; 
+\par 
+\par or have lied, or slept needlessly, 
+\par 
+\par or if a beggar hath come to me and I disdained him; 
+\par 
+\par or if I have grieved my brother, 
+\par 
+\par or have quarreled, 
+\par 
+\par or have condemned anyone; 
+\par 
+\par or if I have been boastful, 
+\par 
+\par or prideful, 
+\par 
+\par or angry; 
+\par 
+\par if, as I stood at prayer, my mind hath been distracted by the wiles of this world, 
+\par 
+\par or by thoughts of depravity; 
+\par 
+\par if I have overeaten, or have drunk excessively, 
+\par 
+\par or laughed frivolously; 
+\par 
+\par if I have thought evil, 
+\par 
+\par or have seen the beauty of another and been wounded thereby in my heart; 
+\par 
+\par if I have said improper things, 
+\par 
+\par or derided my brother's sin when mine own sins are countless; 
+\par 
+\par if I have been neglectful of prayer, 
+\par 
+\par or have done some other wrong that I cannot remember, for all of this and more than this have I done: 
+\par 
+\par have mercy, O Master my Creator, on me Thy downcast and unworthy servant, and loose me, and remit, and forgive me, for Thou art good and the Lover of mankind, so that, lustful, sinful, and wretched as I am, I may lie down and sleep and rest in peace. 
+
+\par 
+\par And I shall worship, and hymn, and glorify Thy most honorable name, together with the Father and His Only-begotten Son, now and ever, and unto the ages. Amen.
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer IV, of St. Macarius the Great}{\cs26\fs24\insrsid6574074\charrsid7031384 
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par What shall I offer Thee, or what shall I give Thee, O greatly-gifted, immortal King, O compassionate Lord Who lovest mankind? 
+\par 
+\par For though I have been slothful in pleasing Thee, and have done nothing good, Thou hast led me to the close of this day that is past, establishing the conversion and salvation of my soul. 
+\par 
+\par Be merciful to me a sinner, bereft of every good deed, raise up my fallen soul which hath become defiled by countless sins, and take away from me every evil thought of this visible life. 
+\par 
+\par Forgive my sins, O Only Sinless One, in which I have sinned against Thee this day, known or unknown, in word, and deed, and thought and in all my senses. 
+\par 
+\par Do Thou Thyself protect and guard me from every opposing circumstance, by Thy Divine authority and power and inexpressible love for mankind. 
+\par 
+\par Blot out, O God, blot ou
+t the multitude of my sins. Be pleased, O Lord, to deliver me from the net of the Evil One, and save my passionate soul, and overshadow me with the light of Thy countenance when Thou shalt come in glory; and cause me, uncondemned now, to sleep a dreamless
+ sleep, and keep Thy servant untroubled by thoughts, and drive away from me all satanic deeds; and enlighten for me the eyes of my heart with understanding, lest I sleep unto death. 
+\par 
+\par And send me an angel of peace, a guardian and guide of my soul and body, that he may deliver me from mine enemies; that, rising from my bed, I may offer Thee prayers of thanksgiving. 
+\par 
+\par Yea, O Lord, hearken unto me, Thy sinful and wretched servant, in confession and conscience; grant me, when I arise, to be instructed by Thy say
+ings; and through Thine angels cause demonic despondency to be driven far from me: that I may bless Thy holy name, and glorify and extol the most pure Theotokos Mary, whom Thou hast given to us sinners as a protectress, and accept her who prayeth for us. 
+
+\par 
+\par For I know that she exemplifieth Thy love for mankind and prayeth for us without ceasing. Through her protection, and the sign of the precious Cross, and for the sake of all Thy saints, preserve my wretched soul, O Jesus Christ our God: for holy art Thou,
+ and most glorious for ever. Amen.
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer V}{\cs26\fs24\insrsid6574074\charrsid7031384 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Lord our God, as Thou art good and the Lover of mankind, forgive me wherein I have sinned today in word, deed, and thought. Grant me peaceful and undisturbed sleep; send Thy guardian angel to protect and kee
+p me from evil. For Thou art the Guardian of our souls and bodies, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto the ages of ages. Amen. 
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer VI}{\cs26\fs24\insrsid6574074\charrsid7031384 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Lord our God, in Whom we believe and 
+Whose Name we invoke above every name, grant us, as we go to sleep, relaxation of soul and body, and keep us from all dreams, and dark pleasures; stop the onslaught of the passions and quench the burnings that arise in the flesh. Grant us to live chastely
+ in deed and word, that we may obtain a virtuous life, and not fall away from Thy promised blessings; for blessed art Thou for ever. Amen.
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer VII, of St. John Chrysostom, according to the number of hours of day and night:
+}{\cs26\fs24\insrsid6574074\charrsid7031384  
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Lord, deprive me not of Thy heavenly good things. 
+\par 
+\par O Lord, deliver me from the eternal torments.
+\par  
+\par O Lord, if I have sinned in mind or thought, in word or deed, forgive me. 
+\par 
+\par O Lord, deliver me from all ignorance, forgetfulness, faint-heartedness, and stony insensibility. 
+\par 
+\par O Lord, deliver me from every temptation. 
+\par 
+\par O Lord, enlighten my heart which evil desire hath darkened. 
+\par 
+\par O Lord, as a man I have sinned, but do Thou, as the compassionate God, have mercy on me, seeing the infirmity of my soul. 
+\par 
+\par O Lord, send Thy grace to my help, that I may glorify Thy holy name. 
+\par 
+\par O Lord Jesus Christ, write me Thy servant in the Book of Life, and grant me a good end. 
+\par 
+\par O Lord my God, even though I have done nothing good in Thy sight, yet grant me by Thy grace to make a good beginning. 
+\par 
+\par O Lord, sprinkle into my heart the dew of Thy grace. 
+\par 
+\par O Lord of heaven and earth, remember me Thy sinful servant, shameful and unclean, in Thy kingdom. Amen.
+\par 
+\par O Lord, accept me in penitence. 
+\par 
+\par O Lord, forsake me not. O Lord, lead me not into temptation. 
+\par 
+\par O Lord, grant me good thoughts. 
+\par 
+\par O Lord, grant me tears, and remembrance of death, and compunction. 
+\par 
+\par O Lord, grant me the thought of confessing my sins. 
+\par 
+\par O Lord, grant me humility, chastity, and obedience.
+\par  
+\par O Lord, grant me patience, courage, and meekness. 
+\par 
+\par O Lord, implant in me the root of good, Thy fear in my heart. 
+\par 
+\par O Lord, vouchsafe me to love Thee with all my soul and thoughts, and in all things to do Thy will. 
+\par 
+\par O Lord, protect me from evil men, and demons, and passions, and from every other unseemly thing. 
+\par 
+\par O Lord, Thou knowest that Thou doest as Thou wilt: Thy will be done also in me a sinner; for blessed art Thou unto the ages. Amen.
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer VIII, to our Lord Jesus Christ}{\cs26\fs24\insrsid6574074\charrsid7031384 
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Lord Jesus Christ, Son 
+of God, for the sake of Thy most honorable Mother, and Thy bodiless angels, Thy Prophet and Forerunner and Baptist, the God-inspired apostles, the radiant and victorious martyrs, the holy and God-bearing fathers, and through the intercessions of all the s
+a
+ints, deliver me from the besetting presence of the demons. Yea, my Lord and Creator, Who desirest not the death of the sinner, but rather that he be converted and live, grant conversion also to me, wretched and unworthy; rescue me from the mouth of the p
+e
+rnicious serpent, who is yawning to devour me and take me down to Hades alive. Yea, my Lord, my Comfort, Who for my miserable sake wast clothed in corruptible flesh, draw me out of misery, and grant comfort to my miserable soul. Implant in my heart to ful
+fill Thy commandments, and to forsake evil deeds, and to obtain Thy blessings; for in Thee, O Lord, have I hoped, save me.
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 
+\par }{\cs28\i\fs24\cf6\insrsid6574074 Prayer IX, to the Most Holy Theotokos}{\cs26\fs24\insrsid6574074\charrsid7031384 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O good Mother of the Good King, most pure and blessed Theotokos Mary, do thou pour out the mer
+cy of thy Son and our God upon my passionate soul, and by thine intercessions guide me unto good works, that I may pass the remaining time of my life without blemish, and attain paradise through thee, O Virgin Theotokos, who alone art pure and blessed.
+
+\par 
+\par }\pard\plain \s22\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs28\i\fs24\cf6\insrsid6574074 Prayer X, to the Holy Guardian Angel}{\cs26\fs24\insrsid6574074\charrsid7031384 
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par O Angel of Christ, my holy guardian and protector of my soul and body, forgive me all wherein I have sinned this day, and deliver me from all opposing evil of mine enemy, lest I anger my God by any sin. Pray for me, a si
+nful and unworthy servant, that thou mayest show me forth worthy of the kindness and mercy of the All-holy Trinity, and of the Mother of my Lord Jesus Christ, and of all the saints. Amen.
+\par }{\cs28\i\f1\fs20\cf6\insrsid6574074 
+\par \page }{\cs28\b\i\f1\cf6\insrsid6574074 Then, the Kontakion of the Theotokos:}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par To Thee the Champion Leader, we thy servants dedicate a feast of victory and of thanksgiving, as ones rescued out of sufferings, O Theotokos; but as thou art one with might which is invincible, from all dangers that can be, do thou deliver us, that we may
+ cry to thee: Rejoice, thou Bride unwedded!
+\par 
+\par Most glorious Ever-Virgin, Mother of Christ God, present our prayer to thy Son and our God, that through thee our souls may be saved
+\par 
+\par All my hope I place in thee, O Mother of God: keep me under thy protection.
+\par 
+\par O Virgin Theotokos, disdain not me a sinner, needing thy help and thy protection, and have mercy on me, for my soul hath hoped in thee.
+\par 
+\par }{\cs28\b\i\f1\cf6\insrsid6574074 Then the prayer of St. Joannicius:}{\cs28\i\f1\fs20\cf6\insrsid6574074  
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par My hope is the Father, my refuge is the Son, my protection is the Holy Spirit: O Holy Trinity, glory to Thee.
+\par 
+\par }\pard\plain \s29\qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \b\i\f1\fs32\cf6\lang1024\langfe1024\cgrid\noproof\langnp1033\langfenp1033 {\cs26\fs24\insrsid6574074\charrsid7031384 \page Here the Order of Small Compline is resumed.
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs23\b\f1\fs34\insrsid6574074 GLORY TO THEE, O GOD, OUR HOPE, GLORY TO THEE}{\cs26\f1\insrsid6574074\charrsid7031384 . 
+\par 
+\par }{\cs17\b\i\f1\fs20\cf15\insrsid6574074 CHANTERS:}{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs15\f1\fs36\cf15\insrsid6574074 Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen. 
+Lord, have mercy, Lord, have mercy, Lord, have mercy.  Father }{\cs28\b\i\f1\cf6\insrsid6574074 (master)}{\cs15\f1\fs36\cf15\insrsid6574074 , bless.}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384   }{\cs23\b\f1\fs34\insrsid6574074 May Christ our God, through the intercessions of His most pure Mother, (the patron sain
+t of the temple), and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind.}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs17\b\i\f1\fs20\cf15\insrsid6574074 CHANTERS:}{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs15\f1\fs36\cf15\insrsid6574074 Amen.}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384   }{\cs23\b\f1\fs34\insrsid6574074 Bless, (holy master and) holy fathers (mothers) and brethren, (sisters) and forgive me a sinner, all wherein I hav
+e sinned this day in deed, word, and through all my senses. 
+\par }{\cs28\b\i\f1\cf6\insrsid6574074 
+\par And the brethren (sisters) (congregation) reply:}{\cs28\i\f1\fs20\cf6\insrsid6574074 
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par May God forgive and have mercy on thee, holy father.
+\par 
+\par }{\cs28\b\i\f1\cf6\insrsid6574074 And they make a bow (or a prostration, depending on the typicon), asking this forgiveness:}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par Bless me, holy father, and forgive all wherein I have sinned this day in deed, word, and thought, and in all my senses, and pray for me a sinner.
+\par 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs23\b\f1\fs34\insrsid6574074 Through His grace may God forgive and have mercy on us all.}{\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par }{\cs28\b\i\f1\cf6\insrsid6574074 And he saith this Ectenia:}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs23\b\f1\fs34\insrsid6574074 Let us pray for the Orthodox episcopate of the Russian Church; for our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; for our lord the Most Reverend }{
+\cs28\i\f1\cf6\insrsid6574074 (}{\cs28\b\i\f1\cf6\insrsid6574074 Archbishop or Bishop N., whose diocese it is}{\cs28\i\f1\fs20\cf6\insrsid6574074 )}{\cs23\b\f1\fs34\insrsid6574074  and all our brethren in Christ.
+\par }{\cs26\f1\insrsid6574074\charrsid7031384 
+\par }{\cs17\b\i\f1\fs20\cf15\insrsid6574074 CHANTERS:}{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs15\f1\fs36\cf15\insrsid6574074 Lord, have mercy.}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs28\b\i\f1\cf6\insrsid6574074 Quietly, slowly, and repeatedly, until the petitions are finished}{\cs26\f1\insrsid6574074\charrsid7031384  
+\par 
+\par }{\cs23\b\f1\fs34\insrsid6574074 For the suffering Russian land and its Orthodox people both in the homeland and in the diaspora, and for their salvation; for this land, its authorities and armed forces, and for every Christian land}{
+\cs26\f1\insrsid6574074\charrsid7031384 . 
+\par 
+\par }{\cs23\b\f1\fs34\insrsid6574074 For them that hate us and them that love us. 
+\par 
+\par For them that are kind to us and them that serve us. 
+\par 
+\par For them that have asked us unworthy ones to pray for them.
+\par 
+\par For the deliverance of the imprisoned. 
+\par 
+\par For our fathers and brethren that have passed on before us. 
+\par 
+\par For those sailing upon the sea. 
+\par 
+\par For those bedridden in infirmities. 
+\par 
+\par Let us pray for the abundance of the fruits of the earth. 
+\par 
+\par And for every Orthodox Christian soul. 
+\par 
+\par Let us bless pious kings (rulers), Orthodox hierarchs, and the founders of this holy habitation.
+\par 
+\par Our parents, and all that have passed on before us, our fathers, brethren, and the Orthodox here and everywhere laid to rest. 
+\par 
+\par Let us say also for ourselves. 
+\par 
+\par }{\cs17\b\i\f1\fs20\cf15\insrsid6574074 CHANTERS }{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs15\f1\fs36\cf15\insrsid6574074 Lord, have mercy}{\cs26\f1\insrsid6574074\charrsid7031384 . }{\cs28\i\f1\fs20\cf6\insrsid6574074 (Thrice)}{
+\cs26\f1\insrsid6574074\charrsid7031384 
+\par 
+\par }{\cs24\b\i\f1\fs28\insrsid6574074 PRIEST: }{\cs26\f1\insrsid6574074\charrsid7031384 For the sake of the intercessions of Thy most pure Mother of (the patron saint of the temple), and all the saints, O Lord Jesus Christ our God, have mercy on us. 
+\par 
+\par }{\cs17\b\i\f1\fs20\cf15\insrsid6574074 CHANTERS:}{\cs26\f1\insrsid6574074\charrsid7031384  }{\cs15\f1\fs36\cf15\insrsid6574074 Amen. 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0\pararsid13072411 {\cs28\b\i\f1\cf6\insrsid6574074 And we venerate the holy icons and receive a blessing from the Priest: (superior) (bishop).}{\cs28\b\i\f1\cf6\insrsid13072411 
+\par }}

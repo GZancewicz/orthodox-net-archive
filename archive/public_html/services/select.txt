@@ -1,0 +1,89 @@
+TITLE:All Files in services
+DESCRIPTION:All Files in services
+FILE:D:/www/orthodox.net/services/select.html 
+TEMPLATE:D:/www/orthodox.net/services/3rows2cols-floating.html 
+TYPE:HTML
+
+BEGIN:row1
+All Files in D:/www/orthodox.net/services
+
+BEGIN:row2
+ 
+<SCRIPT>
+function load(l)
+{ 
+	var str=l.options[l.selectedIndex].value; 
+	if(str=="") { alert ("This item is just a heading. Please from the list of items below this heading"); } else {location.href=str;} 
+}
+</SCRIPT>
+<CENTER>
+<FORM NAME="services">
+<SELECT NAME="s" SIZE=1 CLASS=sel>
+<OPTION VALUE=""	>Contents of services
+<option value=../services/3-prayers-from-canons.html>Prayers to Our Lord Jesus Christ, the theotokos and the Guardian Angel, from their supplicatory canons
+<option value=../services/3-prayers-from-canons.pdf>Prayers to Our Lord Jesus Christ, the theotokos and the Guardian Angel, from their supplicatory canons - PDF format
+<option value=../services/3-prayers-from-canons.rtf>Prayers to Our Lord Jesus Christ, the theotokos and the Guardian Angel, from their supplicatory canons - RTF format
+<option value=../services/6psalms.html>The Six Psalms, read in matins, with rubrics
+<option value=../services/6psalms.pdf>The Six Psalms, read in matins, with rubrics - PDF format
+<option value=../services/6psalms.rtf>The Six Psalms, read in matins, with rubrics - RTF format
+<option value=../services/canons-for-communion.html>The Canons for Holy Communion
+<option value=../services/canons-for-communion.pdf>The Canons for Holy Communion - PDF format
+<option value=../services/canons-for-communion.rtf>The Canons for Holy Communion - RTF format
+<option value=../services/communion-canons.html>Canons for Holy Communion - From the Russian Orthodox Horologion
+<option value=../services/ectenia-various-needs.html>Prayers for various needs inserted in the Divine Liturgy of St John Chrysostom or St Basil or the Moleben from the Orthodox Sluzebnic 
+<option value=../services/evening-prayers.html>Evening  Prayers (the Prayers before Sleep) for an Orthodox Christian
+<option value=../services/evening-prayers.pdf>Evening  Prayers (the Prayers before Sleep) for an Orthodox Christian - PDF format
+<option value=../services/evening-prayers.rtf>Evening  Prayers (the Prayers before Sleep) for an Orthodox Christian - RTF format
+<option value=../services/great-compline.rtf>No title - .rtf
+<option value=../services/great-doxology.html>Great Doxology - a prayer during matins and Great Compline
+<option value=../services/katavasiae-exaltation.html>Katavasiae for the Exaltation of the Cross
+<option value=../services/katavasiae-exaltation.rtf>Katavasiae for the Exaltation of the Cross - RTF format
+<option value=../services/lectionary-gospels-special.html>Gospel Lectionary for various Saints and occasions
+<option value=../services/liturgy-hymns-slavonic-transliterated.html>Divine Liturgy Hymns in English and Transliterated Slavonic
+<option value=../services/map.html>All Files in services
+<option value=../services/mapindex.html>All Files in services
+<option value=../services/megalynaria-theotokos.html>Megalynaria of the Theotokos - Sung after the Supplicatory Canon to her
+<option value=../services/megalynaria-theotokos.rtf>Megalynaria of the Theotokos - Sung after the Supplicatory Canon to her - RTF format
+<option value=../services/midnight-office-mon-sat.html>The Midnight Office for Weekdays and Saturdays - as found in the Russian Orthodox Horologion
+<option value=../services/midnight-office-mon-sat.pdf>The Midnight Office for Weekdays and Saturdays - as found in the Russian Orthodox Horologion - PDF format
+<option value=../services/midnight-office-mon-sat.rtf>The Midnight Office for Weekdays and Saturdays - as found in the Russian Orthodox Horologion - RTF format
+<option value=../services/moleben.html>The Order of the General Moleben - according to usage in the Russian Orthodox Church
+<option value=../services/morning-prayers.html>Morning Prayers for an Orthodox Christian
+<option value=../services/morning-prayers.pdf>Morning Prayers for an Orthodox Christian - PDF format
+<option value=../services/morning-prayers.rtf>Morning Prayers for an Orthodox Christian - RTF format
+<option value=../services/o-pure-virgin.html>Aghni Parthene - &quot; O Pure Virgin&quot; by St. Nectarios of Aegina - Tone 5
+<option value=../services/our-father.html>Our Father - English and Transliterated Slavonic
+<option value=../services/p.html>THE PROSKOMEDE
+<option value=../services/prayer-behind-the-ambvon.rtf>No title - .rtf
+<option value=../services/prokeimena-daily-vespers.html>Daily Vespers Prokeimena, from the Eastern Orthodox Horologion
+<option value=../services/prokeimena-various.html>Prokeimena for various occasions
+<option value=../services/proskomede.html>Service of preparation before the Divine Liturgy, the Proskomede; the complete text with rubrics for the Priest and Deacon
+<option value=../services/proskomede.pdf>Service of preparation before the Divine Liturgy, the Proskomede; the complete text with rubrics for the Priest and Deacon - PDF format
+<option value=../services/proskomede.rtf>Service of preparation before the Divine Liturgy, the Proskomede; the complete text with rubrics for the Priest and Deacon - RTF format
+<option value=../services/requiem-for-nonorthodox.pdf>No title - .pdf
+<option value=../services/requiem-for-nonorthodox.rtf>No title - .rtf
+<option value=../services/resurrection-troparia-kontakia.html>Resurrection Troparia and Kontakia in the 8 Tones
+<option value=../services/save-o-god.html>Save O God Thy People - a prayer during Litya and matins
+<option value=../services/save-o-god.rtf>Save O God Thy People - a prayer during Litya and matins - RTF format
+<option value=../services/select.html>All Files in services
+<option value=../services/six_psalms.html>The Six Psalms (read at matins)
+<option value=../services/sluzebnic-basil-es.pdf>No title - .pdf
+<option value=../services/sluzebnic-basil-es.rtf>No title - .rtf
+<option value=../services/sluzebnic-basil.html>Divine Liturgy of St. Basil - Sluzebnic for the Priest and Deacon
+<option value=../services/sluzebnic-chrysostom-es.pdf>No title - .pdf
+<option value=../services/sluzebnic-chrysostom-es.rtf>No title - .rtf
+<option value=../services/sluzebnic-chrysostom.html>Sluzebnic - Divine Liturgy of St John Chrysostom
+<option value=../services/sluzebnic-chrysostom.pdf>Sluzebnic - Divine Liturgy of St John Chrysostom - PDF format
+<option value=../services/sluzebnic-chrysostom.rtf>Sluzebnic - Divine Liturgy of St John Chrysostom - RTF format
+<option value=../services/sluzebnic-vespers-lamplighting-prayers.html>Vespers prayers at lamplighting time from the priest's Sluzebnic
+<option value=../services/sluzebnic-vespers-lamplighting-prayers.pdf>Vespers prayers at lamplighting time from the priest's Sluzebnic - PDF format
+<option value=../services/sluzebnic-vespers-lamplighting-prayers.rtf>Vespers prayers at lamplighting time from the priest's Sluzebnic - RTF format
+<option value=../services/sluzebnic-vespers.rtf>No title - .rtf
+<option value=../services/sluzebnic.html>Sluzebnic - Divine Liturgy of St John Chrysostom
+<option value=../services/small-compline.rtf>No title - .rtf
+<option value=../services/small_compline.html>Small Compline
+<option value=../services/symbol-es.html>The Symbol of Faith of Orthodox Christians (Nicene Creed) - English and Slavonic
+<option value=../services/symbol-es.rtf>The Symbol of Faith of Orthodox Christians (Nicene Creed) - English and Slavonic - RTF format
+<option value=../services/thanksgiving_moleben.html>Thanksgiving Moleben
+<option value=../services/vigil-es.rtf>No title - .rtf
+</OPTION><BR><INPUT TYPE="button" VALUE="Show" onClick="load(document.services.s)"></FORM></CENTER>
