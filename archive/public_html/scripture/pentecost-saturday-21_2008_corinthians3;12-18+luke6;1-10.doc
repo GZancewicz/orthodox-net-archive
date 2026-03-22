@@ -1,0 +1,214 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f34\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}Arial Unicode MS;}{\f43\froman\fcharset0\fprq2{\*\panose 02040502050405020303}Georgia;}{\f54\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}@Arial Unicode MS;}
+{\f179\froman\fcharset238\fprq2 Times New Roman CE;}{\f180\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f182\froman\fcharset161\fprq2 Times New Roman Greek;}{\f183\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f184\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f185\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f186\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f187\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f189\fswiss\fcharset238\fprq2 Arial CE;}{\f190\fswiss\fcharset204\fprq2 Arial Cyr;}{\f192\fswiss\fcharset161\fprq2 Arial Greek;}{\f193\fswiss\fcharset162\fprq2 Arial Tur;}{\f194\fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f195\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f196\fswiss\fcharset186\fprq2 Arial Baltic;}{\f197\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f521\fswiss\fcharset0\fprq2 Arial Unicode MS Western;}{\f519\fswiss\fcharset238\fprq2 Arial Unicode MS CE;}
+{\f520\fswiss\fcharset204\fprq2 Arial Unicode MS Cyr;}{\f522\fswiss\fcharset161\fprq2 Arial Unicode MS Greek;}{\f523\fswiss\fcharset162\fprq2 Arial Unicode MS Tur;}{\f524\fswiss\fcharset177\fprq2 Arial Unicode MS (Hebrew);}
+{\f525\fswiss\fcharset178\fprq2 Arial Unicode MS (Arabic);}{\f526\fswiss\fcharset186\fprq2 Arial Unicode MS Baltic;}{\f527\fswiss\fcharset163\fprq2 Arial Unicode MS (Vietnamese);}{\f528\fswiss\fcharset222\fprq2 Arial Unicode MS (Thai);}
+{\f609\froman\fcharset238\fprq2 Georgia CE;}{\f610\froman\fcharset204\fprq2 Georgia Cyr;}{\f612\froman\fcharset161\fprq2 Georgia Greek;}{\f613\froman\fcharset162\fprq2 Georgia Tur;}{\f616\froman\fcharset186\fprq2 Georgia Baltic;}
+{\f721\fswiss\fcharset0\fprq2 @Arial Unicode MS Western;}{\f719\fswiss\fcharset238\fprq2 @Arial Unicode MS CE;}{\f720\fswiss\fcharset204\fprq2 @Arial Unicode MS Cyr;}{\f722\fswiss\fcharset161\fprq2 @Arial Unicode MS Greek;}
+{\f723\fswiss\fcharset162\fprq2 @Arial Unicode MS Tur;}{\f724\fswiss\fcharset177\fprq2 @Arial Unicode MS (Hebrew);}{\f725\fswiss\fcharset178\fprq2 @Arial Unicode MS (Arabic);}{\f726\fswiss\fcharset186\fprq2 @Arial Unicode MS Baltic;}
+{\f727\fswiss\fcharset163\fprq2 @Arial Unicode MS (Vietnamese);}{\f728\fswiss\fcharset222\fprq2 @Arial Unicode MS (Thai);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;
+\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs28\lang1033\langfe255\cgrid\langnp1033\langfenp255 \sbasedon0 \snext16 Heading;}{\s16\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon0 \snext16 
+Body Text;}{\s17\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon16 \snext17 List;}{\s18\ql \li0\ri0\sb120\sa120\nowidctlpar\faauto\rin0\lin0\itap0 
+\i\fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon0 \snext18 \ssemihidden caption;}{\s19\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon0 \snext19 Index;}{\*\cs20 \additive \ul\cf2 \sbasedon10 \styrsid10443738 Hyperlink;}{\s21\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 
+\b\fs32\ul\cf1\lang1033\langfe255\loch\f1\hich\af1\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon16 \snext21 \sautoupd \styrsid10560229 scripture-top-heading;}{\s22\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 
+\scaps\fs28\cf1\lang1033\langfe255\loch\f1\hich\af1\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon16 \snext22 \sautoupd \styrsid10560229 scripture-subheading;}{\s23\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 
+\b\f1\fs20\ul\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon24 \snext23 \sautoupd \slink27 \styrsid9181170 scripture-reference;}{\s24\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 
+\f1\fs28\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext24 \sautoupd \slink26 \styrsid9181170 scripture-text;}{\*\cs25 \additive \fs16\cf1\lang0\langfe1033\loch\f1\hich\af1\dbch\af0\langnp0\langfenp1033 \sbasedon10 \styrsid9181170 
+scripture-verse;}{\*\cs26 \additive \f1\fs24\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \sbasedon10 \slink24 \slocked \styrsid9181170 scripture-text Char;}{\*\cs27 \additive \b\f1\fs24\ul\cf1\lang1033\langfe1033\langnp1033\langfenp1033 
+\sbasedon10 \slink23 \slocked \styrsid9181170 scripture-reference Char;}{\s28\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs28\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext28 \sautoupd \styrsid10560229 scripture-commentary;}{
+\s29\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \b\f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon24 \snext29 \sautoupd \slink30 \styrsid13181473 Style scripture-text +;}{\*\cs30 \additive 
+\b\f1\fs28\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \sbasedon26 \slink29 \slocked \styrsid13181473 Style scripture-text + Char;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\rsidtbl \rsid328827\rsid1190938\rsid1391085\rsid2191493\rsid2623661
+\rsid2765149\rsid2974322\rsid3015488\rsid3086372\rsid3309113\rsid4284327\rsid4664431\rsid5406713\rsid5855982\rsid5863652\rsid6566075\rsid6777376\rsid8861332\rsid9115277\rsid9181170\rsid10042312\rsid10044948\rsid10236559\rsid10443738\rsid10560229
+\rsid10751394\rsid11563469\rsid12017037\rsid12073357\rsid12255915\rsid12398050\rsid12517813\rsid13181473\rsid13247115\rsid14506179\rsid15295071\rsid16088504\rsid16281657}{\*\generator Microsoft Word 11.0.5604;}{\info
+{\title 20th Week After Pentecost \'96 Thursday }{\author User}{\operator User}{\creatim\yr2008\mo11\dy8\hr9\min48}{\revtim\yr2008\mo11\dy8\hr12\min39}{\version9}{\edmins110}{\nofpages4}{\nofwords1195}{\nofchars6815}{\nofcharsws7995}{\vern24689}}
+\margl1134\margr1134\margt1134\margb1134 \deftab709\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot10560229 \fet0{\*\template C:\\Documents and Settings\\User\\Application Data\\Microsoft\\Templates\\scripture-commentary-2.dot}\sectd \sbknone\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \s21\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10560229 
+\b\fs32\ul\cf1\lang1033\langfe255\loch\af1\hich\af1\dbch\af34\cgrid\langnp1033\langfenp255 {\insrsid12017037 \hich\af1\dbch\af34\loch\f1 21}{\super\insrsid12017037\charrsid12017037 \hich\af1\dbch\af34\loch\f1 st}{\insrsid12017037 
+\hich\af1\dbch\af34\loch\f1  }{\insrsid1190938\charrsid10560229 \~}{\insrsid1190938\charrsid10560229 \hich\af1\dbch\af34\loch\f1 Week After Pentecost \hich\f1 \endash \loch\f1  }{\insrsid12017037 \hich\af1\dbch\af34\loch\f1 Saturday}{
+\insrsid1190938\charrsid10560229 \hich\af1\dbch\af34\loch\f1  
+\par }\pard\plain \s22\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10560229 \scaps\fs28\cf1\lang1033\langfe255\loch\af1\hich\af1\dbch\af34\cgrid\langnp1033\langfenp255 {\insrsid2974322\charrsid10560229 \hich\af1\dbch\af34\loch\f1 T}{
+\insrsid1190938\charrsid10560229 \hich\af1\dbch\af34\loch\f1 oday\hich\f1 \rquote \loch\f1 s readings, followed by a few pastoral }{\insrsid9181170\charrsid10560229 \hich\af1\dbch\af34\loch\f1 &}{\insrsid1190938\charrsid10560229 
+\hich\af1\dbch\af34\loch\f1  personal thoughts. 
+\par }\pard\plain \s16\qj \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\b\i\scaps\fs28\cgrid0\insrsid1190938\charrsid1190938 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10560229 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 
+\hich\af1\dbch\af34\loch\f1 2 Corinthians 3:12-18}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10560229  }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+Seeing then that we have such hope, we use great plainness of speech: }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 13}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  And not as Moses, which put a }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 \hich\af1\dbch\af34\loch\f1 veil}
+{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  over his face, that the children of Israel could not stedfastly look to the end of that which is abolish\hich\af1\dbch\af34\loch\f1 ed: }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 14}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ But their minds were blinded: for until this day remaineth the same }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 \hich\af1\dbch\af34\loch\f1 veil}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  untaken away in the reading of the old testament; which }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 
+\hich\af1\dbch\af34\loch\f1 veil}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  is done away in Christ. }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 
+\hich\af1\dbch\af34\loch\f1 15}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  But even unto this day, when Moses is read, the }{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 \hich\af1\dbch\af34\loch\f1 veil}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  is upon their heart. }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 16}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  Nevertheles
+\hich\af1\dbch\af34\loch\f1 s when it shall turn to the Lord, the }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 \hich\af1\dbch\af34\loch\f1 veil}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  shall be taken away. }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 17}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty. }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 18}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same im\hich\af1\dbch\af34\loch\f1 age from glory to glory, even as by the Spirit of the Lord}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10560229 .
+
+\par 
+\par }{\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 Luke 6:1-10}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10560229  }{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands. }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 2}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days? }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 3}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him; }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 4}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  How
+\hich\af1\dbch\af34\loch\f1  he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone? }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 5}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ And he said unto them, That the Son of man is Lord also of the sabbath. }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 6}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  And it came t\hich\af1\dbch\af34\loch\f1 
+o pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered. }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 7}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  And the scribes and Pharisees watched him, whet\hich\af1\dbch\af34\loch\f1 
+her he would heal on the sabbath day; that they might find an accusation against him. }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 8}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth. }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 
+\hich\af1\dbch\af34\loch\f1 9}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  Then said Jesus unto\hich\af1\dbch\af34\loch\f1 
+ them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it? }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid10560229 \hich\af1\dbch\af34\loch\f1 10}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10560229\charrsid13181473 \hich\af1\dbch\af34\loch\f1  And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored wh
+\hich\af1\dbch\af34\loch\f1 ole as the other}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10560229 .
+\par }\pard \qj \li0\ri0\widctlpar\brdrb\brdrs\brdrw15\brsp20 \faauto\rin0\lin0\itap0\pararsid2974322 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10044948 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2974322 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid1391085 
+\par }{\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid10560229 \hich\af1\dbch\af34\loch\f1 2 Corinthians 3:12-}{\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085 \hich\af1\dbch\af34\loch\f1 14}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid1391085  }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid13181473 \hich\af1\dbch\af34\loch\f1 Seeing then that we have such hope, we use great plainness of speech: }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid10560229 \hich\af1\dbch\af34\loch\f1 13}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid13181473 \hich\af1\dbch\af34\loch\f1  And not as Moses, which put a }
+{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 \hich\af1\dbch\af34\loch\f1 veil}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ over his face, that the children of Israel could not stedfastly look to the end of that which is abolish\hich\af1\dbch\af34\loch\f1 ed: }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid10560229 \hich\af1\dbch\af34\loch\f1 14}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid13181473 \hich\af1\dbch\af34\loch\f1  But their minds were blinded: for until this day remaineth the same }{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 \hich\af1\dbch\af34\loch\f1 veil}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ untaken away in the reading of the old testament; which }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2191493\charrsid13181473 \hich\af1\dbch\af34\loch\f1 veil}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid1391085\charrsid13181473 
+\hich\af1\dbch\af34\loch\f1  is done away in Christ.}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid1391085 
+\par }\pard\plain \s28\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10560229 \fs28\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid1391085 
+\par The Apostle\rquote s plain speech makes it very clear that the OT taught the same principles as the New, but not understood as such because \'93their minds were blinded\'94. With the coming of Christ, of whom we read yesterday: \'93}{\insrsid1391085 
+are hid all the treasures of wisdom and knowledge}{\insrsid1391085 \'94 }{\cs25\f1\fs16\lang0\langfe1033\langnp0\insrsid1391085\charrsid1391085 (Col 2:3)}{\insrsid1391085 , the }{\insrsid2191493 veil}{\insrsid1391085  was lifted. 
+\par 
+\par One should rightly ask: if the message was the same from Old to New, how did the coming of Christ bring about more understanding? As always, the answer concerns morality. The God-man came to teach us
+ and enable us to become moral. As a man becomes good, the \'93}{\insrsid2191493 veil}{\insrsid1391085 \'94 is progressively lifted from his eyes.
+\par 
+\par }{\cs27\b\f1\fs24\ul\insrsid3015488\charrsid3015488 2 Corithinans}{\cs27\b\f1\fs24\ul\insrsid10236559  }{\cs27\b\f1\fs24\ul\insrsid3015488\charrsid3015488 3:17-18}{\cs27\b\f1\fs24\ul\insrsid1391085\charrsid3015488  }{
+\cs25\fs16\loch\af1\hich\af1\dbch\af34\insrsid3015488\charrsid10560229 \hich\af1\dbch\af34\loch\f1 17}{\cs30\b\f1\fs24\insrsid3015488\charrsid13181473  Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty. }{
+\cs25\fs16\loch\af1\hich\af1\dbch\af34\insrsid3015488\charrsid10560229 \hich\af1\dbch\af34\loch\f1 18}{\cs30\b\f1\fs24\insrsid3015488\charrsid13181473  But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same im
+age from glory to glory, even as by the Spirit of the Lord}{\insrsid10044948\charrsid10560229 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2974322 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid5855982 
+\par }{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827 This liberty which the Apostle speaks of was promised by the Son}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827 : }{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827\charrsid12517813 If the Son therefore shall make you free, ye shall be free indeed!}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827  }{
+\cs25\fs16\cf1\lang0\langfe1033\loch\af1\hich\af1\dbch\af0\langnp0\langfenp1033\insrsid328827\charrsid12517813 (John 8:36)}{\cs25\f1\fs16\cf1\lang0\langfe1033\langnp0\langfenp1033\insrsid328827 \hich\af1\dbch\af34\loch\f1  }{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827  Just before }{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827 this}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827 
+, our Lord told us that \'93}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827 Whosoever committeth sin is the servant of sin}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827 \'94 }{
+\cs25\fs16\cf1\lang0\langfe1033\loch\af1\hich\af1\dbch\af0\langnp0\langfenp1033\insrsid12517813\charrsid328827 (John 8:34).}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827  The word servant may also be rendered \'93
+slave\'94 (it is the Greek word }{\fs28\cf1\lang1033\langfe1033\loch\af182\hich\af182\dbch\af0\langfenp1033\insrsid12517813\charrsid328827 \'e4\'ef\'f5\'eb\'ef\'f2}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827  }{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827\charrsid328827 ,}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12517813\charrsid328827  \'93doulos\'94).
+ The Spirit of the Lord, when He dwells in a man, brings about liberty, that is, the freedom to choose morally and correctly.  
+\par }{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827\charrsid328827 
+\par This promise is the core of the \'93Good News\'94. Through Christ, and with much labor, we will become able to be truly, in every way free. 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid328827 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827\charrsid328827 However, this freedom does not come all at once. The Apostle also said: \'93}{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827\charrsid328827 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.}{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827\charrsid328827 \'93}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827  }{\fs22\lang1033\langfe1033\loch\af43\hich\af43\dbch\af0\langfenp1033\insrsid328827  }{
+\cs25\fs16\cf1\lang0\langfe1033\loch\af1\hich\af1\dbch\af0\langnp0\langfenp1033\insrsid328827\charrsid328827 (1 Cor 3:12)}{\fs22\lang1033\langfe1033\loch\af43\hich\af43\dbch\af0\langfenp1033\insrsid328827 
+\par }\pard \qj \li0\ri0\widctlpar\brdrb\brdrs\brdrw15\brsp20 \faauto\rin0\lin0\itap0\pararsid2974322 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid328827 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2974322 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid5855982 
+\par }{\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid10236559\charrsid10560229 \hich\af1\dbch\af34\loch\f1 Luke 6:1}{\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid10236559 \hich\af1\dbch\af34\loch\f1 -2}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10236559  }{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10236559\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands. }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid10236559\charrsid10560229 \hich\af1\dbch\af34\loch\f1 2}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid10236559\charrsid13181473 \hich\af1\dbch\af34\loch\f1 
+ And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
+\par }{\cs26\f1\fs28\cf1\lang1033\langfe1033\langfenp1033\insrsid10236559 
+\par \hich\af1\dbch\af34\loch\f1 The day being described is Saturday, which was always a Sabbath day in the Jewish calendar. It is the \loch\af1\dbch\af34\hich\f1 \'93\hich\af1\dbch\af34\loch\f1 second after the first\loch\af1\dbch\af34\hich\f1 \'94
+\hich\af1\dbch\af34\loch\f1 , because \loch\af1\dbch\af34\hich\f1 \'93\hich\af1\dbch\af34\loch\f1 Sabbath\loch\af1\dbch\af34\hich\f1 \'94\hich\af1\dbch\af34\loch\f1 
+ also means rest, and was a generic term for any Feast day. If a feast fell on a Friday, Saturday would \hich\af1\dbch\af34\loch\f1 therefore\hich\af1\dbch\af34\loch\f1  \hich\af1\dbch\af34\loch\f1 be the \loch\af1\dbch\af34\hich\f1 \'93
+\hich\af1\dbch\af34\loch\f1 second sabbath after the first\loch\af1\dbch\af34\hich\f1 \'94\hich\af1\dbch\af34\loch\f1 . 
+\par \hich\af1\dbch\af34\loch\f1 The Pharisees were \hich\af1\dbch\af34\loch\f1 complaining\hich\af1\dbch\af34\loch\f1  because work\hich\af1\dbch\af34\loch\f1  was forbidden on the Sabbath\hich\af1\dbch\af34\loch\f1 , and they interpreted the 
+\hich\af1\dbch\af34\loch\f1 disciples\hich\af1\dbch\af34\loch\f1  \hich\af1\dbch\af34\loch\f1 glea\hich\af1\dbch\af34\loch\f1 n\hich\af1\dbch\af34\loch\f1 ing of grain\hich\af1\dbch\af34\loch\f1  as \loch\af1\dbch\af34\hich\f1 \'93
+\hich\af1\dbch\af34\loch\f1 work\loch\af1\dbch\af34\hich\f1 \'94\hich\af1\dbch\af34\loch\f1 .
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10236559 
+\par }{\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid2765149\charrsid10560229 \hich\af1\dbch\af34\loch\f1 Luke 6:}{\cs27\b\f1\ul\cf1\lang1033\langfe1033\langfenp1033\insrsid2765149 \hich\af1\dbch\af34\loch\f1 3-4}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149   }{\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid2765149\charrsid10560229 \hich\af1\dbch\af34\loch\f1 3}{
+\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2765149\charrsid13181473 \hich\af1\dbch\af34\loch\f1  And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him; }{
+\cs25\f1\fs16\cf1\lang1033\langfe1033\langfenp1033\insrsid2765149\charrsid10560229 \hich\af1\dbch\af34\loch\f1 4}{\cs30\b\f1\cf1\lang1033\langfe1033\langfenp1033\insrsid2765149\charrsid13181473 \hich\af1\dbch\af34\loch\f1  How\hich\af1\dbch\af34\loch\f1 
+ he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone? 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2765149 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149\charrsid2765149 The \'93shewbread\'94 was bread made of the finest flour, and placed o}{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 n the holy table in the temple: 
+\par }\pard \qj \li720\ri720\widctlpar\faauto\rin720\lin720\itap0\pararsid3309113 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 \'93}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid3309113 
+And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.  }{\cs25\f1\fs16\cf1\lang0\langfe1033\langnp0\langfenp1033\insrsid3309113\charrsid3309113 \hich\af1\dbch\af34\loch\f1 (6)}{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid3309113   And thou shalt set them in two rows, six on a row, upon the pure table before the LORD.}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 \'94 }{
+\cs25\f1\fs16\cf1\lang0\langfe1033\langnp0\langfenp1033\insrsid3309113\charrsid3309113 \hich\af1\dbch\af34\loch\f1 (\hich\af1\dbch\af34\loch\f1 Lev 24:5-6\hich\af1\dbch\af34\loch\f1 )}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113  
+
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid3309113 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 This bread was renewed every Sabbath, and the old bread was eaten by the priests only. }{
+\cs25\f1\fs16\cf1\lang0\langfe1033\langnp0\langfenp1033\insrsid3309113\charrsid3309113 \hich\af1\dbch\af34\loch\f1 (Lev 24:5-9).}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113  }{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2765149 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid3309113 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 The incident our Lord refers to is this: 
+\par 
+\par }\pard \qj \li720\ri720\widctlpar\faauto\rin720\lin720\itap0\pararsid3309113 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 \'93}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid3309113 
+Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.  }{\cs25\fs16\cf1\lang0\langfe1033\loch\af1\hich\af1\dbch\af0\langnp0\langfenp1033\insrsid3309113\charrsid3309113 (4)}{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid3309113   And the priest answered David, and said, There is
+ no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.  }{\cs25\fs16\cf1\lang0\langfe1033\loch\af1\hich\af1\dbch\af0\langnp0\langfenp1033\insrsid3309113\charrsid3309113 (5)}{
+\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid3309113   And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came o
+ut, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.  }{\cs25\fs16\cf1\lang0\langfe1033\loch\af1\hich\af1\dbch\af0\langnp0\langfenp1033\insrsid3309113\charrsid3309113 (6
+)  }{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid3309113 So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from befo
+re the LORD, to put hot bread in the day when it was taken away.}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113 \'94 }{\cs25\fs16\cf1\lang0\langfe1033\loch\af1\hich\af1\dbch\af0\langnp0\langfenp1033\insrsid3309113\charrsid3309113 (
+1Sa 21:3-6)}{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid2765149 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2765149 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149\charrsid2765149 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid12073357 {\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3309113\charrsid12073357 Of course, as bread on an altar, the showbread was a type of Christ, and pointed to the Eucharist. }
+{\fs28\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149\charrsid12073357 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2974322 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12073357 
+\par 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2765149\charrsid5855982 
+\par }\pard\plain \s23\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid9181170 \b\f1\fs20\ul\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid5855982 Bibliography}{\insrsid10044948\charrsid5855982 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2974322 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10044948 
+The Explanation of the Holy Gospel according to St Luke, by Blessed Theophylact, published by }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8861332 Chrysostom Press - }{\field{\*\fldinst {
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8861332  HYPERLINK "http://www.chrysostompress.org/" }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid2623661\charrsid8861332 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5800000068007400740070003a002f002f007700770077002e00630068007200790073006f00730074006f006d00700072006500730073002e006f00720067002f000000795881f43b1d7f48af2c825dc48527630000
+0000a5ab000000}}}{\fldrslt {\cs20\ul\cf2\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8861332\charrsid8861332 http://www.chrysostompress.org/}}}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid5855982 . ALL FOUR BOOKS ARE HIGHLY RECOMMENDED!}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid10044948 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid5855982\charrsid8861332 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\nowidctlpar\brdrb\brdrs\brdrw15\brsp20 \faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\fs20\insrsid9115277 
+\par }\pard \s16\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11563469 {\fs16\insrsid11563469\charrsid9181170 \hich\af0\dbch\af34\loch\f0 Priest Seraphim Oct }{\fs16\insrsid12517813 \hich\af0\dbch\af34\loch\f0 2\hich\af0\dbch\af34\loch\f0 6}{
+\fs16\insrsid11563469\charrsid9181170 \hich\af0\dbch\af34\loch\f0 /}{\fs16\insrsid12517813 \hich\af0\dbch\af34\loch\f0 Nov 8}{\fs16\insrsid11563469\charrsid9181170 \hich\af0\dbch\af34\loch\f0  2008.                                                  }{
+\fs16\insrsid9181170 \hich\af0\dbch\af34\loch\f0                                             }{\field\fldedit{\*\fldinst {\fs16\insrsid11563469\charrsid9181170 \hich\af0\dbch\af34\loch\f0  HYPERLINK "https://www.orthodox.net//" }{
+\fs16\insrsid2623661\charrsid9181170 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {
+\cs20\fs16\ul\cf2\insrsid11563469\charrsid9181170 \hich\af0\dbch\af34\loch\f0 St Nicholas Russian Orthodox Church, McKinney, Texas}}}{\fs16\insrsid11563469\charrsid9181170 \hich\af0\dbch\af34\loch\f0  
+\par }\pard \s16\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid9181170 {\fs16\insrsid11563469\charrsid9181170 \hich\af0\dbch\af34\loch\f0 http://www\hich\af0\dbch\af34\loch\f0 .orthodox.net/scripture/}{\fs16\insrsid10560229\charrsid10560229 
+\hich\af0\dbch\af34\loch\f0 21st-week-after-pentecost_saturday_corinthians3;12-18+luke6;1-10}{\fs16\insrsid10560229 \hich\af0\dbch\af34\loch\f0 .rtf}{\fs16\insrsid11563469\charrsid10560229 
+\par }\pard \s16\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10560229 {\fs16\insrsid10560229\charrsid9181170 \hich\af0\dbch\af34\loch\f0 https://www.orthodox.net//scripture/}{\fs16\insrsid10560229\charrsid10560229 \hich\af0\dbch\af34\loch\f0 
+21st-week-after-pentecost_saturday_corinthians3;12-18+luke6;1-10}{\fs16\insrsid10560229 \hich\af0\dbch\af34\loch\f0 .pdf}{\fs16\insrsid10560229\charrsid10560229 
+\par }\pard \s16\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11563469 {\b\insrsid9181170 
+\par }{\b\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 New commentaries}{\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0  are posted on our }{\b\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 BLOG}{
+\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 : }{\field\flddirty{\*\fldinst {\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0  HYPERLINK "http:/\hich\af0\dbch\af34\loch\f0 /www/.orthodox.net/redeemingthetime" }{
+\insrsid2623661\charrsid1190938 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000002a00000068007400740070003a002f002f007700770077002f002e006f007200740068006f0064006f0078002e006e00650074002f00720065006400650065006d0069006e006700740068006500740069006d0065000000e0c9ea79f9bace118c8200aa004b
+a90b6c00000068007400740070003a002f002f007700770077002f002e006f007200740068006f0064006f0078002e006e00650074002f00720065006400650065006d0069006e006700740068006500740069006d0065000000795881f43b1d7f48af2c825dc485276300000000a5ab0000000000}}}{\fldrslt {
+\cs20\ul\cf2\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 http://www/.orthodox.net/redeemingthetime}}}{\insrsid11563469 
+\par }\pard \s16\qj \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11563469 {\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 Archive of: }{\b\fs20\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 commentaries}{\insrsid11563469 
+\hich\af0\dbch\af34\loch\f0 : }{\field\flddirty{\*\fldinst {\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0  HYPERLINK "}{\fs20\insrsid11563469\charrsid2974322 \hich\af0\dbch\af34\loch\f0 http:}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 
+//www.orthodox.net/scripture" }{\fs20\insrsid2623661\charrsid4284327 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000002200000068007400740070003a002f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f007300630072006900700074007500720065000000e0c9ea79f9bace118c8200aa004ba90b5c00000068007400740070003a00
+2f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f007300630072006900700074007500720065000000795881f43b1d7f48af2c825dc485276300000000a5ab00000000}}}{\fldrslt {\cs20\fs20\ul\cf2\insrsid11563469\charrsid4284327 
+\hich\af0\dbch\af34\loch\f0 https://www.orthodox.net//scripture}}}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0   }{\fs20\insrsid9181170 
+\par \hich\af0\dbch\af34\loch\f0 Archive of }{\b\fs20\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 homilies}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 : }{\field\flddirty{\*\fldinst {\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 
+ HYPERLINK "https://www.orthodox.net//se\hich\af0\dbch\af34\loch\f0 rmons" }{\fs20\insrsid2623661\charrsid5855982 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5800000068007400740070003a002f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f007300650072006d006f006e0073000000795881f43b1d7f48af2c825dc48527630000
+0000a5ab00000000}}}{\fldrslt {\cs20\fs20\ul\cf2\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 https://www.orthodox.net//sermons}}}{\fs20\insrsid11563469 
+\par }{\b\fs20\insrsid9181170 
+\par }{\b\fs20\insrsid11563469\charrsid13247115 \hich\af0\dbch\af34\loch\f0 Use this for any edifying reason, but please give credit, and include the URL were the text was found. We would love to hear from you with comments! 
+\par }\pard \s16\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 {\fs28\insrsid1190938\charrsid1190938 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\fs28\insrsid1190938\charrsid1190938 
+\par }}

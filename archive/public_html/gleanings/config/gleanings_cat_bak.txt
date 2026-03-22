@@ -1,0 +1,675 @@
+CAT:1cor10,24|1 Corinthians 10:24|SUB:scripture
+CAT:1cor12,18-20|1 Corinthians 12:18 20|SUB:scripture
+CAT:1cor12,27|1 Corinthians 12:27|SUB:scripture
+CAT:1cor13-6|1corinthians13-6|SUB:scripture
+CAT:1cor15|1 Corinthians 15|SUB:scripture
+CAT:1cor4-20|1 Corinthians 04:20|SUB:scripture
+CAT:1cor5-2|1 Corinthians 5:2|SUB:scripture
+CAT:1john5-16|1john5-16|SUB:misc
+CAT:1samuel2-10|1samuel2-10|SUB:misc
+CAT:1thess5,23|1 Thessalonians 05:23|SUB:scripture
+CAT:1tim4-6|1timothy4-6|SUB:scripture
+CAT:2cor12-10|2 Corinthians 12:10|SUB:scripture
+CAT:2cor2,14-16|2 Corinthians 02:14 16|SUB:scripture
+CAT:2cor5,17|2 Corinthians 05:17|SUB:scripture
+CAT:2john|2 John|SUB:scripture
+CAT:2kings5-14|2 Kings 5:14|SUB:scripture
+CAT:2kings5-8-16|2 Kings 5:8-16|SUB:scripture
+CAT:abortion|Abortion|SUB:theology|SUB:passions
+CAT:abraham|Holy Prophet Abraham|SUB:saints
+CAT:abstinence|Abstinence|SUB:virtues
+CAT:accidie|Accidie|SUB:passions
+CAT:accusations|Accusations|SUB:passions
+CAT:acts17,28|Acts17:28|SUB:scripture
+CAT:acts9,8-9|Acts 09:08-09|SUB:scripture
+CAT:adam|Holy Forefather Adam|SUB:saints
+CAT:advice|Advice|SUB:misc
+CAT:afflictions|Afflictions|SUB:passions
+CAT:afterlife|Afterlife|SUB:theology
+CAT:almsgiving|Almsgiving|SUB:virtues
+CAT:ammon|Holy Abba Ammon|SUB:saints
+CAT:ammonas-abba|Holy Abba Ammonas|SUB:saints
+CAT:anathema|Anathema|SUB:theology
+CAT:angels|Angels|SUB:saints
+CAT:anger|Anger|SUB:passions
+CAT:animals|Animals|SUB:misc
+CAT:annunciation|The Annunciation|SUB:churchyear
+CAT:anthony-abba|Anthony-abba|SUB:saints
+CAT:anthony-the-great|Holy Abba Anthony The Great|SUB:saints
+CAT:antichrist|Antichrist|SUB:theology
+CAT:anxiety|Anxiety|SUB:passions
+CAT:apostasy|Apostasy|SUB:passions|SUB:theology
+CAT:apostles|The Holy Apostles|SUB:saints
+CAT:aquisitiveness|Acquisitiveness|SUB:passions
+CAT:arrogance|Arrogance|SUB:passions
+CAT:arsenius|Holy Abba Arsenius|SUB:saints
+CAT:ascension|The Ascension Of Jesus Christ|SUB:churchyear
+CAT:ascesis|Ascesis|SUB:virtues
+CAT:asceticism|Asceticism|SUB:virtues
+CAT:asking-forgiveness|Asking-forgiveness|SUB:virtues
+CAT:asking-in-prayer|Asking in prayer|SUB:prayer
+CAT:atonement|The Atonement|SUB:theology
+CAT:attachment|Attachment|SUB:passions
+CAT:attention|Attention|SUB:virtues|SUB:virtues
+CAT:augustine-the-russian|Holy Augustine The Russian|SUB:saints
+CAT:authority|Authority|SUB:misc
+CAT:avarice|Avarice|SUB:passions
+CAT:bad-habits|Bad Habits|SUB:passions
+CAT:bad-thoughts|Bad Thoughts|SUB:passions
+CAT:baptism|Baptism|SUB:theology|SUB:sacraments
+CAT:baptism-canons|Baptism-canons|SUB:theology
+CAT:basil-of-ancyra|Holy Basil Of Ancyra|SUB:saints
+CAT:bearing-the-cross|Bearing The Cross|SUB:virtues
+CAT:beatitudes|The Beatitudes|SUB:virtues
+CAT:beauty|Beauty|SUB:misc
+CAT:beheading-of-john-the-baptist|Beheading Of St John The Baptist|SUB:churchyear
+CAT:bessarion-abba|Bessarion-abba|SUB:saints
+CAT:bishop|Bishop|SUB:theology
+CAT:bishops|Bishops|SUB:theology
+CAT:bitterness|Bitterness|SUB:passions
+CAT:blasphemy|Blasphemy|SUB:passions
+CAT:bodily-suffering|Bodily-suffering|SUB:passions
+CAT:body|Body|SUB:theology
+CAT:bridegroom-services|Holy Week - The Bridegroom Services|SUB:churchyear
+CAT:bright-friday|Bright Week - Bright Friday|SUB:churchyear
+CAT:candles|Candles|SUB:misc
+CAT:canons|Canons|SUB:theology
+CAT:canons-baptism|Canons-baptism|SUB:theology
+CAT:catholic|Catholic|SUB:theology
+CAT:cenobitic-life|Monasticism - The Cenobitic Life|SUB:monasticism
+CAT:change|Change|SUB:misc
+CAT:chastity|Chastity|SUB:virtues
+CAT:children|Children|SUB:familylife
+CAT:chiliasm|Chiliasm|SUB:theology
+CAT:christianity|Christianity|SUB:theology
+CAT:christians|Christians|SUB:theology
+CAT:church|The Church|SUB:theology
+CAT:church-attendance|Church Attendance|SUB:prayer
+CAT:clothing|Clothing|SUB:misc
+CAT:colossians1,9|Colossians 01:09|SUB:scripture
+CAT:commandments|The Commandments|SUB:virtues:SUB:theology
+CAT:commemoration-of-saints|Commemoration of Saints|SUB:saints
+CAT:compassion|Compassion|SUB:virtues
+CAT:compunction|Compunction|SUB:virtues
+CAT:conceit|Conceit|SUB:passions
+CAT:confession|Confession|SUB:theology|SUB:sacraments
+CAT:conscience|Conscience|SUB:virtues
+CAT:contemplation|Contemplation|SUB:virtues
+CAT:continence|Continence|SUB:virtues
+CAT:contrition|Contrition|SUB:virtues
+CAT:conversation|Conversation|SUB:passions
+CAT:correcting-others|Correcting Others|SUB:passions
+CAT:councils|Councils|SUB:theology
+CAT:counsel|Counsel|SUB:misc
+CAT:courage|Courage|SUB:virtues
+CAT:cowardice|Cowardice|SUB:passions
+CAT:creation|Creation|SUB:theology
+CAT:cronius|Holy Abba Cronius|SUB:saints
+CAT:cross|The Cross|SUB:theology
+CAT:crucifixion|The Crucifixion|SUB:theology
+CAT:curiosity|Curiosity|SUB:passions
+CAT:death|Death|SUB:misc|SUB:theology
+CAT:death-of-saints|The Death Of Saints|SUB:saints
+CAT:demons|Demons|SUB:theology
+CAT:depression|Depression|SUB:passions
+CAT:desert-fathers|The Desert Fathers|SUB:saints
+CAT:desire|Desire|SUB:passions
+CAT:despair|Despair|SUB:passions
+CAT:despondency|Despondency|SUB:passions
+CAT:detachment|Detachment|SUB:virtues
+CAT:deut32,7|Deuteronomy 32:07|SUB:scripture
+CAT:deut6|Deuteronomy 06|SUB:scripture
+CAT:discernment|Discernment|SUB:virtues
+CAT:discretion|Discretion|SUB:virtues
+CAT:discrimination|Discrimination|SUB:virtues
+CAT:dishonor|Dishonor|SUB:passions
+CAT:dishonour|Dishonour|SUB:passions|CAT:virtues
+CAT:dispassion|Dispassion|SUB:virtues
+CAT:distractions|Distractions|SUB:passions
+CAT:divine-liturgy|The Divine Liturgy|SUB:theology
+CAT:dogma|Dogma|SUB:theology
+CAT:dogs|Dogs|SUB:misc
+CAT:dorcas|Holy Dorcas|SUB:saints
+CAT:dormition|Dormition of the Holy Theotokos|SUB:churchyear
+CAT:double-mindedness|Double Mindedness|SUB:passions
+CAT:doubts|Doubts|SUB:passions
+CAT:dreams|Dreams|SUB:passions|SUB:dailylife
+CAT:dryness|Dryness|SUB:passions
+CAT:eating|Eating|SUB:passions
+CAT:eccles2|Eccles 02|SUB:scripture
+CAT:ecumenical-dialogue|Ecumenical-dialogue|SUB:theology
+CAT:ecumenism|Ecumenism|SUB:passions
+CAT:elijah|Elijah|SUB:saints
+CAT:elisha|Elisha|SUB:saints
+CAT:empathy|Empathy|SUB:virtues
+CAT:end-times|End-times|SUB:theology
+CAT:endurance|Endurance|SUB:virtues
+CAT:entertainment|Entertainment|SUB:misc:SUB:passions
+CAT:entrance-of-the-theotokos|Entrance Of The Holy Theotokos|SUB:churchyear
+CAT:envy|Envy|SUB:passions
+CAT:ephesians5-16|Ephesians 5:16|SUB:scripture
+CAT:eternal-life|Eternal Life|SUB:theology
+CAT:eternal-security|Eternal Security|SUB:theology
+CAT:evagrius|Evagrius|SUB:saints
+CAT:evangelism|Evangelism|SUB:misc
+CAT:evening|Evening|SUB:misc
+CAT:evening-prayer|Evening-prayer|SUB:misc
+CAT:evergertinos|From the evergertinos|SUB:misc
+CAT:evil|Evil|SUB:passions
+CAT:evil-thoughts|Evil Thoughts|SUB:passions
+CAT:exhortations|Exhortations|SUB:dailylife
+CAT:exile|Exile|SUB:virtues
+CAT:exodus3-5|Exodus 3:5|SUB:scripture
+CAT:exorcism|Exorcism|SUB:theology
+CAT:ezekiel3-14|Ezekie l3:14|SUB:scripture
+CAT:ezekiel40-6|Ezekiel 40:6|SUB:scripture
+CAT:faintheartedness|Faintheartedness|SUB:passions
+CAT:faith|Faith|SUB:virtues
+CAT:fall|Fall|SUB:misc
+CAT:false-accusation|False Accusation|SUB:passions
+CAT:fantasy|Fantasy|SUB:passions
+CAT:fasting|Fasting|SUB:passions|CAT:dailylife
+CAT:fear|Fear|SUB:passions
+CAT:fear-of-god|The Fear Of God|SUB:virtues
+CAT:flattery|Flattery|SUB:passions
+CAT:flesh|Flesh|SUB:misc:SUB:passions
+CAT:food|Food|SUB:passions
+CAT:forgetfulness|Forgetfulness|SUB:passions
+CAT:forgiveness|Forgiveness|SUB:virtues
+CAT:forgiving-others|Forgiveness-of-others|SUB:virtues
+CAT:fornication|Fornication|SUB:passions
+CAT:free-will|Free Will|SUB:theology
+CAT:freedom-from-anger|Freedom from anger|SUB:virtues
+CAT:friendship|Friendship|SUB:virtues
+CAT:from the desert fathers|From the desert fathers|SUB:saints
+CAT:galations6,17|Galations 06:17|SUB:scripture
+CAT:from the evergertinos|From the evergertinos|SUB:misc
+CAT:gelasius|Holy Gelasius|SUB:saints
+CAT:generosity|Generosity|SUB:virtues
+CAT:genesis24,17|Genesis 24:17|SUB:scripture
+CAT:genesis39-21|Genesis 39:21|SUB:scripture
+CAT:genesis6,9|Genesis 06:09|SUB:scripture
+CAT:giving-advice|Giving Advice|SUB:misc|SUB:dailylife
+CAT:glossolia|Glossolia|SUB:theology
+CAT:gluttony|Gluttony|SUB:passions
+CAT:god|God|SUB:theology
+CAT:good|Good|SUB:virtues
+CAT:gossip|Gossip|SUB:passions
+CAT:grace|Grace|SUB:theology
+CAT:gratitude|Gratitude|SUB:virtues
+CAT:great-lent|Great Lent|SUB:churchyear
+CAT:great-passion-of-jesus-christ|Great Passion Of Jesus Christ|SUB:churchyear
+CAT:greed|Greed|SUB:passions
+CAT:grief|Grief|SUB:passions
+CAT:grumbling|Grumbling|SUB:passions
+CAT:guardian-angel|Our Guardian Angel|SUB:saints
+CAT:guile|Guile|SUB:passions
+CAT:guilt|Guilt|SUB:passions
+CAT:habits|Habits|SUB:passions
+CAT:happiness|Happiness|SUB:virtues
+CAT:hate|Hate|SUB:passions
+CAT:hatred|Hatred|SUB:passions
+CAT:heart|The Heart|SUB:virtues
+CAT:heedfulness|Heedfulness|SUB:virtues
+CAT:hell|Hell|SUB:theology
+CAT:heresy|Heresy|SUB:passions
+CAT:heresy-arianism|Heresy-arianism|SUB:theology
+CAT:heterodoxy|Heterodoxy|SUB:theology
+CAT:holiness|Holiness|SUB:virtues
+CAT:holy-communion|Holy Communion|SUB:theology
+CAT:holy-friday|Holy Week - Holy Friday|SUB:churchyear
+CAT:holy-monday|Holy Week - Holy Monday|SUB:churchyear
+CAT:holy-spirit|The Holy Spirit|SUB:theology
+CAT:holy-tradition|Holy Tradition|SUB:theology
+CAT:holy-trinity|The Holy Trinity|SUB:theology
+CAT:holy-wednesday|Holy Week - Holy Wednesday|SUB:churchyear
+CAT:holy-week|Holy Week|SUB:churchyear
+CAT:honesty|Honesty|SUB:virtues
+CAT:hope|Hope|SUB:virtues
+CAT:hosea6,6|Hosea 06:06|SUB:scripture
+CAT:hospitality|Hospitality|SUB:virtues
+CAT:how-to-live|How-to-live|SUB:misc
+CAT:human-nature|Human-nature|SUB:theology
+CAT:humiliation|Humiliation|SUB:passions
+CAT:humility|Humility|SUB:virtues
+CAT:hypocrisy|Hypocisy|SUB:virtues
+CAT:icons|Icons|SUB:theology
+CAT:idle-talk|Idle Talk|SUB:passions
+CAT:idolatry|Idolatry|SUB:passions
+CAT:ignorance|Ignorance|SUB:passions
+CAT:illness|Illness|SUB:passions
+CAT:images|Images|SUB:passions
+CAT:imagination|The Imagination|SUB:passions
+CAT:incarnation|The Incarnation|SUB:theology
+CAT:incensive-power|The Soul's Incensive Power|SUB:passions
+CAT:ingratitude|Ingratitude|SUB:passions
+CAT:injustice|Injustice|SUB:passions
+CAT:insensibility|Insensibility|SUB:passions
+CAT:instructions|Instructions|SUB:dailylife
+CAT:insults|Insults|SUB:passions
+CAT:intellect|Intellect|SUB:virtues|SUB:passions
+CAT:intelligence|Intelligence|SUB:virtues
+CAT:intemperance|Intemperance|SUB:passions
+CAT:intention|Intention|SUB:virtues
+CAT:isaiah11-2|Isaiah11-2|SUB:scripture
+CAT:isaiah65-15|Isaiah 65:15|SUB:scripture
+CAT:isaiah7-14|Isaiah7-14|SUB:scripture
+CAT:isaiah8-6|Isaiah8-6|SUB:scripture
+CAT:isidore-abba|Isidore-abba|SUB:saints
+CAT:james2,18|James 02:18|SUB:scripture
+CAT:jesus-christ|Jesus Christ|SUB:theology
+CAT:jesus-prayer|The Jesus Prayer|SUB:theology
+CAT:job|Job|SUB:saints
+CAT:john-the-almsgiver|John-the-almsgiver|SUB:saints
+CAT:john-the-baptist|Holy Prophet and Forerunner John The Baptist|SUB:saints
+CAT:john-the-dwarf|Holy Abba John The Dwarf|SUB:saints
+CAT:john-the-merciful|John-the-merciful|SUB:saints
+CAT:john-the-persian|Holy Abba John The Persian|SUB:saints
+CAT:john-the-short-abba|John-the-short-abba|SUB:saints
+CAT:john1,17|John 01:17|SUB:scripture
+CAT:john10,30|John 10:30|SUB:scripture
+CAT:john12,25|John 12:25|SUB:scripture
+CAT:john14|John 14|SUB:scripture
+CAT:john14,6|John 14:06|SUB:scripture
+CAT:john15-13|John 15:13|SUB:scripture
+CAT:john15-26|John 15:26|SUB:scripture
+CAT:john16-33|John 16:33|SUB:scripture
+CAT:john17|John 17|SUB:scripture
+CAT:john17,11|John 17:11|SUB:scripture
+CAT:john17,22|John 17:22|SUB:scripture
+CAT:john17-11|John17-11|SUB:scripture
+CAT:john20,21|John 20:21|SUB:scripture
+CAT:john5,10|John 05:10|SUB:scripture
+CAT:john6-45|John6-45|SUB:misc
+CAT:john6-8,9|John 6:8,9|SUB:scripture
+CAT:john7,23|John 07:23|SUB:scripture
+CAT:john9,14|John 09:14|SUB:scripture
+CAT:joseph-the-all-comely|Joseph The All Comely|SUB:saints
+CAT:joy|Joy|SUB:misc
+CAT:joyful-sorrow|Joyful Sorrow|SUB:virtues
+CAT:judas|Judas|SUB:misc
+CAT:judging-others|Judging Others|SUB:passions
+CAT:judgment|Judgment|SUB:theology
+CAT:keeping-a-journal|Keeping A Journal|SUB:dailylife
+CAT:kingdom-of-god|The Kingdom Of God|SUB:theology
+CAT:kingdom-of-heaven|The Kingdom Of Heaven|SUB:theology
+CAT:knowledge|Knowledge|SUB:virtues
+CAT:knowlege|Knowlege|SUB:virtues
+CAT:kontakia-of-romanos|Kontakia Of Holy Romanos|SUB:prayers
+CAT:labor|Labor|SUB:virtues
+CAT:last-times|Last-times|SUB:misc
+CAT:last-timesantichrist|Last Times = The Antichrist|SUB:theology
+CAT:laughing|Laughing|SUB:passions
+CAT:lazarus-saturday|Lazarus Saturday|SUB:churchyear
+CAT:laziness|Laziness|SUB:passions
+CAT:lent|Lent|SUB:churchyear
+CAT:levity|Levity|SUB:passions
+CAT:life-after-death|Life After Death|SUB:theology
+CAT:life-giving-spring|The Life Giving Spring|SUB:churchyear
+CAT:listlessness|Listlessness|SUB:passions
+CAT:lords-prayer|The Lord's Prayer|SUB:prayer
+CAT:love|Love|SUB:virtues
+CAT:love-of-god|Love of God|SUB:virtues
+CAT:lucifer|Lucifer|SUB:theology
+CAT:luke 14,3|Luke 14:03|SUB:scripture
+CAT:luke1-16-17|Luke 1:16-17|SUB:scripture
+CAT:luke10-42|Luke10:42|SUB:scripture
+CAT:luke12,49|Luke 12:49|SUB:scripture
+CAT:luke12-49|Luke 12:49|SUB:scripture
+CAT:luke14,3|Luke14,3|SUB:scripture
+CAT:luke14,49|Luke 14:49|SUB:scripture
+CAT:luke15-8-10|Luke 15:8-10|SUB:scripture
+CAT:luke17,10|Luke 17:10|SUB:scripture
+CAT:luke17,33|Luke 17:33|SUB:scripture
+CAT:luke17-10|Luke 17:10|SUB:scripture
+CAT:luke17-21|Luke 17:21|SUB:scripture
+CAT:luke18-10|Luke 18:10|SUB:scripture
+CAT:luke21|Luke 21|SUB:scripture
+CAT:luke21,9|Luke 21:09|SUB:scripture
+CAT:luke24-50|Luke 24:50|SUB:scripture
+CAT:luke3,14|Luke 03:14|SUB:scripture
+CAT:luke6,7|Luke 06:07|SUB:scripture
+CAT:luke6-29|Luke 6:29|SUB:scripture
+CAT:luke9,24|Luke 09:24|SUB:scripture
+CAT:luke9,35-36|Luke 09:35-36|SUB:scripture
+CAT:luke9-23|Luke 9:23|SUB:scripture
+CAT:lust|Lust|SUB:passions
+CAT:lying|Lying|SUB:passions
+CAT:macarius|Holy Abba Macarius the Great|SUB:saints
+CAT:macarius-the-egyptian|Holy Abba Macarius The Egyptian|SUB:saints
+CAT:malice|Malice|SUB:passions
+CAT:man|Man|SUB:theology
+CAT:mark12|Mark12|SUB:scripture
+CAT:mark16,17|Mark 16:17|SUB:scripture
+CAT:mark2,24|Mark 02:24|SUB:scripture
+CAT:mark3,2|Mark 03:02|SUB:scripture
+CAT:mark8,35|Mark 8:35|SUB:scripture
+CAT:mark8-34|Mark 8:34|SUB:scripture
+CAT:marriage|Marriage|SUB:theology|SUB:sacraments
+CAT:married-life|Married Life|SUB:theology
+CAT:martyrdom|Martyrdom|SUB:saints
+CAT:martyrs|The Martyrs|SUB:saints
+CAT:mary-of-alexandria|Holy Mary Of Alexandria|SUB:saints
+CAT:materialism|Materialism|SUB:passions
+CAT:matthew|Matthew|SUB:scripture
+CAT:matthew-11-30|Matthew 11:30|SUB:scripture
+CAT:matthew-16-24|Matthew 16:24|SUB:scripture
+CAT:matthew1|Matthew 01|SUB:scripture
+CAT:matthew10,39|Matthew 10:39|SUB:scripture
+CAT:matthew10-19,20|Matthew 10:19,20|SUB:scripture
+CAT:matthew11-29|Matthew 11:29|SUB:scripture
+CAT:matthew12,1-11|Matthew 12:1-11|SUB:scripture
+CAT:matthew16,24|Matthew 16:24|SUB:scripture
+CAT:matthew16,25|Matthew 16:25|SUB:scripture
+CAT:matthew16-18|Matthew 16:18|SUB:scripture
+CAT:matthew16-24|Matthew 16:24|SUB:scripture
+CAT:matthew16-27|Matthew 16:27|SUB:scripture
+CAT:matthew19,27|Matthew 19:27|SUB:scripture
+CAT:matthew19-27|Matthew 19:27|SUB:scripture
+CAT:matthew19:27|Matthew 19:27|SUB:scripture
+CAT:matthew25-23|Matthew 25:23|SUB:scripture
+CAT:matthew26-44|Matthew 26:44|SUB:scripture
+CAT:matthew3,2|Matthew 03:02|SUB:scripture
+CAT:matthew3,7|Matthew 03:07|SUB:scripture
+CAT:matthew5-8|Matthew 5:8|SUB:scripture
+CAT:matthew6-10|Matthew 06:10|SUB:scripture
+CAT:matthew6-22-23|Matthew 06:22-23|SUB:scripture
+CAT:matthew6-23|Matthew 6:23|SUB:scripture
+CAT:matthew6-33|Matthew 06:33|SUB:scripture
+CAT:matthew6-6|Matthew 06:6|SUB:scripture
+CAT:matthew7,14|Matthew 07:14|SUB:scripture
+CAT:matthew7,5|Matthew 07:05|SUB:scripture
+CAT:matthew7-14|Matthew 07:14|SUB:scripture
+CAT:matthew7:14|Matthew 07:14|SUB:scripture
+CAT:maximos-the-kafsokalyvitan|Holy Maximos The Kafsokalyvitan|SUB:saints
+CAT:meaning-of-life|Meaning Of Life|SUB:dailylife
+CAT:medicine|Medicine|SUB:misc
+CAT:meekness|Meekness|SUB:virtues
+CAT:memory|Memory|SUB:virtues
+CAT:mercy|Mercy|SUB:virtues
+CAT:mid-pentecost|Mid-Pentecost|SUB:churchyear
+CAT:mind|Mind|SUB:theology
+CAT:miracles|Miracles|SUB:theology
+CAT:misc|Miscellaneous Topics|SUB:misc
+CAT:misc-hymns|Miscellaneous Hymns|SUB:prayer
+CAT:mius-abba|Mius-abba|SUB:saints
+CAT:modern-life|Modern Life|SUB:misc
+CAT:modesty|Modesty|SUB:virtues
+CAT:monastic-obedience|Monasticism - Obedience|SUB:virtues
+CAT:monastic-parables|Monasticism - Monastic Parables|SUB:misc
+CAT:monasticism|Monasticism|SUB:misc
+CAT:moses|Holy Prophet Moses|SUB:saints
+CAT:moses-the-ethiopian|Holy Abba Moses The Ethiopian|SUB:saints
+CAT:mother-of-god|The Holy Mother Of God|SUB:saints
+CAT:mourning|Mourning|SUB:virtues
+CAT:naaman-the-syrian|Naaman The Syryian|SUB:saints
+CAT:nativity-of-christ|The Nativity Of Christ|SUB:churchyear
+CAT:nativity-of-the-theotokos|Nativity Of The Theotokos|SUB:churchyear
+CAT:negligence|Negligence|SUB:passions
+CAT:neighbor|Neighbor|SUB:misc
+CAT:nicholas|Holy Nicholas the Wonderworker|SUB:saints
+CAT:night|Night|SUB:misc
+CAT:nilus-abba|Holy Abba Nilus|SUB:saints
+CAT:nina-equal-to-the-apostles|Holy Nina, Equal To The Apostles|SUB:saints
+CAT:nisterus-abba|Holy Abba Nisterus|SUB:saints
+CAT:non-possessiveness|Non-possessiveness|SUB:virtues
+CAT:nonnus-bishop-of-heliopolis|Holy Nonnus Bishop Of Heliopolis|SUB:saints
+CAT:oaths|Oaths|SUB:passions
+CAT:obedience|Obedience|SUB:virtues
+CAT:offences|Offences|SUB:virtues|SUB:passions
+CAT:offenses|Offenses|SUB:passions
+CAT:onuphrius-abba|Onuphrius-abba|SUB:saints
+CAT:or-abba|Holy Abba Or|SUB:saints
+CAT:orsisius-abba|Orsisius-abba|SUB:saints
+CAT:orthodoxy|Orthodoxy|SUB:theology
+CAT:our-neighbor|Our Neighbor|SUB:passions
+CAT:paisia|Holy Mother Paisia|SUB:saints
+CAT:palm-sunday|Palm Sunday|SUB:churchyear
+CAT:pambo-abba|Holy Abba Pambo|SUB:saints
+CAT:papacy|Papacy|SUB:theology
+CAT:papism|Papism|SUB:theology
+CAT:parable-of-the-good-samaritan|Parable Of The Good Samaritan|SUB:scripture
+CAT:parable-of-the-great-supper|Parable Of The Great Supper|SUB:scripture
+CAT:parable-of-the-leaven|Parable Of The Leaven|SUB:scripture
+CAT:parable-of-the-lost-coin|Parable-of-the-lost-coin|SUB:scripture
+CAT:parable-of-the-mustard-seed|Parable Of The Mustard Seed|SUB:scripture
+CAT:parable-of-the-prodigal-son|Parable Of The Prodigal Son|SUB:scripture
+CAT:parable-of-the-rich-man-and-lazarus|Parable Of The Rich Man And Lazarus|SUB:scripture
+CAT:parable-of-the-sower|Parable Of The Sower|SUB:scripture
+CAT:parable-of-the-talents|Parable Of The Talents|SUB:scripture
+CAT:parable-of-the-ten-virgins|Parable Of The Ten Virgins|SUB:scripture
+CAT:parable-of-the-wedding-feast|Parable Of The Wedding Feast|SUB:scripture
+CAT:pascha|Pascha|SUB:churchyear
+CAT:paschalia|Paschalia|SUB:churchyear
+CAT:passion-of-jesus-christ|The Passion Of Jesus Christ|SUB:theology
+CAT:passions|The Passions|SUB:passions
+CAT:pastor-abba|Holy Abba Pastor|SUB:saints
+CAT:patience|Patience|SUB:virtues
+CAT:patient-endurance|Patient Endurance|SUB:virtues
+CAT:peace|Peace|SUB:virtues
+CAT:pentecost|Pentecost|SUB:churchyear
+CAT:pionius-the-presbyter|Holy Abba Pionius The Presbyter|SUB:saints
+CAT:pleasure|Pleasure|SUB:passions
+CAT:poemen-abba|Poemen-abba|SUB:saints
+CAT:poemen-abbaHoly Abba Poemen|SUB:saints
+CAT:poetry|Poetry|SUB:prayer
+CAT:poemen-abbacat|Poemen-abbacat|SUB:saints
+CAT:poetry-about-the-theotokos|Poetry about the Theotokos|SUB:prayer
+CAT:possessions|Possessions|SUB:passions
+CAT:poverty|Poverty|SUB:virtues
+CAT:praise|Praise|SUB:passions
+CAT:praise-from-others|Praise-from-others|SUB:passions
+CAT:prayer|Prayer|SUB:prayer
+CAT:prayer-at-home|Prayer-at-home|SUB:prayer
+CAT:prayer-boldness|Prayer-boldness|SUB:prayer
+CAT:prayer-for-animals|Prayer-for-animals|SUB:prayer
+CAT:prayer-for-others|Prayer For Others|SUB:prayer
+CAT:prayer-for-our-enemies|Prayer-for-our-enemies|SUB:prayer
+CAT:prayer-for-suicides|Prayer for Suicides|SUB:prayer|SUB:dailylife
+CAT:prayer-for-the-dead|Prayer For The Dead|SUB:prayer
+CAT:prayer-for-unbelievers|Prayer-for-unbelievers|SUB:prayer
+CAT:prayer-in-church|Prayer In Church|SUB:prayer
+CAT:prayer-to-saints|Prayers To Saints|SUB:saints
+CAT:prayer-to-the-saints|Prayer-to-the-saints|SUB:prayer:SUB:saints
+CAT:prayer-upon-awakening|Prayer-upon-awakening|SUB:prayer
+CAT:prayer-with-heretics|Prayer-with-heretics|SUB:prayer:SUB:theology
+CAT:prayer-with-nonorthodox|Prayer-with-nonorthodox|SUB:prayer:SUB:theology
+CAT:prayer-without-ceasing|Prayer-without-ceasing|SUB:prayer
+CAT:prayers|Miscellaneous Prayers|SUB:prayer
+CAT:prayers-of-saints|Prayers Of The Saints|SUB:prayer
+CAT:prelest|Prelest|SUB:passions
+CAT:presentation-of-christ-in-the-temple|Presentation Of Christ In The Temple|SUB:churchyear
+CAT:presumption|Presumption|SUB:passions
+CAT:pride|Pride|SUB:passions
+CAT:priesthood|The Priesthood|SUB:theology|SUB:sacraments
+CAT:promises|Promises|SUB:misc
+CAT:prophets|Prophets|SUB:saints
+CAT:proverbs12,18|Proverbs 12:18|SUB:scripture
+CAT:proverbs24,16|Proverbs 24:16|SUB:scripture
+CAT:proverbs8,8|Proverbs 8:8|SUB:scripture
+CAT:providence|Providence|SUB:theology
+CAT:psalm104-07|Psalm 104:07|SUB:scripture
+CAT:psalm115|Psalm 115|SUB:scripture
+CAT:psalm115,11|Psalm 115:11|SUB:scripture
+CAT:psalm118-2|Psalm 118:2|SUB:scripture
+CAT:psalm118-37|Psalm 118:37|SUB:scripture
+CAT:psalm120-5|Psalm120-5|SUB:scripture
+CAT:psalm125|Psalm 125|SUB:scripture
+CAT:psalm131-11|Psalm 131:11|SUB:scripture
+CAT:psalm133|Psalm 133|SUB:scripture
+CAT:psalm142|Psalm 142|SUB:scripture
+CAT:psalm142,7|Psalm 142:07|SUB:scripture
+CAT:psalm148|Psalm 148|SUB:scripture
+CAT:psalm22|Psalm 022|SUB:scripture
+CAT:psalm24-16|Psalm24-16|SUB:scripture
+CAT:psalm32|Psalm 032|SUB:scripture
+CAT:psalm4-4|Psalm4-4|SUB:misc
+CAT:psalm43-22|Psalm 043:22|SUB:scripture
+CAT:psalm47-4|Psalm 47:4|SUB:scripture
+CAT:psalm75-14|Psalm75-14|SUB:scripture
+CAT:psalm82-9|Psalm 82:9|SUB:scripture
+CAT:psalmody|Psalmody|SUB:prayer
+CAT:psalms|Psalms|SUB:scripture
+CAT:psalter|Psalter|SUB:scripture
+CAT:publican-and-pharisee|Parable of the Publican and Pharisee|SUB:scripture
+CAT:purity|Purity|SUB:virtues
+CAT:purpose-of-life|The Purpose of life|SUB:misc
+CAT:reading|Reading|SUB:misc
+CAT:reading-scripture|Reading Scripture|SUB:scripture
+CAT:reason|Reason|SUB:virtues
+CAT:relics|Relics|SUB:saints
+CAT:remembering-wrongs|Remembering Wrongs|SUB:passions
+CAT:remembrance|Remembrance|SUB:virtues
+CAT:remembrance-of-death|Remembrance Of Death|SUB:virtues
+CAT:remembrance-of-god|Remembrance Of God|SUB:virtues
+CAT:remembrance-of-wrongs|Remembrance Of Wrongs|SUB:passions
+CAT:renunciation|Renunciation|SUB:virtues
+CAT:repentance|Repentance|SUB:virtues
+CAT:repentence|Repentance|SUB:virtues
+CAT:repetition|Repetition|SUB:misc
+CAT:resentment|Resentment|SUB:passions
+CAT:resurrection|The Resurrection|SUB:theology
+CAT:rev3,20|Revelation 03:20|SUB:scripture
+CAT:roman-catholicism|Roman Ñatholicism|SUB:theology
+CAT:romans11,22|Romans 11:22|SUB:scripture
+CAT:romans8-35|Romans 8:35|SUB:scripture
+CAT:russia|Russia|SUB:misc
+CAT:russian-orthodox-church-abroad|The Russian Orthodox Church Abroad|SUB:misc
+CAT:sabbath|The Sabbath|SUB:theology
+CAT:sacraments|The Sacraments|SUB:theology
+CAT:saints|The Saints|SUB:saints
+CAT:salvation|Salvation|SUB:theology
+CAT:sarcasm|Sarcasm|SUB:passions
+CAT:satan|Satan|SUB:theology
+CAT:satiety|Satiety|SUB:passions
+CAT:schism|Schism|SUB:passions
+CAT:scorn|Scorn|SUB:passions
+CAT:scripture|Scripture Commentary|SUB:scripture
+CAT:scripture-and-tradition|Scripture-and-tradition|SUB:scripture
+CAT:scriptures|Scriptures|SUB:scripture
+CAT:second-coming|The Second Coming Of Jesus Christ|SUB:theology
+CAT:self-accusation|Self Accusation|SUB:virtues
+CAT:self-condemnation|Self Condemnation|SUB:virtues
+CAT:self-control|Self Control|SUB:virtues
+CAT:self-criticism|Self Criticism|SUB:virtues
+CAT:self-denial|Self Denial|SUB:virtues
+CAT:self-esteem|Self Esteem|SUB:passions
+CAT:self-examination|Self Examination|SUB:virtues
+CAT:self-indulgence|Self Indulgence|SUB:passions
+CAT:self-judgment|Self Judgment|SUB:virtues
+CAT:self-knowledge|Self Knowledge|SUB:virtues
+CAT:self-knowlege|Self-knowlege|SUB:virtues
+CAT:self-love|Self Love|SUB:passions
+CAT:self-reliance|Self Reliance|SUB:passions
+CAT:self-renunciation|Self Renunciation|SUB:virtuesCAT:self-will|Self Will|SUB:passions
+CAT:self-will|Self-will|SUB:passions
+CAT:senses|The Senses|SUB:misc|SUB:passions
+CAT:services|The Services|SUB:prayer
+CAT:sexual-temptation|Sexual Temptation|SUB:passions
+CAT:shyness|Shyness|SUB:misc
+CAT:sickness|Sickness|SUB:misc
+CAT:sign-of-the-cross|The Sign Of The Cross|SUB:theology
+CAT:silence|Silence|SUB:virtues
+CAT:simplicity|Simplicity|SUB:virtues
+CAT:sin|Sin|SUB:passions
+CAT:sins|Sins|SUB:passions
+CAT:sisoes|Holy Abba Sisoes|SUB:saints
+CAT:sisoes-abba|Sisoes-abba|SUB:saints
+CAT:slander|Slander|SUB:passions
+CAT:sleep|Sleep|SUB:misc
+CAT:sloth|Sloth|SUB:passions
+CAT:sobriety|Sobriety|SUB:virtues
+CAT:solitude|Solitude|SUB:virtues
+CAT:sorrow|Sorrow|SUB:passions:SUB:virtues
+CAT:sorrows|Sorrows|SUB:misc|SUB:passions
+CAT:soul|The Soul|SUB:theology
+CAT:speaking|Speaking|SUB:passions
+CAT:speech|Speech|SUB:passions
+CAT:spiritual-directors|Spiritual Directors|SUB:theology
+CAT:spiritual-gifts|Spiritual Gifts|SUB:virtues
+CAT:spiritual-knowledge|Spiritual-knowledge|SUB:misc
+CAT:st john climacus|St John Climacus|SUB:saints
+CAT:steadfastness|Steadfastness|SUB:virtues
+CAT:stephen-the-first-martyr|Holy Stephen The First Martyr|SUB:saints
+CAT:stillness|Stillness|SUB:virtues
+CAT:stories|Stories|SUB:misc
+CAT:struggle|Struggle|SUB:virtues
+CAT:struggles|Struggles|SUB:virtues
+CAT:suffering|Suffering|SUB:virtues
+CAT:suffering-wrongs|Suffering-wrongs|SUB:misc
+CAT:suicide|Suicide|SUB:dailylife
+CAT:sunday-of-stthomas|Sunday Of St Thomas|SUB:churchyear
+CAT:sunday-of-the-blind-man|Sunday Of The Blind Man|SUB:churchyear
+CAT:sunday-of-the-myrhh-bearing-women|Sunday-of-the-myrhh-bearing-women|SUB:churchyear
+CAT:sunday-of-the-myrrh-bearing-women|Sunday Of The Myrrh Bearing Women|SUB:churchyear
+CAT:sunday-of-the-paralytic|Sunday Of The Paralytic|SUB:churchyear
+CAT:sunday-of-the-prodigal-son|Sunday Of The Prodigal Son|SUB:churchyear
+CAT:sunday-of-the-publican-and-pharisee|Sunday Of The Publican And Pharisee|SUB:churchyear
+CAT:sunday-of-the-samaritan-woman|Sunday Of The Samaritan Woman|SUB:churchyear
+CAT:sunday-of-zacchaeus|Sunday Of Zacchaeus|SUB:churchyear
+CAT:sylvanus|Holy Abba Sylvanus|SUB:saints
+CAT:symbol-of-faith|Symbol-of-faith|SUB:theology
+CAT:synergy|Synergy|SUB:virtues
+CAT:synodicon|Synodicon|SUB:theology
+CAT:taking-advice|Taking Advice|SUB:virtues
+CAT:talkativeness|Talkativeness|SUB:passions
+CAT:tears|Tears|SUB:virtues
+CAT:temperence|Temperance|SUB:virtues
+CAT:temptation|Temptation|SUB:passions
+CAT:temptations|Temptations|SUB:passions
+CAT:tempting-others|Tempting Others|SUB:passions
+CAT:ten-commandments|The Ten Commandments|SUB:theology
+CAT:thankfulness|Thankfulness|SUB:virtues
+CAT:thanksgiving|Thanksgiving|SUB:virtues
+CAT:the-cell|The-cell|SUB:misc
+CAT:the-fall|The Fall|SUB:theology
+CAT:the-heart|The Heart|SUB:virtues
+CAT:the-judgment|The Judgment|SUB:theology
+CAT:the-next-life|The Next Life|SUB:theology
+CAT:the-passion|The Passion Of Jesus Christ|SUB:theology
+CAT:theodora-amma|Holy Amma Theodora|SUB:saints
+CAT:theology|Theology|SUB:theology
+CAT:theophany|Theophany (The Baptism of Jesus Christ)|SUB:churchyear
+CAT:theoria|Theoria|SUB:virtues
+CAT:theosis|Theosis|SUB:virtues
+CAT:theotokos|The Theotokos|SUB:saints
+CAT:thought|Thought|SUB:passions
+CAT:thoughts|Thoughts|SUB:passions
+CAT:three-holy-children|the Three Holy Children|SUB:saints
+CAT:titus-3-8-11|Titus:3:8-11|SUB:scripture
+CAT:tradition|Tradition|SUB:theology
+CAT:transfiguration|Transfiguration|SUB:churchyear
+CAT:trials|Trials|SUB:misc|SUB:passions|SUB:virtues
+CAT:truth|Truth|SUB:virtues
+CAT:tsar-martyr-nicholas|Holy Tsar Martyr Nicholas|SUB:saints
+CAT:typicon|Typicon|SUB:churchyear
+CAT:unanswered-prayer|Unanswered-prayer|SUB:prayer
+CAT:unaquisitiveness|Unaquisitiveness|SUB:virtues
+CAT:unclean-thoughts|Unclean Thoughts|SUB:passions
+CAT:unconfessed-sins|Unconfessed Sins|SUB:misc|SUB:passions
+CAT:uncreated-light|The Uncreated Light|SUB:theology
+CAT:unseen-warfare|Unseen Warfare|SUB:passions
+CAT:vainglory|Vainglory|SUB:passions
+CAT:vanity|Vanity|SUB:passions
+CAT:vengeance|Vengeance|SUB:passions
+CAT:vigilance|Vigilance|SUB:virtues
+CAT:virginity|Virginity|SUB:virtues
+CAT:virtue|Virtue|SUB:virtues
+CAT:virtues|Virtues|SUB:virtues
+CAT:visions|Visions|SUB:passions
+CAT:watchfulness|Watchfulness|SUB:virtues
+CAT:wealth|Wealth|SUB:passions
+CAT:will|The Will Of Man|SUB:theology
+CAT:will-of-god|The Will Of God|SUB:theology
+CAT:wisdom|Wisdom|SUB:virtues
+CAT:woman|Woman|SUB:theology
+CAT:women|Women|SUB:misc
+CAT:wordliness|Worldliness|SUB:passions
+CAT:works|Works|SUB:virtues
+CAT:world|The World|SUB:theology
+CAT:worldliness|Worldliness|SUB:passions
+CAT:worldly-cares|Worldly Cares|SUB:passions
+CAT:worry|Worry|SUB:passions
+CAT:wrath|Wrath|SUB:passions
+CAT:wrathfulness|Wrathfulness|SUB:passions
+CAT:zeal|Zeal|SUB:virtues

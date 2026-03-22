@@ -1,0 +1,136 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f34\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}Arial Unicode MS;}{\f54\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}@Arial Unicode MS;}{\f179\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f180\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f182\froman\fcharset161\fprq2 Times New Roman Greek;}{\f183\froman\fcharset162\fprq2 Times New Roman Tur;}{\f184\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f185\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f186\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f187\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f189\fswiss\fcharset238\fprq2 Arial CE;}
+{\f190\fswiss\fcharset204\fprq2 Arial Cyr;}{\f192\fswiss\fcharset161\fprq2 Arial Greek;}{\f193\fswiss\fcharset162\fprq2 Arial Tur;}{\f194\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f195\fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f196\fswiss\fcharset186\fprq2 Arial Baltic;}{\f197\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f521\fswiss\fcharset0\fprq2 Arial Unicode MS Western;}{\f519\fswiss\fcharset238\fprq2 Arial Unicode MS CE;}
+{\f520\fswiss\fcharset204\fprq2 Arial Unicode MS Cyr;}{\f522\fswiss\fcharset161\fprq2 Arial Unicode MS Greek;}{\f523\fswiss\fcharset162\fprq2 Arial Unicode MS Tur;}{\f524\fswiss\fcharset177\fprq2 Arial Unicode MS (Hebrew);}
+{\f525\fswiss\fcharset178\fprq2 Arial Unicode MS (Arabic);}{\f526\fswiss\fcharset186\fprq2 Arial Unicode MS Baltic;}{\f527\fswiss\fcharset163\fprq2 Arial Unicode MS (Vietnamese);}{\f528\fswiss\fcharset222\fprq2 Arial Unicode MS (Thai);}
+{\f721\fswiss\fcharset0\fprq2 @Arial Unicode MS Western;}{\f719\fswiss\fcharset238\fprq2 @Arial Unicode MS CE;}{\f720\fswiss\fcharset204\fprq2 @Arial Unicode MS Cyr;}{\f722\fswiss\fcharset161\fprq2 @Arial Unicode MS Greek;}
+{\f723\fswiss\fcharset162\fprq2 @Arial Unicode MS Tur;}{\f724\fswiss\fcharset177\fprq2 @Arial Unicode MS (Hebrew);}{\f725\fswiss\fcharset178\fprq2 @Arial Unicode MS (Arabic);}{\f726\fswiss\fcharset186\fprq2 @Arial Unicode MS Baltic;}
+{\f727\fswiss\fcharset163\fprq2 @Arial Unicode MS (Vietnamese);}{\f728\fswiss\fcharset222\fprq2 @Arial Unicode MS (Thai);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;
+\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs28\lang1033\langfe255\cgrid\langnp1033\langfenp255 \sbasedon0 \snext16 Heading;}{\s16\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon0 \snext16 
+Body Text;}{\s17\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon16 \snext17 List;}{\s18\ql \li0\ri0\sb120\sa120\nowidctlpar\faauto\rin0\lin0\itap0 
+\i\fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon0 \snext18 \ssemihidden caption;}{\s19\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang1033\langfe255\loch\f0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 \sbasedon0 \snext19 Index;}{\*\cs20 \additive \ul\cf2 \sbasedon10 \styrsid10443738 Hyperlink;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\rsidtbl \rsid1190938
+\rsid2974322\rsid3086372\rsid4279625\rsid4664431\rsid5406713\rsid5855982\rsid5863652\rsid6566075\rsid6777376\rsid7022218\rsid8024729\rsid8674846\rsid8861332\rsid8914076\rsid9115277\rsid10044948\rsid10443738\rsid11342027\rsid11563469\rsid12255915
+\rsid12983778\rsid14506179\rsid15295071\rsid16088504\rsid16281657}{\*\generator Microsoft Word 11.0.5604;}{\info{\title 20th Week After Pentecost \'96 Thursday }{\author User}{\operator User}{\creatim\yr2008\mo11\dy4\hr8\min42}
+{\revtim\yr2008\mo11\dy4\hr9\min40}{\version2}{\edmins57}{\nofpages2}{\nofwords877}{\nofchars5000}{\nofcharsws5866}{\vern24689}}\margl1134\margr1134\margt1134\margb1134 
+\deftab709\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\viewnobound1\rsidroot8674846 
+\fet0{\*\template C:\\Documents and Settings\\User\\Application Data\\Microsoft\\Templates\\scripture-commentary.dot}\sectd \sbknone\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \s16\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\b\fs28\ul\cf1\insrsid8674846 \hich\af0\dbch\af34\loch\f0 21}{
+\b\fs28\ul\cf1\super\insrsid8674846\charrsid8674846 \hich\af0\dbch\af34\loch\f0 st}{\b\fs28\ul\cf1\insrsid8674846 \hich\af0\dbch\af34\loch\f0  }{\b\fs28\ul\cf1\insrsid1190938\charrsid1190938 \hich\af0\dbch\af34\loch\f0 Week After Pentecost \hich\f0 
+\endash \loch\f0  }{\b\fs28\ul\cf1\insrsid8674846 \hich\af0\dbch\af34\loch\f0 Tuesday}{\fs28\cf1\insrsid1190938\charrsid1190938 \hich\af0\dbch\af34\loch\f0  }{\fs28\insrsid1190938\charrsid1190938 
+\par }{\b\scaps\fs28\cf1\cgrid0\insrsid2974322\charrsid2974322 \hich\af0\dbch\af34\loch\f0 T}{\scaps\fs28\cf1\cgrid0\insrsid1190938\charrsid1190938 \hich\af0\dbch\af34\loch\f0 oday\hich\f0 \rquote \loch\f0 
+s readings, followed by a few small pastoral and personal thoughts. }{\b\i\scaps\fs28\cf1\cgrid0\insrsid1190938\charrsid1190938 
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid8674846 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\b\ul\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 
+Colossians 1:1-2, 7-11}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846  }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother, }{
+\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 2}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 
+ To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ. }{\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 7}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846  As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ; }{
+\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 8}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846  Who also declared unto us your love in the Spirit. }{
+\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 9}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 
+ For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding; }{
+\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 10}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 
+ That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God; }{\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 11}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846  Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;
+\par 
+\par }{\b\ul\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 Luke 8:1-3}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846  }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 
+And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him, }{
+\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 2}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 
+ And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils, }{\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 3}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846  And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance.
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid2974322 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid3086372 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid8674846 {\b\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 Colossians1:9-11}{
+\b\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846  For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled w
+ith the knowledge of his will in all wisdom and spiritual understanding; }{\b\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 10}{
+\b\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846  That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God; }{
+\b\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 11}{\b\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846  Strengthened with all might, according to his
+ glorious power, unto all patience and longsuffering with joyfulness;
+\par }{\b\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid8674846 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid8024729 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846\charrsid8674846 The Apostle provides us with a \'93template\'94 for how to pray for others}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 .}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 
+ See how vehemently he prays for others! When I read this passage, I am convicted about how little I pray for others, and how weak my prayers are compared to the Apostle. 
+\par 
+\par Things are definitely better now that I have some time to breathe and am not either working at night, sleeping, }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 feeling like a \'93zombie\'94, }{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 or at church. I have a regular prayer rule in which I pray for everyone in my flock, by name, every day. I want my prayer to be as warm and intense as the Apostle, }{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 and also as often}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 , but at this point in time, I am what
+ I am. So, I pray, knowing that I should be better, and also knowing that i}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 f I pray, I will become better (at prayer, and }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 
+everything}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  else in the spiritual life). }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8674846 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 
+\par There are few of us who }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 can pray}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  with the depth of emotion, empathy and longing for the well-being of others that the }{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 Apostle}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  possesses, but we must pray. A Christian }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 principle}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  is that if we try, with God\rquote s help, we will become better}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729  (I believe that this principle is so important that I 
+have said something like this maybe a }{\i\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729\charrsid8024729 zillion}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729  times in my homilies)}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 . So, let us as least pray for others. 
+\par 
+\par I have recommended to many personally to make a }{\i\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218\charrsid4279625 small}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 
+ list of loved ones and to pray for everyone on that list everyday}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid4279625  (I will send my dyptichs, which have all the parish member\rquote s names, to those who ask)}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 . I should be on that list, because I am your unworthy pastor, and I need the grace of God to guide my flock wisely. }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 
+\par 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 We }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 should}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  begin by }{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 merely}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  saying }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 the}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  Jesus prayer for each person, }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 i.e.}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  
+\par 
+\par }\pard \qj \li720\ri720\widctlpar\faauto\rin720\lin720\itap0\pararsid8024729 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 \'93Lord Jesus Christ son of God, have mercy upon the Priest Seraphim\'94 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid8024729 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 
+\par If this is too much for us, then all we need say is}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid12983778 :
+\par 
+\par }\pard \qj \li720\ri720\widctlpar\faauto\rin720\lin720\itap0\pararsid12983778 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  \'93Lord have mercy upon the Priest Seraphim\'94. 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid8024729 {\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 
+\par This is the beginning for us. If we are faithful in prayer for others, God will guide us to deeper, more earnest and heartfelt prayer, like the Apostle\rquote s. 
+\par 
+\par I have meant for a long time to write a little essay that I have considered }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 entitling \'93}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 The hardest }{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 thing I}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  did today\'94, or something like it. It would be about prayer. }{
+\b\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218\charrsid11342027 The hardest thing I do each day is pray for others}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 . There are a multitude of }{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 distractions}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  that attempt to keep me from this task. And then when I am praying, there is this \'93voice\'94 that is whispering 
+to me \'93Why }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 bother}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  the master?\'94 }{
+\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid7022218\charrsid11342027 (Mark 5:35).}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  God will hear the \'93effective }{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 prayer}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  of a righteous man\'94}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid11342027  }{
+\fs16\cf1\lang1033\langfe1033\loch\af1\hich\af1\dbch\af0\langfenp1033\insrsid11342027\charrsid11342027 (James 5:16),}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218  and I am not righteous. How can I expect God to hear my prayer
+? My state of mind is distracted, and wooden, and }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 how can I expect God to hear me in such a state? }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid4279625 
+\par 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 These are powerful emot
+ions, and they are from the pit of Hell. It is true that my prayer can be distracted and wooden, but I know that if I try to pray, I will learn to pray! I also know that my intent is good, even if my performance is flawed. God sees into our heart, and kno
+ws our intent, and helps us. I}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid11342027 f}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729  am firmly convinced that the most important time of the day is when I pray for others, and no
+ matter how \'93well\'94 I did, }{\b\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729\charrsid8914076 it is the best thing that I do every day}{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid4279625 .}{
+\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid8024729 
+\par I urge you to pray for others every day. Do not listen to the thoughts that tell you that your efforts are wasted. Just pray. 
+\par }{\cf1\lang1033\langfe1033\dbch\af0\langfenp1033\insrsid7022218\charrsid8674846 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\nowidctlpar\brdrb\brdrs\brdrw15\brsp20 \faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\fs20\insrsid9115277 
+\par }\pard \s16\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11563469 {\fs20\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 Priest Seraphim Oct 1}{\fs20\insrsid8674846 \hich\af0\dbch\af34\loch\f0 9}{
+\fs20\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 /}{\fs20\insrsid8674846 \hich\af0\dbch\af34\loch\f0 Nov 3}{\fs20\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0  2008}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 .
+\hich\af0\dbch\af34\loch\f0                                               }{\field\fldedit{\*\fldinst {\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0  HYPERLINK "https://www.orthodox.net//" }{\fs20\insrsid11563469\charrsid13247115 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000}}}{\fldrslt {
+\cs20\fs20\ul\cf2\insrsid11563469\charrsid13247115 \hich\af0\dbch\af34\loch\f0 St Nichol\hich\af0\dbch\af34\loch\f0 as Russian Orthodox Church, Mc}{\cs20\fs20\ul\cf2\insrsid11563469 \hich\af0\dbch\af34\loch\f0 K}{
+\cs20\fs20\ul\cf2\insrsid11563469\charrsid13247115 \hich\af0\dbch\af34\loch\f0 inney, Texas}}}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0  }{\fs20\insrsid11563469\charrsid1190938 
+\par }\pard \s16\qj \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11563469 {\fs20\insrsid11563469\charrsid2974322 \hich\af0\dbch\af34\loch\f0 http:}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 //www.orthodox.net/scripture/}{
+\fs20\insrsid8674846\charrsid8674846 \hich\af0\dbch\af34\loch\f0 21st-week-after-pentecost_tuesday_colossians1;1-2,7-11+luke8;1-3}{\fs20\insrsid11563469\charrsid2974322 \hich\af0\dbch\af34\loch\f0 .rtf}{\fs20\insrsid11563469 
+\par }{\fs20\insrsid11563469\charrsid2974322 \hich\af0\dbch\af34\loch\f0 http:}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 //www.orthodox.net/scripture/}{\fs20\insrsid8674846\charrsid8674846 \hich\af0\dbch\af34\loch\f0 
+21st-week-after-pentecost_tuesday_colossians1;1-2,7-11+luke8;1-3}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 .pdf}{\fs20\insrsid11563469\charrsid2974322 
+\par }\pard \s16\qc \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11563469 {\b\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 New co\hich\af0\dbch\af34\loch\f0 mmentaries}{\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 
+ are posted on our }{\b\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 BLOG}{\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 : }{\field\flddirty{\*\fldinst {\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 
+ HYPERLINK "http://www/.orthodox.net/redeemingthetime" }{\insrsid11563469\charrsid1190938 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000002a00000068007400740070003a002f002f007700770077002f002e006f007200740068006f0064006f0078002e006e00650074002f00720065006400650065006d0069006e006700740068006500740069006d0065000000e0c9ea79f9bace118c8200aa004b
+a90b6c00000068007400740070003a002f002f007700770077002f002e006f007200740068006f0064006f0078002e006e00650074002f00720065006400650065006d0069006e006700740068006500740069006d0065000000795881f43b1d7f48af2c825dc485276300000000a5ab00000000}}}{\fldrslt {
+\cs20\ul\cf2\insrsid11563469\charrsid1190938 \hich\af0\dbch\af34\loch\f0 http://www/.orthodox.net/redeemingthetime}}}{\insrsid11563469 
+\par }\pard \s16\qj \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11563469 {\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 Archive of: }{\b\fs20\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 commentaries}{\insrsid11563469 
+\hich\af0\dbch\af34\loch\f0 : }{\field\flddirty{\*\fldinst {\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0  HYPERLINK "}{\fs20\insrsid11563469\charrsid2974322 \hich\af0\dbch\af34\loch\f0 http:}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 
+//www.orthodox.net/scripture" }{\fs20\insrsid11563469\charrsid4284327 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000002200000068007400740070003a002f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f007300630072006900700074007500720065000000e0c9ea79f9bace118c8200aa004ba90b5c00000068007400740070003a00
+2f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f007300630072006900700074007500720065000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\cs20\fs20\ul\cf2\insrsid11563469\charrsid4284327 
+\hich\af0\dbch\af34\loch\f0 https://www.orthodox.net//scripture}}}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0   }{\b\fs20\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 homilies}{\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0 : }
+{\field\flddirty{\*\fldinst {\fs20\insrsid11563469 \hich\af0\dbch\af34\loch\f0  HYPERLINK "https://www.orthodox.net//sermons" }{\fs20\insrsid11563469\charrsid5855982 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5800000068007400740070003a002f002f007700770077002e006f007200740068006f0064006f0078002e006e00650074002f007300650072006d006f006e0073000000795881f43b1d7f48af2c825dc48527630000
+0000a5ab000000}}}{\fldrslt {\cs20\fs20\ul\cf2\insrsid11563469\charrsid5855982 \hich\af0\dbch\af34\loch\f0 https://www.orthodox.net//sermons}}}{\fs20\insrsid11563469 
+\par }{\b\fs20\insrsid11563469\charrsid13247115 \hich\af0\dbch\af34\loch\f0 Use this for any edifying reason, but please give credit , and include the URL were the text was found. We would love to hear from you with comments! 
+\par }\pard \s16\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 {\fs28\insrsid1190938\charrsid1190938 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe255\loch\af0\hich\af0\dbch\af34\cgrid\langnp1033\langfenp255 {\fs28\insrsid1190938\charrsid1190938 
+\par }}
