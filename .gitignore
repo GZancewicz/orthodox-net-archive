@@ -1,3 +1,16 @@
+# Credentials (never commit)
+scripts/config.env
+scripts/inoa-password.png
+scripts/id_rsa
+*.env
+!*.env.example
+
+# Inventory reports (generated, not source)
+scripts/inventory_report.txt
+
+# OS files
+.DS_Store
+
 # LaTeX auxiliary files
 *.aux
 *.log

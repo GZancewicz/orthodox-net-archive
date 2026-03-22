@@ -83,7 +83,13 @@
       "Grep",
       "WebFetch",
       "WebSearch",
-      "Agent"
+      "Agent",
+      "Bash(ssh -i ~/.ssh/id_rsa_orthodox -p 22 nicholas@hikina.inoatech.com \"echo ''Connection successful!'' && whoami && hostname\")",
+      "Bash(ssh -i ~/.ssh/id_rsa_orthodox -p 22 -o BatchMode=yes -o ConnectTimeout=10 nicholas@hikina.inoatech.com \"echo ''Connection successful!'' && whoami && hostname\")",
+      "Bash(ssh -i ~/.ssh/id_rsa_orthodox -p 722 -o BatchMode=yes -o ConnectTimeout=10 nicholas@hikina.inoatech.com \"echo ''Connection successful!'' && whoami && hostname\")"
+    ],
+    "additionalDirectories": [
+      "/Users/gregzancewicz/.ssh"
     ]
   }
 }
