@@ -1,0 +1,61 @@
+{
+    "generated": "2026-03-22T15:30:16+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "data",
+            "file_count": 49,
+            "total_size_bytes": 2842463,
+            "total_size_mb": 2.70999999999999996447286321199499070644378662109375,
+            "max_file_size_bytes": 970752,
+            "max_file_name": "data/questions_2016-07-19+orpr-beg+blessing-sign-of-cross-epetrachiel-psalms-prostrations-3-stars_htm_6ded0fca.jpg",
+            "subdirectories": [
+                {
+                    "path": "data/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "htm": {
+                    "count": 8,
+                    "size_bytes": 167577
+                },
+                "html": {
+                    "count": 23,
+                    "size_bytes": 219440
+                },
+                "info": {
+                    "count": 4,
+                    "size_bytes": 9850
+                },
+                "jpg": {
+                    "count": 10,
+                    "size_bytes": 2236032
+                },
+                "rtf": {
+                    "count": 4,
+                    "size_bytes": 209564
+                }
+            },
+            "max_file_size_mb": 0.93000000000000004884981308350688777863979339599609375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 49,
+        "total_size_bytes": 2842463,
+        "total_size_mb": 2.70999999999999996447286321199499070644378662109375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 970752,
+        "max_file_size_mb": 0.93000000000000004884981308350688777863979339599609375,
+        "max_file_name": "data/questions_2016-07-19+orpr-beg+blessing-sign-of-cross-epetrachiel-psalms-prostrations-3-stars_htm_6ded0fca.jpg"
+    }
+}

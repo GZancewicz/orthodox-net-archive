@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:21+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "memorization",
+            "file_count": 26,
+            "total_size_bytes": 229608,
+            "total_size_mb": 0.2200000000000000011102230246251565404236316680908203125,
+            "max_file_size_bytes": 129158,
+            "max_file_name": "memorization/directory.html",
+            "subdirectories": [
+                {
+                    "path": "memorization/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 23,
+                    "size_bytes": 223324
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1075
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 5209
+                }
+            },
+            "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 26,
+        "total_size_bytes": 229608,
+        "total_size_mb": 0.2200000000000000011102230246251565404236316680908203125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 129158,
+        "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875,
+        "max_file_name": "memorization/directory.html"
+    }
+}

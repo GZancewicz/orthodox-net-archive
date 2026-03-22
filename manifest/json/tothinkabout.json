@@ -1,0 +1,78 @@
+{
+    "generated": "2026-03-22T15:30:33+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "tothinkabout",
+            "file_count": 73,
+            "total_size_bytes": 887030,
+            "total_size_mb": 0.84999999999999997779553950749686919152736663818359375,
+            "max_file_size_bytes": 301650,
+            "max_file_name": "tothinkabout/directory.html",
+            "subdirectories": [
+                {
+                    "path": "tothinkabout/data",
+                    "file_count": 1,
+                    "total_size_bytes": 606,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 606,
+                    "max_file_name": "tothinkabout/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 606
+                        }
+                    },
+                    "max_file_size_mb": 0
+                },
+                {
+                    "path": "tothinkabout/rubrics",
+                    "file_count": 44,
+                    "total_size_bytes": 453434,
+                    "total_size_mb": 0.429999999999999993338661852249060757458209991455078125,
+                    "max_file_size_bytes": 19912,
+                    "max_file_name": "tothinkabout/rubrics/08-sunday-after-pentecost-2001.html",
+                    "subdirectories": [],
+                    "extensions": {
+                        "html": {
+                            "count": 34,
+                            "size_bytes": 360983
+                        },
+                        "shtml": {
+                            "count": 8,
+                            "size_bytes": 91829
+                        },
+                        "js": {
+                            "count": 2,
+                            "size_bytes": 622
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 27,
+                    "size_bytes": 432501
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 489
+                }
+            },
+            "max_file_size_mb": 0.289999999999999980015985556747182272374629974365234375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 73,
+        "total_size_bytes": 887030,
+        "total_size_mb": 0.84999999999999997779553950749686919152736663818359375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 301650,
+        "max_file_size_mb": 0.289999999999999980015985556747182272374629974365234375,
+        "max_file_name": "tothinkabout/directory.html"
+    }
+}

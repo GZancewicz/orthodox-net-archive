@@ -1,0 +1,66 @@
+{
+    "generated": "2026-03-22T15:30:15+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "dailylent",
+            "file_count": 69,
+            "total_size_bytes": 1559699,
+            "total_size_mb": 1.4899999999999999911182158029987476766109466552734375,
+            "max_file_size_bytes": 106510,
+            "max_file_name": "dailylent/great-lent-week-04-wednesday_2010-03-10+matins,stavrotheotokion+a-sword-shall-pierce-through-thy-own-soul.doc",
+            "subdirectories": [
+                {
+                    "path": "dailylent/data",
+                    "file_count": 2,
+                    "total_size_bytes": 20939,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 11936,
+                    "max_file_name": "dailylent/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 2,
+                            "size_bytes": 20939
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 44,
+                    "size_bytes": 697433
+                },
+                "doc": {
+                    "count": 20,
+                    "size_bytes": 801636
+                },
+                "m3u": {
+                    "count": 1,
+                    "size_bytes": 149
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 38770
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 772
+                }
+            },
+            "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 69,
+        "total_size_bytes": 1559699,
+        "total_size_mb": 1.4899999999999999911182158029987476766109466552734375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 106510,
+        "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+        "max_file_name": "dailylent/great-lent-week-04-wednesday_2010-03-10+matins,stavrotheotokion+a-sword-shall-pierce-through-thy-own-soul.doc"
+    }
+}

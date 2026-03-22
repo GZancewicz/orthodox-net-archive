@@ -1,0 +1,49 @@
+{
+    "generated": "2026-03-22T15:30:26+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "pilot",
+            "file_count": 24,
+            "total_size_bytes": 296733,
+            "total_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+            "max_file_size_bytes": 210168,
+            "max_file_name": "pilot/directory.html",
+            "subdirectories": [
+                {
+                    "path": "pilot/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 22,
+                    "size_bytes": 295647
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1086
+                }
+            },
+            "max_file_size_mb": 0.200000000000000011102230246251565404236316680908203125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 24,
+        "total_size_bytes": 296733,
+        "total_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 210168,
+        "max_file_size_mb": 0.200000000000000011102230246251565404236316680908203125,
+        "max_file_name": "pilot/directory.html"
+    }
+}

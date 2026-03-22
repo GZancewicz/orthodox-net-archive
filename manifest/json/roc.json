@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:29+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "roc",
+            "file_count": 30,
+            "total_size_bytes": 422223,
+            "total_size_mb": 0.40000000000000002220446049250313080847263336181640625,
+            "max_file_size_bytes": 245940,
+            "max_file_name": "roc/directory.html",
+            "subdirectories": [
+                {
+                    "path": "roc/data",
+                    "file_count": 1,
+                    "total_size_bytes": 2279,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 2279,
+                    "max_file_name": "roc/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 2279
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 27,
+                    "size_bytes": 418862
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1082
+                }
+            },
+            "max_file_size_mb": 0.2300000000000000099920072216264088638126850128173828125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 30,
+        "total_size_bytes": 422223,
+        "total_size_mb": 0.40000000000000002220446049250313080847263336181640625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 245940,
+        "max_file_size_mb": 0.2300000000000000099920072216264088638126850128173828125,
+        "max_file_name": "roc/directory.html"
+    }
+}

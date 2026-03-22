@@ -1,0 +1,57 @@
+{
+    "generated": "2026-03-22T15:30:17+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "dyptichs",
+            "file_count": 28,
+            "total_size_bytes": 199040,
+            "total_size_mb": 0.190000000000000002220446049250313080847263336181640625,
+            "max_file_size_bytes": 71948,
+            "max_file_name": "dyptichs/directory.html",
+            "subdirectories": [
+                {
+                    "path": "dyptichs/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 24,
+                    "size_bytes": 186395
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1043
+                },
+                "doc": {
+                    "count": 1,
+                    "size_bytes": 6
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 11596
+                }
+            },
+            "max_file_size_mb": 0.070000000000000006661338147750939242541790008544921875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 28,
+        "total_size_bytes": 199040,
+        "total_size_mb": 0.190000000000000002220446049250313080847263336181640625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 71948,
+        "max_file_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+        "max_file_name": "dyptichs/directory.html"
+    }
+}

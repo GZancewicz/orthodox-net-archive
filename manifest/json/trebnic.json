@@ -1,0 +1,90 @@
+{
+    "generated": "2026-03-22T15:30:33+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "trebnic",
+            "file_count": 369,
+            "total_size_bytes": 57311779,
+            "total_size_mb": 54.659999999999996589394868351519107818603515625,
+            "max_file_size_bytes": 3583249,
+            "max_file_name": "trebnic/prayers-for-the-dead+orthodox-and-not-orthodox.pdf",
+            "subdirectories": [
+                {
+                    "path": "trebnic/data",
+                    "file_count": 1,
+                    "total_size_bytes": 21885,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 21885,
+                    "max_file_name": "trebnic/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 21885
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 136,
+                    "size_bytes": 1827053
+                },
+                "docx": {
+                    "count": 15,
+                    "size_bytes": 653039
+                },
+                "pdf": {
+                    "count": 107,
+                    "size_bytes": 36440726
+                },
+                "doc": {
+                    "count": 79,
+                    "size_bytes": 17606318
+                },
+                "rtf": {
+                    "count": 24,
+                    "size_bytes": 715639
+                },
+                "txt": {
+                    "count": 1,
+                    "size_bytes": 1579
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1044
+                },
+                "bak": {
+                    "count": 1,
+                    "size_bytes": 33035
+                },
+                "dra": {
+                    "count": 1,
+                    "size_bytes": 1536
+                },
+                "pdb": {
+                    "count": 1,
+                    "size_bytes": 1911
+                },
+                "shtml": {
+                    "count": 1,
+                    "size_bytes": 8014
+                }
+            },
+            "max_file_size_mb": 3.4199999999999999289457264239899814128875732421875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 369,
+        "total_size_bytes": 57311779,
+        "total_size_mb": 54.659999999999996589394868351519107818603515625,
+        "total_size_gb": 0.05000000000000000277555756156289135105907917022705078125,
+        "max_file_size_bytes": 3583249,
+        "max_file_size_mb": 3.4199999999999999289457264239899814128875732421875,
+        "max_file_name": "trebnic/prayers-for-the-dead+orthodox-and-not-orthodox.pdf"
+    }
+}

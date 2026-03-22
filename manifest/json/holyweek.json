@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:19+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "holyweek",
+            "file_count": 31,
+            "total_size_bytes": 298585,
+            "total_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+            "max_file_size_bytes": 109262,
+            "max_file_name": "holyweek/directory.html",
+            "subdirectories": [
+                {
+                    "path": "holyweek/data",
+                    "file_count": 1,
+                    "total_size_bytes": 883,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 883,
+                    "max_file_name": "holyweek/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 883
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 28,
+                    "size_bytes": 296638
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1064
+                }
+            },
+            "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 31,
+        "total_size_bytes": 298585,
+        "total_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 109262,
+        "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+        "max_file_name": "holyweek/directory.html"
+    }
+}

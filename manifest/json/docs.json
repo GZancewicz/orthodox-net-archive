@@ -1,0 +1,57 @@
+{
+    "generated": "2026-03-22T15:30:16+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "docs",
+            "file_count": 28,
+            "total_size_bytes": 1174096,
+            "total_size_mb": 1.12000000000000010658141036401502788066864013671875,
+            "max_file_size_bytes": 607357,
+            "max_file_name": "docs/cart2002quickstart.pdf",
+            "subdirectories": [
+                {
+                    "path": "docs/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "pdf": {
+                    "count": 3,
+                    "size_bytes": 1014757
+                },
+                "html": {
+                    "count": 21,
+                    "size_bytes": 150040
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1070
+                },
+                "doc": {
+                    "count": 2,
+                    "size_bytes": 8229
+                }
+            },
+            "max_file_size_mb": 0.57999999999999996003197111349436454474925994873046875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 28,
+        "total_size_bytes": 1174096,
+        "total_size_mb": 1.12000000000000010658141036401502788066864013671875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 607357,
+        "max_file_size_mb": 0.57999999999999996003197111349436454474925994873046875,
+        "max_file_name": "docs/cart2002quickstart.pdf"
+    }
+}

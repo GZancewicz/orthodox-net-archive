@@ -1,0 +1,66 @@
+{
+    "generated": "2026-03-22T15:30:33+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "ustav",
+            "file_count": 117,
+            "total_size_bytes": 1730327,
+            "total_size_mb": 1.649999999999999911182158029987476766109466552734375,
+            "max_file_size_bytes": 311292,
+            "max_file_name": "ustav/directory.html",
+            "subdirectories": [
+                {
+                    "path": "ustav/data",
+                    "file_count": 1,
+                    "total_size_bytes": 7919,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 7919,
+                    "max_file_name": "ustav/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 7919
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 104,
+                    "size_bytes": 1520719
+                },
+                "pdf": {
+                    "count": 2,
+                    "size_bytes": 116344
+                },
+                "shtml": {
+                    "count": 7,
+                    "size_bytes": 53614
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1227
+                },
+                "rtf": {
+                    "count": 1,
+                    "size_bytes": 30504
+                }
+            },
+            "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 117,
+        "total_size_bytes": 1730327,
+        "total_size_mb": 1.649999999999999911182158029987476766109466552734375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 311292,
+        "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+        "max_file_name": "ustav/directory.html"
+    }
+}

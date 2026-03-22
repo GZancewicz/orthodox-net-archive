@@ -1,0 +1,90 @@
+{
+    "generated": "2026-03-22T15:30:14+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "catechism",
+            "file_count": 210,
+            "total_size_bytes": 44116576,
+            "total_size_mb": 42.07000000000000028421709430404007434844970703125,
+            "max_file_size_bytes": 14513151,
+            "max_file_name": "catechism/orthopraxis_2015+fasting-wars-against-pride+adam-and-eve.mp3",
+            "subdirectories": [
+                {
+                    "path": "catechism/data",
+                    "file_count": 2,
+                    "total_size_bytes": 76668,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 43075,
+                    "max_file_name": "catechism/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 2,
+                            "size_bytes": 76668
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                }
+            ],
+            "extensions": {
+                "m3u": {
+                    "count": 71,
+                    "size_bytes": 7807
+                },
+                "docx": {
+                    "count": 18,
+                    "size_bytes": 1341940
+                },
+                "pdf": {
+                    "count": 31,
+                    "size_bytes": 9733418
+                },
+                "doc": {
+                    "count": 40,
+                    "size_bytes": 16747112
+                },
+                "html": {
+                    "count": 39,
+                    "size_bytes": 680419
+                },
+                "xml": {
+                    "count": 1,
+                    "size_bytes": 45276
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 752
+                },
+                "jpg": {
+                    "count": 1,
+                    "size_bytes": 878719
+                },
+                "mp3": {
+                    "count": 1,
+                    "size_bytes": 14513151
+                },
+                "rtf": {
+                    "count": 1,
+                    "size_bytes": 90661
+                },
+                "wax": {
+                    "count": 4,
+                    "size_bytes": 653
+                }
+            },
+            "max_file_size_mb": 13.839999999999999857891452847979962825775146484375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 210,
+        "total_size_bytes": 44116576,
+        "total_size_mb": 42.07000000000000028421709430404007434844970703125,
+        "total_size_gb": 0.040000000000000000832667268468867405317723751068115234375,
+        "max_file_size_bytes": 14513151,
+        "max_file_size_mb": 13.839999999999999857891452847979962825775146484375,
+        "max_file_name": "catechism/orthopraxis_2015+fasting-wars-against-pride+adam-and-eve.mp3"
+    }
+}

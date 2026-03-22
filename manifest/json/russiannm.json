@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:30+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "russiannm",
+            "file_count": 260,
+            "total_size_bytes": 6338982,
+            "total_size_mb": 6.04999999999999982236431605997495353221893310546875,
+            "max_file_size_bytes": 255768,
+            "max_file_name": "russiannm/directory.html",
+            "subdirectories": [
+                {
+                    "path": "russiannm/data",
+                    "file_count": 1,
+                    "total_size_bytes": 20044,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 20044,
+                    "max_file_name": "russiannm/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 20044
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 257,
+                    "size_bytes": 6317616
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1322
+                }
+            },
+            "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 260,
+        "total_size_bytes": 6338982,
+        "total_size_mb": 6.04999999999999982236431605997495353221893310546875,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 255768,
+        "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375,
+        "max_file_name": "russiannm/directory.html"
+    }
+}

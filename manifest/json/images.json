@@ -1,0 +1,61 @@
+{
+    "generated": "2026-03-22T15:30:20+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "images",
+            "file_count": 138,
+            "total_size_bytes": 15997763,
+            "total_size_mb": 15.2599999999999997868371792719699442386627197265625,
+            "max_file_size_bytes": 2423940,
+            "max_file_name": "images/visitor-sunday-2010-10-10.pdf",
+            "subdirectories": [
+                {
+                    "path": "images/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "jpg": {
+                    "count": 94,
+                    "size_bytes": 11126310
+                },
+                "gif": {
+                    "count": 21,
+                    "size_bytes": 275199
+                },
+                "html": {
+                    "count": 21,
+                    "size_bytes": 187485
+                },
+                "png": {
+                    "count": 1,
+                    "size_bytes": 1984829
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 2423940
+                }
+            },
+            "max_file_size_mb": 2.310000000000000053290705182007513940334320068359375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 138,
+        "total_size_bytes": 15997763,
+        "total_size_mb": 15.2599999999999997868371792719699442386627197265625,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 2423940,
+        "max_file_size_mb": 2.310000000000000053290705182007513940334320068359375,
+        "max_file_name": "images/visitor-sunday-2010-10-10.pdf"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "generated": "2026-03-22T15:30:20+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "ikons",
+            "file_count": 617,
+            "total_size_bytes": 97487169,
+            "total_size_mb": 92.969999999999998863131622783839702606201171875,
+            "max_file_size_bytes": 13395152,
+            "max_file_name": "ikons/AirDroid_Desktop_Client_3.2.1.1.exe",
+            "subdirectories": [
+                {
+                    "path": "ikons/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                },
+                {
+                    "path": "ikons/last-upload.all",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                },
+                {
+                    "path": "ikons/txt",
+                    "file_count": 26,
+                    "total_size_bytes": 190416,
+                    "total_size_mb": 0.179999999999999993338661852249060757458209991455078125,
+                    "max_file_size_bytes": 111291,
+                    "max_file_name": "ikons/txt/directory.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 21,
+                            "size_bytes": 156970
+                        },
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 1051
+                        },
+                        "js": {
+                            "count": 1,
+                            "size_bytes": 503
+                        },
+                        "data": {
+                            "count": 1,
+                            "size_bytes": 3220
+                        },
+                        "xls": {
+                            "count": 1,
+                            "size_bytes": 28672
+                        }
+                    },
+                    "max_file_size_mb": 0.11000000000000000055511151231257827021181583404541015625
+                }
+            ],
+            "extensions": {
+                "jpg": {
+                    "count": 522,
+                    "size_bytes": 75050254
+                },
+                "exe": {
+                    "count": 1,
+                    "size_bytes": 13395152
+                },
+                "gif": {
+                    "count": 22,
+                    "size_bytes": 1248231
+                },
+                "html": {
+                    "count": 21,
+                    "size_bytes": 202911
+                },
+                "txt": {
+                    "count": 10,
+                    "size_bytes": 75239
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1056
+                },
+                "png": {
+                    "count": 9,
+                    "size_bytes": 6920656
+                },
+                "php": {
+                    "count": 1,
+                    "size_bytes": 48306
+                },
+                "bak": {
+                    "count": 1,
+                    "size_bytes": 0
+                },
+                "": {
+                    "count": 2,
+                    "size_bytes": 354948
+                }
+            },
+            "max_file_size_mb": 12.769999999999999573674358543939888477325439453125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 617,
+        "total_size_bytes": 97487169,
+        "total_size_mb": 92.969999999999998863131622783839702606201171875,
+        "total_size_gb": 0.0899999999999999966693309261245303787291049957275390625,
+        "max_file_size_bytes": 13395152,
+        "max_file_size_mb": 12.769999999999999573674358543939888477325439453125,
+        "max_file_name": "ikons/AirDroid_Desktop_Client_3.2.1.1.exe"
+    }
+}

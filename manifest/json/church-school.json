@@ -1,0 +1,62 @@
+{
+    "generated": "2026-03-22T15:30:14+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "church-school",
+            "file_count": 9,
+            "total_size_bytes": 732226,
+            "total_size_mb": 0.6999999999999999555910790149937383830547332763671875,
+            "max_file_size_bytes": 400111,
+            "max_file_name": "church-school/church-school-adult-class-003_2017-10-01.pdf",
+            "subdirectories": [
+                {
+                    "path": "church-school/data",
+                    "file_count": 1,
+                    "total_size_bytes": 1189,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 1189,
+                    "max_file_name": "church-school/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1189
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 2,
+                    "size_bytes": 72728
+                },
+                "pdf": {
+                    "count": 2,
+                    "size_bytes": 652466
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 700
+                },
+                "html": {
+                    "count": 2,
+                    "size_bytes": 5143
+                }
+            },
+            "max_file_size_mb": 0.38000000000000000444089209850062616169452667236328125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 9,
+        "total_size_bytes": 732226,
+        "total_size_mb": 0.6999999999999999555910790149937383830547332763671875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 400111,
+        "max_file_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+        "max_file_name": "church-school/church-school-adult-class-003_2017-10-01.pdf"
+    }
+}

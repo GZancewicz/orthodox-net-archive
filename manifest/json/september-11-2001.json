@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:30+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "september-11-2001",
+            "file_count": 35,
+            "total_size_bytes": 477156,
+            "total_size_mb": 0.460000000000000019984014443252817727625370025634765625,
+            "max_file_size_bytes": 268830,
+            "max_file_name": "september-11-2001/directory.html",
+            "subdirectories": [
+                {
+                    "path": "september-11-2001/data",
+                    "file_count": 1,
+                    "total_size_bytes": 7067,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 7067,
+                    "max_file_name": "september-11-2001/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 7067
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 33,
+                    "size_bytes": 469586
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 503
+                }
+            },
+            "max_file_size_mb": 0.2600000000000000088817841970012523233890533447265625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 35,
+        "total_size_bytes": 477156,
+        "total_size_mb": 0.460000000000000019984014443252817727625370025634765625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 268830,
+        "max_file_size_mb": 0.2600000000000000088817841970012523233890533447265625,
+        "max_file_name": "september-11-2001/directory.html"
+    }
+}

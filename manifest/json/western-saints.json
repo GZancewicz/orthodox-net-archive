@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:34+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "western-saints",
+            "file_count": 40,
+            "total_size_bytes": 640759,
+            "total_size_mb": 0.60999999999999998667732370449812151491641998291015625,
+            "max_file_size_bytes": 314064,
+            "max_file_name": "western-saints/directory.html",
+            "subdirectories": [
+                {
+                    "path": "western-saints/data",
+                    "file_count": 1,
+                    "total_size_bytes": 2020,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 2020,
+                    "max_file_name": "western-saints/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 2020
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 37,
+                    "size_bytes": 637456
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1283
+                }
+            },
+            "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 40,
+        "total_size_bytes": 640759,
+        "total_size_mb": 0.60999999999999998667732370449812151491641998291015625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 314064,
+        "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+        "max_file_name": "western-saints/directory.html"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "generated": "2026-03-22T15:30:31+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "sermons-index",
+            "file_count": 25,
+            "total_size_bytes": 417013,
+            "total_size_mb": 0.40000000000000002220446049250313080847263336181640625,
+            "max_file_size_bytes": 279102,
+            "max_file_name": "sermons-index/directory.html",
+            "subdirectories": [
+                {
+                    "path": "sermons-index/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 23,
+                    "size_bytes": 415865
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1148
+                }
+            },
+            "max_file_size_mb": 0.270000000000000017763568394002504646778106689453125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 25,
+        "total_size_bytes": 417013,
+        "total_size_mb": 0.40000000000000002220446049250313080847263336181640625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 279102,
+        "max_file_size_mb": 0.270000000000000017763568394002504646778106689453125,
+        "max_file_name": "sermons-index/directory.html"
+    }
+}

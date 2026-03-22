@@ -1,0 +1,58 @@
+{
+    "generated": "2026-03-22T15:30:24+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "microbiology",
+            "file_count": 24,
+            "total_size_bytes": 302555,
+            "total_size_mb": 0.289999999999999980015985556747182272374629974365234375,
+            "max_file_size_bytes": 172032,
+            "max_file_name": "microbiology/directory.html",
+            "subdirectories": [
+                {
+                    "path": "microbiology/data",
+                    "file_count": 1,
+                    "total_size_bytes": 8631,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 8631,
+                    "max_file_name": "microbiology/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 8631
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "htaccess": {
+                    "count": 1,
+                    "size_bytes": 17
+                },
+                "html": {
+                    "count": 21,
+                    "size_bytes": 293463
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 444
+                }
+            },
+            "max_file_size_mb": 0.1600000000000000033306690738754696212708950042724609375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 24,
+        "total_size_bytes": 302555,
+        "total_size_mb": 0.289999999999999980015985556747182272374629974365234375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 172032,
+        "max_file_size_mb": 0.1600000000000000033306690738754696212708950042724609375,
+        "max_file_name": "microbiology/directory.html"
+    }
+}

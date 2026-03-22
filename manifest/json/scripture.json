@@ -1,0 +1,89 @@
+{
+    "generated": "2026-03-22T15:30:30+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "scripture",
+            "file_count": 188,
+            "total_size_bytes": 9135209,
+            "total_size_mb": 8.71000000000000085265128291212022304534912109375,
+            "max_file_size_bytes": 645762,
+            "max_file_name": "scripture/psalms_2018+blessed-is-the-man+all-sins-are-from-a-progression-of-thought_psalm1.pdf",
+            "subdirectories": [
+                {
+                    "path": "scripture/data",
+                    "file_count": 1,
+                    "total_size_bytes": 17395,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 17395,
+                    "max_file_name": "scripture/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 17395
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "scripture/txt",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "pdf": {
+                    "count": 45,
+                    "size_bytes": 4854878
+                },
+                "rtf": {
+                    "count": 51,
+                    "size_bytes": 1682521
+                },
+                "doc": {
+                    "count": 31,
+                    "size_bytes": 1434232
+                },
+                "html": {
+                    "count": 54,
+                    "size_bytes": 1117272
+                },
+                "xml": {
+                    "count": 1,
+                    "size_bytes": 3344
+                },
+                "bak": {
+                    "count": 2,
+                    "size_bytes": 23843
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1072
+                },
+                "pl": {
+                    "count": 1,
+                    "size_bytes": 652
+                }
+            },
+            "max_file_size_mb": 0.61999999999999999555910790149937383830547332763671875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 188,
+        "total_size_bytes": 9135209,
+        "total_size_mb": 8.71000000000000085265128291212022304534912109375,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 645762,
+        "max_file_size_mb": 0.61999999999999999555910790149937383830547332763671875,
+        "max_file_name": "scripture/psalms_2018+blessed-is-the-man+all-sins-are-from-a-progression-of-thought_psalm1.pdf"
+    }
+}

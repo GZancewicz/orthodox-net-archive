@@ -1,0 +1,37 @@
+{
+    "generated": "2026-03-22T15:30:18+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "goodtoknow",
+            "file_count": 2,
+            "total_size_bytes": 125566,
+            "total_size_mb": 0.11999999999999999555910790149937383830547332763671875,
+            "max_file_size_bytes": 109076,
+            "max_file_name": "goodtoknow/2009-08.doc",
+            "subdirectories": [],
+            "extensions": {
+                "doc": {
+                    "count": 1,
+                    "size_bytes": 109076
+                },
+                "html": {
+                    "count": 1,
+                    "size_bytes": 16490
+                }
+            },
+            "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 2,
+        "total_size_bytes": 125566,
+        "total_size_mb": 0.11999999999999999555910790149937383830547332763671875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 109076,
+        "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+        "max_file_name": "goodtoknow/2009-08.doc"
+    }
+}

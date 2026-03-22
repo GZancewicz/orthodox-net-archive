@@ -87,10 +87,15 @@
       "Bash(ssh -i ~/.ssh/id_rsa_orthodox -p 22 nicholas@hikina.inoatech.com \"echo ''Connection successful!'' && whoami && hostname\")",
       "Bash(ssh -i ~/.ssh/id_rsa_orthodox -p 22 -o BatchMode=yes -o ConnectTimeout=10 nicholas@hikina.inoatech.com \"echo ''Connection successful!'' && whoami && hostname\")",
       "Bash(ssh -i ~/.ssh/id_rsa_orthodox -p 722 -o BatchMode=yes -o ConnectTimeout=10 nicholas@hikina.inoatech.com \"echo ''Connection successful!'' && whoami && hostname\")",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(MANIFEST_DIR=\"/Users/gregzancewicz/Documents/Other/Projects/github/St Nicholas/orthodox-net-archive/manifest\")",
+      "Bash(__NEW_LINE_64b6371cb6df8057__ python3 -c \":*)",
+      "Bash(__NEW_LINE_cd15aed9d8fe673b__ python3 -c \":*)",
+      "Bash(__NEW_LINE_0c244086241a4b76__ python3 -c \":*)"
     ],
     "additionalDirectories": [
-      "/Users/gregzancewicz/.ssh"
+      "/Users/gregzancewicz/.ssh",
+      "/Users/gregzancewicz/Documents/Other/Projects/github/St Nicholas/orthodox-net-archive/manifest"
     ]
   }
 }

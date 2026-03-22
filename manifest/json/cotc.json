@@ -1,0 +1,65 @@
+{
+    "generated": "2026-03-22T15:30:15+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "cotc",
+            "file_count": 69,
+            "total_size_bytes": 312723,
+            "total_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+            "max_file_size_bytes": 57092,
+            "max_file_name": "cotc/directory.html",
+            "subdirectories": [
+                {
+                    "path": "cotc/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                },
+                {
+                    "path": "cotc/images",
+                    "file_count": 1,
+                    "total_size_bytes": 19296,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 19296,
+                    "max_file_name": "cotc/images/dormition.gif",
+                    "subdirectories": [],
+                    "extensions": {
+                        "gif": {
+                            "count": 1,
+                            "size_bytes": 19296
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 66,
+                    "size_bytes": 292356
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1071
+                }
+            },
+            "max_file_size_mb": 0.05000000000000000277555756156289135105907917022705078125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 69,
+        "total_size_bytes": 312723,
+        "total_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 57092,
+        "max_file_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+        "max_file_name": "cotc/directory.html"
+    }
+}

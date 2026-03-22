@@ -1,0 +1,58 @@
+{
+    "generated": "2026-03-22T15:30:25+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "newsletter",
+            "file_count": 26,
+            "total_size_bytes": 338801,
+            "total_size_mb": 0.320000000000000006661338147750939242541790008544921875,
+            "max_file_size_bytes": 192036,
+            "max_file_name": "newsletter/directory.html",
+            "subdirectories": [
+                {
+                    "path": "newsletter/data",
+                    "file_count": 1,
+                    "total_size_bytes": 606,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 606,
+                    "max_file_name": "newsletter/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 606
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 22,
+                    "size_bytes": 291816
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1313
+                },
+                "doc": {
+                    "count": 1,
+                    "size_bytes": 45066
+                }
+            },
+            "max_file_size_mb": 0.179999999999999993338661852249060757458209991455078125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 26,
+        "total_size_bytes": 338801,
+        "total_size_mb": 0.320000000000000006661338147750939242541790008544921875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 192036,
+        "max_file_size_mb": 0.179999999999999993338661852249060757458209991455078125,
+        "max_file_name": "newsletter/directory.html"
+    }
+}

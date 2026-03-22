@@ -1,0 +1,74 @@
+{
+    "generated": "2026-03-22T15:30:16+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "daniel",
+            "file_count": 81,
+            "total_size_bytes": 50407563,
+            "total_size_mb": 48.07000000000000028421709430404007434844970703125,
+            "max_file_size_bytes": 8594432,
+            "max_file_name": "daniel/dyptichs-daniels-list.doc",
+            "subdirectories": [
+                {
+                    "path": "daniel/data",
+                    "file_count": 1,
+                    "total_size_bytes": 18379,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 18379,
+                    "max_file_name": "daniel/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 18379
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 20,
+                    "size_bytes": 20039516
+                },
+                "pdf": {
+                    "count": 18,
+                    "size_bytes": 10976215
+                },
+                "jpg": {
+                    "count": 33,
+                    "size_bytes": 17727936
+                },
+                "docx": {
+                    "count": 1,
+                    "size_bytes": 508278
+                },
+                "html": {
+                    "count": 6,
+                    "size_bytes": 520782
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 662
+                },
+                "png": {
+                    "count": 1,
+                    "size_bytes": 615795
+                }
+            },
+            "max_file_size_mb": 8.199999999999999289457264239899814128875732421875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 81,
+        "total_size_bytes": 50407563,
+        "total_size_mb": 48.07000000000000028421709430404007434844970703125,
+        "total_size_gb": 0.05000000000000000277555756156289135105907917022705078125,
+        "max_file_size_bytes": 8594432,
+        "max_file_size_mb": 8.199999999999999289457264239899814128875732421875,
+        "max_file_name": "daniel/dyptichs-daniels-list.doc"
+    }
+}

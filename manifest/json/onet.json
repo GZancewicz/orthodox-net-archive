@@ -1,0 +1,1131 @@
+{
+    "generated": "2026-03-22T15:30:25+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "onet",
+            "file_count": 890,
+            "total_size_bytes": 15078182,
+            "total_size_mb": 14.3800000000000007815970093361102044582366943359375,
+            "max_file_size_bytes": 1935241,
+            "max_file_name": "onet/sermons/index.html",
+            "subdirectories": [
+                {
+                    "path": "onet/aboutus",
+                    "file_count": 2,
+                    "total_size_bytes": 65198,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 44165,
+                    "max_file_name": "onet/aboutus/testimony.html",
+                    "subdirectories": [],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 65198
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                },
+                {
+                    "path": "onet/archive",
+                    "file_count": 4,
+                    "total_size_bytes": 111337,
+                    "total_size_mb": 0.11000000000000000055511151231257827021181583404541015625,
+                    "max_file_size_bytes": 33983,
+                    "max_file_name": "onet/archive/index_v1.html",
+                    "subdirectories": [],
+                    "extensions": {
+                        "html": {
+                            "count": 4,
+                            "size_bytes": 111337
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "onet/articles",
+                    "file_count": 10,
+                    "total_size_bytes": 240795,
+                    "total_size_mb": 0.2300000000000000099920072216264088638126850128173828125,
+                    "max_file_size_bytes": 63336,
+                    "max_file_name": "onet/articles/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/articles/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16266,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16266,
+                            "max_file_name": "onet/articles/new/article_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16266
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 8,
+                            "size_bytes": 223642
+                        },
+                        "py": {
+                            "count": 1,
+                            "size_bytes": 887
+                        }
+                    },
+                    "max_file_size_mb": 0.059999999999999997779553950749686919152736663818359375
+                },
+                {
+                    "path": "onet/calendar",
+                    "file_count": 395,
+                    "total_size_bytes": 2332863,
+                    "total_size_mb": 2.220000000000000195399252334027551114559173583984375,
+                    "max_file_size_bytes": 11666,
+                    "max_file_name": "onet/calendar/data/2024-02-25.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/calendar/data",
+                            "file_count": 393,
+                            "total_size_bytes": 2321518,
+                            "total_size_mb": 2.20999999999999996447286321199499070644378662109375,
+                            "max_file_size_bytes": 11666,
+                            "max_file_name": "onet/calendar/data/2024-02-25.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 393,
+                                    "size_bytes": 2321518
+                                }
+                            },
+                            "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                        }
+                    ],
+                    "extensions": {
+                        "ds_store": {
+                            "count": 1,
+                            "size_bytes": 6148
+                        },
+                        "html": {
+                            "count": 1,
+                            "size_bytes": 5197
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                },
+                {
+                    "path": "onet/catechism",
+                    "file_count": 221,
+                    "total_size_bytes": 2035693,
+                    "total_size_mb": 1.939999999999999946709294817992486059665679931640625,
+                    "max_file_size_bytes": 70299,
+                    "max_file_name": "onet/catechism/test.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/catechism/questions",
+                            "file_count": 177,
+                            "total_size_bytes": 968174,
+                            "total_size_mb": 0.92000000000000003996802888650563545525074005126953125,
+                            "max_file_size_bytes": 31185,
+                            "max_file_name": "onet/catechism/questions/text/symbol-of-faith-02-a.txt",
+                            "subdirectories": [
+                                {
+                                    "path": "onet/catechism/questions/text",
+                                    "file_count": 174,
+                                    "total_size_bytes": 910419,
+                                    "total_size_mb": 0.86999999999999999555910790149937383830547332763671875,
+                                    "max_file_size_bytes": 31185,
+                                    "max_file_name": "onet/catechism/questions/text/symbol-of-faith-02-a.txt",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "txt": {
+                                            "count": 174,
+                                            "size_bytes": 910419
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                                }
+                            ],
+                            "extensions": {
+                                "html": {
+                                    "count": 2,
+                                    "size_bytes": 36012
+                                },
+                                "json": {
+                                    "count": 1,
+                                    "size_bytes": 21743
+                                }
+                            },
+                            "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                        }
+                    ],
+                    "extensions": {
+                        "ds_store": {
+                            "count": 1,
+                            "size_bytes": 6148
+                        },
+                        "json": {
+                            "count": 1,
+                            "size_bytes": 25027
+                        },
+                        "html": {
+                            "count": 42,
+                            "size_bytes": 1036344
+                        }
+                    },
+                    "max_file_size_mb": 0.070000000000000006661338147750939242541790008544921875
+                },
+                {
+                    "path": "onet/confess",
+                    "file_count": 3,
+                    "total_size_bytes": 49442,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 22365,
+                    "max_file_name": "onet/confess/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/confess/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16185,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16185,
+                            "max_file_name": "onet/confess/new/confess_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16185
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 33257
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/css",
+                    "file_count": 20,
+                    "total_size_bytes": 150698,
+                    "total_size_mb": 0.14000000000000001332267629550187848508358001708984375,
+                    "max_file_size_bytes": 11452,
+                    "max_file_name": "onet/css/skeleton.css",
+                    "subdirectories": [
+                        {
+                            "path": "onet/css/archive",
+                            "file_count": 14,
+                            "total_size_bytes": 116879,
+                            "total_size_mb": 0.11000000000000000055511151231257827021181583404541015625,
+                            "max_file_size_bytes": 10888,
+                            "max_file_name": "onet/css/archive/style_v13.css",
+                            "subdirectories": [],
+                            "extensions": {
+                                "css": {
+                                    "count": 14,
+                                    "size_bytes": 116879
+                                }
+                            },
+                            "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                        }
+                    ],
+                    "extensions": {
+                        "css": {
+                            "count": 6,
+                            "size_bytes": 33819
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                },
+                {
+                    "path": "onet/fathers",
+                    "file_count": 3,
+                    "total_size_bytes": 59692,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 23487,
+                    "max_file_name": "onet/fathers/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/fathers/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16211,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16211,
+                            "max_file_name": "onet/fathers/new/fathers_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16211
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 43481
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/full-voice",
+                    "file_count": 3,
+                    "total_size_bytes": 238499,
+                    "total_size_mb": 0.2300000000000000099920072216264088638126850128173828125,
+                    "max_file_size_bytes": 121542,
+                    "max_file_name": "onet/full-voice/_index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/full-voice/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16266,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16266,
+                            "max_file_name": "onet/full-voice/new/fullvoice_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16266
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 222233
+                        }
+                    },
+                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                },
+                {
+                    "path": "onet/gleanings",
+                    "file_count": 6,
+                    "total_size_bytes": 161900,
+                    "total_size_mb": 0.1499999999999999944488848768742172978818416595458984375,
+                    "max_file_size_bytes": 99299,
+                    "max_file_name": "onet/gleanings/gleanings.json",
+                    "subdirectories": [
+                        {
+                            "path": "onet/gleanings/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16183,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16183,
+                            "max_file_name": "onet/gleanings/new/gleanings_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16183
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 3,
+                            "size_bytes": 40228
+                        },
+                        "json": {
+                            "count": 2,
+                            "size_bytes": 105489
+                        }
+                    },
+                    "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625
+                },
+                {
+                    "path": "onet/greatlent",
+                    "file_count": 3,
+                    "total_size_bytes": 95664,
+                    "total_size_mb": 0.0899999999999999966693309261245303787291049957275390625,
+                    "max_file_size_bytes": 47060,
+                    "max_file_name": "onet/greatlent/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/greatlent/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16271,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16271,
+                            "max_file_name": "onet/greatlent/new/greatlent_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16271
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 79393
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                },
+                {
+                    "path": "onet/images",
+                    "file_count": 16,
+                    "total_size_bytes": 3682053,
+                    "total_size_mb": 3.5099999999999997868371792719699442386627197265625,
+                    "max_file_size_bytes": 1788089,
+                    "max_file_name": "onet/images/herbal_remedies.png",
+                    "subdirectories": [],
+                    "extensions": {
+                        "jpg": {
+                            "count": 3,
+                            "size_bytes": 68812
+                        },
+                        "jpeg": {
+                            "count": 6,
+                            "size_bytes": 1293081
+                        },
+                        "png": {
+                            "count": 5,
+                            "size_bytes": 2284174
+                        },
+                        "webp": {
+                            "count": 2,
+                            "size_bytes": 35986
+                        }
+                    },
+                    "max_file_size_mb": 1.70999999999999996447286321199499070644378662109375
+                },
+                {
+                    "path": "onet/journal",
+                    "file_count": 3,
+                    "total_size_bytes": 152568,
+                    "total_size_mb": 0.1499999999999999944488848768742172978818416595458984375,
+                    "max_file_size_bytes": 69443,
+                    "max_file_name": "onet/journal/_index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/journal/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16172,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16172,
+                            "max_file_name": "onet/journal/new/journal_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16172
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 136396
+                        }
+                    },
+                    "max_file_size_mb": 0.070000000000000006661338147750939242541790008544921875
+                },
+                {
+                    "path": "onet/js",
+                    "file_count": 111,
+                    "total_size_bytes": 630761,
+                    "total_size_mb": 0.59999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 99299,
+                    "max_file_name": "onet/js/gleanings-topics.json",
+                    "subdirectories": [
+                        {
+                            "path": "onet/js/archive",
+                            "file_count": 46,
+                            "total_size_bytes": 180398,
+                            "total_size_mb": 0.1700000000000000122124532708767219446599483489990234375,
+                            "max_file_size_bytes": 10545,
+                            "max_file_name": "onet/js/archive/fetch_all_posts_v9.js",
+                            "subdirectories": [],
+                            "extensions": {
+                                "js": {
+                                    "count": 46,
+                                    "size_bytes": 180398
+                                }
+                            },
+                            "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                        }
+                    ],
+                    "extensions": {
+                        "js": {
+                            "count": 61,
+                            "size_bytes": 348174
+                        },
+                        "backup": {
+                            "count": 1,
+                            "size_bytes": 362
+                        },
+                        "save": {
+                            "count": 1,
+                            "size_bytes": 365
+                        },
+                        "md": {
+                            "count": 1,
+                            "size_bytes": 2163
+                        },
+                        "json": {
+                            "count": 1,
+                            "size_bytes": 99299
+                        }
+                    },
+                    "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625
+                },
+                {
+                    "path": "onet/links",
+                    "file_count": 3,
+                    "total_size_bytes": 51376,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 24703,
+                    "max_file_name": "onet/links/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/links/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16806,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16806,
+                            "max_file_name": "onet/links/new/links_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16806
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 34570
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/menaion-thoughts",
+                    "file_count": 3,
+                    "total_size_bytes": 40860,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 17330,
+                    "max_file_name": "onet/menaion-thoughts/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/menaion-thoughts/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16195,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16195,
+                            "max_file_name": "onet/menaion-thoughts/new/menaion-thoughts_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16195
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 24665
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/monastic-stories",
+                    "file_count": 3,
+                    "total_size_bytes": 39000,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 16507,
+                    "max_file_name": "onet/monastic-stories/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/monastic-stories/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16185,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16185,
+                            "max_file_name": "onet/monastic-stories/new/monastic-stories_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16185
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 22815
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/music",
+                    "file_count": 3,
+                    "total_size_bytes": 39551,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 16704,
+                    "max_file_name": "onet/music/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/music/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16171,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16171,
+                            "max_file_name": "onet/music/new/music_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16171
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 23380
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/nativity",
+                    "file_count": 3,
+                    "total_size_bytes": 64856,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 30106,
+                    "max_file_name": "onet/nativity/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/nativity/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16179,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16179,
+                            "max_file_name": "onet/nativity/new/nativity_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16179
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 48677
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "onet/new_articles",
+                    "file_count": 1,
+                    "total_size_bytes": 12668,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 12668,
+                    "max_file_name": "onet/new_articles/life-after-death-john-maximovitch.html",
+                    "subdirectories": [],
+                    "extensions": {
+                        "html": {
+                            "count": 1,
+                            "size_bytes": 12668
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                },
+                {
+                    "path": "onet/pascha",
+                    "file_count": 3,
+                    "total_size_bytes": 59747,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 26334,
+                    "max_file_name": "onet/pascha/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/pascha/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16174,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16174,
+                            "max_file_name": "onet/pascha/new/pascha_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16174
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 43573
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "onet/poetry",
+                    "file_count": 3,
+                    "total_size_bytes": 39271,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 16617,
+                    "max_file_name": "onet/poetry/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/poetry/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16155,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16155,
+                            "max_file_name": "onet/poetry/new/poetry_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16155
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 23116
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/questions",
+                    "file_count": 3,
+                    "total_size_bytes": 63970,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 29776,
+                    "max_file_name": "onet/questions/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/questions/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16272,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16272,
+                            "max_file_name": "onet/questions/new/questions_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16272
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 47698
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "onet/russiannm",
+                    "file_count": 3,
+                    "total_size_bytes": 76663,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 35340,
+                    "max_file_name": "onet/russiannm/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/russiannm/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16185,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16185,
+                            "max_file_name": "onet/russiannm/new/russiannm_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16185
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 60478
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "onet/saints",
+                    "file_count": 3,
+                    "total_size_bytes": 41768,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 19466,
+                    "max_file_name": "onet/saints/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/saints/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16174,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16174,
+                            "max_file_name": "onet/saints/new/saints_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16174
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 25594
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/scripture",
+                    "file_count": 2,
+                    "total_size_bytes": 70558,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 52687,
+                    "max_file_name": "onet/scripture/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/scripture/new",
+                            "file_count": 1,
+                            "total_size_bytes": 17871,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 17871,
+                            "max_file_name": "onet/scripture/new/scripture_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 17871
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 1,
+                            "size_bytes": 52687
+                        }
+                    },
+                    "max_file_size_mb": 0.05000000000000000277555756156289135105907917022705078125
+                },
+                {
+                    "path": "onet/sermons",
+                    "file_count": 3,
+                    "total_size_bytes": 3639640,
+                    "total_size_mb": 3.470000000000000195399252334027551114559173583984375,
+                    "max_file_size_bytes": 1935241,
+                    "max_file_name": "onet/sermons/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/sermons/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16260,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16260,
+                            "max_file_name": "onet/sermons/new/sermon_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16260
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 3623380
+                        }
+                    },
+                    "max_file_size_mb": 1.850000000000000088817841970012523233890533447265625
+                },
+                {
+                    "path": "onet/services",
+                    "file_count": 3,
+                    "total_size_bytes": 67116,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 25692,
+                    "max_file_name": "onet/services/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/services/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16185,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16185,
+                            "max_file_name": "onet/services/new/services_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16185
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 50931
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/test",
+                    "file_count": 2,
+                    "total_size_bytes": 11819,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 6384,
+                    "max_file_name": "onet/test/trying-to-grow.html",
+                    "subdirectories": [],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 11819
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                },
+                {
+                    "path": "onet/theophany",
+                    "file_count": 3,
+                    "total_size_bytes": 42920,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 18430,
+                    "max_file_name": "onet/theophany/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/theophany/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16183,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16183,
+                            "max_file_name": "onet/theophany/new/theophany_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16183
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 26737
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "onet/trebnic",
+                    "file_count": 3,
+                    "total_size_bytes": 109784,
+                    "total_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+                    "max_file_size_bytes": 56084,
+                    "max_file_name": "onet/trebnic/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/trebnic/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16336,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16336,
+                            "max_file_name": "onet/trebnic/new/trebnic_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16336
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 93448
+                        }
+                    },
+                    "max_file_size_mb": 0.05000000000000000277555756156289135105907917022705078125
+                },
+                {
+                    "path": "onet/ustav",
+                    "file_count": 3,
+                    "total_size_bytes": 62519,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 27944,
+                    "max_file_name": "onet/ustav/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/ustav/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16181,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16181,
+                            "max_file_name": "onet/ustav/new/ustav_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16181
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 46338
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "onet/western-saints",
+                    "file_count": 3,
+                    "total_size_bytes": 42757,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 18370,
+                    "max_file_name": "onet/western-saints/index.html",
+                    "subdirectories": [
+                        {
+                            "path": "onet/western-saints/new",
+                            "file_count": 1,
+                            "total_size_bytes": 16179,
+                            "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                            "max_file_size_bytes": 16179,
+                            "max_file_name": "onet/western-saints/new/western-saints_shell.html",
+                            "subdirectories": [],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 16179
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "html": {
+                            "count": 2,
+                            "size_bytes": 26578
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                }
+            ],
+            "extensions": {
+                "ds_store": {
+                    "count": 1,
+                    "size_bytes": 6148
+                },
+                "htaccess": {
+                    "count": 1,
+                    "size_bytes": 4408
+                },
+                "html": {
+                    "count": 5,
+                    "size_bytes": 104355
+                },
+                "php": {
+                    "count": 27,
+                    "size_bytes": 57744
+                },
+                "md": {
+                    "count": 1,
+                    "size_bytes": 15362
+                },
+                "ico": {
+                    "count": 1,
+                    "size_bytes": 894
+                },
+                "json": {
+                    "count": 1,
+                    "size_bytes": 305265
+                }
+            },
+            "max_file_size_mb": 1.850000000000000088817841970012523233890533447265625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 890,
+        "total_size_bytes": 15078182,
+        "total_size_mb": 14.3800000000000007815970093361102044582366943359375,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 1935241,
+        "max_file_size_mb": 1.850000000000000088817841970012523233890533447265625,
+        "max_file_name": "onet/sermons/index.html"
+    }
+}

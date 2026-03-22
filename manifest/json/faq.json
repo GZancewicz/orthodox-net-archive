@@ -1,0 +1,65 @@
+{
+    "generated": "2026-03-22T15:30:17+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "faq",
+            "file_count": 39,
+            "total_size_bytes": 607700,
+            "total_size_mb": 0.57999999999999996003197111349436454474925994873046875,
+            "max_file_size_bytes": 115678,
+            "max_file_name": "faq/resrcfaq.rtf",
+            "subdirectories": [
+                {
+                    "path": "faq/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "log": {
+                    "count": 1,
+                    "size_bytes": 2932
+                },
+                "htm": {
+                    "count": 12,
+                    "size_bytes": 317324
+                },
+                "html": {
+                    "count": 22,
+                    "size_bytes": 170655
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1035
+                },
+                "rtf": {
+                    "count": 1,
+                    "size_bytes": 115678
+                },
+                "bat": {
+                    "count": 1,
+                    "size_bytes": 76
+                }
+            },
+            "max_file_size_mb": 0.11000000000000000055511151231257827021181583404541015625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 39,
+        "total_size_bytes": 607700,
+        "total_size_mb": 0.57999999999999996003197111349436454474925994873046875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 115678,
+        "max_file_size_mb": 0.11000000000000000055511151231257827021181583404541015625,
+        "max_file_name": "faq/resrcfaq.rtf"
+    }
+}

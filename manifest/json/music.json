@@ -1,0 +1,74 @@
+{
+    "generated": "2026-03-22T15:30:25+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "music",
+            "file_count": 54,
+            "total_size_bytes": 1445999,
+            "total_size_mb": 1.37999999999999989341858963598497211933135986328125,
+            "max_file_size_bytes": 650893,
+            "max_file_name": "music/christ-is-risen-appalachian-melody-papa-song.jpg",
+            "subdirectories": [
+                {
+                    "path": "music/data",
+                    "file_count": 2,
+                    "total_size_bytes": 22873,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 13420,
+                    "max_file_name": "music/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 2,
+                            "size_bytes": 22873
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "m3u": {
+                    "count": 26,
+                    "size_bytes": 2890
+                },
+                "jpg": {
+                    "count": 1,
+                    "size_bytes": 650893
+                },
+                "html": {
+                    "count": 21,
+                    "size_bytes": 291914
+                },
+                "xml": {
+                    "count": 1,
+                    "size_bytes": 10454
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 490
+                },
+                "doc": {
+                    "count": 1,
+                    "size_bytes": 355340
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 111145
+                }
+            },
+            "max_file_size_mb": 0.61999999999999999555910790149937383830547332763671875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 54,
+        "total_size_bytes": 1445999,
+        "total_size_mb": 1.37999999999999989341858963598497211933135986328125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 650893,
+        "max_file_size_mb": 0.61999999999999999555910790149937383830547332763671875,
+        "max_file_name": "music/christ-is-risen-appalachian-melody-papa-song.jpg"
+    }
+}

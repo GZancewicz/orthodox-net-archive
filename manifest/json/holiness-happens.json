@@ -1,0 +1,58 @@
+{
+    "generated": "2026-03-22T15:30:19+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "holiness-happens",
+            "file_count": 30,
+            "total_size_bytes": 323211,
+            "total_size_mb": 0.309999999999999997779553950749686919152736663818359375,
+            "max_file_size_bytes": 106808,
+            "max_file_name": "holiness-happens/directory.html",
+            "subdirectories": [
+                {
+                    "path": "holiness-happens/data",
+                    "file_count": 1,
+                    "total_size_bytes": 1430,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 1430,
+                    "max_file_name": "holiness-happens/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1430
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 23,
+                    "size_bytes": 191982
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1231
+                },
+                "doc": {
+                    "count": 4,
+                    "size_bytes": 128568
+                }
+            },
+            "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 30,
+        "total_size_bytes": 323211,
+        "total_size_mb": 0.309999999999999997779553950749686919152736663818359375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 106808,
+        "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+        "max_file_name": "holiness-happens/directory.html"
+    }
+}

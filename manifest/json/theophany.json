@@ -1,0 +1,58 @@
+{
+    "generated": "2026-03-22T15:30:32+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "theophany",
+            "file_count": 31,
+            "total_size_bytes": 439422,
+            "total_size_mb": 0.419999999999999984456877655247808434069156646728515625,
+            "max_file_size_bytes": 294198,
+            "max_file_name": "theophany/directory.html",
+            "subdirectories": [
+                {
+                    "path": "theophany/data",
+                    "file_count": 1,
+                    "total_size_bytes": 1923,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 1923,
+                    "max_file_name": "theophany/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1923
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "log": {
+                    "count": 1,
+                    "size_bytes": 232
+                },
+                "html": {
+                    "count": 27,
+                    "size_bytes": 436175
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1092
+                }
+            },
+            "max_file_size_mb": 0.2800000000000000266453525910037569701671600341796875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 31,
+        "total_size_bytes": 439422,
+        "total_size_mb": 0.419999999999999984456877655247808434069156646728515625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 294198,
+        "max_file_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+        "max_file_name": "theophany/directory.html"
+    }
+}

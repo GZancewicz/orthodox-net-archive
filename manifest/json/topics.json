@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:33+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "topics",
+            "file_count": 30,
+            "total_size_bytes": 451929,
+            "total_size_mb": 0.429999999999999993338661852249060757458209991455078125,
+            "max_file_size_bytes": 298968,
+            "max_file_name": "topics/directory.html",
+            "subdirectories": [
+                {
+                    "path": "topics/data",
+                    "file_count": 1,
+                    "total_size_bytes": 5288,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 5288,
+                    "max_file_name": "topics/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 5288
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 27,
+                    "size_bytes": 445575
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1066
+                }
+            },
+            "max_file_size_mb": 0.289999999999999980015985556747182272374629974365234375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 30,
+        "total_size_bytes": 451929,
+        "total_size_mb": 0.429999999999999993338661852249060757458209991455078125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 298968,
+        "max_file_size_mb": 0.289999999999999980015985556747182272374629974365234375,
+        "max_file_name": "topics/directory.html"
+    }
+}

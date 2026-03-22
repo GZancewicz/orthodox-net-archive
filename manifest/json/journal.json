@@ -1,0 +1,110 @@
+{
+    "generated": "2026-03-22T15:30:20+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "journal",
+            "file_count": 420,
+            "total_size_bytes": 285280949,
+            "total_size_mb": 272.06999999999999317878973670303821563720703125,
+            "max_file_size_bytes": 42385408,
+            "max_file_name": "journal/2011-04-05+life-of-saint-mary-of-egpyt-by-the-numbers_doc.dra",
+            "subdirectories": [
+                {
+                    "path": "journal/data",
+                    "file_count": 1,
+                    "total_size_bytes": 62162,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 62162,
+                    "max_file_name": "journal/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 62162
+                        }
+                    },
+                    "max_file_size_mb": 0.059999999999999997779553950749686919152736663818359375
+                },
+                {
+                    "path": "journal/txt",
+                    "file_count": 1,
+                    "total_size_bytes": 62765,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 62765,
+                    "max_file_name": "journal/txt/index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 62765
+                        }
+                    },
+                    "max_file_size_mb": 0.059999999999999997779553950749686919152736663818359375
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 204,
+                    "size_bytes": 226835114
+                },
+                "html": {
+                    "count": 170,
+                    "size_bytes": 3909215
+                },
+                "pdf": {
+                    "count": 32,
+                    "size_bytes": 11114149
+                },
+                "htm": {
+                    "count": 4,
+                    "size_bytes": 147258
+                },
+                "dra": {
+                    "count": 1,
+                    "size_bytes": 42385408
+                },
+                "xml": {
+                    "count": 1,
+                    "size_bytes": 34009
+                },
+                "pl": {
+                    "count": 1,
+                    "size_bytes": 2036
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 612
+                },
+                "bak": {
+                    "count": 1,
+                    "size_bytes": 73977
+                },
+                "lnk": {
+                    "count": 1,
+                    "size_bytes": 932
+                },
+                "mp3": {
+                    "count": 1,
+                    "size_bytes": 653312
+                },
+                "": {
+                    "count": 1,
+                    "size_bytes": 0
+                }
+            },
+            "max_file_size_mb": 40.4200000000000017053025658242404460906982421875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 420,
+        "total_size_bytes": 285280949,
+        "total_size_mb": 272.06999999999999317878973670303821563720703125,
+        "total_size_gb": 0.270000000000000017763568394002504646778106689453125,
+        "max_file_size_bytes": 42385408,
+        "max_file_size_mb": 40.4200000000000017053025658242404460906982421875,
+        "max_file_name": "journal/2011-04-05+life-of-saint-mary-of-egpyt-by-the-numbers_doc.dra"
+    }
+}

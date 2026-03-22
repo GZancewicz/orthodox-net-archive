@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:17+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "falbum",
+            "file_count": 29,
+            "total_size_bytes": 216865,
+            "total_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+            "max_file_size_bytes": 81800,
+            "max_file_name": "falbum/directory.html",
+            "subdirectories": [
+                {
+                    "path": "falbum/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 23,
+                    "size_bytes": 176175
+                },
+                "htm": {
+                    "count": 4,
+                    "size_bytes": 39613
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1077
+                }
+            },
+            "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 29,
+        "total_size_bytes": 216865,
+        "total_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 81800,
+        "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875,
+        "max_file_name": "falbum/directory.html"
+    }
+}

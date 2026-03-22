@@ -1,0 +1,66 @@
+{
+    "generated": "2026-03-22T15:30:28+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "recipes",
+            "file_count": 65,
+            "total_size_bytes": 629686,
+            "total_size_mb": 0.59999999999999997779553950749686919152736663818359375,
+            "max_file_size_bytes": 232770,
+            "max_file_name": "recipes/directory.html",
+            "subdirectories": [
+                {
+                    "path": "recipes/data",
+                    "file_count": 1,
+                    "total_size_bytes": 884,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 884,
+                    "max_file_name": "recipes/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 884
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 58,
+                    "size_bytes": 599123
+                },
+                "pl": {
+                    "count": 1,
+                    "size_bytes": 903
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1068
+                },
+                "save": {
+                    "count": 1,
+                    "size_bytes": 23261
+                },
+                "htm": {
+                    "count": 2,
+                    "size_bytes": 4447
+                }
+            },
+            "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 65,
+        "total_size_bytes": 629686,
+        "total_size_mb": 0.59999999999999997779553950749686919152736663818359375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 232770,
+        "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125,
+        "max_file_name": "recipes/directory.html"
+    }
+}

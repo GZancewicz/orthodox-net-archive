@@ -1,0 +1,37 @@
+{
+    "generated": "2026-03-22T15:30:34+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "whatsnew",
+            "file_count": 29,
+            "total_size_bytes": 3254236,
+            "total_size_mb": 3.100000000000000088817841970012523233890533447265625,
+            "max_file_size_bytes": 1403428,
+            "max_file_name": "whatsnew/index.html",
+            "subdirectories": [],
+            "extensions": {
+                "html": {
+                    "count": 25,
+                    "size_bytes": 3232901
+                },
+                "js": {
+                    "count": 4,
+                    "size_bytes": 21335
+                }
+            },
+            "max_file_size_mb": 1.3400000000000000799360577730112709105014801025390625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 29,
+        "total_size_bytes": 3254236,
+        "total_size_mb": 3.100000000000000088817841970012523233890533447265625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 1403428,
+        "max_file_size_mb": 1.3400000000000000799360577730112709105014801025390625,
+        "max_file_name": "whatsnew/index.html"
+    }
+}

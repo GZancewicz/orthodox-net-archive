@@ -1,0 +1,70 @@
+{
+    "generated": "2026-03-22T15:30:14+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "calendar",
+            "file_count": 91,
+            "total_size_bytes": 8601460,
+            "total_size_mb": 8.199999999999999289457264239899814128875732421875,
+            "max_file_size_bytes": 2683162,
+            "max_file_name": "calendar/archiamandrite-demetrios-carellas-talks-oct-6-7-8-2013-holy-prophet-moses-from-the-red-sea-to-the-promised-land - original.jpg",
+            "subdirectories": [
+                {
+                    "path": "calendar/data",
+                    "file_count": 1,
+                    "total_size_bytes": 1291,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 1291,
+                    "max_file_name": "calendar/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1291
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 19,
+                    "size_bytes": 1862960
+                },
+                "pdf": {
+                    "count": 32,
+                    "size_bytes": 2915116
+                },
+                "rtf": {
+                    "count": 4,
+                    "size_bytes": 385617
+                },
+                "html": {
+                    "count": 30,
+                    "size_bytes": 436878
+                },
+                "jpg": {
+                    "count": 3,
+                    "size_bytes": 2998146
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1452
+                }
+            },
+            "max_file_size_mb": 2.560000000000000053290705182007513940334320068359375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 91,
+        "total_size_bytes": 8601460,
+        "total_size_mb": 8.199999999999999289457264239899814128875732421875,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 2683162,
+        "max_file_size_mb": 2.560000000000000053290705182007513940334320068359375,
+        "max_file_name": "calendar/archiamandrite-demetrios-carellas-talks-oct-6-7-8-2013-holy-prophet-moses-from-the-red-sea-to-the-promised-land - original.jpg"
+    }
+}

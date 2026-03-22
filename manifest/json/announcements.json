@@ -1,0 +1,61 @@
+{
+    "generated": "2026-03-22T15:30:13+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "announcements",
+            "file_count": 39,
+            "total_size_bytes": 3822551,
+            "total_size_mb": 3.649999999999999911182158029987476766109466552734375,
+            "max_file_size_bytes": 278813,
+            "max_file_name": "announcements/pastoral-letter_2020-11-08.pdf",
+            "subdirectories": [
+                {
+                    "path": "announcements/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 14,
+                    "size_bytes": 1015492
+                },
+                "html": {
+                    "count": 11,
+                    "size_bytes": 289869
+                },
+                "pdf": {
+                    "count": 12,
+                    "size_bytes": 2231497
+                },
+                "jpg": {
+                    "count": 1,
+                    "size_bytes": 260516
+                },
+                "docx": {
+                    "count": 1,
+                    "size_bytes": 25177
+                }
+            },
+            "max_file_size_mb": 0.270000000000000017763568394002504646778106689453125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 39,
+        "total_size_bytes": 3822551,
+        "total_size_mb": 3.649999999999999911182158029987476766109466552734375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 278813,
+        "max_file_size_mb": 0.270000000000000017763568394002504646778106689453125,
+        "max_file_name": "announcements/pastoral-letter_2020-11-08.pdf"
+    }
+}

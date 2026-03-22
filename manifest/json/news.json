@@ -1,0 +1,65 @@
+{
+    "generated": "2026-03-22T15:30:25+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "news",
+            "file_count": 35,
+            "total_size_bytes": 1297307,
+            "total_size_mb": 1.2399999999999999911182158029987476766109466552734375,
+            "max_file_size_bytes": 311643,
+            "max_file_name": "news/johnny's life.jpg",
+            "subdirectories": [
+                {
+                    "path": "news/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 27,
+                    "size_bytes": 353113
+                },
+                "doc": {
+                    "count": 1,
+                    "size_bytes": 57856
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 170863
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1059
+                },
+                "jpg": {
+                    "count": 3,
+                    "size_bytes": 705190
+                },
+                "shtml": {
+                    "count": 1,
+                    "size_bytes": 9226
+                }
+            },
+            "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 35,
+        "total_size_bytes": 1297307,
+        "total_size_mb": 1.2399999999999999911182158029987476766109466552734375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 311643,
+        "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+        "max_file_name": "news/johnny's life.jpg"
+    }
+}

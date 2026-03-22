@@ -1,0 +1,914 @@
+{
+    "generated": "2026-03-22T15:30:32+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "stnicholas",
+            "file_count": 245,
+            "total_size_bytes": 10508579,
+            "total_size_mb": 10.019999999999999573674358543939888477325439453125,
+            "max_file_size_bytes": 960512,
+            "max_file_name": "stnicholas/21a-the-translation-of-saint-nicholas.doc",
+            "subdirectories": [
+                {
+                    "path": "stnicholas/01-introduction-to-st-nicholas_files",
+                    "file_count": 3,
+                    "total_size_bytes": 52353,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 28786,
+                    "max_file_name": "stnicholas/01-introduction-to-st-nicholas_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 215
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 52138
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/02-sources-for-st-nicholas_files",
+                    "file_count": 3,
+                    "total_size_bytes": 50810,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 32543,
+                    "max_file_name": "stnicholas/02-sources-for-st-nicholas_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 211
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 50599
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/03-the-childless-couple_files",
+                    "file_count": 3,
+                    "total_size_bytes": 110398,
+                    "total_size_mb": 0.11000000000000000055511151231257827021181583404541015625,
+                    "max_file_size_bytes": 94332,
+                    "max_file_name": "stnicholas/03-the-childless-couple_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 208
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 110190
+                        }
+                    },
+                    "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625
+                },
+                {
+                    "path": "stnicholas/04-the-early-years_files",
+                    "file_count": 3,
+                    "total_size_bytes": 159486,
+                    "total_size_mb": 0.1499999999999999944488848768742172978818416595458984375,
+                    "max_file_size_bytes": 126343,
+                    "max_file_name": "stnicholas/04-the-early-years_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 203
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 159283
+                        }
+                    },
+                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                },
+                {
+                    "path": "stnicholas/05b-the-three-girls_files",
+                    "file_count": 3,
+                    "total_size_bytes": 100804,
+                    "total_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+                    "max_file_size_bytes": 87687,
+                    "max_file_name": "stnicholas/05b-the-three-girls_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 204
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 100600
+                        }
+                    },
+                    "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875
+                },
+                {
+                    "path": "stnicholas/05c-the-three-girls-golden-legend_files",
+                    "file_count": 3,
+                    "total_size_bytes": 100818,
+                    "total_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+                    "max_file_size_bytes": 87687,
+                    "max_file_name": "stnicholas/05c-the-three-girls-golden-legend_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 218
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 100600
+                        }
+                    },
+                    "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875
+                },
+                {
+                    "path": "stnicholas/05d-the-three-girls-metaphrastes_files",
+                    "file_count": 2,
+                    "total_size_bytes": 27915,
+                    "total_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+                    "max_file_size_bytes": 27729,
+                    "max_file_name": "stnicholas/05d-the-three-girls-metaphrastes_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 186
+                        },
+                        "jpg": {
+                            "count": 1,
+                            "size_bytes": 27729
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/06a-nicholas-is-chosen-bishop_files",
+                    "file_count": 3,
+                    "total_size_bytes": 31146,
+                    "total_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+                    "max_file_size_bytes": 17747,
+                    "max_file_name": "stnicholas/06a-nicholas-is-chosen-bishop_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 214
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 30932
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/06b-nicholas-is-chosen-bishop_files",
+                    "file_count": 2,
+                    "total_size_bytes": 16601,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 16418,
+                    "max_file_name": "stnicholas/06b-nicholas-is-chosen-bishop_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 183
+                        },
+                        "jpg": {
+                            "count": 1,
+                            "size_bytes": 16418
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/08a-the-trip-to-the-holy-land_files",
+                    "file_count": 3,
+                    "total_size_bytes": 137983,
+                    "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+                    "max_file_size_bytes": 109657,
+                    "max_file_name": "stnicholas/08a-the-trip-to-the-holy-land_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 214
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 137769
+                        }
+                    },
+                    "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625
+                },
+                {
+                    "path": "stnicholas/08b-the-trip-to-the-holy-land_files",
+                    "file_count": 3,
+                    "total_size_bytes": 137983,
+                    "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+                    "max_file_size_bytes": 109657,
+                    "max_file_name": "stnicholas/08b-the-trip-to-the-holy-land_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 214
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 137769
+                        }
+                    },
+                    "max_file_size_mb": 0.1000000000000000055511151231257827021181583404541015625
+                },
+                {
+                    "path": "stnicholas/09-the-trip-back-from-the-holy-land_files",
+                    "file_count": 3,
+                    "total_size_bytes": 49331,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 25569,
+                    "max_file_name": "stnicholas/09-the-trip-back-from-the-holy-land_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 220
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 49111
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/11a-nicholas-is-chosen-bishop_files",
+                    "file_count": 3,
+                    "total_size_bytes": 32631,
+                    "total_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+                    "max_file_size_bytes": 19232,
+                    "max_file_name": "stnicholas/11a-nicholas-is-chosen-bishop_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 214
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 32417
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/11b-nicholas-is-chosen-bishop_files",
+                    "file_count": 2,
+                    "total_size_bytes": 16601,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 16418,
+                    "max_file_name": "stnicholas/11b-nicholas-is-chosen-bishop_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 183
+                        },
+                        "jpg": {
+                            "count": 1,
+                            "size_bytes": 16418
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/12a-nicholas-vs-artemis_files",
+                    "file_count": 3,
+                    "total_size_bytes": 47730,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 23931,
+                    "max_file_name": "stnicholas/12a-nicholas-vs-artemis_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 208
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 47522
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/15a-the-three-generals_files",
+                    "file_count": 3,
+                    "total_size_bytes": 54831,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 38393,
+                    "max_file_name": "stnicholas/15a-the-three-generals_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 207
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 54624
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                },
+                {
+                    "path": "stnicholas/15b-the-three-generals_files",
+                    "file_count": 3,
+                    "total_size_bytes": 56469,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 36159,
+                    "max_file_name": "stnicholas/15b-the-three-generals_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 207
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 56262
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/15c-the-three-generals_files",
+                    "file_count": 3,
+                    "total_size_bytes": 73861,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 43763,
+                    "max_file_name": "stnicholas/15c-the-three-generals_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 207
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 73654
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                },
+                {
+                    "path": "stnicholas/15d-the-three-generals_files",
+                    "file_count": 3,
+                    "total_size_bytes": 39458,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 19655,
+                    "max_file_name": "stnicholas/15d-the-three-generals_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 207
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 39251
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/19-the-death-and-manna-of-st-nicholas_files",
+                    "file_count": 3,
+                    "total_size_bytes": 107054,
+                    "total_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+                    "max_file_size_bytes": 89790,
+                    "max_file_name": "stnicholas/19-the-death-and-manna-of-st-nicholas_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 222
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 106832
+                        }
+                    },
+                    "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625
+                },
+                {
+                    "path": "stnicholas/20-the-ransacking-of-myra_files",
+                    "file_count": 3,
+                    "total_size_bytes": 48093,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 35571,
+                    "max_file_name": "stnicholas/20-the-ransacking-of-myra_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 210
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 47883
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/21a-the-translation-of-saint-nicholas_files",
+                    "file_count": 4,
+                    "total_size_bytes": 628794,
+                    "total_size_mb": 0.59999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 300847,
+                    "max_file_name": "stnicholas/21a-the-translation-of-saint-nicholas_files/oledata.mso",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 252
+                        },
+                        "png": {
+                            "count": 1,
+                            "size_bytes": 293495
+                        },
+                        "jpg": {
+                            "count": 1,
+                            "size_bytes": 34200
+                        },
+                        "mso": {
+                            "count": 1,
+                            "size_bytes": 300847
+                        }
+                    },
+                    "max_file_size_mb": 0.289999999999999980015985556747182272374629974365234375
+                },
+                {
+                    "path": "stnicholas/21b-the-translation-of-saint-nicholas_files",
+                    "file_count": 3,
+                    "total_size_bytes": 37633,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 19624,
+                    "max_file_name": "stnicholas/21b-the-translation-of-saint-nicholas_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 222
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 37411
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/21c-the-translation-of-saint-nicholas_files",
+                    "file_count": 2,
+                    "total_size_bytes": 22966,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 22775,
+                    "max_file_name": "stnicholas/21c-the-translation-of-saint-nicholas_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 191
+                        },
+                        "jpg": {
+                            "count": 1,
+                            "size_bytes": 22775
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/21d-the-translation-of-saint-nicholas_files",
+                    "file_count": 3,
+                    "total_size_bytes": 58648,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 43509,
+                    "max_file_name": "stnicholas/21d-the-translation-of-saint-nicholas_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 222
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 58426
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                },
+                {
+                    "path": "stnicholas/25a-a-variety-of-legends_files",
+                    "file_count": 3,
+                    "total_size_bytes": 57888,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 32498,
+                    "max_file_name": "stnicholas/25a-a-variety-of-legends_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 209
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 57679
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/25b-a-variety-of-legends_files",
+                    "file_count": 3,
+                    "total_size_bytes": 52114,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 32543,
+                    "max_file_name": "stnicholas/25b-a-variety-of-legends_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 209
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 51905
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/25c-a-variety-of-legends_files",
+                    "file_count": 3,
+                    "total_size_bytes": 70929,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 36014,
+                    "max_file_name": "stnicholas/25c-a-variety-of-legends_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 209
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 70720
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/26-the-wheat-famine_files",
+                    "file_count": 3,
+                    "total_size_bytes": 70649,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 60738,
+                    "max_file_name": "stnicholas/26-the-wheat-famine_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 204
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 70445
+                        }
+                    },
+                    "max_file_size_mb": 0.059999999999999997779553950749686919152736663818359375
+                },
+                {
+                    "path": "stnicholas/29-shipwrecks-and-drownings_files",
+                    "file_count": 3,
+                    "total_size_bytes": 29994,
+                    "total_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+                    "max_file_size_bytes": 17010,
+                    "max_file_name": "stnicholas/29-shipwrecks-and-drownings_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 212
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 29782
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/30a-the-jew-and-the-debt_files",
+                    "file_count": 3,
+                    "total_size_bytes": 78004,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 47623,
+                    "max_file_name": "stnicholas/30a-the-jew-and-the-debt_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 209
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 77795
+                        }
+                    },
+                    "max_file_size_mb": 0.05000000000000000277555756156289135105907917022705078125
+                },
+                {
+                    "path": "stnicholas/31-the-barbarian-and-the-icon_files",
+                    "file_count": 3,
+                    "total_size_bytes": 31111,
+                    "total_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+                    "max_file_size_bytes": 17913,
+                    "max_file_name": "stnicholas/31-the-barbarian-and-the-icon_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 214
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 30897
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/32-the-jew-and-the-icon_files",
+                    "file_count": 3,
+                    "total_size_bytes": 119222,
+                    "total_size_mb": 0.11000000000000000055511151231257827021181583404541015625,
+                    "max_file_size_bytes": 81824,
+                    "max_file_name": "stnicholas/32-the-jew-and-the-icon_files/image002.gif",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 208
+                        },
+                        "png": {
+                            "count": 1,
+                            "size_bytes": 37190
+                        },
+                        "gif": {
+                            "count": 1,
+                            "size_bytes": 81824
+                        }
+                    },
+                    "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875
+                },
+                {
+                    "path": "stnicholas/33a-the-three-students_files",
+                    "file_count": 3,
+                    "total_size_bytes": 28182,
+                    "total_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+                    "max_file_size_bytes": 16294,
+                    "max_file_name": "stnicholas/33a-the-three-students_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 207
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 27975
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/33b-the-legend-of-the-three-students_files",
+                    "file_count": 3,
+                    "total_size_bytes": 28013,
+                    "total_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+                    "max_file_size_bytes": 15360,
+                    "max_file_name": "stnicholas/33b-the-legend-of-the-three-students_files/image002.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 221
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 27792
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                },
+                {
+                    "path": "stnicholas/35a-kidnapped-children_files",
+                    "file_count": 3,
+                    "total_size_bytes": 58564,
+                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                    "max_file_size_bytes": 43509,
+                    "max_file_name": "stnicholas/35a-kidnapped-children_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 207
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 58357
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                },
+                {
+                    "path": "stnicholas/35b-kidnapped-children_files",
+                    "file_count": 2,
+                    "total_size_bytes": 23348,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 23172,
+                    "max_file_name": "stnicholas/35b-kidnapped-children_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 176
+                        },
+                        "jpg": {
+                            "count": 1,
+                            "size_bytes": 23172
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/37a-patron-saint_files",
+                    "file_count": 2,
+                    "total_size_bytes": 93340,
+                    "total_size_mb": 0.0899999999999999966693309261245303787291049957275390625,
+                    "max_file_size_bytes": 93170,
+                    "max_file_name": "stnicholas/37a-patron-saint_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 170
+                        },
+                        "jpg": {
+                            "count": 1,
+                            "size_bytes": 93170
+                        }
+                    },
+                    "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625
+                },
+                {
+                    "path": "stnicholas/37b-patron-saint_files",
+                    "file_count": 3,
+                    "total_size_bytes": 188829,
+                    "total_size_mb": 0.179999999999999993338661852249060757458209991455078125,
+                    "max_file_size_bytes": 165631,
+                    "max_file_name": "stnicholas/37b-patron-saint_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 201
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 188628
+                        }
+                    },
+                    "max_file_size_mb": 0.1600000000000000033306690738754696212708950042724609375
+                },
+                {
+                    "path": "stnicholas/37c-patron-saint_files",
+                    "file_count": 3,
+                    "total_size_bytes": 48915,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 27689,
+                    "max_file_name": "stnicholas/37c-patron-saint_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 201
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 48714
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "stnicholas/37d-patron-saint_files",
+                    "file_count": 3,
+                    "total_size_bytes": 40323,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 20468,
+                    "max_file_name": "stnicholas/37d-patron-saint_files/image001.jpg",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 201
+                        },
+                        "jpg": {
+                            "count": 2,
+                            "size_bytes": 40122
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "stnicholas/data",
+                    "file_count": 1,
+                    "total_size_bytes": 1580,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 1580,
+                    "max_file_name": "stnicholas/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1580
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 46,
+                    "size_bytes": 5319180
+                },
+                "htm": {
+                    "count": 45,
+                    "size_bytes": 870995
+                },
+                "html": {
+                    "count": 27,
+                    "size_bytes": 443455
+                },
+                "bat": {
+                    "count": 1,
+                    "size_bytes": 2597
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 477599
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1085
+                },
+                "txt": {
+                    "count": 1,
+                    "size_bytes": 1553
+                },
+                "jpg": {
+                    "count": 1,
+                    "size_bytes": 37718
+                },
+                "gif": {
+                    "count": 2,
+                    "size_bytes": 132995
+                }
+            },
+            "max_file_size_mb": 0.92000000000000003996802888650563545525074005126953125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 245,
+        "total_size_bytes": 10508579,
+        "total_size_mb": 10.019999999999999573674358543939888477325439453125,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 960512,
+        "max_file_size_mb": 0.92000000000000003996802888650563545525074005126953125,
+        "max_file_name": "stnicholas/21a-the-translation-of-saint-nicholas.doc"
+    }
+}

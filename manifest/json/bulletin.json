@@ -1,0 +1,50 @@
+{
+    "generated": "2026-03-22T15:30:14+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "bulletin",
+            "file_count": 22,
+            "total_size_bytes": 109257,
+            "total_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+            "max_file_size_bytes": 37064,
+            "max_file_name": "bulletin/directory.html",
+            "subdirectories": [
+                {
+                    "path": "bulletin/data",
+                    "file_count": 1,
+                    "total_size_bytes": 606,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 606,
+                    "max_file_name": "bulletin/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 606
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 21,
+                    "size_bytes": 108651
+                }
+            },
+            "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 22,
+        "total_size_bytes": 109257,
+        "total_size_mb": 0.1000000000000000055511151231257827021181583404541015625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 37064,
+        "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+        "max_file_name": "bulletin/directory.html"
+    }
+}

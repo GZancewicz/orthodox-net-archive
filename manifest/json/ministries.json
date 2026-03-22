@@ -1,0 +1,62 @@
+{
+    "generated": "2026-03-22T15:30:24+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "ministries",
+            "file_count": 37,
+            "total_size_bytes": 1961412,
+            "total_size_mb": 1.87000000000000010658141036401502788066864013671875,
+            "max_file_size_bytes": 674306,
+            "max_file_name": "ministries/church-council.doc",
+            "subdirectories": [
+                {
+                    "path": "ministries/data",
+                    "file_count": 1,
+                    "total_size_bytes": 606,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 606,
+                    "max_file_name": "ministries/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 606
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 6,
+                    "size_bytes": 1542694
+                },
+                "html": {
+                    "count": 27,
+                    "size_bytes": 351708
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1228
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 65176
+                }
+            },
+            "max_file_size_mb": 0.64000000000000001332267629550187848508358001708984375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 37,
+        "total_size_bytes": 1961412,
+        "total_size_mb": 1.87000000000000010658141036401502788066864013671875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 674306,
+        "max_file_size_mb": 0.64000000000000001332267629550187848508358001708984375,
+        "max_file_name": "ministries/church-council.doc"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "generated": "2026-03-22T15:30:32+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "synaxarion",
+            "file_count": 25,
+            "total_size_bytes": 386964,
+            "total_size_mb": 0.36999999999999999555910790149937383830547332763671875,
+            "max_file_size_bytes": 286734,
+            "max_file_name": "synaxarion/directory.html",
+            "subdirectories": [
+                {
+                    "path": "synaxarion/data",
+                    "file_count": 1,
+                    "total_size_bytes": 3705,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 3705,
+                    "max_file_name": "synaxarion/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 3705
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "log": {
+                    "count": 1,
+                    "size_bytes": 346
+                },
+                "html": {
+                    "count": 22,
+                    "size_bytes": 382394
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 519
+                }
+            },
+            "max_file_size_mb": 0.270000000000000017763568394002504646778106689453125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 25,
+        "total_size_bytes": 386964,
+        "total_size_mb": 0.36999999999999999555910790149937383830547332763671875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 286734,
+        "max_file_size_mb": 0.270000000000000017763568394002504646778106689453125,
+        "max_file_name": "synaxarion/directory.html"
+    }
+}

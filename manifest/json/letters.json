@@ -1,0 +1,41 @@
+{
+    "generated": "2026-03-22T15:30:21+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "letters",
+            "file_count": 39,
+            "total_size_bytes": 4354282,
+            "total_size_mb": 4.1500000000000003552713678800500929355621337890625,
+            "max_file_size_bytes": 409401,
+            "max_file_name": "letters/letter_2022-08-28+11th-sun-after-pentecost-dormition+nm-prince-constantine.docx",
+            "subdirectories": [],
+            "extensions": {
+                "html": {
+                    "count": 2,
+                    "size_bytes": 6949
+                },
+                "docx": {
+                    "count": 24,
+                    "size_bytes": 1259073
+                },
+                "pdf": {
+                    "count": 13,
+                    "size_bytes": 3088260
+                }
+            },
+            "max_file_size_mb": 0.39000000000000001332267629550187848508358001708984375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 39,
+        "total_size_bytes": 4354282,
+        "total_size_mb": 4.1500000000000003552713678800500929355621337890625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 409401,
+        "max_file_size_mb": 0.39000000000000001332267629550187848508358001708984375,
+        "max_file_name": "letters/letter_2022-08-28+11th-sun-after-pentecost-dormition+nm-prince-constantine.docx"
+    }
+}

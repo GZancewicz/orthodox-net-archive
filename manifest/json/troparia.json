@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:33+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "troparia",
+            "file_count": 28,
+            "total_size_bytes": 438736,
+            "total_size_mb": 0.419999999999999984456877655247808434069156646728515625,
+            "max_file_size_bytes": 306594,
+            "max_file_name": "troparia/directory.html",
+            "subdirectories": [
+                {
+                    "path": "troparia/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 24,
+                    "size_bytes": 416580
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1071
+                },
+                "rtf": {
+                    "count": 2,
+                    "size_bytes": 21085
+                }
+            },
+            "max_file_size_mb": 0.289999999999999980015985556747182272374629974365234375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 28,
+        "total_size_bytes": 438736,
+        "total_size_mb": 0.419999999999999984456877655247808434069156646728515625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 306594,
+        "max_file_size_mb": 0.289999999999999980015985556747182272374629974365234375,
+        "max_file_name": "troparia/directory.html"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:27+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "prayers",
+            "file_count": 26,
+            "total_size_bytes": 307328,
+            "total_size_mb": 0.289999999999999980015985556747182272374629974365234375,
+            "max_file_size_bytes": 217578,
+            "max_file_name": "prayers/directory.html",
+            "subdirectories": [
+                {
+                    "path": "prayers/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 22,
+                    "size_bytes": 299823
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1058
+                },
+                "htm": {
+                    "count": 2,
+                    "size_bytes": 6447
+                }
+            },
+            "max_file_size_mb": 0.2099999999999999922284388276239042170345783233642578125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 26,
+        "total_size_bytes": 307328,
+        "total_size_mb": 0.289999999999999980015985556747182272374629974365234375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 217578,
+        "max_file_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+        "max_file_name": "prayers/directory.html"
+    }
+}

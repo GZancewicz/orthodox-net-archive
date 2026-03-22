@@ -1,0 +1,74 @@
+{
+    "generated": "2026-03-22T15:30:30+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "saints",
+            "file_count": 45,
+            "total_size_bytes": 2497073,
+            "total_size_mb": 2.37999999999999989341858963598497211933135986328125,
+            "max_file_size_bytes": 873097,
+            "max_file_name": "saints/mary-of-egypt-booklet.pdf",
+            "subdirectories": [
+                {
+                    "path": "saints/data",
+                    "file_count": 1,
+                    "total_size_bytes": 2232,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 2232,
+                    "max_file_name": "saints/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 2232
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 34,
+                    "size_bytes": 628871
+                },
+                "jpg": {
+                    "count": 2,
+                    "size_bytes": 61012
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1113
+                },
+                "pdf": {
+                    "count": 2,
+                    "size_bytes": 1077690
+                },
+                "rtf": {
+                    "count": 2,
+                    "size_bytes": 307617
+                },
+                "docx": {
+                    "count": 1,
+                    "size_bytes": 350936
+                },
+                "doc": {
+                    "count": 1,
+                    "size_bytes": 67602
+                }
+            },
+            "max_file_size_mb": 0.82999999999999996003197111349436454474925994873046875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 45,
+        "total_size_bytes": 2497073,
+        "total_size_mb": 2.37999999999999989341858963598497211933135986328125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 873097,
+        "max_file_size_mb": 0.82999999999999996003197111349436454474925994873046875,
+        "max_file_name": "saints/mary-of-egypt-booklet.pdf"
+    }
+}

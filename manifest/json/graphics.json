@@ -1,0 +1,61 @@
+{
+    "generated": "2026-03-22T15:30:18+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "graphics",
+            "file_count": 27,
+            "total_size_bytes": 273335,
+            "total_size_mb": 0.2600000000000000088817841970012523233890533447265625,
+            "max_file_size_bytes": 94214,
+            "max_file_name": "graphics/directory.html",
+            "subdirectories": [
+                {
+                    "path": "graphics/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "jpg": {
+                    "count": 5,
+                    "size_bytes": 82626
+                },
+                "html": {
+                    "count": 19,
+                    "size_bytes": 160976
+                },
+                "png": {
+                    "count": 1,
+                    "size_bytes": 689
+                },
+                "gif": {
+                    "count": 1,
+                    "size_bytes": 1396
+                },
+                "db": {
+                    "count": 1,
+                    "size_bytes": 27648
+                }
+            },
+            "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 27,
+        "total_size_bytes": 273335,
+        "total_size_mb": 0.2600000000000000088817841970012523233890533447265625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 94214,
+        "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625,
+        "max_file_name": "graphics/directory.html"
+    }
+}

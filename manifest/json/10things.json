@@ -1,0 +1,62 @@
+{
+    "generated": "2026-03-22T15:30:11+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "10things",
+            "file_count": 40,
+            "total_size_bytes": 810108,
+            "total_size_mb": 0.770000000000000017763568394002504646778106689453125,
+            "max_file_size_bytes": 93865,
+            "max_file_name": "10things/preparation-for-holy-communion.pdf",
+            "subdirectories": [
+                {
+                    "path": "10things/data",
+                    "file_count": 1,
+                    "total_size_bytes": 1991,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 1991,
+                    "max_file_name": "10things/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1991
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 29,
+                    "size_bytes": 340273
+                },
+                "doc": {
+                    "count": 7,
+                    "size_bytes": 372890
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1089
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 93865
+                }
+            },
+            "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 40,
+        "total_size_bytes": 810108,
+        "total_size_mb": 0.770000000000000017763568394002504646778106689453125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 93865,
+        "max_file_size_mb": 0.0899999999999999966693309261245303787291049957275390625,
+        "max_file_name": "10things/preparation-for-holy-communion.pdf"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "generated": "2026-03-22T15:30:11+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "6minutesorlessorthodoxvideos",
+            "file_count": 22,
+            "total_size_bytes": 88026,
+            "total_size_mb": 0.08000000000000000166533453693773481063544750213623046875,
+            "max_file_size_bytes": 9266,
+            "max_file_name": "6minutesorlessorthodoxvideos/directory.html",
+            "subdirectories": [
+                {
+                    "path": "6minutesorlessorthodoxvideos/data",
+                    "file_count": 1,
+                    "total_size_bytes": 606,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 606,
+                    "max_file_name": "6minutesorlessorthodoxvideos/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 606
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 21,
+                    "size_bytes": 87420
+                }
+            },
+            "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 22,
+        "total_size_bytes": 88026,
+        "total_size_mb": 0.08000000000000000166533453693773481063544750213623046875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 9266,
+        "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_name": "6minutesorlessorthodoxvideos/directory.html"
+    }
+}

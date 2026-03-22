@@ -1,0 +1,45 @@
+{
+    "generated": "2026-03-22T15:30:21+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "legacy.orthodox.net",
+            "file_count": 1,
+            "total_size_bytes": 280,
+            "total_size_mb": 0,
+            "max_file_size_bytes": 280,
+            "max_file_name": "legacy.orthodox.net/.htaccess",
+            "subdirectories": [
+                {
+                    "path": "legacy.orthodox.net/cgi-bin",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "htaccess": {
+                    "count": 1,
+                    "size_bytes": 280
+                }
+            },
+            "max_file_size_mb": 0
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 1,
+        "total_size_bytes": 280,
+        "total_size_mb": 0,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 280,
+        "max_file_size_mb": 0,
+        "max_file_name": "legacy.orthodox.net/.htaccess"
+    }
+}

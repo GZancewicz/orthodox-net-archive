@@ -1,0 +1,62 @@
+{
+    "generated": "2026-03-22T15:30:26+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "poetry",
+            "file_count": 29,
+            "total_size_bytes": 317379,
+            "total_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+            "max_file_size_bytes": 215106,
+            "max_file_name": "poetry/directory.html",
+            "subdirectories": [
+                {
+                    "path": "poetry/data",
+                    "file_count": 1,
+                    "total_size_bytes": 847,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 847,
+                    "max_file_name": "poetry/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 847
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 24,
+                    "size_bytes": 311432
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 539
+                },
+                "shtml": {
+                    "count": 2,
+                    "size_bytes": 4266
+                },
+                "css": {
+                    "count": 1,
+                    "size_bytes": 295
+                }
+            },
+            "max_file_size_mb": 0.2099999999999999922284388276239042170345783233642578125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 29,
+        "total_size_bytes": 317379,
+        "total_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 215106,
+        "max_file_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+        "max_file_name": "poetry/directory.html"
+    }
+}

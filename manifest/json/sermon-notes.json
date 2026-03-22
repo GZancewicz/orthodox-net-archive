@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:31+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "sermon-notes",
+            "file_count": 44,
+            "total_size_bytes": 1274855,
+            "total_size_mb": 1.2199999999999999733546474089962430298328399658203125,
+            "max_file_size_bytes": 273948,
+            "max_file_name": "sermon-notes/directory.html",
+            "subdirectories": [
+                {
+                    "path": "sermon-notes/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 20,
+                    "size_bytes": 378384
+                },
+                "doc": {
+                    "count": 19,
+                    "size_bytes": 666014
+                },
+                "pdf": {
+                    "count": 5,
+                    "size_bytes": 230457
+                }
+            },
+            "max_file_size_mb": 0.2600000000000000088817841970012523233890533447265625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 44,
+        "total_size_bytes": 1274855,
+        "total_size_mb": 1.2199999999999999733546474089962430298328399658203125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 273948,
+        "max_file_size_mb": 0.2600000000000000088817841970012523233890533447265625,
+        "max_file_name": "sermon-notes/directory.html"
+    }
+}

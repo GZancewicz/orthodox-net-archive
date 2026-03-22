@@ -1,0 +1,86 @@
+{
+    "generated": "2026-03-22T15:30:13+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "articles",
+            "file_count": 295,
+            "total_size_bytes": 14824311,
+            "total_size_mb": 14.1400000000000005684341886080801486968994140625,
+            "max_file_size_bytes": 1223680,
+            "max_file_name": "articles/2012-12-14+o-ye-of-little-faith+miracle-at-an-abortion-clinic.doc",
+            "subdirectories": [
+                {
+                    "path": "articles/data",
+                    "file_count": 2,
+                    "total_size_bytes": 222882,
+                    "total_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+                    "max_file_size_bytes": 203905,
+                    "max_file_name": "articles/data/paisios-the-great+june-19+the-negligent-monk+a-reason-to-pray-to-him.pdf",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 18977
+                        },
+                        "pdf": {
+                            "count": 1,
+                            "size_bytes": 203905
+                        }
+                    },
+                    "max_file_size_mb": 0.190000000000000002220446049250313080847263336181640625
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 204,
+                    "size_bytes": 3070129
+                },
+                "doc": {
+                    "count": 29,
+                    "size_bytes": 4100258
+                },
+                "docx": {
+                    "count": 14,
+                    "size_bytes": 716260
+                },
+                "pdf": {
+                    "count": 33,
+                    "size_bytes": 6357133
+                },
+                "jpg": {
+                    "count": 2,
+                    "size_bytes": 29900
+                },
+                "rtf": {
+                    "count": 5,
+                    "size_bytes": 308150
+                },
+                "shtml": {
+                    "count": 2,
+                    "size_bytes": 7433
+                },
+                "txt": {
+                    "count": 2,
+                    "size_bytes": 10794
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1372
+                }
+            },
+            "max_file_size_mb": 1.1699999999999999289457264239899814128875732421875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 295,
+        "total_size_bytes": 14824311,
+        "total_size_mb": 14.1400000000000005684341886080801486968994140625,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 1223680,
+        "max_file_size_mb": 1.1699999999999999289457264239899814128875732421875,
+        "max_file_name": "articles/2012-12-14+o-ye-of-little-faith+miracle-at-an-abortion-clinic.doc"
+    }
+}

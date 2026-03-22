@@ -1,0 +1,95 @@
+{
+    "generated": "2026-03-22T15:30:12+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "aboutus",
+            "file_count": 127,
+            "total_size_bytes": 49670968,
+            "total_size_mb": 47.36999999999999744204615126363933086395263671875,
+            "max_file_size_bytes": 17372682,
+            "max_file_name": "aboutus/building-chronology.doc",
+            "subdirectories": [
+                {
+                    "path": "aboutus/data",
+                    "file_count": 23,
+                    "total_size_bytes": 1075725,
+                    "total_size_mb": 1.0300000000000000266453525910037569701671600341796875,
+                    "max_file_size_bytes": 352226,
+                    "max_file_name": "aboutus/data/building-chronology_files/exteriorjan10.JPG",
+                    "subdirectories": [
+                        {
+                            "path": "aboutus/data/building-chronology_files",
+                            "file_count": 22,
+                            "total_size_bytes": 1075119,
+                            "total_size_mb": 1.0300000000000000266453525910037569701671600341796875,
+                            "max_file_size_bytes": 352226,
+                            "max_file_name": "aboutus/data/building-chronology_files/exteriorjan10.JPG",
+                            "subdirectories": [],
+                            "extensions": {
+                                "jpg": {
+                                    "count": 22,
+                                    "size_bytes": 1075119
+                                }
+                            },
+                            "max_file_size_mb": 0.340000000000000024424906541753443889319896697998046875
+                        }
+                    ],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 606
+                        }
+                    },
+                    "max_file_size_mb": 0.340000000000000024424906541753443889319896697998046875
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 54,
+                    "size_bytes": 546737
+                },
+                "doc": {
+                    "count": 13,
+                    "size_bytes": 30297716
+                },
+                "pdf": {
+                    "count": 18,
+                    "size_bytes": 9467258
+                },
+                "rtf": {
+                    "count": 6,
+                    "size_bytes": 305674
+                },
+                "js": {
+                    "count": 3,
+                    "size_bytes": 5078
+                },
+                "zip": {
+                    "count": 1,
+                    "size_bytes": 7720217
+                },
+                "jpg": {
+                    "count": 8,
+                    "size_bytes": 244085
+                },
+                "gif": {
+                    "count": 1,
+                    "size_bytes": 8478
+                }
+            },
+            "max_file_size_mb": 16.57000000000000028421709430404007434844970703125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 127,
+        "total_size_bytes": 49670968,
+        "total_size_mb": 47.36999999999999744204615126363933086395263671875,
+        "total_size_gb": 0.05000000000000000277555756156289135105907917022705078125,
+        "max_file_size_bytes": 17372682,
+        "max_file_size_mb": 16.57000000000000028421709430404007434844970703125,
+        "max_file_name": "aboutus/building-chronology.doc"
+    }
+}

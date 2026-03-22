@@ -1,0 +1,41 @@
+{
+    "generated": "2026-03-22T15:30:12+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "a-little-bit",
+            "file_count": 16,
+            "total_size_bytes": 1894532,
+            "total_size_mb": 1.810000000000000053290705182007513940334320068359375,
+            "max_file_size_bytes": 314890,
+            "max_file_name": "a-little-bit/alb-what-is-the-way-of-the-cross.doc",
+            "subdirectories": [],
+            "extensions": {
+                "doc": {
+                    "count": 7,
+                    "size_bytes": 626242
+                },
+                "pdf": {
+                    "count": 7,
+                    "size_bytes": 1257717
+                },
+                "html": {
+                    "count": 2,
+                    "size_bytes": 10573
+                }
+            },
+            "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 16,
+        "total_size_bytes": 1894532,
+        "total_size_mb": 1.810000000000000053290705182007513940334320068359375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 314890,
+        "max_file_size_mb": 0.299999999999999988897769753748434595763683319091796875,
+        "max_file_name": "a-little-bit/alb-what-is-the-way-of-the-cross.doc"
+    }
+}

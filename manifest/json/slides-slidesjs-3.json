@@ -1,0 +1,520 @@
+{
+    "generated": "2026-03-22T15:30:31+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "slides-slidesjs-3",
+            "file_count": 66,
+            "total_size_bytes": 3594346,
+            "total_size_mb": 3.430000000000000159872115546022541821002960205078125,
+            "max_file_size_bytes": 138488,
+            "max_file_name": "slides-slidesjs-3/examples/multiple/font/fontawesome-webfont.svg",
+            "subdirectories": [
+                {
+                    "path": "slides-slidesjs-3/examples",
+                    "file_count": 61,
+                    "total_size_bytes": 3536353,
+                    "total_size_mb": 3.37000000000000010658141036401502788066864013671875,
+                    "max_file_size_bytes": 138488,
+                    "max_file_name": "slides-slidesjs-3/examples/multiple/font/fontawesome-webfont.svg",
+                    "subdirectories": [
+                        {
+                            "path": "slides-slidesjs-3/examples/basic-fade",
+                            "file_count": 6,
+                            "total_size_bytes": 409605,
+                            "total_size_mb": 0.39000000000000001332267629550187848508358001708984375,
+                            "max_file_size_bytes": 125422,
+                            "max_file_name": "slides-slidesjs-3/examples/basic-fade/img/example-slide-3.jpg",
+                            "subdirectories": [
+                                {
+                                    "path": "slides-slidesjs-3/examples/basic-fade/img",
+                                    "file_count": 4,
+                                    "total_size_bytes": 394875,
+                                    "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+                                    "max_file_size_bytes": 125422,
+                                    "max_file_name": "slides-slidesjs-3/examples/basic-fade/img/example-slide-3.jpg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "jpg": {
+                                            "count": 4,
+                                            "size_bytes": 394875
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/basic-fade/js",
+                                    "file_count": 1,
+                                    "total_size_bytes": 11646,
+                                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                                    "max_file_size_bytes": 11646,
+                                    "max_file_name": "slides-slidesjs-3/examples/basic-fade/js/jquery.slides.min.js",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "js": {
+                                            "count": 1,
+                                            "size_bytes": 11646
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                                }
+                            ],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 3084
+                                }
+                            },
+                            "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                        },
+                        {
+                            "path": "slides-slidesjs-3/examples/basic-slide",
+                            "file_count": 6,
+                            "total_size_bytes": 409407,
+                            "total_size_mb": 0.39000000000000001332267629550187848508358001708984375,
+                            "max_file_size_bytes": 125422,
+                            "max_file_name": "slides-slidesjs-3/examples/basic-slide/img/example-slide-3.jpg",
+                            "subdirectories": [
+                                {
+                                    "path": "slides-slidesjs-3/examples/basic-slide/img",
+                                    "file_count": 4,
+                                    "total_size_bytes": 394875,
+                                    "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+                                    "max_file_size_bytes": 125422,
+                                    "max_file_name": "slides-slidesjs-3/examples/basic-slide/img/example-slide-3.jpg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "jpg": {
+                                            "count": 4,
+                                            "size_bytes": 394875
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/basic-slide/js",
+                                    "file_count": 1,
+                                    "total_size_bytes": 11646,
+                                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                                    "max_file_size_bytes": 11646,
+                                    "max_file_name": "slides-slidesjs-3/examples/basic-slide/js/jquery.slides.min.js",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "js": {
+                                            "count": 1,
+                                            "size_bytes": 11646
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                                }
+                            ],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 2886
+                                }
+                            },
+                            "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                        },
+                        {
+                            "path": "slides-slidesjs-3/examples/callbacks",
+                            "file_count": 6,
+                            "total_size_bytes": 410294,
+                            "total_size_mb": 0.39000000000000001332267629550187848508358001708984375,
+                            "max_file_size_bytes": 125422,
+                            "max_file_name": "slides-slidesjs-3/examples/callbacks/img/example-slide-3.jpg",
+                            "subdirectories": [
+                                {
+                                    "path": "slides-slidesjs-3/examples/callbacks/img",
+                                    "file_count": 4,
+                                    "total_size_bytes": 394875,
+                                    "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+                                    "max_file_size_bytes": 125422,
+                                    "max_file_name": "slides-slidesjs-3/examples/callbacks/img/example-slide-3.jpg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "jpg": {
+                                            "count": 4,
+                                            "size_bytes": 394875
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/callbacks/js",
+                                    "file_count": 1,
+                                    "total_size_bytes": 11646,
+                                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                                    "max_file_size_bytes": 11646,
+                                    "max_file_name": "slides-slidesjs-3/examples/callbacks/js/jquery.slides.min.js",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "js": {
+                                            "count": 1,
+                                            "size_bytes": 11646
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                                }
+                            ],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 3773
+                                }
+                            },
+                            "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                        },
+                        {
+                            "path": "slides-slidesjs-3/examples/multiple",
+                            "file_count": 14,
+                            "total_size_bytes": 769418,
+                            "total_size_mb": 0.729999999999999982236431605997495353221893310546875,
+                            "max_file_size_bytes": 138488,
+                            "max_file_name": "slides-slidesjs-3/examples/multiple/font/fontawesome-webfont.svg",
+                            "subdirectories": [
+                                {
+                                    "path": "slides-slidesjs-3/examples/multiple/css",
+                                    "file_count": 2,
+                                    "total_size_bytes": 58053,
+                                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                                    "max_file_size_bytes": 42328,
+                                    "max_file_name": "slides-slidesjs-3/examples/multiple/css/example.css",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "css": {
+                                            "count": 2,
+                                            "size_bytes": 58053
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/multiple/font",
+                                    "file_count": 5,
+                                    "total_size_bytes": 297107,
+                                    "total_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+                                    "max_file_size_bytes": 138488,
+                                    "max_file_name": "slides-slidesjs-3/examples/multiple/font/fontawesome-webfont.svg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "otf": {
+                                            "count": 1,
+                                            "size_bytes": 48748
+                                        },
+                                        "eot": {
+                                            "count": 1,
+                                            "size_bytes": 25395
+                                        },
+                                        "svg": {
+                                            "count": 1,
+                                            "size_bytes": 138488
+                                        },
+                                        "ttf": {
+                                            "count": 1,
+                                            "size_bytes": 55096
+                                        },
+                                        "woff": {
+                                            "count": 1,
+                                            "size_bytes": 29380
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/multiple/img",
+                                    "file_count": 5,
+                                    "total_size_bytes": 396269,
+                                    "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+                                    "max_file_size_bytes": 125422,
+                                    "max_file_name": "slides-slidesjs-3/examples/multiple/img/example-slide-3.jpg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "jpg": {
+                                            "count": 4,
+                                            "size_bytes": 394875
+                                        },
+                                        "png": {
+                                            "count": 1,
+                                            "size_bytes": 1394
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/multiple/js",
+                                    "file_count": 1,
+                                    "total_size_bytes": 11646,
+                                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                                    "max_file_size_bytes": 11646,
+                                    "max_file_name": "slides-slidesjs-3/examples/multiple/js/jquery.slides.min.js",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "js": {
+                                            "count": 1,
+                                            "size_bytes": 11646
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                                }
+                            ],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 6343
+                                }
+                            },
+                            "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+                        },
+                        {
+                            "path": "slides-slidesjs-3/examples/playing",
+                            "file_count": 15,
+                            "total_size_bytes": 770078,
+                            "total_size_mb": 0.729999999999999982236431605997495353221893310546875,
+                            "max_file_size_bytes": 138488,
+                            "max_file_name": "slides-slidesjs-3/examples/playing/font/fontawesome-webfont.svg",
+                            "subdirectories": [
+                                {
+                                    "path": "slides-slidesjs-3/examples/playing/css",
+                                    "file_count": 2,
+                                    "total_size_bytes": 58053,
+                                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                                    "max_file_size_bytes": 42328,
+                                    "max_file_name": "slides-slidesjs-3/examples/playing/css/example.css",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "css": {
+                                            "count": 2,
+                                            "size_bytes": 58053
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/playing/font",
+                                    "file_count": 5,
+                                    "total_size_bytes": 297107,
+                                    "total_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+                                    "max_file_size_bytes": 138488,
+                                    "max_file_name": "slides-slidesjs-3/examples/playing/font/fontawesome-webfont.svg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "otf": {
+                                            "count": 1,
+                                            "size_bytes": 48748
+                                        },
+                                        "eot": {
+                                            "count": 1,
+                                            "size_bytes": 25395
+                                        },
+                                        "svg": {
+                                            "count": 1,
+                                            "size_bytes": 138488
+                                        },
+                                        "ttf": {
+                                            "count": 1,
+                                            "size_bytes": 55096
+                                        },
+                                        "woff": {
+                                            "count": 1,
+                                            "size_bytes": 29380
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/playing/img",
+                                    "file_count": 6,
+                                    "total_size_bytes": 398131,
+                                    "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+                                    "max_file_size_bytes": 125422,
+                                    "max_file_name": "slides-slidesjs-3/examples/playing/img/example-slide-3.jpg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "png": {
+                                            "count": 2,
+                                            "size_bytes": 3256
+                                        },
+                                        "jpg": {
+                                            "count": 4,
+                                            "size_bytes": 394875
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/playing/js",
+                                    "file_count": 1,
+                                    "total_size_bytes": 11646,
+                                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                                    "max_file_size_bytes": 11646,
+                                    "max_file_name": "slides-slidesjs-3/examples/playing/js/jquery.slides.min.js",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "js": {
+                                            "count": 1,
+                                            "size_bytes": 11646
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                                }
+                            ],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 5141
+                                }
+                            },
+                            "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+                        },
+                        {
+                            "path": "slides-slidesjs-3/examples/standard",
+                            "file_count": 14,
+                            "total_size_bytes": 767551,
+                            "total_size_mb": 0.729999999999999982236431605997495353221893310546875,
+                            "max_file_size_bytes": 138488,
+                            "max_file_name": "slides-slidesjs-3/examples/standard/font/fontawesome-webfont.svg",
+                            "subdirectories": [
+                                {
+                                    "path": "slides-slidesjs-3/examples/standard/css",
+                                    "file_count": 2,
+                                    "total_size_bytes": 58053,
+                                    "total_size_mb": 0.059999999999999997779553950749686919152736663818359375,
+                                    "max_file_size_bytes": 42328,
+                                    "max_file_name": "slides-slidesjs-3/examples/standard/css/example.css",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "css": {
+                                            "count": 2,
+                                            "size_bytes": 58053
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/standard/font",
+                                    "file_count": 5,
+                                    "total_size_bytes": 297107,
+                                    "total_size_mb": 0.2800000000000000266453525910037569701671600341796875,
+                                    "max_file_size_bytes": 138488,
+                                    "max_file_name": "slides-slidesjs-3/examples/standard/font/fontawesome-webfont.svg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "otf": {
+                                            "count": 1,
+                                            "size_bytes": 48748
+                                        },
+                                        "eot": {
+                                            "count": 1,
+                                            "size_bytes": 25395
+                                        },
+                                        "svg": {
+                                            "count": 1,
+                                            "size_bytes": 138488
+                                        },
+                                        "ttf": {
+                                            "count": 1,
+                                            "size_bytes": 55096
+                                        },
+                                        "woff": {
+                                            "count": 1,
+                                            "size_bytes": 29380
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/standard/img",
+                                    "file_count": 5,
+                                    "total_size_bytes": 396269,
+                                    "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+                                    "max_file_size_bytes": 125422,
+                                    "max_file_name": "slides-slidesjs-3/examples/standard/img/example-slide-3.jpg",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "jpg": {
+                                            "count": 4,
+                                            "size_bytes": 394875
+                                        },
+                                        "png": {
+                                            "count": 1,
+                                            "size_bytes": 1394
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                                },
+                                {
+                                    "path": "slides-slidesjs-3/examples/standard/js",
+                                    "file_count": 1,
+                                    "total_size_bytes": 11646,
+                                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                                    "max_file_size_bytes": 11646,
+                                    "max_file_name": "slides-slidesjs-3/examples/standard/js/jquery.slides.min.js",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "js": {
+                                            "count": 1,
+                                            "size_bytes": 11646
+                                        }
+                                    },
+                                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                                }
+                            ],
+                            "extensions": {
+                                "html": {
+                                    "count": 1,
+                                    "size_bytes": 4476
+                                }
+                            },
+                            "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+                        }
+                    ],
+                    "extensions": [],
+                    "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+                },
+                {
+                    "path": "slides-slidesjs-3/source",
+                    "file_count": 3,
+                    "total_size_bytes": 56765,
+                    "total_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+                    "max_file_size_bytes": 23949,
+                    "max_file_name": "slides-slidesjs-3/source/jquery.slides.coffee",
+                    "subdirectories": [],
+                    "extensions": {
+                        "coffee": {
+                            "count": 1,
+                            "size_bytes": 23949
+                        },
+                        "js": {
+                            "count": 2,
+                            "size_bytes": 32816
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                }
+            ],
+            "extensions": {
+                "gitignore": {
+                    "count": 1,
+                    "size_bytes": 10
+                },
+                "textile": {
+                    "count": 1,
+                    "size_bytes": 1218
+                }
+            },
+            "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 66,
+        "total_size_bytes": 3594346,
+        "total_size_mb": 3.430000000000000159872115546022541821002960205078125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 138488,
+        "max_file_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+        "max_file_name": "slides-slidesjs-3/examples/multiple/font/fontawesome-webfont.svg"
+    }
+}

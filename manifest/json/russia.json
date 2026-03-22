@@ -1,0 +1,57 @@
+{
+    "generated": "2026-03-22T15:30:29+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "russia",
+            "file_count": 35,
+            "total_size_bytes": 427316,
+            "total_size_mb": 0.409999999999999975575093458246556110680103302001953125,
+            "max_file_size_bytes": 253212,
+            "max_file_name": "russia/directory.html",
+            "subdirectories": [
+                {
+                    "path": "russia/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 31,
+                    "size_bytes": 425011
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1074
+                },
+                "pl": {
+                    "count": 1,
+                    "size_bytes": 1197
+                },
+                "bat": {
+                    "count": 1,
+                    "size_bytes": 34
+                }
+            },
+            "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 35,
+        "total_size_bytes": 427316,
+        "total_size_mb": 0.409999999999999975575093458246556110680103302001953125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 253212,
+        "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375,
+        "max_file_name": "russia/directory.html"
+    }
+}

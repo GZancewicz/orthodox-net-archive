@@ -1,0 +1,66 @@
+{
+    "generated": "2026-03-22T15:30:27+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "questions",
+            "file_count": 473,
+            "total_size_bytes": 6902272,
+            "total_size_mb": 6.5800000000000000710542735760100185871124267578125,
+            "max_file_size_bytes": 747026,
+            "max_file_name": "questions/samaritan_woman_1.doc",
+            "subdirectories": [
+                {
+                    "path": "questions/data",
+                    "file_count": 1,
+                    "total_size_bytes": 9651,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 9651,
+                    "max_file_name": "questions/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 9651
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 289,
+                    "size_bytes": 4683662
+                },
+                "txt": {
+                    "count": 174,
+                    "size_bytes": 910419
+                },
+                "doc": {
+                    "count": 3,
+                    "size_bytes": 914002
+                },
+                "js": {
+                    "count": 3,
+                    "size_bytes": 1309
+                },
+                "rtf": {
+                    "count": 3,
+                    "size_bytes": 383229
+                }
+            },
+            "max_file_size_mb": 0.70999999999999996447286321199499070644378662109375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 473,
+        "total_size_bytes": 6902272,
+        "total_size_mb": 6.5800000000000000710542735760100185871124267578125,
+        "total_size_gb": 0.01000000000000000020816681711721685132943093776702880859375,
+        "max_file_size_bytes": 747026,
+        "max_file_size_mb": 0.70999999999999996447286321199499070644378662109375,
+        "max_file_name": "questions/samaritan_woman_1.doc"
+    }
+}

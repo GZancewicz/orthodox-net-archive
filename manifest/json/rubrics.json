@@ -1,0 +1,58 @@
+{
+    "generated": "2026-03-22T15:30:29+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "rubrics",
+            "file_count": 68,
+            "total_size_bytes": 979553,
+            "total_size_mb": 0.93000000000000004884981308350688777863979339599609375,
+            "max_file_size_bytes": 250788,
+            "max_file_name": "rubrics/directory.html",
+            "subdirectories": [
+                {
+                    "path": "rubrics/data",
+                    "file_count": 1,
+                    "total_size_bytes": 2443,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 2443,
+                    "max_file_name": "rubrics/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 2443
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 56,
+                    "size_bytes": 880416
+                },
+                "shtml": {
+                    "count": 8,
+                    "size_bytes": 95276
+                },
+                "js": {
+                    "count": 3,
+                    "size_bytes": 1418
+                }
+            },
+            "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 68,
+        "total_size_bytes": 979553,
+        "total_size_mb": 0.93000000000000004884981308350688777863979339599609375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 250788,
+        "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375,
+        "max_file_name": "rubrics/directory.html"
+    }
+}

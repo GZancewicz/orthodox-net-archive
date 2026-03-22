@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:28+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "quiz",
+            "file_count": 275,
+            "total_size_bytes": 2403033,
+            "total_size_mb": 2.29000000000000003552713678800500929355621337890625,
+            "max_file_size_bytes": 230286,
+            "max_file_name": "quiz/directory.html",
+            "subdirectories": [
+                {
+                    "path": "quiz/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "htm": {
+                    "count": 124,
+                    "size_bytes": 952534
+                },
+                "html": {
+                    "count": 149,
+                    "size_bytes": 1449392
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1107
+                }
+            },
+            "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 275,
+        "total_size_bytes": 2403033,
+        "total_size_mb": 2.29000000000000003552713678800500929355621337890625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 230286,
+        "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125,
+        "max_file_name": "quiz/directory.html"
+    }
+}

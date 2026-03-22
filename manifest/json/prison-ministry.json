@@ -1,0 +1,86 @@
+{
+    "generated": "2026-03-22T15:30:27+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "prison-ministry",
+            "file_count": 350,
+            "total_size_bytes": 90931470,
+            "total_size_mb": 86.719999999999998863131622783839702606201171875,
+            "max_file_size_bytes": 6399520,
+            "max_file_name": "prison-ministry/newsletter-010_2021-01-24+theophany.doc",
+            "subdirectories": [
+                {
+                    "path": "prison-ministry/data",
+                    "file_count": 2,
+                    "total_size_bytes": 79899,
+                    "total_size_mb": 0.08000000000000000166533453693773481063544750213623046875,
+                    "max_file_size_bytes": 46504,
+                    "max_file_name": "prison-ministry/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 2,
+                            "size_bytes": 79899
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 87,
+                    "size_bytes": 4488220
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 960
+                },
+                "doc": {
+                    "count": 136,
+                    "size_bytes": 49273850
+                },
+                "pdf": {
+                    "count": 85,
+                    "size_bytes": 31624653
+                },
+                "docx": {
+                    "count": 2,
+                    "size_bytes": 1317254
+                },
+                "jpg": {
+                    "count": 1,
+                    "size_bytes": 80622
+                },
+                "rtf": {
+                    "count": 3,
+                    "size_bytes": 145788
+                },
+                "bak": {
+                    "count": 2,
+                    "size_bytes": 55166
+                },
+                "m3u": {
+                    "count": 29,
+                    "size_bytes": 3883
+                },
+                "mp3": {
+                    "count": 1,
+                    "size_bytes": 3861175
+                }
+            },
+            "max_file_size_mb": 6.0999999999999996447286321199499070644378662109375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 350,
+        "total_size_bytes": 90931470,
+        "total_size_mb": 86.719999999999998863131622783839702606201171875,
+        "total_size_gb": 0.08000000000000000166533453693773481063544750213623046875,
+        "max_file_size_bytes": 6399520,
+        "max_file_size_mb": 6.0999999999999996447286321199499070644378662109375,
+        "max_file_name": "prison-ministry/newsletter-010_2021-01-24+theophany.doc"
+    }
+}

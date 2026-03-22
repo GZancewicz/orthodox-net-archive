@@ -1,0 +1,49 @@
+{
+    "generated": "2026-03-22T15:30:17+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "exact",
+            "file_count": 25,
+            "total_size_bytes": 864408,
+            "total_size_mb": 0.81999999999999995115018691649311222136020660400390625,
+            "max_file_size_bytes": 228876,
+            "max_file_name": "exact/exactiv.html",
+            "subdirectories": [
+                {
+                    "path": "exact/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 24,
+                    "size_bytes": 863759
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 649
+                }
+            },
+            "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 25,
+        "total_size_bytes": 864408,
+        "total_size_mb": 0.81999999999999995115018691649311222136020660400390625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 228876,
+        "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125,
+        "max_file_name": "exact/exactiv.html"
+    }
+}

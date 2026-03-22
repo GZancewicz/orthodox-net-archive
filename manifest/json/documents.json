@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:16+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "documents",
+            "file_count": 22,
+            "total_size_bytes": 266737,
+            "total_size_mb": 0.25,
+            "max_file_size_bytes": 80896,
+            "max_file_name": "documents/iocc-us-programs-emergency-response-frontline-contact-information-sheet.doc",
+            "subdirectories": [
+                {
+                    "path": "documents/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 2,
+                    "size_bytes": 109568
+                },
+                "rtf": {
+                    "count": 1,
+                    "size_bytes": 18096
+                },
+                "html": {
+                    "count": 19,
+                    "size_bytes": 139073
+                }
+            },
+            "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 22,
+        "total_size_bytes": 266737,
+        "total_size_mb": 0.25,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 80896,
+        "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875,
+        "max_file_name": "documents/iocc-us-programs-emergency-response-frontline-contact-information-sheet.doc"
+    }
+}

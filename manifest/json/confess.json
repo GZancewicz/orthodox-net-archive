@@ -1,0 +1,74 @@
+{
+    "generated": "2026-03-22T15:30:15+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "confess",
+            "file_count": 65,
+            "total_size_bytes": 20764808,
+            "total_size_mb": 19.800000000000000710542735760100185871124267578125,
+            "max_file_size_bytes": 17444621,
+            "max_file_name": "confess/confession.rtf",
+            "subdirectories": [
+                {
+                    "path": "confess/data",
+                    "file_count": 1,
+                    "total_size_bytes": 4483,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 4483,
+                    "max_file_name": "confess/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 4483
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "rtf": {
+                    "count": 7,
+                    "size_bytes": 17746126
+                },
+                "html": {
+                    "count": 41,
+                    "size_bytes": 413608
+                },
+                "shtml": {
+                    "count": 2,
+                    "size_bytes": 17355
+                },
+                "pdf": {
+                    "count": 6,
+                    "size_bytes": 2021514
+                },
+                "doc": {
+                    "count": 5,
+                    "size_bytes": 560208
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1064
+                },
+                "bak": {
+                    "count": 1,
+                    "size_bytes": 450
+                }
+            },
+            "max_file_size_mb": 16.6400000000000005684341886080801486968994140625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 65,
+        "total_size_bytes": 20764808,
+        "total_size_mb": 19.800000000000000710542735760100185871124267578125,
+        "total_size_gb": 0.0200000000000000004163336342344337026588618755340576171875,
+        "max_file_size_bytes": 17444621,
+        "max_file_size_mb": 16.6400000000000005684341886080801486968994140625,
+        "max_file_name": "confess/confession.rtf"
+    }
+}

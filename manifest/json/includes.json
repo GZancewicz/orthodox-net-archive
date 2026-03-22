@@ -1,0 +1,53 @@
+{
+    "generated": "2026-03-22T15:30:20+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "includes",
+            "file_count": 25,
+            "total_size_bytes": 225386,
+            "total_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+            "max_file_size_bytes": 116588,
+            "max_file_name": "includes/directory.html",
+            "subdirectories": [
+                {
+                    "path": "includes/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 21,
+                    "size_bytes": 196169
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 11880
+                },
+                "css": {
+                    "count": 2,
+                    "size_bytes": 17337
+                }
+            },
+            "max_file_size_mb": 0.11000000000000000055511151231257827021181583404541015625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 25,
+        "total_size_bytes": 225386,
+        "total_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 116588,
+        "max_file_size_mb": 0.11000000000000000055511151231257827021181583404541015625,
+        "max_file_name": "includes/directory.html"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "generated": "2026-03-22T15:30:18+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "forms",
+            "file_count": 7,
+            "total_size_bytes": 627320,
+            "total_size_mb": 0.59999999999999997779553950749686919152736663818359375,
+            "max_file_size_bytes": 565142,
+            "max_file_name": "forms/membership-declaration-or-renewal-2018.pdf",
+            "subdirectories": [
+                {
+                    "path": "forms/data",
+                    "file_count": 1,
+                    "total_size_bytes": 1099,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 1099,
+                    "max_file_name": "forms/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1099
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "js": {
+                    "count": 2,
+                    "size_bytes": 693
+                },
+                "html": {
+                    "count": 2,
+                    "size_bytes": 4562
+                },
+                "doc": {
+                    "count": 1,
+                    "size_bytes": 55824
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 565142
+                }
+            },
+            "max_file_size_mb": 0.54000000000000003552713678800500929355621337890625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 7,
+        "total_size_bytes": 627320,
+        "total_size_mb": 0.59999999999999997779553950749686919152736663818359375,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 565142,
+        "max_file_size_mb": 0.54000000000000003552713678800500929355621337890625,
+        "max_file_name": "forms/membership-declaration-or-renewal-2018.pdf"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "generated": "2026-03-22T15:30:24+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "misc",
+            "file_count": 51,
+            "total_size_bytes": 678293,
+            "total_size_mb": 0.65000000000000002220446049250313080847263336181640625,
+            "max_file_size_bytes": 176916,
+            "max_file_name": "misc/directory.html",
+            "subdirectories": [
+                {
+                    "path": "misc/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 41,
+                    "size_bytes": 522872
+                },
+                "txt": {
+                    "count": 3,
+                    "size_bytes": 8148
+                },
+                "gif": {
+                    "count": 2,
+                    "size_bytes": 13938
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1063
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 2880
+                },
+                "jpg": {
+                    "count": 2,
+                    "size_bytes": 129392
+                }
+            },
+            "max_file_size_mb": 0.1700000000000000122124532708767219446599483489990234375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 51,
+        "total_size_bytes": 678293,
+        "total_size_mb": 0.65000000000000002220446049250313080847263336181640625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 176916,
+        "max_file_size_mb": 0.1700000000000000122124532708767219446599483489990234375,
+        "max_file_name": "misc/directory.html"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:17+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "ecumenism",
+            "file_count": 40,
+            "total_size_bytes": 400675,
+            "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+            "max_file_size_bytes": 74492,
+            "max_file_name": "ecumenism/directory.html",
+            "subdirectories": [
+                {
+                    "path": "ecumenism/data",
+                    "file_count": 1,
+                    "total_size_bytes": 3340,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 3340,
+                    "max_file_name": "ecumenism/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 3340
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 37,
+                    "size_bytes": 396286
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1049
+                }
+            },
+            "max_file_size_mb": 0.070000000000000006661338147750939242541790008544921875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 40,
+        "total_size_bytes": 400675,
+        "total_size_mb": 0.38000000000000000444089209850062616169452667236328125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 74492,
+        "max_file_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+        "max_file_name": "ecumenism/directory.html"
+    }
+}

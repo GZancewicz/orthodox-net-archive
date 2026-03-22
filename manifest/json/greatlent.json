@@ -1,0 +1,82 @@
+{
+    "generated": "2026-03-22T15:30:19+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "greatlent",
+            "file_count": 163,
+            "total_size_bytes": 16590284,
+            "total_size_mb": 15.82000000000000028421709430404007434844970703125,
+            "max_file_size_bytes": 1495978,
+            "max_file_name": "greatlent/abbreviated-prayer-book-for-great-lent-booklet.pdf",
+            "subdirectories": [
+                {
+                    "path": "greatlent/data",
+                    "file_count": 2,
+                    "total_size_bytes": 95213,
+                    "total_size_mb": 0.0899999999999999966693309261245303787291049957275390625,
+                    "max_file_size_bytes": 80035,
+                    "max_file_name": "greatlent/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 2,
+                            "size_bytes": 95213
+                        }
+                    },
+                    "max_file_size_mb": 0.08000000000000000166533453693773481063544750213623046875
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 64,
+                    "size_bytes": 2049455
+                },
+                "shtml": {
+                    "count": 4,
+                    "size_bytes": 35236
+                },
+                "doc": {
+                    "count": 22,
+                    "size_bytes": 1364992
+                },
+                "pdf": {
+                    "count": 29,
+                    "size_bytes": 7461307
+                },
+                "docx": {
+                    "count": 9,
+                    "size_bytes": 428589
+                },
+                "rtf": {
+                    "count": 28,
+                    "size_bytes": 5147132
+                },
+                "txt": {
+                    "count": 2,
+                    "size_bytes": 3861
+                },
+                "new": {
+                    "count": 1,
+                    "size_bytes": 3144
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1355
+                }
+            },
+            "max_file_size_mb": 1.4299999999999999378275106209912337362766265869140625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 163,
+        "total_size_bytes": 16590284,
+        "total_size_mb": 15.82000000000000028421709430404007434844970703125,
+        "total_size_gb": 0.0200000000000000004163336342344337026588618755340576171875,
+        "max_file_size_bytes": 1495978,
+        "max_file_size_mb": 1.4299999999999999378275106209912337362766265869140625,
+        "max_file_name": "greatlent/abbreviated-prayer-book-for-great-lent-booklet.pdf"
+    }
+}

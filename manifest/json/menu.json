@@ -1,0 +1,61 @@
+{
+    "generated": "2026-03-22T15:30:24+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "menu",
+            "file_count": 42,
+            "total_size_bytes": 335721,
+            "total_size_mb": 0.320000000000000006661338147750939242541790008544921875,
+            "max_file_size_bytes": 169338,
+            "max_file_name": "menu/directory.html",
+            "subdirectories": [
+                {
+                    "path": "menu/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "js": {
+                    "count": 7,
+                    "size_bytes": 53654
+                },
+                "css": {
+                    "count": 2,
+                    "size_bytes": 3511
+                },
+                "html": {
+                    "count": 26,
+                    "size_bytes": 270247
+                },
+                "gif": {
+                    "count": 6,
+                    "size_bytes": 5523
+                },
+                "htm": {
+                    "count": 1,
+                    "size_bytes": 2786
+                }
+            },
+            "max_file_size_mb": 0.1600000000000000033306690738754696212708950042724609375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 42,
+        "total_size_bytes": 335721,
+        "total_size_mb": 0.320000000000000006661338147750939242541790008544921875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 169338,
+        "max_file_size_mb": 0.1600000000000000033306690738754696212708950042724609375,
+        "max_file_name": "menu/directory.html"
+    }
+}

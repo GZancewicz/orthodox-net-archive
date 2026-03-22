@@ -1,0 +1,259 @@
+{
+    "generated": "2026-03-22T15:30:31+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "slicebox",
+            "file_count": 68,
+            "total_size_bytes": 938696,
+            "total_size_mb": 0.90000000000000002220446049250313080847263336181640625,
+            "max_file_size_bytes": 150695,
+            "max_file_name": "slicebox/slicebox/images/4.jpg",
+            "subdirectories": [
+                {
+                    "path": "slicebox/__MACOSX",
+                    "file_count": 27,
+                    "total_size_bytes": 4648,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 416,
+                    "max_file_name": "slicebox/__MACOSX/Slicebox/js/._modernizr.custom.46884.js",
+                    "subdirectories": [
+                        {
+                            "path": "slicebox/__MACOSX/Slicebox",
+                            "file_count": 26,
+                            "total_size_bytes": 4426,
+                            "total_size_mb": 0,
+                            "max_file_size_bytes": 416,
+                            "max_file_name": "slicebox/__MACOSX/Slicebox/js/._modernizr.custom.46884.js",
+                            "subdirectories": [
+                                {
+                                    "path": "slicebox/__MACOSX/Slicebox/css",
+                                    "file_count": 3,
+                                    "total_size_bytes": 526,
+                                    "total_size_mb": 0,
+                                    "max_file_size_bytes": 222,
+                                    "max_file_name": "slicebox/__MACOSX/Slicebox/css/._demo.css",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "ds_store": {
+                                            "count": 1,
+                                            "size_bytes": 82
+                                        },
+                                        "css": {
+                                            "count": 2,
+                                            "size_bytes": 444
+                                        }
+                                    },
+                                    "max_file_size_mb": 0
+                                },
+                                {
+                                    "path": "slicebox/__MACOSX/Slicebox/images",
+                                    "file_count": 13,
+                                    "total_size_bytes": 1766,
+                                    "total_size_mb": 0,
+                                    "max_file_size_bytes": 222,
+                                    "max_file_name": "slicebox/__MACOSX/Slicebox/images/._Thumbs.db",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "ds_store": {
+                                            "count": 1,
+                                            "size_bytes": 82
+                                        },
+                                        "jpg": {
+                                            "count": 7,
+                                            "size_bytes": 574
+                                        },
+                                        "db": {
+                                            "count": 1,
+                                            "size_bytes": 222
+                                        },
+                                        "png": {
+                                            "count": 4,
+                                            "size_bytes": 888
+                                        }
+                                    },
+                                    "max_file_size_mb": 0
+                                },
+                                {
+                                    "path": "slicebox/__MACOSX/Slicebox/js",
+                                    "file_count": 2,
+                                    "total_size_bytes": 498,
+                                    "total_size_mb": 0,
+                                    "max_file_size_bytes": 416,
+                                    "max_file_name": "slicebox/__MACOSX/Slicebox/js/._modernizr.custom.46884.js",
+                                    "subdirectories": [],
+                                    "extensions": {
+                                        "ds_store": {
+                                            "count": 1,
+                                            "size_bytes": 82
+                                        },
+                                        "js": {
+                                            "count": 1,
+                                            "size_bytes": 416
+                                        }
+                                    },
+                                    "max_file_size_mb": 0
+                                }
+                            ],
+                            "extensions": {
+                                "ds_store": {
+                                    "count": 1,
+                                    "size_bytes": 82
+                                },
+                                "_css": {
+                                    "count": 1,
+                                    "size_bytes": 222
+                                },
+                                "_images": {
+                                    "count": 1,
+                                    "size_bytes": 222
+                                },
+                                "html": {
+                                    "count": 4,
+                                    "size_bytes": 888
+                                },
+                                "_js": {
+                                    "count": 1,
+                                    "size_bytes": 222
+                                }
+                            },
+                            "max_file_size_mb": 0
+                        }
+                    ],
+                    "extensions": {
+                        "_slicebox": {
+                            "count": 1,
+                            "size_bytes": 222
+                        }
+                    },
+                    "max_file_size_mb": 0
+                },
+                {
+                    "path": "slicebox/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                },
+                {
+                    "path": "slicebox/slicebox",
+                    "file_count": 41,
+                    "total_size_bytes": 934048,
+                    "total_size_mb": 0.89000000000000001332267629550187848508358001708984375,
+                    "max_file_size_bytes": 150695,
+                    "max_file_name": "slicebox/slicebox/images/4.jpg",
+                    "subdirectories": [
+                        {
+                            "path": "slicebox/slicebox/css",
+                            "file_count": 4,
+                            "total_size_bytes": 12673,
+                            "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                            "max_file_size_bytes": 6148,
+                            "max_file_name": "slicebox/slicebox/css/.DS_Store",
+                            "subdirectories": [],
+                            "extensions": {
+                                "ds_store": {
+                                    "count": 1,
+                                    "size_bytes": 6148
+                                },
+                                "css": {
+                                    "count": 3,
+                                    "size_bytes": 6525
+                                }
+                            },
+                            "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                        },
+                        {
+                            "path": "slicebox/slicebox/images",
+                            "file_count": 13,
+                            "total_size_bytes": 784111,
+                            "total_size_mb": 0.75,
+                            "max_file_size_bytes": 150695,
+                            "max_file_name": "slicebox/slicebox/images/4.jpg",
+                            "subdirectories": [],
+                            "extensions": {
+                                "ds_store": {
+                                    "count": 1,
+                                    "size_bytes": 6148
+                                },
+                                "jpg": {
+                                    "count": 7,
+                                    "size_bytes": 720410
+                                },
+                                "db": {
+                                    "count": 1,
+                                    "size_bytes": 19456
+                                },
+                                "png": {
+                                    "count": 4,
+                                    "size_bytes": 38097
+                                }
+                            },
+                            "max_file_size_mb": 0.14000000000000001332267629550187848508358001708984375
+                        },
+                        {
+                            "path": "slicebox/slicebox/js",
+                            "file_count": 3,
+                            "total_size_bytes": 39782,
+                            "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                            "max_file_size_bytes": 24433,
+                            "max_file_name": "slicebox/slicebox/js/jquery.slicebox.js",
+                            "subdirectories": [],
+                            "extensions": {
+                                "ds_store": {
+                                    "count": 1,
+                                    "size_bytes": 6148
+                                },
+                                "js": {
+                                    "count": 2,
+                                    "size_bytes": 33634
+                                }
+                            },
+                            "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                        }
+                    ],
+                    "extensions": {
+                        "ds_store": {
+                            "count": 1,
+                            "size_bytes": 6145
+                        },
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 342
+                        },
+                        "html": {
+                            "count": 11,
+                            "size_bytes": 51322
+                        },
+                        "bak": {
+                            "count": 5,
+                            "size_bytes": 23026
+                        },
+                        "js": {
+                            "count": 3,
+                            "size_bytes": 16647
+                        }
+                    },
+                    "max_file_size_mb": 0.14000000000000001332267629550187848508358001708984375
+                }
+            ],
+            "extensions": [],
+            "max_file_size_mb": 0.14000000000000001332267629550187848508358001708984375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 68,
+        "total_size_bytes": 938696,
+        "total_size_mb": 0.90000000000000002220446049250313080847263336181640625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 150695,
+        "max_file_size_mb": 0.14000000000000001332267629550187848508358001708984375,
+        "max_file_name": "slicebox/slicebox/images/4.jpg"
+    }
+}

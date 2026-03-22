@@ -1,0 +1,49 @@
+{
+    "generated": "2026-03-22T15:30:14+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "charities",
+            "file_count": 24,
+            "total_size_bytes": 134286,
+            "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+            "max_file_size_bytes": 47114,
+            "max_file_name": "charities/directory.html",
+            "subdirectories": [
+                {
+                    "path": "charities/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 22,
+                    "size_bytes": 133241
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1045
+                }
+            },
+            "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 24,
+        "total_size_bytes": 134286,
+        "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 47114,
+        "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+        "max_file_name": "charities/directory.html"
+    }
+}

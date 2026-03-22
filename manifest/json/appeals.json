@@ -1,0 +1,49 @@
+{
+    "generated": "2026-03-22T15:30:13+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "appeals",
+            "file_count": 27,
+            "total_size_bytes": 133881,
+            "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+            "max_file_size_bytes": 27266,
+            "max_file_name": "appeals/directory.html",
+            "subdirectories": [
+                {
+                    "path": "appeals/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 25,
+                    "size_bytes": 132832
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1049
+                }
+            },
+            "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 27,
+        "total_size_bytes": 133881,
+        "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 27266,
+        "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875,
+        "max_file_name": "appeals/directory.html"
+    }
+}

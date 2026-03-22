@@ -1,0 +1,74 @@
+{
+    "generated": "2026-03-22T15:30:26+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "podcasts",
+            "file_count": 129,
+            "total_size_bytes": 1925728,
+            "total_size_mb": 1.8400000000000000799360577730112709105014801025390625,
+            "max_file_size_bytes": 235756,
+            "max_file_name": "podcasts/priest-seraphim/priest-seraphim-giving-the-farm-report-at-the-monastery-01-may-2017.png",
+            "subdirectories": [
+                {
+                    "path": "podcasts/data",
+                    "file_count": 1,
+                    "total_size_bytes": 17824,
+                    "total_size_mb": 0.0200000000000000004163336342344337026588618755340576171875,
+                    "max_file_size_bytes": 17824,
+                    "max_file_name": "podcasts/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 17824
+                        }
+                    },
+                    "max_file_size_mb": 0.0200000000000000004163336342344337026588618755340576171875
+                },
+                {
+                    "path": "podcasts/priest-seraphim",
+                    "file_count": 2,
+                    "total_size_bytes": 454494,
+                    "total_size_mb": 0.429999999999999993338661852249060757458209991455078125,
+                    "max_file_size_bytes": 235756,
+                    "max_file_name": "podcasts/priest-seraphim/priest-seraphim-giving-the-farm-report-at-the-monastery-01-may-2017.png",
+                    "subdirectories": [],
+                    "extensions": {
+                        "png": {
+                            "count": 2,
+                            "size_bytes": 454494
+                        }
+                    },
+                    "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125
+                }
+            ],
+            "extensions": {
+                "xml": {
+                    "count": 103,
+                    "size_bytes": 1131032
+                },
+                "html": {
+                    "count": 21,
+                    "size_bytes": 321433
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 945
+                }
+            },
+            "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 129,
+        "total_size_bytes": 1925728,
+        "total_size_mb": 1.8400000000000000799360577730112709105014801025390625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 235756,
+        "max_file_size_mb": 0.2200000000000000011102230246251565404236316680908203125,
+        "max_file_name": "podcasts/priest-seraphim/priest-seraphim-giving-the-farm-report-at-the-monastery-01-may-2017.png"
+    }
+}

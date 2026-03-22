@@ -1,0 +1,118 @@
+{
+    "generated": "2026-03-22T15:30:18+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "gleanings",
+            "file_count": 2242,
+            "total_size_bytes": 24255451,
+            "total_size_mb": 23.129999999999999005240169935859739780426025390625,
+            "max_file_size_bytes": 2688320,
+            "max_file_name": "gleanings/misc.html",
+            "subdirectories": [
+                {
+                    "path": "gleanings/bak.2002-02-07",
+                    "file_count": 695,
+                    "total_size_bytes": 5547699,
+                    "total_size_mb": 5.29000000000000003552713678800500929355621337890625,
+                    "max_file_size_bytes": 1242868,
+                    "max_file_name": "gleanings/bak.2002-02-07/misc.html",
+                    "subdirectories": [],
+                    "extensions": {
+                        "html": {
+                            "count": 693,
+                            "size_bytes": 5547169
+                        },
+                        "js": {
+                            "count": 2,
+                            "size_bytes": 530
+                        }
+                    },
+                    "max_file_size_mb": 1.189999999999999946709294817992486059665679931640625
+                },
+                {
+                    "path": "gleanings/config",
+                    "file_count": 9,
+                    "total_size_bytes": 905609,
+                    "total_size_mb": 0.85999999999999998667732370449812151491641998291015625,
+                    "max_file_size_bytes": 791271,
+                    "max_file_name": "gleanings/config/dups.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 8,
+                            "size_bytes": 880209
+                        },
+                        "2": {
+                            "count": 1,
+                            "size_bytes": 25400
+                        }
+                    },
+                    "max_file_size_mb": 0.75
+                },
+                {
+                    "path": "gleanings/data",
+                    "file_count": 1,
+                    "total_size_bytes": 714,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 714,
+                    "max_file_name": "gleanings/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 714
+                        }
+                    },
+                    "max_file_size_mb": 0
+                },
+                {
+                    "path": "gleanings/temp",
+                    "file_count": 685,
+                    "total_size_bytes": 5646805,
+                    "total_size_mb": 5.38999999999999968025576890795491635799407958984375,
+                    "max_file_size_bytes": 1252909,
+                    "max_file_name": "gleanings/temp/misc.html",
+                    "subdirectories": [],
+                    "extensions": {
+                        "html": {
+                            "count": 669,
+                            "size_bytes": 5482906
+                        },
+                        "shtml": {
+                            "count": 16,
+                            "size_bytes": 163899
+                        }
+                    },
+                    "max_file_size_mb": 1.189999999999999946709294817992486059665679931640625
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 850,
+                    "size_bytes": 12136146
+                },
+                "log": {
+                    "count": 1,
+                    "size_bytes": 17968
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 510
+                }
+            },
+            "max_file_size_mb": 2.560000000000000053290705182007513940334320068359375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 2242,
+        "total_size_bytes": 24255451,
+        "total_size_mb": 23.129999999999999005240169935859739780426025390625,
+        "total_size_gb": 0.0200000000000000004163336342344337026588618755340576171875,
+        "max_file_size_bytes": 2688320,
+        "max_file_size_mb": 2.560000000000000053290705182007513940334320068359375,
+        "max_file_name": "gleanings/misc.html"
+    }
+}

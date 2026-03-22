@@ -1,0 +1,33 @@
+{
+    "generated": "2026-03-22T15:30:27+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "private_",
+            "file_count": 1,
+            "total_size_bytes": 21049388,
+            "total_size_mb": 20.07000000000000028421709430404007434844970703125,
+            "max_file_size_bytes": 21049388,
+            "max_file_name": "private_/_Christina .wav",
+            "subdirectories": [],
+            "extensions": {
+                "wav": {
+                    "count": 1,
+                    "size_bytes": 21049388
+                }
+            },
+            "max_file_size_mb": 20.07000000000000028421709430404007434844970703125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 1,
+        "total_size_bytes": 21049388,
+        "total_size_mb": 20.07000000000000028421709430404007434844970703125,
+        "total_size_gb": 0.0200000000000000004163336342344337026588618755340576171875,
+        "max_file_size_bytes": 21049388,
+        "max_file_size_mb": 20.07000000000000028421709430404007434844970703125,
+        "max_file_name": "private_/_Christina .wav"
+    }
+}

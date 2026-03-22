@@ -1,0 +1,162 @@
+{
+    "generated": "2026-03-22T15:30:31+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "services",
+            "file_count": 370,
+            "total_size_bytes": 76271588,
+            "total_size_mb": 72.7399999999999948840923025272786617279052734375,
+            "max_file_size_bytes": 19362171,
+            "max_file_name": "services/proskomede.rtf",
+            "subdirectories": [
+                {
+                    "path": "services/data",
+                    "file_count": 1,
+                    "total_size_bytes": 12359,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 12359,
+                    "max_file_name": "services/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 12359
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                },
+                {
+                    "path": "services/horologn",
+                    "file_count": 2,
+                    "total_size_bytes": 76375,
+                    "total_size_mb": 0.070000000000000006661338147750939242541790008544921875,
+                    "max_file_size_bytes": 40122,
+                    "max_file_name": "services/horologn/SMALCOMP.HTM",
+                    "subdirectories": [],
+                    "extensions": {
+                        "htm": {
+                            "count": 2,
+                            "size_bytes": 76375
+                        }
+                    },
+                    "max_file_size_mb": 0.040000000000000000832667268468867405317723751068115234375
+                },
+                {
+                    "path": "services/later",
+                    "file_count": 5,
+                    "total_size_bytes": 39394,
+                    "total_size_mb": 0.040000000000000000832667268468867405317723751068115234375,
+                    "max_file_size_bytes": 31509,
+                    "max_file_name": "services/later/ABRTPRYR.HTM",
+                    "subdirectories": [],
+                    "extensions": {
+                        "htm": {
+                            "count": 4,
+                            "size_bytes": 37975
+                        },
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 1419
+                        }
+                    },
+                    "max_file_size_mb": 0.0299999999999999988897769753748434595763683319091796875
+                },
+                {
+                    "path": "services/ninth-hour_files",
+                    "file_count": 2,
+                    "total_size_bytes": 4483,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 4321,
+                    "max_file_name": "services/ninth-hour_files/header.htm",
+                    "subdirectories": [],
+                    "extensions": {
+                        "xml": {
+                            "count": 1,
+                            "size_bytes": 162
+                        },
+                        "htm": {
+                            "count": 1,
+                            "size_bytes": 4321
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 92,
+                    "size_bytes": 3784930
+                },
+                "pdf": {
+                    "count": 82,
+                    "size_bytes": 14242210
+                },
+                "rtf": {
+                    "count": 96,
+                    "size_bytes": 37373367
+                },
+                "zip": {
+                    "count": 2,
+                    "size_bytes": 43387
+                },
+                "pdb": {
+                    "count": 5,
+                    "size_bytes": 37487
+                },
+                "doc": {
+                    "count": 64,
+                    "size_bytes": 10899529
+                },
+                "docx": {
+                    "count": 9,
+                    "size_bytes": 4541538
+                },
+                "": {
+                    "count": 1,
+                    "size_bytes": 27766
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1154
+                },
+                "good": {
+                    "count": 1,
+                    "size_bytes": 15015
+                },
+                "txt": {
+                    "count": 2,
+                    "size_bytes": 15587
+                },
+                "htm": {
+                    "count": 1,
+                    "size_bytes": 64128
+                },
+                "docm": {
+                    "count": 1,
+                    "size_bytes": 58512
+                },
+                "css": {
+                    "count": 1,
+                    "size_bytes": 895
+                },
+                "dra": {
+                    "count": 1,
+                    "size_bytes": 5033472
+                }
+            },
+            "max_file_size_mb": 18.469999999999998863131622783839702606201171875
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 370,
+        "total_size_bytes": 76271588,
+        "total_size_mb": 72.7399999999999948840923025272786617279052734375,
+        "total_size_gb": 0.070000000000000006661338147750939242541790008544921875,
+        "max_file_size_bytes": 19362171,
+        "max_file_size_mb": 18.469999999999998863131622783839702606201171875,
+        "max_file_name": "services/proskomede.rtf"
+    }
+}

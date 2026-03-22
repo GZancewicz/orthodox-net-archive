@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:22+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "menaion-june",
+            "file_count": 215,
+            "total_size_bytes": 1817882,
+            "total_size_mb": 1.729999999999999982236431605997495353221893310546875,
+            "max_file_size_bytes": 150613,
+            "max_file_name": "menaion-june/directory.html",
+            "subdirectories": [
+                {
+                    "path": "menaion-june/data",
+                    "file_count": 1,
+                    "total_size_bytes": 606,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 606,
+                    "max_file_name": "menaion-june/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 606
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 213,
+                    "size_bytes": 1816773
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 503
+                }
+            },
+            "max_file_size_mb": 0.14000000000000001332267629550187848508358001708984375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 215,
+        "total_size_bytes": 1817882,
+        "total_size_mb": 1.729999999999999982236431605997495353221893310546875,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 150613,
+        "max_file_size_mb": 0.14000000000000001332267629550187848508358001708984375,
+        "max_file_name": "menaion-june/directory.html"
+    }
+}

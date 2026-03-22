@@ -1,0 +1,45 @@
+{
+    "generated": "2026-03-22T15:30:26+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "pastoral-commentary-on-the-psalms",
+            "file_count": 19,
+            "total_size_bytes": 273219,
+            "total_size_mb": 0.2600000000000000088817841970012523233890533447265625,
+            "max_file_size_bytes": 202794,
+            "max_file_name": "pastoral-commentary-on-the-psalms/directory.html",
+            "subdirectories": [
+                {
+                    "path": "pastoral-commentary-on-the-psalms/data",
+                    "file_count": 0,
+                    "total_size_bytes": 0,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 0,
+                    "max_file_name": "",
+                    "subdirectories": [],
+                    "extensions": [],
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 19,
+                    "size_bytes": 273219
+                }
+            },
+            "max_file_size_mb": 0.190000000000000002220446049250313080847263336181640625
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 19,
+        "total_size_bytes": 273219,
+        "total_size_mb": 0.2600000000000000088817841970012523233890533447265625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 202794,
+        "max_file_size_mb": 0.190000000000000002220446049250313080847263336181640625,
+        "max_file_name": "pastoral-commentary-on-the-psalms/directory.html"
+    }
+}

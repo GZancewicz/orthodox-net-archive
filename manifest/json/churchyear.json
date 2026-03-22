@@ -1,0 +1,54 @@
+{
+    "generated": "2026-03-22T15:30:15+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "churchyear",
+            "file_count": 24,
+            "total_size_bytes": 136577,
+            "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+            "max_file_size_bytes": 49694,
+            "max_file_name": "churchyear/directory.html",
+            "subdirectories": [
+                {
+                    "path": "churchyear/data",
+                    "file_count": 1,
+                    "total_size_bytes": 2719,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 2719,
+                    "max_file_name": "churchyear/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 2719
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 22,
+                    "size_bytes": 133329
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 529
+                }
+            },
+            "max_file_size_mb": 0.05000000000000000277555756156289135105907917022705078125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 24,
+        "total_size_bytes": 136577,
+        "total_size_mb": 0.13000000000000000444089209850062616169452667236328125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 49694,
+        "max_file_size_mb": 0.05000000000000000277555756156289135105907917022705078125,
+        "max_file_name": "churchyear/directory.html"
+    }
+}

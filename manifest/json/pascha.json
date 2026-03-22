@@ -1,0 +1,82 @@
+{
+    "generated": "2026-03-22T15:30:26+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "pascha",
+            "file_count": 114,
+            "total_size_bytes": 2632454,
+            "total_size_mb": 2.5099999999999997868371792719699442386627197265625,
+            "max_file_size_bytes": 619091,
+            "max_file_name": "pascha/agape_service.pdf",
+            "subdirectories": [
+                {
+                    "path": "pascha/data",
+                    "file_count": 1,
+                    "total_size_bytes": 6667,
+                    "total_size_mb": 0.01000000000000000020816681711721685132943093776702880859375,
+                    "max_file_size_bytes": 6667,
+                    "max_file_name": "pascha/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 6667
+                        }
+                    },
+                    "max_file_size_mb": 0.01000000000000000020816681711721685132943093776702880859375
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 88,
+                    "size_bytes": 1147976
+                },
+                "pdf": {
+                    "count": 8,
+                    "size_bytes": 968149
+                },
+                "rtf": {
+                    "count": 9,
+                    "size_bytes": 313660
+                },
+                "doc": {
+                    "count": 2,
+                    "size_bytes": 124416
+                },
+                "gif": {
+                    "count": 1,
+                    "size_bytes": 1101
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1405
+                },
+                "shtml": {
+                    "count": 1,
+                    "size_bytes": 12049
+                },
+                "": {
+                    "count": 1,
+                    "size_bytes": 5281
+                },
+                "dot": {
+                    "count": 1,
+                    "size_bytes": 51750
+                }
+            },
+            "max_file_size_mb": 0.58999999999999996891375531049561686813831329345703125
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 114,
+        "total_size_bytes": 2632454,
+        "total_size_mb": 2.5099999999999997868371792719699442386627197265625,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 619091,
+        "max_file_size_mb": 0.58999999999999996891375531049561686813831329345703125,
+        "max_file_name": "pascha/agape_service.pdf"
+    }
+}

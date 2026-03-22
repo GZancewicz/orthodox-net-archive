@@ -1,0 +1,82 @@
+{
+    "generated": "2026-03-22T15:30:18+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "full-voice",
+            "file_count": 312,
+            "total_size_bytes": 52455980,
+            "total_size_mb": 50.030000000000001136868377216160297393798828125,
+            "max_file_size_bytes": 5991962,
+            "max_file_name": "full-voice/prison-ministry-letters_2015-09-23+catechumen-service-exorcisms-renunciations-affirmations-the-creed-disposition.doc",
+            "subdirectories": [
+                {
+                    "path": "full-voice/data",
+                    "file_count": 2,
+                    "total_size_bytes": 219264,
+                    "total_size_mb": 0.2099999999999999922284388276239042170345783233642578125,
+                    "max_file_size_bytes": 125333,
+                    "max_file_name": "full-voice/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 2,
+                            "size_bytes": 219264
+                        }
+                    },
+                    "max_file_size_mb": 0.11999999999999999555910790149937383830547332763671875
+                }
+            ],
+            "extensions": {
+                "doc": {
+                    "count": 107,
+                    "size_bytes": 35513778
+                },
+                "html": {
+                    "count": 67,
+                    "size_bytes": 1980334
+                },
+                "pdf": {
+                    "count": 48,
+                    "size_bytes": 13733121
+                },
+                "xml": {
+                    "count": 1,
+                    "size_bytes": 2857
+                },
+                "bak": {
+                    "count": 3,
+                    "size_bytes": 129206
+                },
+                "m3u": {
+                    "count": 77,
+                    "size_bytes": 10545
+                },
+                "rtf": {
+                    "count": 5,
+                    "size_bytes": 234172
+                },
+                "js": {
+                    "count": 1,
+                    "size_bytes": 645
+                },
+                "docx": {
+                    "count": 1,
+                    "size_bytes": 632058
+                }
+            },
+            "max_file_size_mb": 5.70999999999999996447286321199499070644378662109375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 312,
+        "total_size_bytes": 52455980,
+        "total_size_mb": 50.030000000000001136868377216160297393798828125,
+        "total_size_gb": 0.05000000000000000277555756156289135105907917022705078125,
+        "max_file_size_bytes": 5991962,
+        "max_file_size_mb": 5.70999999999999996447286321199499070644378662109375,
+        "max_file_name": "full-voice/prison-ministry-letters_2015-09-23+catechumen-service-exorcisms-renunciations-affirmations-the-creed-disposition.doc"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "generated": "2026-03-22T15:30:29+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "roca",
+            "file_count": 32,
+            "total_size_bytes": 475978,
+            "total_size_mb": 0.450000000000000011102230246251565404236316680908203125,
+            "max_file_size_bytes": 248304,
+            "max_file_name": "roca/directory.html",
+            "subdirectories": [
+                {
+                    "path": "roca/data",
+                    "file_count": 1,
+                    "total_size_bytes": 969,
+                    "total_size_mb": 0,
+                    "max_file_size_bytes": 969,
+                    "max_file_name": "roca/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 1,
+                            "size_bytes": 969
+                        }
+                    },
+                    "max_file_size_mb": 0
+                }
+            ],
+            "extensions": {
+                "rtf": {
+                    "count": 3,
+                    "size_bytes": 63918
+                },
+                "html": {
+                    "count": 25,
+                    "size_bytes": 401294
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1006
+                },
+                "pdf": {
+                    "count": 1,
+                    "size_bytes": 8791
+                }
+            },
+            "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 32,
+        "total_size_bytes": 475978,
+        "total_size_mb": 0.450000000000000011102230246251565404236316680908203125,
+        "total_size_gb": 0,
+        "max_file_size_bytes": 248304,
+        "max_file_size_mb": 0.2399999999999999911182158029987476766109466552734375,
+        "max_file_name": "roca/directory.html"
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "generated": "2026-03-22T15:30:13+00:00",
+    "server": "hikina.inoatech.com",
+    "base_path": "/home/nicholas/public_html",
+    "directories": [
+        {
+            "path": "audio",
+            "file_count": 2052,
+            "total_size_bytes": 319448674,
+            "total_size_mb": 304.6499999999999772626324556767940521240234375,
+            "max_file_size_bytes": 43937621,
+            "max_file_name": "audio/gl-week-06-sat_2023+lazarus-saturday_john11-1-45.mp3",
+            "subdirectories": [
+                {
+                    "path": "audio/data",
+                    "file_count": 2,
+                    "total_size_bytes": 1461391,
+                    "total_size_mb": 1.3899999999999999023003738329862244427204132080078125,
+                    "max_file_size_bytes": 843309,
+                    "max_file_name": "audio/data/data-index.txt",
+                    "subdirectories": [],
+                    "extensions": {
+                        "txt": {
+                            "count": 2,
+                            "size_bytes": 1461391
+                        }
+                    },
+                    "max_file_size_mb": 0.8000000000000000444089209850062616169452667236328125
+                }
+            ],
+            "extensions": {
+                "html": {
+                    "count": 430,
+                    "size_bytes": 19662196
+                },
+                "m3u": {
+                    "count": 1254,
+                    "size_bytes": 159225
+                },
+                "doc": {
+                    "count": 246,
+                    "size_bytes": 39772797
+                },
+                "rtf": {
+                    "count": 27,
+                    "size_bytes": 12917200
+                },
+                "pdf": {
+                    "count": 45,
+                    "size_bytes": 11804597
+                },
+                "bak": {
+                    "count": 4,
+                    "size_bytes": 133155
+                },
+                "xml": {
+                    "count": 1,
+                    "size_bytes": 2665
+                },
+                "docx": {
+                    "count": 6,
+                    "size_bytes": 116917
+                },
+                "mp3": {
+                    "count": 23,
+                    "size_bytes": 224558628
+                },
+                "dvf": {
+                    "count": 2,
+                    "size_bytes": 3289088
+                },
+                "": {
+                    "count": 1,
+                    "size_bytes": 4956160
+                },
+                "js": {
+                    "count": 2,
+                    "size_bytes": 1167
+                },
+                "2013-04-13": {
+                    "count": 1,
+                    "size_bytes": 516756
+                },
+                "htm": {
+                    "count": 3,
+                    "size_bytes": 67263
+                },
+                "txt": {
+                    "count": 3,
+                    "size_bytes": 29273
+                },
+                "link": {
+                    "count": 1,
+                    "size_bytes": 196
+                },
+                "example": {
+                    "count": 1,
+                    "size_bytes": 0
+                }
+            },
+            "max_file_size_mb": 41.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "summary": {
+        "total_directories": 1,
+        "total_files": 2052,
+        "total_size_bytes": 319448674,
+        "total_size_mb": 304.6499999999999772626324556767940521240234375,
+        "total_size_gb": 0.299999999999999988897769753748434595763683319091796875,
+        "max_file_size_bytes": 43937621,
+        "max_file_size_mb": 41.89999999999999857891452847979962825775146484375,
+        "max_file_name": "audio/gl-week-06-sat_2023+lazarus-saturday_john11-1-45.mp3"
+    }
+}
