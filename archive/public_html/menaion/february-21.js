@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>March 5 St. Timothy of Symbola in Bithynia. ');
+document.writeln('<LI>St. Eustathius (Eustace), Archbishop of Antioch. ');
+document.writeln('<LI>St. George, Bishop of Amastris on the Black Sea. ');
+document.writeln('<BR>Services combined with St. Eustathius');
+document.writeln('<LI>St. John the Scholastic, Patriarch of Constantinople. ');
+document.writeln('<LI>St. Zachariah, Patriarch of Jerusalem. ');
+document.writeln('<LI>"Kozelshchanskaya" Icon of the Most Holy Theotokos. ');
+document.writeln('<LI>Repose of Blessed Simon Todorsky, Bishop of Pskov (1754), and Elder Macarius of Glinsk Hermitage (1864). ');
+document.writeln('</OL>');

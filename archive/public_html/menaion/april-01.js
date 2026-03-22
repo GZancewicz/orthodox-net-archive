@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-april/01-saint-mary-the-egyptian.html">St. Mary the Egyptian. </A>');
+document.writeln('<LI>St. Euthymius, monk of Suzdal. ');
+document.writeln('<LI>St. Macarius, abbot of Pelecete. ');
+document.writeln('<LI>Martyrs Gerontius and Basilides. ');
+document.writeln('<LI>Martyr Abraham of Bulgaria. ');
+document.writeln('<LI>Righteous Achaz. ');
+document.writeln('<LI>St. Gerontius, canonarch of the Kiev Caves. ');
+document.writeln('<LI>New-Martyr Schema-bishop Macarius (1944)');
+document.writeln('<LI>New-Martyr Michael (Misha), fool-for-Christ (1931). ');
+document.writeln('<LI>Repose of Elder Barsanuphius of Optina (1913). ');
+document.writeln('<LI><A HREF="/menaion-april/01-saint-meletion.html">Saint Meletion</A>');
+document.writeln('</OL>');

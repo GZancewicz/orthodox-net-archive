@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-april/03-saint-nicetas-the-confessor.html">St. Nicetas the Confessor, abbot of Medikion. </A>');
+document.writeln('<LI>St. Illyricus of Mt. Myrsinon in the Peloponnesus. ');
+document.writeln('<LI>Martyrs Elpidephorus, Dius, Bithonius, and Calycus. ');
+document.writeln('<LI>Virgin Martyr Theodosia of Tyre, and Martyr Irene. ');
+document.writeln('<LI>St. Nectarius, abbot of Bezhetsk. ');
+document.writeln('<LI><A HREF="/menaion-april/03-saint-paul.html">New-Martyr Paul the Russian at Constantinople. </A>');
+document.writeln('<LI>Icon of the Most Holy Theotokos "The Unfading Flower". ');
+document.writeln('<LI><A HREF="/menaion-april/03-the-holy-martyr-ulphianus.html">Holy Martyr Ulphianus</A>');
+document.writeln('</OL>');

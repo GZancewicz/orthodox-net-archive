@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-september/07-holy-martyr-sozon.html">Martyr Sozon of Cilicia </A>');
+document.writeln('<LI>Forefeast of Nativity of Theotokos');
+document.writeln('<LI><A HREF="/menaion-september/07-st-john-archbishop-of-novgorod.html">St. John, Archbishop and Wonderworker of Novgorod. </A>');
+document.writeln('<LI><A HREF="/menaion-september/07-holy-martyr-eupsychius.html">Martyr Eupsychius of Caesarea in Cappadocia. </A>');
+document.writeln('<LI><A HREF="/menaion-september/07-holy-apostles-euodus-and-onesiphorus.html">Apostles Evodus (Euodias) and Onesiphorus of the Seventy. </A>');
+document.writeln('<LI>St. Luke, abbot near Constantinople. ');
+document.writeln('<LI>Martyrdom of St. Macarius, Archimandrite of Kanev. ');
+document.writeln('<LI>St. Cloud (Clodoald), abbot founder of Nogent sur Seine near Paris. ');
+document.writeln('<LI>New Martyr priest John Maslovsky. ');
+document.writeln('<LI>Repose of Elder Macarius of Optina (1860). ');
+document.writeln('<BR><I>VESPERS: </I> (1) Wis 5:15-6:3; (2) Wis 3:1-9 (3) Wis 4:7-15');
+document.writeln('<BR>If the Rector wish, a Polyeleos rank service to the Saint');
+document.writeln('</OL>');

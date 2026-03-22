@@ -1,0 +1,11 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI><A HREF="/menaion-december/06-st-nicolas-the-wonderworker-archbishop-of-myra-in-lycia.html">St. Nicholas the Wonderworker, Archbishop of Myra in Lycia </A>');
+document.writeln('<BR><I>Readings</I>');
+document.writeln('<LI><I>VESPERS: </I>(1) Prov 10:7, 6; 3:13 16; 8:6, 32, 34, 4, 12, 14, 17, 5 9; 1:23; (2) Prov 10:31 11:12; (3) Wis 4:7 15. ');
+document.writeln('<LI><I>MATINS: </I> Jn 10:9 16. ');
+document.writeln('<LI><I>LITURGY: </I> Heb 13:17 21; Lk 6:17 23. ');
+document.writeln('</UL>');
+document.writeln('<LI>Blessed Maximus, Metropolitan of Kiev. ');
+document.writeln('<LI>New Martyr Nicholas of Karamania in Asia Minor. ');
+document.writeln('<LI>Namesday of Royal Martyr Tsar Nicholas II (1918). ');
+document.writeln('</OL>');

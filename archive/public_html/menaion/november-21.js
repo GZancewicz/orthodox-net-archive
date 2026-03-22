@@ -1,0 +1,10 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI>THE ENTRY OF THE MOST HOLY THEOTOKOS INTO THE TEMPLE ');
+document.writeln('<BR><I>Readings</I>');
+document.writeln('<LI><I>VESPERS: </I>(1) Ex 40:1 5, 9, 10, 16, 34 35; (2) III Kgs 7:51; 8:1, 3 7, 9 11; (3) Ezek 43:27 44:4. ');
+document.writeln('<LI><I>MATINS: </I> Lk 1:39 49, 56. ');
+document.writeln('<LI><I>LITURGY: </I> Heb 9:1 7; Lk 10:38 42; 11:27 28. ');
+document.writeln('</UL>');
+document.writeln('<LI>St. Yaropolk Peter, prince of Vladimir in Volhynia. ');
+document.writeln('<LI>St. Columban of Ireland, abbot and founder of Luxeuil Abbey in France. ');
+document.writeln('</OL>');

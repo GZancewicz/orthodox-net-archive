@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. John (Climacus) of Sinai, author of The Ladder. ');
+document.writeln('<LI>St. John the Silent of St. Sabbas' Monastery. ');
+document.writeln('<LI>St. Zosimas, Bishop of Syracuse. ');
+document.writeln('<LI>Prophet Joad (I Kgs 13:11) who dwelt in Bethel. ');
+document.writeln('<LI>Apostles Sosthenes, Apollos, Cephas, Caesar, and Epaphroditus, of the Seventy. ');
+document.writeln('<LI>St. Eubula, mother of St. Pantileimon. ');
+document.writeln('<LI>St. John, Patriarch of Jerusalem. ');
+document.writeln('<LI>Hieromartyr Zacharias, Bishop of Corinth. ');
+document.writeln('<LI>St. Sophronius, Bishop of Irkutsk. ');
+document.writeln('</OL>');

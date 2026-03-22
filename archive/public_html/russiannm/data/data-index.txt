@@ -1,0 +1,149 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|abercius-archbishop-and-hieromartyr-of-zhitomir|Abercius, Archbishop And Hieromartyr Of Zhitomir||||||||||||||||||||||||||||||
+002|agathangelus-metropolitan-and-hieroconfessor-of-yaroslavl|Agathangelus, Metropolitan And Hieroconfessor Of Yaroslavl||||||||||||||||||||||||||||||
+003|agnia-confessor-abbess-of-vasilsursk|Agnia, Confessor-Abbess Of Vasilsursk||||||||||||||||||||||||||||||
+004|alexander-orlov-hieroconfessor-of-omsk|Alexander (Orlov), Hieroconfessor Of Omsk ||||||||||||||||||||||||||||||
+005|alexander-svir-monastery-monastic-martyrs|Monastic Martyrs Of Alexander Svir Monastery ||||||||||||||||||||||||||||||
+006|alexis-bishop-and-hieroconfessor-of-rylsk|Hieroconfessor Alexis, Bishop Of Rylsk||||||||||||||||||||||||||||||
+007|alexis-bishop-and-hieromartyr-of-voronezh-and-those-with-him-01-of-05|Alexis, Bishop And Hieromartyr Of Voronezh  And Those With Him||||||||||||||||||||||||||||||
+008|ambrose-bishop-and-hieroconfessor-of-podolsk|Ambrose, Bishop And Hieroconfessor Of Podolsk||||||||||||||||||||||||||||||
+009|ambrose-bishop-of-mster|Bishop Ambrose Of Mster||||||||||||||||||||||||||||||
+010|anatolius-and-demetrius-hieromartyrs-of-kiev-and-those-with-them|Anatolius And Demetrius, Hieromartyrs Of Kiev And Those With Them||||||||||||||||||||||||||||||
+011|anatolius-and-seraphim-of-optina-hieroconfessors|Anatolius And Seraphim Of Optina, Hieroconfessors||||||||||||||||||||||||||||||
+012|andrew-archbishop-and-hieromartyr-of-ufa-01-of-03|Hieromartyr Andrew, Archbishop Of Ufa ||||||||||||||||||||||||||||||
+013|andronicus-archbishop-and-hieromartyr-of-perm-and-those-with-him|Hieromartyr Andronicus, Archbishop Of Perm And Those With Him||||||||||||||||||||||||||||||
+014|anthony-galysnky-mikhailovsky-archbishop-and-those-with-him|Archbishop Anthony (Galysnky-Mikhailovsky) And Those With Him||||||||||||||||||||||||||||||
+015|anthony-schema-archbishop-and-hieroconfessor-of-tauris-and-those-with-him|Anthony, Schema-Archbishop And Hieroconfessor Of Tauris And Those With Him||||||||||||||||||||||||||||||
+016|arcadius-bishop-and-hieromartyrof-lubny|Hieromartyr Arcadius, Bishop Of Lubny||||||||||||||||||||||||||||||
+017|arsenius-bishop-and-hieromartyr-of-serpukhov-and-those-with-him|Hieromartyr Arsenius, Bishop Of Serpukhov And Those With Him||||||||||||||||||||||||||||||
+018|arsenius-metropolitan-and-hieroconfessor-of-novgorod|Arsenius Metropolitan And Hieroconfessor Of Novgorod||||||||||||||||||||||||||||||
+019|athanasius-bishop-and-hieromartyr-of-skvirsk|Athanasius, Bishop And Hieromartyr Of Skvirsk||||||||||||||||||||||||||||||
+020|barlaam-archbishop-and-hieromartyr-of-perm|Hieromartyr Barlaam, Archbishop Of Perm||||||||||||||||||||||||||||||
+021|barsonuphius-abbot-of-alexandria-and-those-with-him|Barsonuphius, Abbot Of Alexandria And Those With Him||||||||||||||||||||||||||||||
+022|barsonuphius-bishop-and-hieroconfessor-of-nikolsk|Barsonuphius, Bishop And Hieroconfessor Of Nikolsk||||||||||||||||||||||||||||||
+023|barsonuphius-bishop-and-hieromartyr-of-kirillovsk-and-those-with-him|Hieromartyr Barsonuphius, Bishop Of Kirillovsk And Those With Him||||||||||||||||||||||||||||||
+024|basil-archbishop-of-and-hieromartyr-chernigov-and-those-with-him|Hieromartyr Basil, Archbishop Of Chernigov And Those With Him||||||||||||||||||||||||||||||
+025|basil-bishop-and-hieroconfessor-of-kineshma-and-those-with-him-01-of-03|Hieroconfessor Basil, Bishop Of Kineshma And Those With Him||||||||||||||||||||||||||||||
+026|basil-bishop-and-hieromartyr-of-kargopol-and-those-with-him|Basil, Bishop And Hieromartyr Of Kargopol And Those With Him||||||||||||||||||||||||||||||
+027|basil-bishop-and-hieromartyr-of-priluky-and-those-with-him|Hieromartyr Basil, Bishop Of Priluky And Those With Him||||||||||||||||||||||||||||||
+028|belarus-confessors|Confessors Of Belarus||||||||||||||||||||||||||||||
+029|benjamin-bishop-and-hieromartyr-of-rybinsk|Hieromartyr Benjamin, Bishop Of Rybinsk||||||||||||||||||||||||||||||
+030|benjamin-bishop-and-hieromartyr-of-sterlitamak-and-those-with-him|Hieromartyr Benjamin, Bishop Of Sterlitamak And Those With Him||||||||||||||||||||||||||||||
+031|benjamin-metropolitan-and-hieromartyr-of-petrograd-and-those-with-him|Hieromartyr Benjamin, Metropolitan Of Petrograd And Those With Him||||||||||||||||||||||||||||||
+032|bishop-and-hieroconfessor-paul-of-starobela|Hieroconfessor Paul, Bishop Of Starobela||||||||||||||||||||||||||||||
+033|bishop-claudius-savinsky-hieromartyr-and-those-with-him|Hieromartyr Bishop Claudius (Savinsky) And Those With Him||||||||||||||||||||||||||||||
+034|bishop-lazarus-lyubimov-hieromartyr-and-those-with-him|Hieromartyr Bishop Lazarus (Lyubimov) And Those With Him||||||||||||||||||||||||||||||
+035|boris-archbishop-and-hieroconfessor-of-ryazan|Hieroconfessor Boris, Archbishop Of Ryazan||||||||||||||||||||||||||||||
+036|caucasus-mountains-hieromartyrs-martyrs-and-confessors-01-of-03|Hieromartyrs, Martyrs And Confessors Of The Caucasus Mountains||||||||||||||||||||||||||||||
+037|central-asia-hieromartyrs-and-hieroconfessors-and-those-with-them|Hieromartyrs And Hieroconfessors Of Central Asia And Those With Them||||||||||||||||||||||||||||||
+038|crimea-and-taganrog-hieromartyrs-martyrs-and-confessors|Hieromartyrs Of The Crimea And Taganrog||||||||||||||||||||||||||||||
+039|damascene-bishop-and-hieromartyr-of-glukhov-and-those-with-him|Damascene, Bishop And Hieromartyr Of Glukhov  And Those With Him  ||||||||||||||||||||||||||||||
+040|dometian-schema-bishop-and-hieroconfessor-of-tyumen|Dometian, Schema-Bishop And Hieroconfessor Of Tyumen||||||||||||||||||||||||||||||
+041|eastern-siberia-hieromartyrs-martyrs-and-confessors|Hieromartyrs Of Eastern Siberia||||||||||||||||||||||||||||||
+042|elisavettgrad-region-hieromartyrs-martyrs-and-confessors|Hieromartyrs, Martyrs And Confessors Of Elisavettgrad Region||||||||||||||||||||||||||||||
+043|ephraim-bishop-and-hieromartyr-of-selenginsk|Hieromartyr Ephraim, Bishop Of Selenginsk||||||||||||||||||||||||||||||
+044|eudocia-nun-martyr-of-diveyevo-and-those-with-her|Eudocia Nun-Martyr Of Diveyevo And Those With Her||||||||||||||||||||||||||||||
+045|gabriel-archbishop-and-hieromartyr-of-vitebsk|Hieromartyr Gabriel, Archbishop Of Vitebsk||||||||||||||||||||||||||||||
+046|gabriel-hieroconfessor-of-akkerman|Gabriel Hieroconfessor Of Akkerman||||||||||||||||||||||||||||||
+047|gennadius-sekach-schema-metropolitan-01-of-06|Gennadius(Sekach), Schema-Metropolitan||||||||||||||||||||||||||||||
+048|gideon-peter-nicetas-and-tiburtius-hieromartyrs-and-those-with-them|Gideon, Peter, Nicetas And Tiburtius ,Hieromartyrs And Those With Them||||||||||||||||||||||||||||||
+049|gregory-bishop-and-hieromartyr-of-schlisselburg-and-those-with-him|Hieromartyr Gregory, Bishop Of Schlisselburg And Those With Him||||||||||||||||||||||||||||||
+050|gurias-archbishop-and-hieromartyr-of-irkutsk|Hieromartyr Gurias, Archbishop Of Irkutsk||||||||||||||||||||||||||||||
+051|habbakuk-bishop-and-hieromartyr-of-old-ufa|Hieromartyr Habbakuk, Bishop Of Old Ufa||||||||||||||||||||||||||||||
+052|hermogenes-bishop-and-hieromartyr-of-tobolsk-and-those-with-him|Hieromartyr Hermogenes, Bishop Of Tobolsk And Those With Him||||||||||||||||||||||||||||||
+053|hieroconfessor-benjamin-bishop-of-aksinsk-and-those-with-him|Hieroconfessor Benjamin, Bishop Of Aksinsk And Those With Him||||||||||||||||||||||||||||||
+054|hieroconfessor-victor-archbishop-of-vyatka|Hieroconfessor Victor, Archbishop Of Vyatka||||||||||||||||||||||||||||||
+055|hieromartyr-tikhon-patriarch-of-moscow-and-all-russia-01-of-03|Hieromartyr Tikhon, Patriarch Of Moscow And All Russia||||||||||||||||||||||||||||||
+056|hierotheus-bishop-and-hieromartyr-of-veliky-ustiug-and-those-with-him-01-of-03|Hierotheus, Bishop And Hieromartyr Of Veliky Ustiug And Those With Him||||||||||||||||||||||||||||||
+057|hilarion-archbishop-and-hieroconfessor-of-verey|Hilarion, Archbishop And Hieroconfessor Of Verey||||||||||||||||||||||||||||||
+058|hilarion-bishop-and-hieromartyr-of-porech|Hilarion, Bishop And Hieromartyr Of Porech||||||||||||||||||||||||||||||
+059|isaac-hieromartyr-of-optina-and-those-with-him|Isaac, Hieromartyr Of Optina  And Those With Him||||||||||||||||||||||||||||||
+060|isidore-bishop-and-hieromartyr-of-mikhailov|Hieromartyr Isidore, Bishop Of Mikhailov||||||||||||||||||||||||||||||
+061|james-vladimirov-hieromartyr-of-plotava-and-those-with-him|James (Vladimirov) Hieromartyr Of Plotava And Those With Him||||||||||||||||||||||||||||||
+062|joachim-archbishop-and-hieromartyr-of-nizhny-novgorod-and-those-with-him|Hieromartyr Joachim, Archbishop Of Nizhny-Novgorod And Those With Him||||||||||||||||||||||||||||||
+063|joanna-schema-abbess-of-suzdal|Joanna, Schema-Abbess Of Suzdal ||||||||||||||||||||||||||||||
+064|joasaph-bishop-and-hieromartyr-of-bakhmut|Hieromartyr Joasaph, Bishop Of Bakhmut||||||||||||||||||||||||||||||
+065|joasaph-bishop-and-hieromartyr-of-chistopol-and-those-with-him-01-of-03|Joasaph, Bishop And Hieromartyr Of Chistopol And Those With Him||||||||||||||||||||||||||||||
+066|job-bishop-and-hieromartyr-of-ufa|Job, Bishop And Hieromartyr Of Ufa||||||||||||||||||||||||||||||
+067|john-archbishop-and-hieromartyr-of-riga-01-of-03|John Archbishop And Hieromartyr Of Riga||||||||||||||||||||||||||||||
+068|john-bishop-and-hieromartyr-of-pechersk|John, Bishop And Hieromartyr Of Pechersk||||||||||||||||||||||||||||||
+069|john-hieroconfessor-of-yelevo|John Hieroconfessor Of Yelevo||||||||||||||||||||||||||||||
+070|jonah-atamansky-hieroconfessor-of-odessa|Jonah (Atamansky) Hieroconfessor Of Odessa||||||||||||||||||||||||||||||
+071|joseph-new-martyr-of-euboea-greece|Joseph, New-Martyr Of Euboea, Greece||||||||||||||||||||||||||||||
+072|kazan-diocese-hieromartyrs-martyrs-and-confessors|Hieromartyrs, Martyrs And Confessors Of Kazan Diocese||||||||||||||||||||||||||||||
+073|kiev-province-hieromartyrs-martyrs-and-confessors|Hieromartyrs Of Kiev Province||||||||||||||||||||||||||||||
+074|kostroma-region-martyrs|Martyrs Of Kostroma Region||||||||||||||||||||||||||||||
+075|kursk-kharkov-poltava-and-belgorod-holy-confessors|Kursk, Kharkov, Poltava And Belgorod Holy Confessors ||||||||||||||||||||||||||||||
+076|kursk-kharkov-poltava-and-belgorod-holy-martyrs|Kursk, Kharkov, Poltava And Belgorod Holy Martyrs||||||||||||||||||||||||||||||
+077|laurence-hieromartyr-of-balakhna-and-those-with-him|Hieromartyr Laurence Of Balakhna And Those With Him||||||||||||||||||||||||||||||
+078|leontius-hieromartyr-of-tsarevo|Hieromartyr Leontius Of Tsarevo||||||||||||||||||||||||||||||
+079|lev-martyr-of-saratov|Lev, Martyr Of Saratov||||||||||||||||||||||||||||||
+080|macarius-archbishop-and-hieromartyr-of-dnepropetrovsk-and-those-with-him|Macarius, Archbishop And Hieromartyr Of Dnepropetrovsk And Those With Him||||||||||||||||||||||||||||||
+081|macarius-bishop-and-hieromartyr-of-orel|Macarius, Bishop And Hieromartyr Of Orel||||||||||||||||||||||||||||||
+082|macarius-schema-bishop-and-hieroconfessor-of-malovishery|Hieroconfessor Macarius, Schema-Bishop Of Malovishery||||||||||||||||||||||||||||||
+083|map-01-of-04|Http:/Www.Orthodox.Net/Saints/12apostles.Html||||||||||||||||||||||||||||||
+084|margaret-martyr-abbess-of-menzelinsk|Margaret, Martyr-Abbess Of Menzelinsk||||||||||||||||||||||||||||||
+085|maria-of-gatchina-nun-martyr-and-those-with-her|Nun-Martyr Maria Of Gatchina And Those With Her||||||||||||||||||||||||||||||
+086|mark-bishop-and-hieromartyr-of-vladivostok|Hieromartyr Mark, Bishop Of Vladivostok||||||||||||||||||||||||||||||
+087|martyr-maria-the-soldier-martyr|Martyr Maria The Soldier||||||||||||||||||||||||||||||
+088|maximus-bishop-and-hieromartyr-of-serpukhov-and-those-with-him|Maximus Bishop And Hieromartyr Of Serpukhov And Those With Him||||||||||||||||||||||||||||||
+089|maximus-reader-of-salsk-and-those-with-him|Reader Maximus Of Salsk And Those With Him||||||||||||||||||||||||||||||
+090|methodius-bishop-and-hieromartyr-of-petropavlovsk-and-those-with-him|Hieromartyr Methodius, Bishop Of Petropavlovsk And Those With Him||||||||||||||||||||||||||||||
+091|metrophanes-hieromartyr-of-mikhailov|Hieromartyr Metrophanes Of Mikhailov||||||||||||||||||||||||||||||
+092|michael-schema-bishop-of-chistopol|Schema-Bishop Michael Of Chistopol||||||||||||||||||||||||||||||
+093|nectarius-hieroconfessor-of-optina|Hieroconfessor Nectarius Of Optina||||||||||||||||||||||||||||||
+094|nicetas-bishop-of-nizhne-tagilsk|Bishop Nicetas Of Nizhne-Tagilsk||||||||||||||||||||||||||||||
+095|nicetas-hieroconfessor-of-vyatka-and-those-with-him-01-of-04|Nicetas, Hieroconfessor Of Vyatka  And Those With Him ||||||||||||||||||||||||||||||
+096|nicetas-lekhan-hieroconfessor-of-kharkov|Nicetas (Lekhan) Hieroconfessor Of Kharkov||||||||||||||||||||||||||||||
+097|nicholas-and-john-hieromartyrs-of-verkhniye-marki|Hieromartyrs Nicholas And John Of Verkhniye Marki||||||||||||||||||||||||||||||
+098|nicholas-archbishop-and-hieromartyr-of-vladimir|Hieromartyr Nicholas, Archbishop Of Vladimir||||||||||||||||||||||||||||||
+099|nicholas-bishop-and-hieroconfessor-of-vyazniki|Nicholas, Bishop And Hieroconfessor Of Vyazniki||||||||||||||||||||||||||||||
+100|nicholas-bishop-and-hieromartyr-of-aktar-and-those-with-him|Hieromartyr Nicholas, Bishop Of Aktar And Those With Him||||||||||||||||||||||||||||||
+101|nicholas-ii-tsar-martyr-and-his-family-01-of-05|Tsar-Martyr Nicholas Ii And His Family||||||||||||||||||||||||||||||
+102|nicholas-zagorovksy-hieroconfessor-of-kharkov|Nicholas (Zagorovksy) Hieroconfessor Of Kharkov||||||||||||||||||||||||||||||
+103|nicon-and-clement-hieroconfessors-of-optina|Hieroconfessors Nicon And Clement Of Optina||||||||||||||||||||||||||||||
+104|odessa-kherson-and-ekaterinoslav-hieromartyrs-and-martyrs|Hieromartyrs And Martyrs Of Odessa, Kherson And Ekaterinoslav||||||||||||||||||||||||||||||
+105|pachomius-archbishop-and-hieromartyr-of-chernigov|Pachomius, Archbishop And Hieromartyr Of Chernigov||||||||||||||||||||||||||||||
+106|pantaleimon-hieroconfessor-of-olchinki|Hieroconfessor Pantaleimon Of Olchinki||||||||||||||||||||||||||||||
+107|paul-levashov-hieromartyr-of-gomel-and-those-with-him|Paul (Levashov) Hieromartyr Of Gomel And Those With Him||||||||||||||||||||||||||||||
+108|pelagia-holy-confessor-of-berezovo-and-those-with-her|Holy Confessor Pelagia Of Berezovo And Those With Her||||||||||||||||||||||||||||||
+109|perm-hieromartyrs-and-martyrs-of|Hieromartyrs And Martyrs Of Perm||||||||||||||||||||||||||||||
+110|peter-archbishop-and-hieromartyr-of-voronezh-and-those-with-him|Hieromartyr Peter, Archbishop Of Voronezh And Those With Him||||||||||||||||||||||||||||||
+111|peter-metropolitan-and-hieromartyr-of-krutitsa-01-of-03|Hieromartyr Peter, Metropolitan Of Krutitsa||||||||||||||||||||||||||||||
+112|petrograd-hieromartyrs-martyrs-and-confessors-01-of-04|Petrograd Hieromartyrs Martyrs And Confessors||||||||||||||||||||||||||||||
+113|plato-bishop-and-hieromartyr-of-revel-tallinn-and-those-with-him|Plato Bishop And Hieromartyr Of Revel (Tallinn) And Those With Him||||||||||||||||||||||||||||||
+114|procopius-archbishop-and-hieromartyr-of-kherson|Procopius, Archbishop And Hieromartyr Of Kherson||||||||||||||||||||||||||||||
+115|ryazan-hieromartyrs-martyrs-and-confessors|Hieromartyrs, Martyrs And Confessors Of Ryazan||||||||||||||||||||||||||||||
+116|sarov-and-diveyevo-monastic-martyrs-and-confessors-01-of-03|Monastic Martyrs And Confessors Of Sarov And Diveyevo||||||||||||||||||||||||||||||
+117|seraphim-and-seraphim-hieroconfessors-of-moscow|Hieroconfessors Seraphim And Seraphim Of Moscow||||||||||||||||||||||||||||||
+118|seraphim-archbishop-and-hieromartyr-of-uglich-and-those-with-him|Seraphim, Archbishop And Hieromartyr Of Uglich And Those With Him||||||||||||||||||||||||||||||
+119|seraphim-bishop-and-hieromartyr-of-dmitrov-and-those-with-him|Hieromartyr Seraphim, Bishop Of Dmitrov And Those With Him||||||||||||||||||||||||||||||
+120|seraphim-pozdeyev-bishop|Seraphim, (Pozdeyev) Bishop||||||||||||||||||||||||||||||
+121|sergius-bishop-and-hieromartyr-of-buzuluk-and-those-with-him|Sergius, Bishop And Hieromartyr Of Buzuluk And Those With Him||||||||||||||||||||||||||||||
+122|sergius-bishop-and-hieromartyr-of-narva-and-those-with-him|Sergius, Bishop And Hieromartyr Of Narva And Those With Him||||||||||||||||||||||||||||||
+123|sergius-mechiev-hieromartyr-of-moscow|Hieromartyr Sergius (Mechiev) Of Moscow||||||||||||||||||||||||||||||
+124|solovki-hieromartyrs-and-martyrs-01-of-03|Hieromartyrs And Martyrs Of Solovki||||||||||||||||||||||||||||||
+125|sophia-abbess-confessor-of-kiev-and-those-with-her|Sophia Abbess-Confessor Of Kiev And Those With Her||||||||||||||||||||||||||||||
+126|stefan-and-melania-martyrs-and-those-with-them-of-krasnodar|Martyrs Stefan, Melania And Those With Them Of Krasnodar||||||||||||||||||||||||||||||
+127|stephen-bishop-and-hieromartyr-of-izhevsk|Stephen, Bishop And Hieromartyr Of Izhevsk||||||||||||||||||||||||||||||
+128|sylvester-archbishop-and-hieromartyr-of-omsk|Hieromartyr Sylvester, Archbishop Of Omsk||||||||||||||||||||||||||||||
+129|theodore-andreyev-hieromartyr-of-petrograd|Hieromartyr Theodore (Andreyev) Of Petrograd||||||||||||||||||||||||||||||
+130|theodore-archbishop-and-hieromartyr-of-volokolamsk-and-those-with-him-01-of-05|Hieromartyr Theodore, Archbishop Of Volokolamsk And Those With Him||||||||||||||||||||||||||||||
+131|theodore-rafanovich-hieroconfessor-of-khymy|Hieroconfessor Theodore (Rafanovich) Of Khymy||||||||||||||||||||||||||||||
+132|theodosius-bakhmetev-bishop-and-hieroconfessor-of-yeniseisk|Hieroconfessor Bishop Theodosius (Bakhmetev) Of Yeniseisk||||||||||||||||||||||||||||||
+133|theodosius-hieroconfessor-of-minvody|Hieroconfessor Theodosius Of Minvody||||||||||||||||||||||||||||||
+134|theophanes-bishop-and-hieromartyr-of-solikamsk|Hieromartyr Theophanes, Bishop Of Solikamsk||||||||||||||||||||||||||||||
+135|tikhon-archbishop-and-hieromartyr-of-voronezh-and-those-with-him|Tikhon, Archbishop And Hieromartyr Of Voronezh And Those With Him||||||||||||||||||||||||||||||
+136|tikhon-bishop-and-hieroconfessor-of-kirillovsk-and-those-with-him|Hieroconfessor Tikhon, Bishop Of Kirillovsk And Those With Him||||||||||||||||||||||||||||||
+137|timothy-strelkov-hieromartyr-of-mikhailovka-and-those-with-him|Hieromartyr Timothy (Strelkov) Of Mikhailovka And Those With Him||||||||||||||||||||||||||||||
+138|ufa-and-orenburg-hieromartyrs-and-martyrs-01-of-03|Hieromartyrs And Martyrs Of Ufa And Orenburg||||||||||||||||||||||||||||||
+139|varenka-blessed-of-sergach|Blessed Varenka Of Sergach||||||||||||||||||||||||||||||
+140|victorin-hieromartyr-of-petrograd|Victorin Hieromartyr Of Petrograd||||||||||||||||||||||||||||||
+141|vladimir-bramov-bishop|Vladimir (Abramov), Bishop||||||||||||||||||||||||||||||
+142|vladimir-metropolitan-and-hieromartyr-of-kiev|Vladimir, Metropolitan And Hieromartyr Of Kiev||||||||||||||||||||||||||||||
+143|vladimir-suzdal-and-ivanovo-hieromartyrs-martyrs-and-confessors-01-of-03|Hieromartyrs, Martyrs And Confessors Of Vladimir, Suzdal And Ivanovo||||||||||||||||||||||||||||||
+144|western-siberia-hieromartyrs-and-martyrs|Hieromartyrs And Martyrs Of Western Siberia||||||||||||||||||||||||||||||
+145|yaroslavl-and-rostov-hieromartyrs-martyrs-and-confessors|Hieromartyrs, Martyrs And Confessors Of Yaroslavl And Rostov||||||||||||||||||||||||||||||

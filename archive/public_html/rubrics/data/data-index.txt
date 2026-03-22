@@ -1,0 +1,17 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|great-lent-sunday-04-john-climacus-2002|Typicon and Choir cues: SUNDAY IV IN LENT|||||||||||||||||St John Climacus 1 / 14 April 2002 |||||||||||||
+002|23-sunday-after-pentecost-2001|Typicon and Choir Cues: 23rd Sunday After Pentecost;  |||||||||||||||||<BR>29 October / 11 November 2001  <BR>Tone 6 |||||||||||||
+003|20-sunday-after-pentecost-2001|Typicon and Choir cues: 20TH SUNDAY AFTER PENTECOST  8 / 20 October 2001||||||||||||||||||||||||||||||
+004|19-sunday-after-pentecost-2001|Typicon and Choir cues: 19TH SUNDAY AFTER PENTECOST (Tone 2)  1 / 14 October 2001||||||||||||||||||||||||||||||
+005|16-sunday-after-pentecost-2001|Typicon and Choir cues: 16TH SUNDAY AFTER PENTECOST  10 / 23 September 2001||||||||||||||||||||||||||||||
+006|12-sunday-after-pentecost-2001|Typicon and Choir cues for 13 / 26 August 2001 12TH SUNDAY AFTER PENTECOST||||||||||||||||||||||||||||||
+007|transfiguration|Typicon and Choir cues for Transfiguration 6 / 19 August 2001||||||||||||||||||||||||||||||
+008|10-sunday-after-pentecost-2001|Typicon and Choir cues for 30 July / 10 August 2001 |||||||||||||||||10TH SUNDAY AFTER PENTECOST |||||||||||||
+009|09-sunday-after-pentecost-2001|Typicon and Choir cues for the 23 July / 5 August |||||||||||||||||9TH SUNDAY AFTER PENTECOST |||||||||||||
+010|08-sunday-after-pentecost-2001|Typicon and Choir cues for the 16 / 29 July 2001 |||||||||||||||||8TH SUNDAY AFTER PENTECOST |||||||||||||
+011|06-sunday-after-pentecost-2001|Typicon and Choir cues for 2 / 15 July 2001 |||||||||||||||||6TH SUNDAY AFTER PENTECOST |||||||||||||
+012|05-sunday-after-pentecost-2001|Typicon and Choir cues for the 25 June / 8 July 2001|||||||||||||||||5TH SUNDAY AFTER PENTECOST |||||||||||||
+013|04-sunday-after-pentecost-2001|Typicon and Choir cues |||||||||||||||||4th SUNDAY AFTER PENTECOST |||||||||||||

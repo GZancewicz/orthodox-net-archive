@@ -1,0 +1,77 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001||Dr Mary Weis ||||||||||||||||||||||||||||||
+002|lecrev-test-05-fungal-disease-parasitic-worms-and-arthropods-control-of-microbial-growth|Lecture Review test 5 |||||||||||||||||Fungal Disease  Worms Arthropods Protozoans Control of Growth  LAST UPDATED: <LASTUPDATED> |||||||||||||
+003|lecnotes-test-05-fungi-protozoa-parasitic-worms-control-bacterial-growth|Lecture Notes - Test 5 |||||||||||||||||Fungi, protozoa Parasitic-worms Control of bacterial growth LAST UPDATED: <LASTUPDATED> |||||||||||||
+004|lecrev-bacterial-diseases|Lecture Review - Bacterial Diseases |||||||||||||||||Lots of work left to do!!! LAST UPDATED: <LASTUPDATED> |||||||||||||
+005|pathogenic-bacterial-taxonomyoverview|Pathogenic Bacterial Taxonomy Overview        |||||||||||||||||With extensive additional notes |||||||||||||
+006|lecnotes-7-8-9-10|Lecture Notes for Bacterial Diseases|||||||||||||||||All in one file, with index and some additional notes |||||||||||||
+007|notes-lecture-test-04|Misc Notes for Lecture Test 4|||||||||||||||||LAST UPDATED: <LASTUPDATED> |||||||||||||
+008|salmonella|Salmonella PowerPoint |||||||||||||||||LAST UPDATED: <LASTUPDATED> |||||||||||||
+009|notes-lecture-test-03|Notes for Lecture Test 3 |||||||||||||||||LAST UPDATED: <LASTUPDATED> |||||||||||||
+010|lecrev-ch-11|Lecture Review Chapter 11 |||||||||||||||||Viruses Material for Test 2, but very applicable to Test 3 also!  LAST UPDATED: <LASTUPDATED> |||||||||||||
+011|lecrev-ch-12-13-viral-diseases|Lecture Review Chapters 12 & 13 |||||||||||||||||Viral Diseases  |||||||||||||
+012|lecrev-ch-17-principles-of-disease-infection-and-epidemiology|Lecture Review Chapter 17 |||||||||||||||||Principles of Disease Infection and Epidemiology |||||||||||||
+013|lecrev-ch-18-immunology|Lecure Review Chapter 18 |||||||||||||||||Immunology |||||||||||||
+014|lecrev-ch-19-immune-applications|Lecure Review Chapter 19 |||||||||||||||||Immune Applications  |||||||||||||
+015|lecrev-ch-20-immunological-diseases|Lecure Review Chapter 20 |||||||||||||||||Immunological Diseases |||||||||||||
+016|immunology-jeopardy|Immunology Jepardy||||||||||||||||||||||||||||||
+017|notes-lecture-test-02|notes-lecture-test-02.doc||||||||||||||||||||||||||||||
+018|lecrev-ch-01|lecrev-ch-01.doc||||||||||||||||||||||||||||||
+019|lecrev-ch-02|lecrev-ch-02.doc||||||||||||||||||||||||||||||
+020|lecrev-ch-03|lecrev-ch-03.doc||||||||||||||||||||||||||||||
+021|lecrev-ch-04|lecrev-ch-04.doc||||||||||||||||||||||||||||||
+022|lecrev-ch-05|lecrev-ch-05.doc||||||||||||||||||||||||||||||
+023|micro-lab-practical-02-review|Lab Practical II Review |||||||||||||||||From Terri Luu LAST UPDATED: <LASTUPDATED> |||||||||||||
+024|gram-pos-neg-bacteria-chart|Gram + Strep/Staph & Gram - Bacteria Chart|||||||||||||||||Not finished  LAST UPDATED: <LASTUPDATED> |||||||||||||
+025|growth-mediums-and-tests|Growth Mediums and Tests |||||||||||||||||Almost Every Growth Medium and Test Used this Semester What to do if you suspect Strep, Staph, Enteric	 LAST UPDATED: <LASTUPDATED> |||||||||||||
+026|lab-practical-2-agars|lab-practical-2-agars.doc |||||||||||||||||The original document Sunshine made, which was incorporated in "Growth Mediums and Tests", above |||||||||||||
+027|notes-lab-practical-01|notes-lab-practical-01.doc|||||||||||||||||For Lab Practical 1 and 2 ! |||||||||||||
+028|tests|On-Line Practice Testing for BIO 1704 - Introduction to Microbiology |||||||||||||||||Austin Community College  |||||||||||||
+029|infectious-disease-cholera|Infectious Disease Paper - Cholera |||||||||||||||||LAST UPDATED: <LASTUPDATED> |||||||||||||
+030|infectious-disease-cholera-notecard|Infectious Disease Paper - Cholera - NOTECARD|||||||||||||||||LAST UPDATED: <LASTUPDATED> |||||||||||||
+031|unknown-lab-report|Unknown Lab Report |||||||||||||||||LAST UPDATED: <LASTUPDATED> |||||||||||||
+032|acute-infectious-diarrhea|Article Abstract |||||||||||||||||Acute Infectious Diarrhea LAST UPDATED: <LASTUPDATED> |||||||||||||
+033|Study%20Guide|Unknown Study Guide|||||||||||||||||Pictures of test results  |||||||||||||
+034|BSCI424Media.htm#XLD|Description of BSCI 424 Laboratory Media|||||||||||||||||Very comprehensive list with short descriptions |||||||||||||
+035|pHIndicators|Common pH Indicators||||||||||||||||||||||||||||||
+036|MethodsResults|Lab Test Methods & Results||||||||||||||||||||||||||||||
+037|labindex|Lab stuff ||||||||||||||||||||||||||||||
+038||Texas A&M Microbiology||||||||||||||||||||||||||||||
+039|bacteria|DSMZ - List of Bacteria||||||||||||||||||||||||||||||
+040||Todar's Online Textbook of Bacteriology ||||||||||||||||||||||||||||||
+041|toc|Baron's Medical Microbiology Textbook Table of Contents||||||||||||||||||||||||||||||
+042||Pathogenic Microbiology|||||||||||||||||The Study of Disease-Causing Bacteria |||||||||||||
+043||Cells Alive||||||||||||||||||||||||||||||
+044||Medical Micro |||||||||||||||||Introduction to Medical Microbiology Southern Illinois Universisty Immunology, Bacteriology Section, Virology Section, Medical Mycology  VERY COOL! |||||||||||||
+045|goshp|WEB PAGE FOR DR. KAISER'S MICROBIOLOGY COURSE|||||||||||||||||VERY cool! |||||||||||||
+046||Medical Microbiology - Fourth Edition|||||||||||||||||Edited By: Samuel Baron, MD |||||||||||||
+047|gramstan|Gram Stain and Bacterial Morphology|||||||||||||||||Lots of bacteria |||||||||||||
+048|PathogenList|List of Bacterial Pathogens||||||||||||||||||||||||||||||
+049|common|Pathogenic Bacteria Categorized by Disease||||||||||||||||||||||||||||||
+050|SourceTransmission|Pathogenic Bacteria Categorized by Source & Transmission||||||||||||||||||||||||||||||
+051|ColonizationSites|Pathogenic Bacteria Categorized by Body Site Colonized||||||||||||||||||||||||||||||
+052|gallery|Photo Gallery of Bacterial Pathogens||||||||||||||||||||||||||||||
+053|Msmegmatis|Mycobacterium smegmatis||||||||||||||||||||||||||||||
+054|foodpath|Links to some pathogenic food-borne microorganisms:||||||||||||||||||||||||||||||
+055|lecturestaph|Staphylococcus||||||||||||||||||||||||||||||
+056|vibri|Vibrio Summary |||||||||||||||||Southern Illinois, Carbondale  |||||||||||||
+057|ch024|Cholera, Vibrio cholerae 01 and 0139, and Other Pathogenic Vibrios|||||||||||||||||Richard A. Finkelstein |||||||||||||
+058|Salmonella|Salmonella Summary||||||||||||||||||||||||||||||
+059|salmo|Salmonella Summary |||||||||||||||||Southern Illinois, Carbondale  |||||||||||||
+060|salenter|Salmonella enteriditis review |||||||||||||||||Includes tests, media |||||||||||||
+061|001|Cholera history ||||||||||||||||||||||||||||||
+062||WHO fact sheet on Cholera||||||||||||||||||||||||||||||
+063|cholera_g.htm#How%20does%20a%20person%20get%20cholera|CDC - Cholera information ||||||||||||||||||||||||||||||
+064|ch024|Cholera, Vibrio cholerae 01 and 0139, and Other Pathogenic Vibrios||||||||||||||||||||||||||||||
+065|lecturecholera|Vibrio cholerae and Asiatic Cholera|||||||||||||||||Bacteriology at UW-Madison |||||||||||||
+066|1092|Cholera outbreaks continue|||||||||||||||||Erica Weir* and Shariq Haider *CMAJ, Division of Infectious Diseases, McMaster University Medical Centre, Hamilton, Ont.  |||||||||||||
+067|stats|US cholera statistics ||||||||||||||||||||||||||||||
+068|topic351|Cholera from Emedicine ||||||||||||||||||||||||||||||
+069|intro|Introduction: Cholera|||||||||||||||||* Basic Summary for Cholera * Prevalence and Incidence of Cholera * Prognosis of Cholera * Types of Cholera * Causes of Cholera * Risk Factors for Cholera * Symptoms of Cholera * Complications of Cholera * Contagious: Cholera * Treatments for Cholera * Prevention of Cholera * Deaths from Cholera * Statistics about Cholera  |||||||||||||
+070|spira5|Traveler's Diarrhea|||||||||||||||||by Alan Spira, M.D., DTM&H |||||||||||||
+071|topicsearch|Supercourse Lectures||||||||||||||||||||||||||||||
+072|home|Microbiology Text Book ||||||||||||||||||||||||||||||
+073||Kimball's Biology Pages|||||||||||||||||Lookup lots of stuff, and understand some of it!  |||||||||||||

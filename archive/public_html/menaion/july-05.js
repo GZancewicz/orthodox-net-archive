@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Athanasius of Mt. Athos. and his six disciples Uncovering of the Relics of St. Sergius of Radonezh ');
+document.writeln('<LI>St. Lampadus, monk of Hirenopolis. ');
+document.writeln('<LI>Martyr Anna at Rome. ');
+document.writeln('<LI>Martyr Cyrilla of Cyrene in Libya, widow. ');
+document.writeln('<LI>Saints Athanasius and Theodosius of Cherepovetsk, disciples of St. Sergius of Radonezh. ');
+document.writeln('<LI>New-Martyr Cyprian of Koutloumousiou monastery on Mt. Athos. ');
+document.writeln('<LI>Greek Calendar: ');
+document.writeln('<LI>Synaxis of 23 Saints of Lesbos. ');
+document.writeln('</OL>');

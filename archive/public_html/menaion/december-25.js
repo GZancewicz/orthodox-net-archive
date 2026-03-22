@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-december/25-nativity-of-our-lord-and-god-and-saviour-jesus-christ.html">THE NATIVITY ACCORDING TO THE FLESH OF OUR LORD, GOD AND SAVIOR JESUS CHRIST </A>');
+document.writeln('<LI><A HREF="http://www.networks-now.net/sspp/9712serb.htm">Serbian Christmas</A>');
+document.writeln('<LI><A HREF="http://www.networks-now.net/sspp/axtrivia.htm">Nativity trivia</A>');
+document.writeln('<LI><A HREF="http://www.networks-now.net/sspp/9712russ.htm">RussianNativity Traditions, The Holy Supper</A>');
+document.writeln('</UL>');
+document.writeln('<LI>The Adoration of the Magi: Melchior, Gaspar, and Balthasar.');
+document.writeln('<LI>Commemoration of the shepherds in Bethlehem who were watching their flocks and came to see the Lord.');
+document.writeln('<LI>Massacre of monk martyr Jonah and with him 50 monks and 65 laymen at St. Tryphon of Pechenga Monastery, by the Swedes (1590).');
+document.writeln('<LI>Commemoration of the holy and righteous Joseph the Betrothed, David the King, and James the brother of the Lord.');
+document.writeln('<BR><I>LITURGY: </I>Gal 1:11 19; Matt 2:13 23.');
+document.writeln('</OL>');

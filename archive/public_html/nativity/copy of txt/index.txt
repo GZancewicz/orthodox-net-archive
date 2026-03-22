@@ -1,0 +1,13 @@
+TITLE:
+DESCRIPTION:
+FILE:thisfile
+TEMPLATE:d:/www/orthodox.net/DIR/3rows2cols-floating.html
+USE-DIVS-IN-LISTS:yes
+MAPHEADERFORMAT:class=r
+TYPE:MAP
+
+BEGIN:Header 1
+
+http://www.churchofthenativity.net/explain/nativity.html
+The Explanation of the Nativity Icon 
+From  the Church of the Nativity, Erie PA

@@ -1,0 +1,62 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|pascha-sunday-01_1997|1st Sunday of Pascha (Word DOC format)|||||||||||||||||1997 |||||||||||||
+002|pascha-sunday-01_2003|1st Sunday of Pascha (Word DOC format)|||||||||||||||||2003 |||||||||||||
+003|holy-week-day-06_2002+great-saturday|Holy Saturday (HTML format)|||||||||||||||||Great Saturday 2002 https://www.orthodox.net//sermons/holy-week-day-06_2002+holy-great-saturday.rtf Holy Saturday (RTF format) |||||||||||||
+004|pascha-arch-justin|Condemned to Immortality: A meditation on the Resurrection|||||||||||||||||Archimandrite Justin Popovic  |||||||||||||
+005|3visits|The Three Visits of Mary Magdalene to the Tomb of Christ |||||||||||||||||Blessed Metropolitan Antony Khrapovitsky |||||||||||||
+006|holy-saturday-homily|An ancient Homily on Pascha|||||||||||||||||The Lord's descent into the underworld  |||||||||||||
+007|holyweekandpaschainjer|HOLY WEEK AND PASCHA IN JERUSALEM|||||||||||||||||by the Monk Parthenius |||||||||||||
+008|paschal-homily-r|Слово святого|||||||||||||||||Иоанна Златоуста |||||||||||||
+009|pascha-melito|Homily on Pascha|||||||||||||||||Melito, Bishop of Sardis |||||||||||||
+010|pascha-gregory-nazianzen|Pascha! The Pascha of the Lord! |||||||||||||||||A portion of a homily of St. Gregory Nazianzen |||||||||||||
+011|bright_week_1|Bright Week||||||||||||||||||||||||||||||
+012|appearances_1|The appearances of the risen Christ||||||||||||||||||||||||||||||
+013|2001-pascha-vitaly|Metropolitan Vitaly's Paschal Epistle - 2001||||||||||||||||||||||||||||||
+014|2001-paschal-epistle-kyrill|Bishop KYRILL's Paschal Epistle - 2001||||||||||||||||||||||||||||||
+015|2000-pascha-vitaly|Metropolitan Vitaly's Paschal Epistle - 2000||||||||||||||||||||||||||||||
+016|2000-pascha-ab-hilarion|Archbishop Hilaron's Paschal Epistle - 2000||||||||||||||||||||||||||||||
+017|1998-pascha-vitaly|Metropolitan Vitaly's Paschal Epistle - 1998||||||||||||||||||||||||||||||
+018|1997-pascha-vitaly|Metropolitan Vitaly's Paschal Epistle - 1997||||||||||||||||||||||||||||||
+019|1996-pascha-vitaly|Metropolitan Vitaly's Paschal Epistle - 1996||||||||||||||||||||||||||||||
+020|1998-pascha-vitaly|Metropolitan Philaret's Paschal Epistle - 1982||||||||||||||||||||||||||||||
+021|1956-pascha-john|Holy Archbishop John 's Paschal Epistle - 1956||||||||||||||||||||||||||||||
+022|1940-pascha-anastasii|Metropolitan Anastassy's Paschal Epistle - 1940||||||||||||||||||||||||||||||
+023|2001-pascha-kyprianos|Paschal Epistle of Metropolitan Kyprianos - 2001||||||||||||||||||||||||||||||
+024|2000-pascha-kyprianos|Paschal Epistle of Metropolitan Kyprianos - 2000||||||||||||||||||||||||||||||
+025|1999-pascha-kyprianos|Paschal Epistle of Metropolitan Kyprianos - 1999||||||||||||||||||||||||||||||
+026|2003-serbian-paschal-encyclical|The Serbian Orthodox Church to her spiritual children at Pascha, 2003||||||||||||||||||||||||||||||
+027|1928-pascha-arch-vitalii|PASCHAL EPISTLE |||||||||||||||||ARCHIMANDRITE VITALII (MAKSIMENKO), Father-Superior Of the Monastery Of Venerable Iov [Of Pochaev] In Vladimirovaya In the Carpathians - 1928 |||||||||||||
+028|paschal-troparion-dblsided-4perside|RTF Format||||||||||||||||||||||||||||||
+029|paschal-troparion-dblsided-4perside|PDF format||||||||||||||||||||||||||||||
+030|paschal-troparion|Original Languages ||||||||||||||||||||||||||||||
+031|paschal-troparion-transliterated|English with transliterated Greek and Slavonic ||||||||||||||||||||||||||||||
+032|paschal-troparion-sidebyside|Original Languages side by side with transliterated Greek and Slavonic ||||||||||||||||||||||||||||||
+033|thy-resurrection|"Thy Resurrection"- HTML||||||||||||||||||||||||||||||
+034|thy-resurrection|Double - sided card - PDF format||||||||||||||||||||||||||||||
+035|thy-resurrection|Double - sided card - RTF format||||||||||||||||||||||||||||||
+036|paschalhours|PASCHAL Hours - HTML ||||||||||||||||||||||||||||||
+037|paschal-hours-dblsided-2perside|RTF Format, double sided, two per side, for printing as a convenient card||||||||||||||||||||||||||||||
+038|paschal-hours-dblsided-2perside|PDF Format, double sided, two per side, for printing as a convenient card||||||||||||||||||||||||||||||
+039|paschalhours-r|Pascha hours - Slavonic - html||||||||||||||||||||||||||||||
+040|paschal-hours-dblsided-2perside-s|Pascha hours - Slavonic - RTF Format, double sided, two per side, for printing as a convenient card||||||||||||||||||||||||||||||
+041|paschal-hours-dblsided-2perside-s|Pascha hours - Slavonic - PDF Format, double sided, two per side, for printing as a convenient card||||||||||||||||||||||||||||||
+042|paschal-stichera|HTML||||||||||||||||||||||||||||||
+043|let-god-arise-dblsided-2perside|Double sided, 2 per side "card" - RTF Format||||||||||||||||||||||||||||||
+044|let-god-arise-dblsided-2perside|Double sided, 2 per side "card" - PDF Format||||||||||||||||||||||||||||||
+045|bright-beginning|HTML||||||||||||||||||||||||||||||
+046|let-god-arise-dblsided-2perside|Double sided, 2 per side "card" - RTF Format||||||||||||||||||||||||||||||
+047|let-god-arise-dblsided-2perside|Double sided, 2 per side "card" - PDF Format||||||||||||||||||||||||||||||
+048|paschal-stichera-r|Paschal Stichera - in Slavonic ||||||||||||||||||||||||||||||
+049|paschal-canon-r|Paschal Canon - Slavonic||||||||||||||||||||||||||||||
+050|agape_service|Agape Vespers (PDF)||||||||||||||||||||||||||||||
+051|resurrection|Tropar of the Resurrection in Slavonic ||||||||||||||||||||||||||||||
+052|jordanville-pascha|Recipe for Jordanville Paskha - A Russian delicacy on Pascha||||||||||||||||||||||||||||||
+053|calendar|Paschal Dates|||||||||||||||||Beginning of Great Lent, Pascha, for the coming years |||||||||||||
+054|paschacalculation|Calculation of the Date of Pascha||||||||||||||||||||||||||||||
+055|paschabasket|The Pascha Basket Tradition||||||||||||||||||||||||||||||
+056|paschalegg|The Paschal Egg||||||||||||||||||||||||||||||
+057|paschacustoms|Paschal Customs and Lore||||||||||||||||||||||||||||||
+058|radonitsa|Radonitsa||||||||||||||||||||||||||||||

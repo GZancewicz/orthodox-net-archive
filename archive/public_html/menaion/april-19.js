@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. John of the Ancient Caves in Palestine. ');
+document.writeln('<LI>St. George the Confessor, Bishop of Antioch in Pisidia. ');
+document.writeln('<LI>St. Tryphon, Patriarch of Constantinople. ');
+document.writeln('<LI>Martyrs Christopher, Theonas and Antoninus at Rome. ');
+document.writeln('<LI>St. Nicephorus, abbot of Katabad. ');
+document.writeln('<LI>Hieromartyr Paphnutius of Jerusalem. ');
+document.writeln('<LI>St. Symeon the Barefoot of Philotheou Monastery (Mt. Athos. ');
+document.writeln('<LI>St. Joachim, abbot of Opochka (Pskov). ');
+document.writeln('<LI>Martyr Agathangelus of Esphigmenou Monastery (Mt. Athos. . ');
+document.writeln('<LI>Repose of fool-for-Christ Asenatha of Goritsky (1892)');
+document.writeln('<LI>Repose of Schema-hieromonk Alexis of Valaam (1900). ');
+document.writeln('</OL>');

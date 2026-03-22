@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Anthony the Great. ');
+document.writeln('<LI>Emperor St. Theodosius the Great. ');
+document.writeln('<LI>St. Achilles the Confessor, hermit of Egypt. ');
+document.writeln('<LI>St. Anthony the New, of Berrhia in Macedonia. ');
+document.writeln('<LI>St. Anthony of Dymsk (Novgorod). ');
+document.writeln('<LI>St. Anthony of Krasny Kholm, monk. ');
+document.writeln('<LI>St. Anthony of Chernoezersk, monk. ');
+document.writeln('<LI>St. Anthony the Roman, of Novgorod. ');
+document.writeln('<LI>New-Martyr George of Ioannina. ');
+document.writeln('</OL>');

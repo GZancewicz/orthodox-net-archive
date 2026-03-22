@@ -1,0 +1,14 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast. Fish, Wine And Oil allowed.</SPAN><BR><OL>');
+document.writeln('<LI><A HREF="/menaion-december/12-st-spiridon-the-wonderworker-bishop-of-tremithus.html">St. Spyridon (Spiridon) the Wonderworker of Tremithon. </A>');
+document.writeln('<LI>St. Herman of Alaska. ');
+document.writeln('<LI>Hieromartyr Juvenal. ');
+document.writeln('<LI>Martyr Peter the Aleut.');
+document.writeln('<LI>New Martyr Anatole of Irkutsk and Seraphim of Uglich. ');
+document.writeln('<LI><A HREF="/menaion-december/12-hieromartyr-alexander-bishop-of-jerusalem.html">Hieromartyr Alexander, Bishop of Jerusalem.</A>');
+document.writeln('<LI><A HREF="/menaion-december/12-holy-martyr-synesius.html">Martyr Synesius (Razumnik) of Rome. </A>');
+document.writeln('<LI>St. Therapontes, abbot of Monza. ');
+document.writeln('<LI>Greek Calendar: Saints Amonathus and Anthus, monks. ');
+document.writeln('<LI>St. John, Metropolitan of Zichon, founder of the Monastery of the Forerunner on Mt. ');
+document.writeln('<LI>Menikion. ');
+document.writeln('<LI>Desert dweller Flegont of Maksha River, Penza. ');
+document.writeln('</OL>');

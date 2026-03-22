@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI>Hieromartyr Eutychius, disciple of St. John the Theologian ');
+document.writeln('<LI>Translation of the Relics of St. Peter, Metropolitan of Kiev. ');
+document.writeln('<LI>St. Arsenius, abbot of Komel (Vologda). ');
+document.writeln('<LI>St. George Limniotes the Confessor of Mt. ');
+document.writeln('<LI>Olympus. ');
+document.writeln('<LI>Martyr Tation (Tatio) at Claudiopolis. ');
+document.writeln('<LI>Virgin Martyr Cyra of Persia. ');
+document.writeln('<LI>New Hieromartyr Cosmas of Aetolia, Equal-to-the-Apostles ');
+document.writeln('<BR>Also entered at August 4. ');
+document.writeln('<LI>St. Dionysius, Archbishop of Aegina. ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Petrovskaya" ("Of St. Peter of Moscow"). ');
+document.writeln('</OL>');

@@ -1,0 +1,18 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. George the Chozebite, abbot. ');
+document.writeln('<LI>St. Domnica of Constantinople. ');
+document.writeln('<LI>St. Emilian the Confessor, bishop of Cyzicus. ');
+document.writeln('<LI>St. Gregory of the Kiev Caves. ');
+document.writeln('<LI>St. Elias the hermit of Egypt. ');
+document.writeln('<LI>Martyrs Julian and his wife Basilissa, and with them Marcionilla and her son Celsus, Anthony, Anastasius, seven children and twenty soldiers, at Antinoe in Egypt. ');
+document.writeln('<LI>Hieromartyr Carterius of Caesarea in Cappadocia. ');
+document.writeln('<LI>Martyrs Theophilus the deacon and Helladius in Libya. ');
+document.writeln('<LI>Saints Cyrus and Atticus, patriarchs of Constantinople. ');
+document.writeln('<LI>St. Agatho of Egypt, monk. ');
+document.writeln('<LI>Hieromartyr Isidore and 72 companions at Yuriev (Dorpats in Estonia), slain by the Latins in 1472. ');
+document.writeln('<LI>St. Gregory, Bishop of Moesia (Bulgaria). ');
+document.writeln('<LI>Martyr Abo of Tiflis. ');
+document.writeln('<LI>St. Paisius of Uglich. ');
+document.writeln('<LI>St. Gregory (another), wonderworker of the Kiev Caves. ');
+document.writeln('<LI>Repose of Elder Isaiah of Valaam (1914). ');
+document.writeln('</OL>');

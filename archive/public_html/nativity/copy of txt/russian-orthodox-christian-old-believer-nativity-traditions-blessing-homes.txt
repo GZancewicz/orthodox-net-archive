@@ -1,0 +1,36 @@
+TITLE:Russian Orthodox Christian Old Believer Nativity Traditions: - blessing the Home 
+DESCRIPTION:sameas-title
+KEYWORDS:samesas-title
+FILE:thisfile
+TEMPLATE:2rows.html
+NEW_WINDOW_IF_OUTSIDE_SITE:0
+HEADSUFFIX:
+PIFBLANKLINES:1
+SPECIALLANGUAGE:
+MAP-HEADING:
+TYPE:HTML
+
+BEGIN:row1
+Russian Orthodox Christian Old Believer Nativity Traditions
+Blessing the Home 
+"CHRISTA SLAVIT"
+This is a True Orthodox Nativity Tradition worthy to be rekindled! 
+
+BEGIN:row2 
+
+One of the lost traditions, yet maintained in the Old Rite by Fathers Pimen and Theodore in Erie, Pa. is the blessing of homes (caroling) by singing the Tropar, Kondak, 9th Ode Irmos and Katavasia, Velechania, etc. 
+
+At the conclusion of Liturgy which is celebrated immediately after the midnight service , the Church is blessed and the selected choir members will form teams to visit parishioners homes for this most joyous portions of the Nativity season on Christmas morning until also those who wish it have their homes blessed; this concludes in 2-3 days. 
+
+This tradition also continues in the Old Believer Church in Detroit, and possibly in Millville NJ and Mariana,PA. 
+
+Erie's parish entered the Synod in 1984 and continues to serve all services in the Old Rite. This is done again at Theophany with the appropriate selected verses and interestingly, this tradition was also done at Pascha for a total of 3x a year. 
+
+Reader Micheal (Dius) Samueloff
+
+Fr Stefan adds: 
+
+ This tradition is called "CHRISTA SLAVIT'" (or Slavits-glorify), and those who do it are called "Christaslavi". After the tropar, kondak and velichanie a number of Russian and Ukrainian Carols are sung and then all are invited for food and a drink. I hope that we can rekindle this wonderful Nativity Tradition. 
+
+<SPAN CLASS=n>Edited, from posts of Archpriest Stefan Pavlenko and Reader Micheal (Dius) Samueloff to the ustav list, Dec 14 (ns) 2001
+</SPAN> 

@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Great Martyr Artemis at Antioch ');
+document.writeln('<BR><I>LITURGY: </I>II Tim 2:1 10; Jn 15:17 16:2. ');
+document.writeln('<LI>Martyrs Eboras and Eunous of Persia. ');
+document.writeln('<LI>St. Matrona of Chios. ');
+document.writeln('<LI>Martyr Zebinas of Caesaria in Palestine. ');
+document.writeln('<LI>Righteous Artemius of Verkolsk. ');
+document.writeln('<LI>St. Gerasimus the New, ascetic of Cephalonia. ');
+document.writeln('<LI>New Martyr Ignatius of Mt. Athos. ');
+document.writeln('<LI>Repose of Abbot Theodosius (Popov) of Optina (1903). ');
+document.writeln('</OL>');

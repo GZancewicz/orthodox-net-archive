@@ -1,0 +1,24 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|confession|Confession |||||||||||||||||Most of the following in a RTF document Other formats: FORMAT:PDF |||||||||||||
+002|rank-sins-based-on-the-greatest-commandment-ten-commandments-scripture|Rank each sin, from 0=not a sin  to 5=the worst sin possible.|||||||||||||||||There is usually no right or wrong answer, and some things are a little ambiguous, and are hard to classify as a sin or not a sin without more information. Interpret the questions as you want to, but lean towards the action being described as being sinful. These possible sins are meant to make you think, and are a springboard for discussion. The table of sins could also be used to prepare for confession. You can sort it however you want, adding or subtracting things that may be issues in your life. See the Word or rtf Document links to download this file to work on it.  |||||||||||||
+003|confession-chart-russian-english|A two column chart for confession in Russian and English. |||||||||||||||||<B>This is good for preparation for Confession, but perhaps a bit too detailed for using in confession.</B> |||||||||||||
+004|confession-chart-brief-russian-english|A brief two column chart for confession in Russian and English. |||||||||||||||||<B>This is excellent for a Russian speaking person who has difficulty confessing in English to bring to confession. </B> The <a href="https://www.orthodox.net//confess/confession-chart-russian-english.pdf">more detailed chart</a> is better for preparation for confession. |||||||||||||
+005|prayer-before-confession-ss|Prayer before confession by St. Symeon the New Theologian||||||||||||||||||||||||||||||
+006|confmed|A Preparation for Confession by St. John of Kronstadt||||||||||||||||||||||||||||||
+007|prephelp|Helps in Preparation for Confession||||||||||||||||||||||||||||||
+008|confession-20-torments|A Twenty Step Preparation for Confession|||||||||||||||||From the Vision of Blessed Theodora |||||||||||||
+009|an-examination-of-conscience-according-to-expected-trials-after-death|Another Examination of Conscience According to the Expected trials after Death|||||||||||||||||From the Vision of Blessed Theodora |||||||||||||
+010|a-list-of-the-passions|A LIST OF THE PASSIONS |||||||||||||||||by Saint Peter of Damaskos  |||||||||||||
+011|confession-chart-russian-english|A two column chart for confession in Russian and English. |||||||||||||||||<B>This is good for preparation for Confession, but perhaps a bit too detailed for using in confession.</B> See the <a href="https://www.orthodox.net//confess/confession-chart-brief-russian-english.pdf">brief chart</a> for something to bring to confession.  |||||||||||||
+012|lament|A Lament for Sin by St. Basil the Great||||||||||||||||||||||||||||||
+013|stdimitr|A Brief Confession before One's Spiritual Father||||||||||||||||||||||||||||||
+014|brief-confession-before-a-spiritual-father|BRIEF CONFESSION BEFORE A SPIRITUAL FATHER|||||||||||||||||Compiled by the late Archbishop Tikhon of San Francisco Based on a longer version by St Dimitry of Rostov. |||||||||||||
+015|a-confession|A sincere confession of an Orthodox Christian ||||||||||||||||||||||||||||||
+016|pilgrimc|An Orthodox Confession Which Leads the Inward Man To Humility||||||||||||||||||||||||||||||
+017|confession-of-sins-in-scripture|Confession of sins in the Holy Scriptures. |||||||||||||||||Also in format <a href="https://www.orthodox.net//confess/confession-of-sins-in-scripture.doc">Word</a> |||||||||||||
+018|what-is-necessary-for-a-saving-confession-metropolitan-innocent-of-moscow|What Is Necessary for a Saving Confession? by Metropolitan Innocent of Moscow||||||||||||||||||||||||||||||
+019|confession-catechism|A Catechism for Confession||||||||||||||||||||||||||||||
+020|confession-and-communion|Thoughts about the Relationship between Confession and Communion||||||||||||||||||||||||||||||

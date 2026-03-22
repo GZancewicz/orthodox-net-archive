@@ -1,0 +1,142 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|personal-savior|Is Jesus your Personal Savior?||||||||||||||||||||||||||||||
+002|about-crossing-oneself|Why do Orthodox Christians "cross themselves" different than Roman Catholics?||||||||||||||||||||||||||||||
+003|whybless|Why do Orthodox Christians Bless things with Holy Water?||||||||||||||||||||||||||||||
+004|40days|Why did Jesus fast for forty days?||||||||||||||||||||||||||||||
+005|excerpts-from-on-end-of-our-life-st-symeon-thessaloniki|THE MEANING OF THE ORTHODOX CHURCH'S MEMORIAL SERVICES|||||||||||||||||By St Symeon of Thessolonika |||||||||||||
+006|epitimia-sacrament-confession|What is an Epitimia?||||||||||||||||||||||||||||||
+007|orthodox-baptism-explanation|Orthodox Baptism |||||||||||||||||Thoughts on the Holy Mystery A Summary of the Baptism Service Miscellaneous Scriptures and Commentary of the Holy Fathers  Concerning the Mystery Also available in <A HREF="orthodox-baptism-explanation.pdf">PDF</A> and <A HREF="orthodox-baptism-explanation.rtf">RTF</A> formats  |||||||||||||
+008|anathema-st-john|The Word "Anathema" and it's meaning|||||||||||||||||by Saint John Maximovitch |||||||||||||
+009|anathema-bp-theophan|What is an Anathema? |||||||||||||||||by Bishop Theophan the Recluse |||||||||||||
+010|prayer-is-a-painful-and-bloody-struggle-by-elder-ephraim-of-katounakia|Prayer is a painful and bloody struggle By Elder Ephraim of Katounakia|||||||||||||||||This is a transcipt for a YouTube vieo (link in the document) Other Formats: FORMAT:doc |||||||||||||
+011|prayer-gregory-palamas|&quot;Prayer without Ceasing&quot; is necessary for all Christians, |||||||||||||||||by St Gregory Palamas |||||||||||||
+012|on-prayer-sophrony|On prayer by Archimandrite Sophrony |||||||||||||||||New agers, and modernist, reductionist dabblers in prayer take note! |||||||||||||
+013|bishop-theophan-the-recluse-on-prayer|Bishop Theophan the Recluse - ON PRAYER|||||||||||||||||From His Letters |||||||||||||
+014|prayer-rule-theophan-the-recluse|A Prayer Rule by St. Theophan the Recluse||||||||||||||||||||||||||||||
+015|pray-for-someone|How does an Orthodox Christian properly pray for someone else?||||||||||||||||||||||||||||||
+016|why-so-many-prayers|Why so many prayers? |||||||||||||||||Why do we have in our church so many prayers, isn't it in contradiction with Matthew? |||||||||||||
+017|prayer-to-saints-alexei-khomiakov|Why pray to Saints? Why do Protestants NOT pray to Saints?|||||||||||||||||Alexi Khomiakov |||||||||||||
+018|about-prayer-for-the-dead|What do the Orthodox believe Concerning  prayer for the dead?||||||||||||||||||||||||||||||
+019|life-after-death-john-maximovitch|Life After Death |||||||||||||||||by St. John Maximovitch A description of the first 40 days after death |||||||||||||
+020|caring-for-dead-blessed-augustine-hippo|From a Treatise on Caring for the Dead|||||||||||||||||Blessed Augustine of Hippo |||||||||||||
+021|commemoration-dead-orthodox-church|Commemoration of the Dead in the Orthodox Church |||||||||||||||||Traditional days of remembrance |||||||||||||
+022|communion-with-the-saints-fr-michael-pomazansky|Communion with  the Saints|||||||||||||||||By Protopresbyter Michael Pomazansky |||||||||||||
+023|orthodox-mind|The Orthodox Mind|||||||||||||||||From a talk given at the Southwest Missions Conference, Dallas, July 1995, by Priest John Whiteford, <a href="http://www.saintjonah.org">St Jonah Orthodox Church</a>, Spring Texas Also in formats: <a href="https://www.orthodox.net//articles/orthodox-mind.doc">WORD</a> &amp; <a href="https://www.orthodox.net//articles/orthodox-mind.pdf">PDF</a> |||||||||||||
+024|orthodox-st-john|What do we mean by the word ORTHODOX? |||||||||||||||||by St John Maximovich Also available in <A HREF=orthodox-st-john.pdf>PDF</A>  format  |||||||||||||
+025|true-orthodoxy|True Orthodoxy |||||||||||||||||by +ARCHBISHOP AVERKY of Syracuse and Holy Trinity Monastery |||||||||||||
+026|what-is-orthodoxy|What is Orthodoxy? |||||||||||||||||By Archbishop Averky of Syracuse and Holy Trinity Monastery |||||||||||||
+027|apostasy-vl-averky|Thoughts on the church and apostasy of our Age.|||||||||||||||||By Archbishop Averky |||||||||||||
+028|for-there-must-also-be-heresies-among-you-archbishop-averky|For There Must Also be Heresies Among You |||||||||||||||||By Archbishop Averky |||||||||||||
+029|sacraments-overview-bp-nicolai|The Sacraments |||||||||||||||||by Rt. Rev. Nicholai, Bishop of  Ochrida |||||||||||||
+030|excerpts-from-on-end-of-our-life-st-symeon-thessaloniki|THE MEANING OF THE ORTHODOX CHURCH'S MEMORIAL SERVICES||||||||||||||||||||||||||||||
+031|baptism-thoughts|Thoughts on Holy Baptism||||||||||||||||||||||||||||||
+032|orthodox-baptism-explanation|Orthodox Baptism |||||||||||||||||Thoughts on the Holy Mystery A Summary of the Baptism Service Miscellaneous Scriptures and Commentary of the Holy Fathers  Concerning the Mystery Also available in <A HREF="orthodox-baptism-explanation.pdf">PDF</A> and <A HREF="orthodox-baptism-explanation.rtf">RTF</A> formats  |||||||||||||
+033|q_sponsor|Can I be the sponsor at a Roman Catholic baptism? |||||||||||||||||An Orthodox Christian response |||||||||||||
+034|sacrament-baptism-cyprian-of-carthage|The Sacrament of Christian Baptism|||||||||||||||||A letter by our Holy Orthodox Father St Cyprian of Carthage written to a new convert |||||||||||||
+035|confession-and-communion|Confession and Communion |||||||||||||||||What is their relationship? How do we stay "sinless" between confession and communion? Also in <a href="https://www.orthodox.net//articles/confession-and-communion.doc">WORD format</a> |||||||||||||
+036|matrimony|The Sacrament of Holy Matrimony||||||||||||||||||||||||||||||
+037|communion-pat-symeon|Concerning the communion and guarding  and veneration of the Divine Mysteries |||||||||||||||||by Kallinikos, Patriarch of Constantinople |||||||||||||
+038|prosphora|About Prosphora||||||||||||||||||||||||||||||
+039|how-to-behave|How To Behave In Church||||||||||||||||||||||||||||||
+040|olive-oil-usage|Olive Oil Usage||||||||||||||||||||||||||||||
+041|orthodox-christian-fasting-john-chrysostom|Orthodox Christian Fasting|||||||||||||||||by St John Chrysostom |||||||||||||
+042|true-fasting-saint-john-chrysostom|True Fasting, by St John Chrysostom||||||||||||||||||||||||||||||
+043|on-fasting|ON FASTING|||||||||||||||||Also in <a href="../articles/on-fasting.doc">Word format</a> |||||||||||||
+044|40days|Why did Jesus fast for forty days?|||||||||||||||||An Orthodox Christian explanation |||||||||||||
+045|fastrule|Fasting Rules||||||||||||||||||||||||||||||
+046|fasting-and-oil|Fasting and &quot;Oil&quot; days||||||||||||||||||||||||||||||
+047|apostles-fast-skipping|The Apostles Fast |||||||||||||||||is it ever skipped by those using the New Calendar or Old Calendar? |||||||||||||
+048|lack-of-faith-vs-gods-providence|LACK OF FAITH VS. GOD'S PROVIDENCE - St John (Maximovich) of Tobolsk||||||||||||||||||||||||||||||
+049|rule-of-attention|Vigilance|||||||||||||||||by Bishop Ignatii Brianchaninov |||||||||||||
+050|lack-of-faith-vs.-gods-providence-saint-john-maximovich-of-tobolsk|LACK OF FAITH VS. GOD'S PROVIDENCE, Saint John (Maximovich) of Tobolsk||||||||||||||||||||||||||||||
+051|flesh-spirit|On the Struggle Between the Flesh and Spirit Which Occurs in a Christian|||||||||||||||||St. Tikhon of Zadonsk |||||||||||||
+052|fear-of-the-lord-bishop-nicolai|The fear of the Lord is the beginning of wisdom|||||||||||||||||Bishop Nikolai of Zicha and Ochrid |||||||||||||
+053|despondency-field-flowers-st-paisius-velichkovsky|Despondency, Slothfulness, Weakness |||||||||||||||||Field Flowers, St. Paisius Velichkovsky |||||||||||||
+054|repentance-field-flowers-st-paisius-velichkovsky|Repentance |||||||||||||||||Field Flowers, St. Paisius Velichkovsky |||||||||||||
+055|on-reading-holy-fathers|On Reading the Holy Fathers||||||||||||||||||||||||||||||
+056|prayer-gregory-palamas|&quot;Prayer without Ceasing&quot; is necessary for all Christians, |||||||||||||||||by St Gregory Palamas |||||||||||||
+057|seriousness-of-our-life-nikolai-bishop-ochrid-zicha|The Seriousness of our Life |||||||||||||||||by St Nikolai Bishop of Ochrid and Zicha |||||||||||||
+058|orthodox-mind|The Orthodox Mind|||||||||||||||||From a talk given at the Southwest Missions Conference, Dallas, July 1995, by Priest John Whiteford, <a href="http://www.saintjonah.org">St Jonah Orthodox Church</a>, Spring Texas Also in formats: <a href="https://www.orthodox.net//articles/orthodox-mind.doc">WORD</a> &amp; <a href="https://www.orthodox.net//articles/orthodox-mind.pdf">PDF</a> |||||||||||||
+059|redeem|A lesson from St. Dimitri of Rostov on "Redeeming the Time"||||||||||||||||||||||||||||||
+060|developing-a-pious-routine|Developing a Pious Routine||||||||||||||||||||||||||||||
+061|all-good-is-in-me|All good is in Me|||||||||||||||||by St. Tikhon of Zadonsk |||||||||||||
+062|rule-of-attention|The Rule For Attending To Oneself For One Dwelling In The World |||||||||||||||||Written For A Certain Layman As A Result Of His Desire To Live A Vigilant Life In The World  By St. Ignatii Brianchaninov |||||||||||||
+063|fighting-the-passions|Fighting the passions |||||||||||||||||A &quot;How To&quot; manual is available |||||||||||||
+064|fourbows|Give the first fruits of your day to the Lord The &quot;Four Bows&quot;|||||||||||||||||<a href="https://www.orthodox.net//catechism/orthopraxis_2010+the-four-bows.mp3">A short talk on the four bows</A> |||||||||||||
+065|love-thy-neighbor|Love Thy Neighbor||||||||||||||||||||||||||||||
+066|right-belief-in-a-left-handed-world|Right Belief in a Left handed world |||||||||||||||||by Priest Martin Swanson |||||||||||||
+067|life-of-piety|The Life of Piety |||||||||||||||||by Priest Alexis Duncan |||||||||||||
+068|iamachristian|I am a Christian A meditation and confession, from &quot;Children of the Church&quot;||||||||||||||||||||||||||||||
+069|reachingout|Reaching out from Within |||||||||||||||||Thoughts of Fr Martin Swanson at the Southern Orthodox Missions Conference |||||||||||||
+070|peace-simple-nikolai-bishop-ochrid-zicha|About the peace of the simple and the prosperity of the fools|||||||||||||||||St Nikolai Bishop Ochrid,Zicha |||||||||||||
+071|evangelism|Orthodox Evangelism: It's different |||||||||||||||||by Fr David Moser |||||||||||||
+072|heavenonearth|The Orthodox Church: Heaven on Earth |||||||||||||||||A Short Introduction to Orthodoxy |||||||||||||
+073|a-peaceful-death|A peaceful death...||||||||||||||||||||||||||||||
+074|from-me-that-was|"From Me That Was" |||||||||||||||||a text brought to the West clandestinely  from the Russian Catacomb Church in Russia |||||||||||||
+075|on-the-church|ON THE CHURCH |||||||||||||||||Archbishop Averky of Syracuse |||||||||||||
+076|a-jordanville-seminary-education|The benefits of a Theological Education at Holy Trinity Orthodox Seminary||||||||||||||||||||||||||||||
+077|experienced-nikolai-bishop-ochrid-zicha|How the Experienced see themselves|||||||||||||||||St Nikolai, Bishop Ochrid and Zicha |||||||||||||
+078|to-feel-good-you-must-do-good|To feel good you must do good. ||||||||||||||||||||||||||||||
+079|holytrinity|The Holy Trinity||||||||||||||||||||||||||||||
+080|anathema-st-john|The Word "Anathema" and it's meaning |||||||||||||||||by Saint John Maximovitch |||||||||||||
+081|anathema-bp-theophan|What is an Anathema? |||||||||||||||||by Bishop Theophan the Recluse |||||||||||||
+082|sacraments-overview-bp-nicolai|The Sacraments |||||||||||||||||by Rt. Rev. Nicholai, Bishop of  Ochrida |||||||||||||
+083|communion-with-the-saints-fr-michael-pomazansky|Communion with  the Saints|||||||||||||||||By Protopresbyter Michael Pomazansky |||||||||||||
+084|angels|About the Angels||||||||||||||||||||||||||||||
+085|what-is-ecumenism|What is Ecumenism, by Fr John Moses |||||||||||||||||An excellent "in a nutshell" explanation |||||||||||||
+086|true-orthodoxy|True Orthodoxy |||||||||||||||||by +ARCHBISHOP AVERKY of Syracuse and Holy Trinity Monastery |||||||||||||
+087|on-the-modern-world|ON THE MODERN WORLD |||||||||||||||||Archbishop Averky of Syracuse |||||||||||||
+088|on-apostasy|ON APOSTASY |||||||||||||||||Archbishop Avery of Syracuse |||||||||||||
+089|against-ecumenism|Against Ecumenism |||||||||||||||||Zealous thoughts of an Orthodox Teenager, from &quot;Children of the Church&quot; |||||||||||||
+090|calendar-unity|The Calendar change and Unity|||||||||||||||||Thoughts from a convert priest on the change of the Julian calendar to the Gregorian  and the Unity of the church |||||||||||||
+091|common-date|Common date for Pascha An article detailing the efforts of Lutheran and Orthodox Ecumenists to have a common date for Pascha and commentary about some of the incredible things said in it.||||||||||||||||||||||||||||||
+092|conflicting-dogma-theology-and-separate-celebrations-of-pascha-fr-george-metallinos|The Argument Is Not One of Calendars: It Is Conflicting Dogma and Theology That Lead to Separate Celebrations of Pascha|||||||||||||||||by Archpriest George Metallinos |||||||||||||
+093|cross-in-athens|The Appearance of the Cross Near Athens in |||||||||||||||||A sign from God that some cannot see |||||||||||||
+094|apostasy-vl-averky|Thoughts of Archbishop Averky on the church and apostasy of our Age.||||||||||||||||||||||||||||||
+095|a-jordanville-seminary-education|The benefits of a Theological Education at Holy Trinity Orthodox Seminary||||||||||||||||||||||||||||||
+096|mind-of-christ-and-man|The Mind of Christ and the Mind of Man||||||||||||||||||||||||||||||
+097|anastasy-will|The last will and testament of  Metropolitan Anastassy||||||||||||||||||||||||||||||
+098|homosexuality|Homosexuality |||||||||||||||||Put in the proper perspective |||||||||||||
+099|why-so-many-prayers|Why so many prayers? |||||||||||||||||Why do we have in our church so many prayers, isn't it in contradiction with Matthew? |||||||||||||
+100|personal-savior|Is Jesus your Personal Savior?||||||||||||||||||||||||||||||
+101|communion-with-the-saints-fr-michael-pomazansky|Communion with  the Saints|||||||||||||||||By Protopresbyter Michael Pomazansky |||||||||||||
+102|habakkuk|Habakkuk |||||||||||||||||A Lesson from the Holy Prophet |||||||||||||
+103|miracle_of_st_nicholas|A Recent Miracle of St. Nicholas the Wonderworker||||||||||||||||||||||||||||||
+104|vision-of-st-john-of-kronstadt|John of Kronstadt |||||||||||||||||VISION OF ST. JOHN WONDERWORKER OF KRONSTADT |||||||||||||
+105|index|Nicholas the Wonderworker |||||||||||||||||Many Articles! |||||||||||||
+106|anatoly-letter|A prophesy of the future lawlessness|||||||||||||||||St. Anatoly the Younger (+1922) |||||||||||||
+107|is-cassie-bernall-a-martyr|Is Cassie Bernall a Martyr?||||||||||||||||||||||||||||||
+108|reactions_to_priestly_attire|Dressed Wierd? |||||||||||||||||A frightening account of just how far things have gone in Canada and the world |||||||||||||
+109|strong-statement|Strong statement from school principal||||||||||||||||||||||||||||||
+110|spiritual-gifts-of-youth-metropolitan-anthony-khrapovitsky|The Spiritual Gifts of Youth -  Metropolitan Anthony Khrapovitsky||||||||||||||||||||||||||||||
+111|monasticism-intwenty-first-century|Monasticism in the Twenty First Century: A Viable Alternative or a Forgotten Ideal? |||||||||||||||||Mother Ephrosynia Convent of Lesna, France |||||||||||||
+112|causes-russian-catastrophe-archbishop-averki|On the Causes of the Russian Catastrophe|||||||||||||||||By Archbishop Averky |||||||||||||
+113|on-apostolic-work-prince-vladimir-archbishop-averky|On the Apostolic Work of Prince St. Vladimir |||||||||||||||||By Archbishop Averky |||||||||||||
+114|on-roca|ON THE RUSSIAN CHURCH ABROAD |||||||||||||||||Archbishop Averky of Syracuse |||||||||||||
+115|sorrowful_path|The Sorrowful Path - the Glorious Path |||||||||||||||||Important Dates in the History of the Russian Church Abroad |||||||||||||
+116|rocor-by-st-john-maximovich|About the Spiritual and Moral Significance of the Russian Orthodox Church Outside of Russia |||||||||||||||||by Saint John of Shanghai and San Francisco |||||||||||||
+117|vision-of-st-john-of-kronstadt|VISION OF ST. JOHN WONDERWORKER OF KRONSTADT||||||||||||||||||||||||||||||
+118|royal-family-appearances|Wondrous appearances of the murdered holy Royal Family, witnessed by the handmaiden Nina||||||||||||||||||||||||||||||
+119|hold-fast-the-faith|Hold fast the Orthodox Faith, O Holy Rus||||||||||||||||||||||||||||||
+120|the-time-for-repentance|THE TIME FOR REPENTANCE: |||||||||||||||||On The Occasion Of The February Rebellion |||||||||||||
+121|seventythree|73 percent |||||||||||||||||Long QT Syndrome and Christina |||||||||||||
+122|grigori-petroff-hieromartyr-poem|A Poem of Hieromartyr Grigory Petrov |||||||||||||||||Written shortly before his death in a Siberian prison camp |||||||||||||
+123|stories-vladyka-john|Saint John Maximovich |||||||||||||||||Miscellaneous stories |||||||||||||
+124|patriarchal-visit-to-taybeh-dr.-maria-c-khoury-22-6-13|The Patriarchal Visit to Taybeh |||June 13 2002||||||||||||||Dr. Maria C. Khoury |||||||||||||
+125|the-bishop-by-anton-chekhov|THE BISHOP |||||||||||||||||by Anton Chekhov |||||||||||||
+126|bishop-sunflower|Bishop Sunflower||||||||||||||||||||||||||||||
+127|lord-of-the-mood-rings-orthodox-fairy-tale|Lord of the Mood Rings|||||||||||||||||An Orthodox Fairy Tale |||||||||||||
+128|what-is-the-tradition|What is the tradition?|||||||||||||||||An Orthodox Fairy Tale |||||||||||||
+129|deacons-strike|Orthodox Deacon's Union Threatens Strike||||||||||||||||||||||||||||||
+130|irishlent|Irish Lent||||||||||||||||||||||||||||||
+131|catholic-horses|Catholic Horses||||||||||||||||||||||||||||||
+132|stress-diet|The Stress Diet |||||||||||||||||This diet is designed to help you cope with the stress that builds up during  the day. |||||||||||||
+133|padres-puppy|The Padre's Puppy||||||||||||||||||||||||||||||
+134|palm-beach-pokey|The Palm Beach Pokey||||||||||||||||||||||||||||||
+135|out-of-the-mouths-of-babes|OUT OF THE MOUTHS OF BABES||||||||||||||||||||||||||||||
+136|easy-quiz|The World's Easiest Quiz ||||||||||||||||||||||||||||||
+137|atheist-and-bear|The Atheist and the Bear||||||||||||||||||||||||||||||
+138|rules-of-toddler|Rules of the Toddler||||||||||||||||||||||||||||||

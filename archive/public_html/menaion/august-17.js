@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Dormition. ');
+document.writeln('<LI>Martyr Myron of Cyzicus Martyrs Straton, Philip, Eutychian and Cyprian of Nicomedia. ');
+document.writeln('<LI>Martyrs Thyrsus, Leucius and Coronatus, with others at Caesarea in Bithynia. ');
+document.writeln('<LI>Martyrs Paul and his sister Juliana of Syria. ');
+document.writeln('<LI>Martyr Patroclus of Troyes. ');
+document.writeln('<LI>St. Alypius the Iconographer of the Kiev Caves. ');
+document.writeln('<LI>St. Philip, monk of Yankov (Vologda). ');
+document.writeln('<LI>New-Martyr Demetrius of Samarina in Epirus. ');
+document.writeln('<LI>Blessed Theodoretus, Enlightener of the Laps (Solovki). ');
+document.writeln('<LI>Icon of the Most Holy Theotokos of "Armatia". ');
+document.writeln('<LI>Repose of Schemamonk Onuphrius of Valaam (1912). ');
+document.writeln('</OL>');

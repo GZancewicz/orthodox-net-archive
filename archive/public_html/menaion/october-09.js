@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy Apostle James, son of Alphaeus. ');
+document.writeln('<LI>St. Andronicus and his wife St. Athanasia of Egypt. ');
+document.writeln('<LI>Righteous Forefather Abraham and his nephew Righteous Lot. ');
+document.writeln('<LI>Martyrs Juventius and Maximus at Antioch. ');
+document.writeln('<LI>St. Peter of Galatia. ');
+document.writeln('<LI>St. Publia the Confessor of Antioch. ');
+document.writeln('<LI>St. Stephen the New of Serbia (same as July 19). ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Korsun" (Cherson)');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Assuage My Sorrow". ');
+document.writeln('</OL>');

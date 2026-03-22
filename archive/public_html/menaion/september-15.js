@@ -1,0 +1,15 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Exaltation of the Cross ');
+document.writeln('<LI><A HREF="/menaion-september/15-holy-martyr-nicetas.html">Great Martyr Nicetas the Goth </A>');
+document.writeln('<BR><I>LITURGY: </I>II Tim 2:1 10; Matt 10:16 22. ');
+document.writeln('<LI><A HREF="/menaion-september/15-our-holy-father-philotheus.html">St. Philotheus the presbyter. </A>');
+document.writeln('<LI><A HREF="/menaion-september/15-holy-martyr-porphyrius.html">Martyr Porphyrius the actor. </A>');
+document.writeln('<LI>Opening of the Relics of St. Acacius, Bishop of Melitene. ');
+document.writeln('<LI>Opening of the Relics of Holy Protomartyr and Archdeacon Stephen. ');
+document.writeln('<LI><A HREF="/menaion-september/15-holy-martyrs-theodotus-asclepidote-and-maximus.html">Martyrs Theodotus, Asclepiodotus, and Maximus of Adrianopolis. </A>');
+document.writeln('<LI><A HREF="/menaion-september/15-st-vissarion-archbishop-of-larissa-the-wonderworker.html">Saints Bessarion I and Bessarion II, Archbishops. </A>');
+document.writeln('<LI>Larissa. ');
+document.writeln('<LI>St. Gerasimus, abbot of Mysia. ');
+document.writeln('<LI><A HREF="/menaion-september/15-st-joseph-bishop-of-alaverdsk.html">St. Joseph, abbot of Alaverd in Georgia. </A>');
+document.writeln('<LI><A HREF="/menaion-september/15-holy-new-martyr-john-of-crete.html">New Martyr John of Crete. </A>');
+document.writeln('</OL>');

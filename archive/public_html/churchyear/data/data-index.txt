@@ -1,0 +1,22 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|index|Julian calendar for this month||||||||||||||||||||||||||||||
+002|index|Russian Orthodox Christian Menaion|||||||||||||||||<i>For a particular month and day:</i> <UL> <LI>the Saints commemorated and Menaion Feasts observed with links for further information, <LI>Scripture Readings Liturgy, Vespers, and Matins (if applicable) <LI>as well as simple rubrics <LI>and some Greek Calendar entries </UL> <i>all may be seen at a glance.</i> |||||||||||||
+003|index|Great Lent||||||||||||||||||||||||||||||
+004|index|PASCHA||||||||||||||||||||||||||||||
+005|index|The Pentecostarion Period||||||||||||||||||||||||||||||
+006|index|Nativity||||||||||||||||||||||||||||||
+007|index|Theophany||||||||||||||||||||||||||||||
+008|panegyric-to-all-saints-st-bede-the-venerable|Panegyric to All Saints|||||||||||||||||St. Bede the Venerable |||||||||||||
+009|saints-persecution-homily-st-athanasius-great|Saints and Persecution|||||||||||||||||Homily of St Athanasius the Great |||||||||||||
+010|apostles-peter-and-paul-pope-leo-the-great|Homily on Apostles Peter and Paul |||||||||||||||||by Pope Leo the Great |||||||||||||
+011|annunciation-sermon-st-ambrose|Annunciation Sermon|||||||||||||||||by St Ambrose, Bishop of Milan |||||||||||||
+012|annunciation-st-jerome|Annunciation Homily|||||||||||||||||by St. Jerome |||||||||||||
+013|annunciation-sermon-pope-leo-great|Annunciation Sermon|||||||||||||||||by Pope Leo the Great |||||||||||||
+014|exaltation|The Exaltation of the Precious Cross|||||||||||||||||by St John Maximovitch  |||||||||||||
+015|nativity-john-baptist-st-bede-the-venerable|The Nativity of St John the Baptist |||||||||||||||||by St. Bede the Venerable |||||||||||||
+016|pentecost-1|Pentecost|||||||||||||||||The Holy Spirit abides in the Human soul |||||||||||||
+017|pentecost-theophan|Pentecost: The Descent of the Holy Spirit upon the Apostles|||||||||||||||||Bishop Theophan the Recluse |||||||||||||
+018|24sunape-basil-musin-pushkin|The Resurrection Of The Daughter Of Jairus|||||||||||||||||A Christian Understanding of Suffering 24th Sunday after Pentecost |||||||||||||

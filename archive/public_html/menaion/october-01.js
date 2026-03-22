@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>The Protection of Our Most Holy Lady the Theotokos and Ever Virgin Mary. ');
+document.writeln('<LI>Apostle Ananias of the Seventy ) St. Romanus the Melodist ("Sweet Singer"). ');
+document.writeln('<LI>St. Sabbas, abbot of Vishera (Novgorod). ');
+document.writeln('<LI>Martyr Michael, abbot in Armenia, and 36 Fathers with him. ');
+document.writeln('<LI>Martyr Domninus of Thessalonica. ');
+document.writeln('<LI>St. John Kukuzelis of Mt. Athos. ');
+document.writeln('<LI>St. Gregory the Singer of Mt. Athos. ');
+document.writeln('<LI>Commemoration of Apparition of the Pillar with the Robe of the Lord under it at Mtskhet in Georgia. ');
+document.writeln('<LI>Repose of Schema Hieromonk Euthemius of Valaam (1829). ');
+document.writeln('</OL>');

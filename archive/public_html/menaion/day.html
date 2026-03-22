@@ -1,0 +1,105 @@
+<HTML
+<HEAD><TITLE>Orthodox Christian Menaion</TITLE></HEAD>
+<BODY bgcolor=white>
+<SCRIPT type="text/javascript">
+names = [ "January", "February", "March", "April", "May", "June"
+		,"July" ,"August", "September", "October", "November", "December","January" ];
+days  = [ 31,29,31,30,31,30,31,31,30,30,30,31,31 ];
+var s=location.search; 
+var jmonnum;
+var jmon; 
+var m;
+var day;
+var jstr;
+var gstr;
+var gday;
+if( s.length > 1 ) 
+{ 
+	jsfile	= s.substring(1) + ".html";
+	a		= s.substring(1).split("-");
+	jmon	= a[0].substring(0,1).toUpperCase() + a[0].substring(1);
+	m		= jmon.toLowerCase();
+	jmonnum	= 0; 
+	for( ; jmonnum < 12 && names[jmonnum] != jmon ; jmonnum++ ) 
+		;
+	var d=a[1];
+	if( d < 10 ) d=d.substring(1);
+	day= parseInt(d);
+	gstr	= " ";
+	today	= " ";
+	gday = day + 13;
+	if( gday > days[jmonnum] ) 
+	{ 
+		gday = 13 - days[jmonnum] + jmonnum;
+		gstr = names[jmonnum+1] + " " + gday;
+	}
+	else 
+		gstr = names[jmonnum] +  " " + gday;
+}	
+else 
+{
+	today	= "<I>Today</I>";
+	g		= new Date(); 
+	var ms	= g.getTime(); //milliseconds
+	ms		= ms - ( 1000 * 3600 * 24 * 13 );
+	j		= new Date(ms);
+	jmonnum	= j.getMonth();
+	jmon	= names[jmonnum]; 
+	m		= jmon.toLowerCase();
+	day		= j.getDate(); 
+	if( jmon == names[g.getMonth()] )
+		gstr = g.getDate();
+	else 
+		gstr = names[g.getMonth()] + " " + g.getDate();
+}
+if( day < 10 ) d="0" + day; else d = day;
+jsfile	= m		+ "-" + d	+ ".js"; 
+jstr	= jmon	+ " " + day;
+var nextmon;
+var prevmon; 
+var nextday;
+var prevday; 
+var nextfile; 
+var prevfile;
+var d;
+nextday = day + 1;
+if( nextday > days[jmonnum] ) 
+{ 
+	nextday		= 1; 
+	nextmon		= names[jmonnum+1];
+	nextfile	= nextmon.toLowerCase() + "-01";
+}
+else
+{ 
+	if( nextday < 10 ) d = "0" + nextday; else d = nextday;
+	nextfile	= jmon.toLowerCase() + "-" + d; 
+}
+prevday = day - 1; 	
+var prevmonnum=jmonnum;
+if( prevday < 1 ) 
+{
+	prevmonnum--;
+	if( prevmonnum < 0 ) prevmonnum=11; 
+}
+if( prevday < 10 ) d = "0" + prevday; else d = prevday;
+prevfile = names[prevmonnum].toLowerCase() + "-" + d; 
+document.writeln(   "<B>Commemorations " + today + ": " 
+				+ jstr 
+				+ "/" 
+				+ gstr 
+				+ "</B>" 
+			);
+document.writeln("<SCR"+"IPT SRC='"+jsfile+"'></SCR"+"IPT>");
+</SCRIPT>
+<SCRIPT type="text/javascript">
+document.writeln( "<P><B><I>Show:</I></B> <A HREF=" + m + ".html>All of "
+				 + jmon + "</A>"
+ 				 + "&nbsp;&nbsp;&nbsp;" 
+				 + "<A HREF='index.html?" 
+					+ prevfile + "'>Previous Day</A>"
+				 + "&nbsp;&nbsp;&nbsp;" 
+				 + "<A HREF='index.html?" 
+					+ nextfile + "'>Next Day</A>"
+				 );
+</SCRIPT>
+</BODY>

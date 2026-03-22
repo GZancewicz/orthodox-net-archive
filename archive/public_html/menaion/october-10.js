@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyrs Eulampius and Eulampia at Nicomedia, and 200 Martyrs with them. ');
+document.writeln('<LI>Martyr Theotecnus of Antioch. ');
+document.writeln('<LI>St. Theophilus the Confessor of Bulgaria. ');
+document.writeln('<LI>St. Bassian of Constantinople. ');
+document.writeln('<LI>Blessed Andrew of Totma, fool for Christ. ');
+document.writeln('<LI>Martyrdom of the 26 Martyrs of Zographou Monastery on Mt. Athos. by the Latins: Abbot Thomas, monks Barsanuphius, Cyril, Micah, Simon, Hilarion, Job, James, Cyprian, Sabbas, James, Martinian, Cosmas, Sergius, Paul, Menas, Ioasaph, Ioannicius, Anthony, Euthymius, Dometian, Parthenius, and four laymen. ');
+document.writeln('<LI>Synaxis of the Seven Saints of Volhynia: St. Job of Pochaev; Saints Stephen and Amphilochius, Bishops of Vladimir in Volhynia; Hieromartyr Macarius, Archimandrite of Kanev; St. Yaropolk, prince of Vladimir Volhynia; St. Theodore (in monasticism Theodosius), prince of Ostrog; and St. Juliana Olshanskaya. ');
+document.writeln('<LI>Zographou Icon of the Most Holy Theotokos "Of the Akathist". ');
+document.writeln('<LI>Repose of Bishop Innocent of Penze (1819)');
+document.writeln('<LI>Repose of Elder Ambrose of Optina (1891) ');
+document.writeln('<LI>Sunday of the Holy Fathers of the Seventh Ecumenical Council. ');
+document.writeln('</OL>');

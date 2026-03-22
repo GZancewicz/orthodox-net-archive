@@ -1,0 +1,112 @@
+	<HTML>
+	<HEAD>
+	<TITLE>/i ) 
+		{
+			$t=2; 
+			#push( @template_1,$_ );
+			next;
+		}
+
+		if( m!<SCRIPT\s*LANGUAGE="JavaScript"\s*type="text/javascript"\s*SRC=header.js>\s*</SCRIPT>!i )
+		{
+			if( open( HEADER,"C:/www/orthodox.net/questions/header.html") ) 
+			{ 
+				$_ = "<!-- BEGIN:header.html -->\n";
+				foreach $l ( <HEADER> ) 
+				{ 
+					
+					last if($l =~ m!</BODY>!i );
+					last if($l =~ m!</HTML>!i );
+					next if($l =~ /^<!DOCTYPE/i); 
+					next if($l =~ /<HTML>/i);
+					next if($l =~ /<BODY>/i);
+					$isHead=1 if($l =~ /<HEAD>/i );
+					$isHead=0 if($l =~ s!</HEAD>!!i);
+					$l =~ s!<LINK REL=[^>]*>!!;
+					next if($isHead); 
+					next if( $l =~ /^\s*$/s );
+					if( $l =~ m!<A HREF="JavaScript:document.location=[^>]*! )
+					{
+						$l =~ s!<A HREF="JavaScript:document.location=[^>]*!<a href=https://www.orthodox.net//cgi-bin/html_print.pl/$FILENAME!;
+						print "$_\n";
+					}
+					$_ .= $l; 
+				}
+				close HEADER; 
+				$_ .= "\n<!-- END:header.html-->\n";
+			}			
+		}
+
+		if( /<!--\s*BEGIN:Row1Col3text\s*-->.*/i )
+		{
+			$t=3; 
+			push( @template_2,$_ ); 
+			next;
+		}
+		if( /<!--\s*BEGIN:CUSTOMIZE:BODY.MAINCONTENT\s*-->.*/i 
+		    || /<!--\s*BEGIN:Row2Col3text\s*-->.*/i 
+                  ) 
+		{
+			$t=4; 
+			push( @template_3,$_ ); 
+			next;
+		}
+
+		# We will skip the nav bar lins - between 
+		# <!-- BEGIN:row1col1.links --> and <!-- END:row1col1.links -->	
+		if( /<!--\s*BEGIN:Row1Col1.links\s*-->/i )
+		{ 
+			$in_row1col1_links=1; 
+			next;
+		}
+		if( /<!--\s*END:Row1Col1.links\s*-->/i )
+		{ 
+			$in_row1col1_links=0; 
+			next;
+		}
+		next if( $in_row1col1_links );
+
+		if( $t == 1 ) { push( @template_1,$_ ); } 
+		if( $t == 2 ) { push( @template_2,$_ ); } 
+		if( $t == 3 ) 
+		{ 
+			$found_row2Col3text_end=1 if( /<!--\s*END:Row1Col3text\s*-->.*/i );
+			if( $found_row2Col3text_end )
+			{
+				push( @template_3,$_ ); 
+			}
+		} 
+		if( $t == 4 ) { push( @template_4,$_ ); } 
+
+		#if( $t == 1 ) { print TEMPLATE1 "$_";  } 
+		#if( $t == 2 ) { print TEMPLATE2 "$_";  } 
+		#if( $t == 3 ) { print TEMPLATE3 "$_";  } 
+		#if( $t == 4 ) { print TEMPLATE4 "$_";  } 		
+	}
+	close( TEMPLATE ); 
+}
+
+</TITLE>
+
+	<SCRIPT>
+	var q = new Object();
+	var a = new Object();
+	<!-- Question 0 -->
+q[0]=' and optionally, </QUESTION> lines<BR>';
+
+
+	<!-- Answer   0 -->
+a[0]=' and optionally, </ANSWER> lines<BR>$cwd=cwd\(\); if\( -f "c:/local/bin/make_questions.cfg" \) { 	print "PARSE Config\n";  	open\(CFG,"make_questions.cfg"\); 	foreach \( <CFG> \)  	{  		chomp; 		next if\( /^\s+$/ \); 		\($key,$value\) = split /=/; 		#print "CFG:$_\n\tkey:$key value:$value\n";  		eval "\$${key}=\'$value\'"; 	} 	close CFG; }<BR>#$indir      ="C:/theology/questions"; #$htmldir ="C:/www/orthodox.net/questions"; #$emaildir="C:/theology/questions/email"; #$template="C:/www/orthodox.net/questions/3rows2cols-fixed.html"; <BR>#$indir              = "C:/theology/questions"; #$html_quiz_dir      = "C:/www/orthodox.net/quiz"; #$html_questions_dir = "C:/www/orthodox.net/questions"; #$emaildir           = "C:/theology/questions/email";<BR>###### CUSTOMIZE #$template="c:/windows/desktop/etc/orthodox.net/templates/3rows2cols-fixed.html";  #$indir              = "c:/windows/desktop/etc/questions"; #$html_quiz_dir      = "c:/windows/desktop/etc/orthodox.net/quiz"; #$html_questions_dir = "c:/windows/desktop/etc/orthodox.net/questions"; #$emaildir           = "c:/windows/desktop/etc/questions/email"; ###### CUSTOMIZE<BR>if\( ! -d $indir \)    			{ print "DOES NOT EXIST:$indir \n"; }  if\( ! -d $html_quiz_dir \)  		{ print "DOES NOT EXIST:$html_quiz_dir \n"; }  if\( ! -d $html_questions_dir \)  { print "DOES NOT EXIST:$html_questions_dir \n"; }  if\( ! -d $emaildir \) 			{ print "DOES NOT EXIST:$emaildir \n"; } <BR>$control_html="control.htm";<BR>print "template=$template\n"; print "indir=$indir\n"; print "html_quiz_dir=$html_quiz_dir\n"; print "html_questions_dir=$html_questions_dir\n"; print "emaildir=$emaildir\n";<BR>if\( $#ARGV >= 0 \)  {  	foreach\( @ARGV \) { push @files,$_; } } else  { 	chdir\( "$indir/drafts" \);  	@f = <*.txt>;  	for\( $i=0 ; $i < $#f ; $i++ \) { $f[$i] = "${indir}/drafts/$f[$i]"; } 	push \( @files,@f \); <BR>	chdir\( "$indir/school" \);  	@f = <*.txt>;  	for\( $i=0 ; $i < $#f ; $i++ \) { $f[$i] = "${indir}/school/$f[$i]"; } 	push \( @files,@f \); <BR>	chdir\( $indir \);  	@files = <*.txt>;  	for\( $i=0 ; $i<$#files ; $i++ \) { $files[$i] = "$indir/$files[$i]"; }  }<BR>print "files:@files\n"; <BR>&parse_template; <BR>foreach $file \( @files \)  { 	#print "File:$file\n"; 	$infile=$file; 	@fields=split\( /\//,$file \);  	$file = $fields[$#fields]; 	if\( $file =~ /\(.*\)\.txt$/ \)  	{  		$file = $1;  		if\( $infile =~ m/.*drafts.*/ \)  		{ 			$draft="-draft";  			print "file:$file IS A DRAFT\n";		 		} 		else  		{  			if\( $infile =~ m/.*school.*/ \)  			{ 				$draft="-school";  				print "file:$file IS FROM SCHOOL\n";		 			} 			else 			{ 				$draft="";  				print "file:$file\n";		 			} 		} 		print "file:$file\n"; 	} 	 	$index              = "${file}${draft}.html"; 	$quiz_indexfile     = "$html_quiz_dir/${index}"; 	$questions_indexfile= "$html_questions_dir/${index}"; 	$questions_txt  	= "$emaildir/${file}${draft}_q.txt";  	$answers_txt    	= "$emaildir/${file}${draft}_a.txt"; 	$questions_html  	= "$emaildir/${file}${draft}_q.html";  	$answers_html    	= "$emaildir/${file}${draft}_a.html";  	$all_txt            = "$emaildir/${file}${draft}_all.txt";<BR> 	print "in:$infile\n\tquestions index:$questions_indexfile\n\tquiz index:$quiz_indexfile\n\tq:$questions_txt\n\ta:$answers_txt\n\n"; 	if\( !open\(IN  ,"$infile"\) \) 	{  		print "Cannot open $infile\n";  		print "Press return\n";  		<STDIN>;  	}<BR>	@input=<IN>; 	close\(IN\);<BR>	#die "Cannot open $htmlfile" unless open\(OUT    ,">$htmlfile"\);<BR>	$q = -1; 	$a = -1; 	@q=\(\); 	@a=\(\); 	$b = ""; 	$lines = @input; 	$title_str="";<BR>	$questions=""; 	$answers="";<BR>	open \( ANSWERS_HTML,">$answers_html" \);  	open \( QUESTIONS_HTML,">$questions_html" \);  	print ANSWERS_HTML "<HTML><BODY BGCOLOR=\"#FFFFCC\">\n"; 	print QUESTIONS_HTML "<HTML><BODY BGCOLOR=\"#FFFFCC\" >\n";              	for\( $i=$question=$answer=$title=$bibliography=0 ; $i < $lines  ; \) 	{ 		$_ = $input[$i++]; 		if\( /<QUESTION\s*\d*\s*>/i \) 		{ 			$q++; 			$a++; 			$q[$q]="$\'"; 			$a[$a]=""; 			$question=1; 			$answer=$title=0; 			next; 		} 		if\( /<ANSWER\s*\d*\s*>/i \) 		{ 			$question=$title=0; 			$answer=1; 			$a[$a]="$\'"; 			next; 		} 		if\( /<BIBLIOGRAPHY\s*\d*\s*>/i \) 		{ 			$question=$title=$answer=0; 			$bibliography=1; 			$b="$\'"; 			next; 		} ';
+
+
+	var module='make_questions.pl.html';
+	</SCRIPT>
+	</HEAD>
+	<FRAMESET ROWS="15%,85%">
+	    <FRAME NAME="control"  SRC="control.htm">
+	    <FRAMESET COLS="40%,*">
+		<FRAME NAME="question" SRC="blank.htm">
+		<FRAME NAME="answer"   SRC="blank.htm">
+	    </FRAMESET>
+	</FRAMESET>
+	</HTML>

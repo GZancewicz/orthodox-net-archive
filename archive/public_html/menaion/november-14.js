@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy and All praised Apostle Philip ');
+document.writeln('<BR><I>Readings</I>');
+document.writeln('<LI><I>VESPERS: </I>(1) I Pet 1:1 2:6; (2) I Pet 2:21 3:9; (3) I Pet 4:1 11. ');
+document.writeln('<LI><I>MATINS: </I> Jn 21:15 25. ');
+document.writeln('<LI><I>LITURGY: </I> I Cor 4:9 16; Jn 1:43 51. ');
+document.writeln('</UL>');
+document.writeln('<LI>St. Gregory Palamas, Archbishop of Thessalonica. ');
+document.writeln('<LI>St. Justinian the Emperor and his wife St. Theodora. ');
+document.writeln('<LI>St. Philip, abbot of Irap near Novgorod. ');
+document.writeln('<LI>New Martyr Panteleimon the youth of Asia Minor. ');
+document.writeln('<LI>New Martyr Constantine of Hydra (Mt. Athos. . ');
+document.writeln('</OL>');

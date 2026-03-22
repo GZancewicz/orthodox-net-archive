@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Exaltation of the Cross. ');
+document.writeln('<LI><A HREF="/menaion-september/18-st-eumenius-bishop-of-gortyna-in-crete.html">St. Eumenes, Bishop of Gortyna. </A>');
+document.writeln('<LI><A HREF="/menaion-september/18-holy-martyr-ariadne.html">Martyr Ariadne of Phrygia. </A>');
+document.writeln('<LI>Martyrs Sophia and Irene of Egypt. ');
+document.writeln('<LI>Martyr Castor of Alexandria. ');
+document.writeln('<LI>St. Arcadius, Bishop of Novgorod. ');
+document.writeln('<LI><A HREF="/menaion-september/18-holy-martyr-bidzini-prince-of-georgia.html">Great Martyr Prince Bidzini and Martyrs Prince Elizbar and Prince Shalva of Georgia. </A>');
+document.writeln('<LI>Repose of Blessed Irene of the Green Hill Monastery (18th century)');
+document.writeln('<LI>Repose of Elder Hilarion of Optina (1873). ');
+document.writeln('</OL>');

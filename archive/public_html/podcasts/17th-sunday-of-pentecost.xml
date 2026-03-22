@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang='en-US'>
+<channel>
+<atom:link href="https://www.orthodox.net//podcasts/17th-sunday-of-pentecost.xml" rel="self" type="application/rss+xml" />
+<title>Orthodox Christian Sermons: 17th Sunday of Pentecost</title>
+<description>Audio Orthodox Christian Sermons: 17th Sunday of Pentecost</description>
+<copyright>(C) 2015 Priest Seraphim Holland</copyright>
+<link>https://www.orthodox.net//sermons/</link>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+	<itunes:email>seraphim.net</itunes:email>
+	<itunes:name>Priest Seraphim Holland</itunes:name>
+</itunes:owner>
+<itunes:category text="Religion &#38; Spirituality"><itunes:category text="Christianity"/></itunes:category>
+<itunes:image href="https://www.orthodox.net//saintnicholas.jpg" />
+<language>en-us</language>
+
+<item>
+<title>17th Sunday of Pentecost, The Cannanite Woman, 2002</title>
+<description>:17th Sunday of Pentecost. The Cannanite Woman, 2002</description>
+<link>https://www.orthodox.net//sermons/pentecost-sunday-17_2002+the-cannanite-woman.mp3</link>
+<guid>https://www.orthodox.net//sermons/pentecost-sunday-17_2002+the-cannanite-woman.mp3</guid>
+<pubDate></pubDate>
+<itunes:author>Priest Seraphim Holland</itunes:author>
+<itunes:summary>:17th Sunday of Pentecost. The Cannanite Woman, 2002</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>17th Sunday of Pentecost, 2003</title>
+<description>:17th Sunday of Pentecost., 2003</description>
+<link>https://www.orthodox.net//sermons/pentecost-sunday-17_2003.mp3</link>
+<guid>https://www.orthodox.net//sermons/pentecost-sunday-17_2003.mp3</guid>
+<pubDate></pubDate>
+<itunes:author>Priest Seraphim Holland</itunes:author>
+<itunes:summary>:17th Sunday of Pentecost., 2003</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>17th Sunday of Pentecost, The Canaanite Woman, Lessons in how to pray., 2008-10-12</title>
+<description>:17th Sunday of Pentecost. The Canaanite Woman, Lessons in how to pray., 2008-10-12</description>
+<link>https://www.orthodox.net//sermons/pentecost-sunday-17_2008-10-12.mp3</link>
+<guid>https://www.orthodox.net//sermons/pentecost-sunday-17_2008-10-12.mp3</guid>
+<pubDate></pubDate>
+<itunes:author>Priest Seraphim Holland</itunes:author>
+<itunes:summary>:17th Sunday of Pentecost. The Canaanite Woman, Lessons in how to pray., 2008-10-12</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>17th Sunday of Pentecost, 2010-09-19</title>
+<description>:17th Sunday of Pentecost. The Caananite woman teaches us *exactly* how we should pray: with knowledge, simplicity, persistence and humility. A close examination of her encounter with Christ shows these virtues plainly, and should also show us which ones we are lacking in (definitely at least 3 of the 4!). </description>
+<link>https://www.orthodox.net//sermons/pentecost-sunday-17_2010-09-19+the-canaanite-woman+exactly-how-to-pray.mp3</link>
+<guid>https://www.orthodox.net//sermons/pentecost-sunday-17_2010-09-19+the-canaanite-woman+exactly-how-to-pray.mp3</guid>
+<pubDate></pubDate>
+<itunes:author>Priest Seraphim Holland</itunes:author>
+<itunes:summary>:17th Sunday of Pentecost. The Caananite woman teaches us *exactly* how we should pray: with knowledge, simplicity, persistence and humility. A close examination of her encounter with Christ shows these virtues plainly, and should also show us which ones we are lacking in (definitely at least 3 of the 4!). </itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords></itunes:keywords>
+</item>
+
+</channel>
+</rss>

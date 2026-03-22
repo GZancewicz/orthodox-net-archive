@@ -1,0 +1,21 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|what-is-ecumenism|What is Ecumenism, by Fr John Moses|||||||||||||||||An excellent &quot;in a nutshell&quot; explanation |||||||||||||
+002|true-orthodoxy|True Orthodoxy |||||||||||||||||by +ARCHBISHOP AVERKY of Syracuse and Holy Trinity Monastery |||||||||||||
+003|on-the-modern-world|ON THE MODERN WORLD|||||||||||||||||Archbishop Averky of Syracuse |||||||||||||
+004|on-apostasy|ON APOSTASY|||||||||||||||||Archbishop Avery of Syracuse |||||||||||||
+005|against-ecumenism|Against Ecumenism|||||||||||||||||Zealous thoughts of an Orthodox Teenager, from &amp;Children of the Church&quot; |||||||||||||
+006|cross-in-athens|The Appearance of the Cross Near Athens in 1925|||||||||||||||||A sign from God that some cannot see |||||||||||||
+007|calendar-unity|The Calendar change and Unity|||||||||||||||||Thoughts from a convert priest on the change of the Julian calendar to the Gregorian  and the Unity of the church |||||||||||||
+008|sigillion-council-constantinople-1583|The Sigillion of the Council in Constantinople in 1583|||||||||||||||||Anathematizing false beliefs about the Dogma of the Procession of the Holy Spirit, Holy Communion,  unleavened bread, the judgment, Purgatory, the heretical Pope, the Paschalia, and the New Calendar Innovation.  |||||||||||||
+009|1756-sigillion|The Second Sigillion (1756) against the Papal Calendar (New Calendar) -  by Kirill, Archbishop of Constantinople||||||||||||||||||||||||||||||
+010|documents-against-new-calendar|The Old/New Calendar Question - Official Pronouncements Timeline||||||||||||||||||||||||||||||
+011|open-letter-of-censure-from-the-athonite-monks-to-ecumenical-patriarch-bartholomew-may1999|Open letter of censure from the Athonite Monks to Ecumenical Patriarch Bartholomew - 11th/24th May 1999||||||||||||||||||||||||||||||
+012|1960-metropolia-letter|A Letter from Metropolia (currently the &quot;OCA&quot;) condemning Free-Masonry - 1960||||||||||||||||||||||||||||||
+013|declaration-of-cyprianus-against-free-masonry|THE APHORISM AGAINST FREEMASONRY by Cyprianus, Archbishop of Cyprus. Feb 2nd, 1815||||||||||||||||||||||||||||||
+014|free-masonry-vs-christianity|Free Masonry compared to Christianity||||||||||||||||||||||||||||||
+015|2000-08-24-ratzinger-ecumenism|Vatican document shows Latin's heresy||||||||||||||||||||||||||||||
+016|2000-09-18-maximos|Metropolitan Maximos of Ainou: ON THE VATICAN DECLARATION &quot;DOMINUS IESUS&quot;||||||||||||||||||||||||||||||
+017|pastoral-agreement-regarding-sacrament-of-matrimony-patriarchate-of-alexandria-coptic-church-2001-04-06|Pastoral Agreement Regarding The Sacrament Of Matrimony Between The Patriarchate Of Alexandria And The Coptic Church - with commentary||||||||||||||||||||||||||||||

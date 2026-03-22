@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>Fast-free period. ');
+document.writeln('<LI>Forefeast of the Theophany. ');
+document.writeln('<LI>Synaxis of the Seventy Apostles: James the brother of the Lord, Mark the Evangelist, Luke the Evangelist, Cleopas the brother of Joseph the Betrothed, Symeon the son of Cleopas, Barnabas, Justus, Thaddaeus, Ananias, Stephen the Archdeacon; Philip, Prochorus, Nicanor, Timon, and Parmenas of the seven deacons; Timothy, Titus, Philemon, Onesimus, Epaphras, Archippus, Silas, Silvanus, Crescens, Crispus, Epenetus, Andronicus, Stachys, Amplias, Urban, Narcissus, Apelles, Aristobulus, Herodion, Agabus, Rufus, Asyncritus, Phlegon, Hermes, Patrobus, Hermas, Linus, Gaius, Philogogus, Lucius, Jason, Sosipater, Olympas, Tertius, Erastus, Quartus, Euodias, Onesiphorus, Clement, Sosthenes, Apollos, Tychicus, Epaphroditus, Carpus, Quadratus, Mark called John, Zenas, Aristarchus, Pudens, Trophimus, Mark, Artemas, Aquila, Fortunatus and Achaicus ');
+document.writeln('<BR><I>LITURGY: </I>Rom 8:8-14; Lk 10:1-21. ');
+document.writeln('<LI>St. Theoctistus, abbot at Cucomo in Sicily. ');
+document.writeln('<LI>(the services are combined) Martyr Zosimas the Hermit, and Martyr Athanasius the Commentarisius, anchorites of Cilicia, Martyrs. ');
+document.writeln('<LI>Abbot Euthymius and twelve monks of Vatopedi Monastery on Mt. Athos. ');
+document.writeln('<LI>Repose of St. Eustathius (Eustace), first Archbishop of Serbia. ');
+document.writeln('<LI>St. Aquila, deacon of the Kiev Caves. ');
+document.writeln('<LI>New-Martyr Onuphrius Manassias of Chilandar Monastery on Mt. Athos. ');
+document.writeln('<LI>St. Gregory of Langres (Gaul). ');
+document.writeln('<LI>Repose of Symeon, metropolitan of Smolensk. ');
+document.writeln('</OL>');

@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>Hieromartyr Methodius, Bishop of Patara. ');
+document.writeln('<LI>Martyrs Aristocleus presbyter, Demetrian deacon, and Athanasius reader, of Cyprus. ');
+document.writeln('<LI>Martyrs Inna, Pinna, and Rimma, disciples of Apostle Andrew in Scythia. ');
+document.writeln('<LI>St. Leucius, Bishop of Brindisi. ');
+document.writeln('<LI>Holy Prince Gleb Andreevich. ');
+document.writeln('<LI>St. Nahum of Ochrida. ');
+document.writeln('<LI>Translation of the Relics of St. Gurias, Archbishop of Kazan. ');
+document.writeln('<LI>St. Callistus, Patriarch of Constantinople. ');
+document.writeln('<LI>Translation of the Relics and garments of Apostles Luke, Andrew and Thomas, the Prophet Elisha, and Martyr Lazarus, to the Church of the Holy Apostles in Constantinople. ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Odigitria" ("Directress") at the Monastery of Xenophon on Mt. Athos. ');
+document.writeln('</OL>');

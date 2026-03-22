@@ -1,0 +1,16 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI>Afterfeast of the Entry into the Temple. ');
+document.writeln('<LI>Apostles Philemon and Archippus. ');
+document.writeln('<LI>Martyr Apphia, wife of Philemon');
+document.writeln('<LI>St. Onesimus, disciple of St. Paul. ');
+document.writeln('<LI>Martyrdom of St. Michael, prince of Tver. ');
+document.writeln('<LI>Martyrs Cecilia (canon only), Valerian, Tiburtius and Maximus at Rome. ');
+document.writeln('<LI>Martyr Procopius the reader at Caesaria in Palestine. ');
+document.writeln('<LI>Martyr Menignus at Parium. ');
+document.writeln('<LI>St. Agabbas of Syria. ');
+document.writeln('<LI>Righteous Michael the soldier of Bulgaria. ');
+document.writeln('<LI>Martyrs Stephen, Mark, and Mark (another) in Pisidia. ');
+document.writeln('<LI>Martyr Agapion of Greece. ');
+document.writeln('<LI>St. Callistus II, Patriarch of Constantinople (Mt. Athos. . ');
+document.writeln('<LI>St. Clement of Ochrida, Bishop of Greater Macedonia. ');
+document.writeln('</OL>');

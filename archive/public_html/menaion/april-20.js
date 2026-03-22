@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Theodore Trichinas ("the Hair-shirt Wearer"), hermit near Constantinople. ');
+document.writeln('<LI>St. Anastasius, abbot of Sinai. ');
+document.writeln('<LI>Blessed Gregory and Blessed Anastasius, Patriarch of Antioch. ');
+document.writeln('<LI>Hieromartyr Anastasius II, Patriarch of Antioch. ');
+document.writeln('<LI>St. Alexander, abbot of Oshevensk. ');
+document.writeln('<LI>Child-martyr Gabriel of Slutsk. ');
+document.writeln('<LI>Saints Betran and Theotimus, Bishops in Lesser Scythia. ');
+document.writeln('<LI>Saints Athanasius and Ioasaph of Meteora, monks. ');
+document.writeln('<LI>Apostle Zacchaeus, Bishop of Caesarea. ');
+document.writeln('<LI>Repose of Schemamonk Ignatius of St. Nicephorus Monastery in Olonets (1852). ');
+document.writeln('</OL>');

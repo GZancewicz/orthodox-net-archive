@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Apostles Silas and Silvanus of the Seventy and those with them: Crescens, Epenetus, and Andronicus. ');
+document.writeln('<LI>Hieromartyr Valentine, Bishop of Interamna (Terni) in Italy, and Martyrs Proculus, Ephebus, Apollonius, and Abundius, youths. ');
+document.writeln('<LI>Martyr John the soldier at Constantinople. ');
+document.writeln('<LI>Hieromartyr Polychronius, Bishop of Babylon, and Martyrs Permenius, Helimenas (Elimas) and Chrysotelus, presbyters; Luke and Mocius, deacons; and Abdon, Sennen, Maximus and Olympius. ');
+document.writeln('<LI>Opening of the Relics of St. Herman (Germanus) of Solovki. ');
+document.writeln('<LI>St. Angelina, princess of Serbia. ');
+document.writeln('<LI>Birthday of New-Martyr Crown Prince Alexis. ');
+document.writeln('<LI>New-Martyr Anatole of Optina (1922). ');
+document.writeln('</OL>');

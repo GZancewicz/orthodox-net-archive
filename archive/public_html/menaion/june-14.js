@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Prophet Elisha ');
+document.writeln('<BR><I>LITURGY: </I>Jas 5:10-20; Lk 4:22-30. ');
+document.writeln('<LI>St. Methodius, Patriarch of Constantinople. ');
+document.writeln('<LI>St. Niphon of Mt. Athos. ');
+document.writeln('<LI>St. Mstislav-George, prince of Novgorod. ');
+document.writeln('<LI>St. Elisha, monk of Sumsk (Solovki). ');
+document.writeln('<LI>St. Methodius, abbot of Peshnosha. ');
+document.writeln('<LI>St. Julitta (Julia) of Tabenna in Egypt. ');
+document.writeln('<LI>St. Joseph, Bishop of Thessalonica. ');
+document.writeln('</OL>');

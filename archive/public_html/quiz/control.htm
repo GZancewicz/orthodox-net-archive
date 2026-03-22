@@ -1,0 +1,231 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE>Orthodox Christianity - 10 Questions about various theolgical and practical subjects</TITLE>
+<SCRIPT>
+var credit = '10 questions about ..." are authored by Fr Seraphim Holland, pastor of <A href=https://www.orthodox.net/>St. Nicholas Orthodox Church</A>, Dallas, <BR>Please feel free to print out and use in catechesis or study. For permission to distribute, print in a publication, information, to be added to our email distribution list, or to make suggestions or corrections, contact the author at:<BR> phone 972 529-2754, <BR>address: 2101 Summit, McKinney TX 75071, <BR>email: <A href=MAILTO:seraphim@orthodox.net>seraphim@orthodox.net</A>.  <BR>More questions are available at <A href=https://www.orthodox.net//questions>https://www.orthodox.net//questions</A>. I encourage links to this page.';
+function permission() 
+{
+	var permissionW=window.open("permission.htm"); 
+}
+function go()
+{
+	parent.location = 
+	document.forms[0].question_set.options[document.forms[0].question_set.options.selectedIndex].value;
+}
+function toggle(value)
+{
+	if( value == "ANS" ) 
+	{
+		document.forms[0].toggle.value="NEXT";
+		answer();
+	}
+	else
+	{
+		document.forms[0].toggle.value="ANS";
+		question();
+	}
+}
+function next_q()
+{
+	var maxidx        = document.forms[0].qselect.options.length -1; 
+	var selectedIndex = document.forms[0].qselect.options.selectedIndex; 
+	if( selectedIndex < 0 )  { selectedIndex=0; } 
+	if( selectedIndex < maxidx ) { document.forms[0].qselect.options.selectedIndex++;  }
+	else                         { document.forms[0].qselect.options.selectedIndex=0;  }
+	question(document.forms[0].qselect.options.selectedIndex);
+}
+function question(num)
+{
+	var qnum=0;
+	var idx; 
+	var question;
+
+	idx  = document.forms[0].qselect.options.selectedIndex;
+	qnum = document.forms[0].qselect.options.selectedIndex + 1;
+
+	//eval ( "question=top.q" + idx );
+	question = top.q[idx]; 	
+	
+    //This is here becaause IE is stupid
+	parent.question.document.close();
+	parent.question.document.open();
+	
+	parent.question.document.bgColor=FFFFAA; 
+
+	parent.question.document.writeln('<FONT COLOR=BLUE>');
+	parent.question.document.writeln("<P><CENTER><H2><BOLD>Question " + qnum + "</BOLD></H2></CENTER>"); 	
+	parent.question.document.writeln('<P><H3>');
+	parent.question.document.writeln(question); 
+	parent.question.document.writeln('</H3>');
+	parent.question.document.writeln('</FONT>' );
+	parent.question.document.writeln('<CENTER><HR WIDTH=25%></CENTER>' );
+
+	parent.answer.document.close();
+	parent.answer.document.open();
+
+	parent.answer.document.bgColor=FFFFAA; 
+	parent.answer.document.writeln('<FONT COLOR=GREEN>');
+	parent.answer.document.writeln("<P><P><P><CENTER><H2><BOLD>Press ANSWER, above to see the answer to this question</BOLD></H2></CENTER>"); 	
+	parent.answer.document.writeln('</FONT>' );
+}
+function answer()
+{
+	var qnum;
+	var idx; 
+	var answer;
+	var s;
+
+	idx  = document.forms[0].qselect.options.selectedIndex;
+	qnum = document.forms[0].qselect.options.selectedIndex + 1;
+
+	//eval ( "answer=top.a" + idx );
+	answer = top.a[idx]; 
+ 	
+	//This is here becasue IE is stupid
+	parent.answer.document.close();
+	parent.answer.document.open();
+	
+	//parent.answer.document.clear();
+	parent.answer.document.bgColor=FFFFAA; 
+	parent.answer.document.writeln('<FONT COLOR=GREEN>');
+	parent.answer.document.writeln("<P><CENTER><H2><BOLD>Answer " + qnum + "</BOLD></H2></CENTER>"); 	
+	parent.answer.document.writeln('<P><H3>');
+	parent.answer.document.writeln(answer); 
+	parent.answer.document.writeln('</H3>');
+	parent.answer.document.writeln('</FONT>' );
+	parent.answer.document.writeln('<CENTER><HR WIDTH=25%></CENTER>' );
+}
+function onLoad()
+{
+	var module = top.module;
+	var max =  document.control.question_set.options.length -1;
+	var i=0; 
+	for( i=0 ; i<max, module != document.control.question_set.options[i].value ;i++ ) 
+	{
+			;
+	}
+	document.control.question_set.options.selectedIndex=i;
+	question(0);
+}
+function all_q()
+{
+	var max =  document.control.qselect.options.length;
+	var title = document.control.question_set.options[document.control.question_set.options.selectedIndex].text;
+	var qnum;
+	var question;
+	//This is here becaause IE is stupid
+	parent.question.document.close();
+	parent.question.document.open();
+	parent.question.document.clear();
+	parent.question.document.writeln('<FONT COLOR=BLUE>');
+	parent.question.document.writeln("<P><CENTER><H1><BOLD>10 Questions about<BR>" + title + "</BOLD></H1></CENTER>"); 	
+	for( idx=0,qnum=1 ; idx < max ; idx++,qnum++ )
+	{
+		question = top.q[idx]; 
+		parent.question.document.writeln("<P><CENTER><H2><BOLD>Question " + qnum + "</BOLD></H2></CENTER>"); 	
+		parent.question.document.writeln('<P><H3>');
+		parent.question.document.writeln(question); 
+		parent.question.document.writeln('</H3>');
+	}
+	parent.question.document.writeln('<CENTER><HR WIDTH=25%></CENTER>' );
+	parent.question.document.writeln('<BOLD><P>' + credit + '</BOLD>');
+	parent.question.document.writeln('<CENTER><HR WIDTH=25%></CENTER>' );
+	parent.answer.document.writeln('</FONT>' );
+}
+function all_a()
+{
+	var max =  document.control.qselect.options.length;
+	var title = document.control.question_set.options[document.control.question_set.options.selectedIndex].text;
+	var qnum;
+	var answer;
+	//This is here because IE is stupid
+	parent.answer.document.close();
+	parent.answer.document.open();
+	parent.answer.document.clear();
+	parent.answer.document.writeln('<FONT COLOR=GREEN>');
+	parent.answer.document.writeln("<P><CENTER><H1><BOLD>10 Questions about<BR>" + title + "<BR>Answers</BOLD></H1></CENTER>"); 	
+	for( idx=0,qnum=1 ; idx < max ; idx++,qnum++ )
+	{
+		answer = top.a[idx]; 
+		parent.answer.document.writeln("<P><CENTER><H2><BOLD>Answer " + qnum + "</BOLD></H2></CENTER>"); 	
+		parent.answer.document.writeln('<P><H3>');
+		parent.answer.document.writeln(answer); 
+		parent.answer.document.writeln('</H3>');
+	}
+	parent.answer.document.writeln('<CENTER><HR WIDTH=25%></CENTER>' );
+	parent.answer.document.writeln('<BOLD><P>' + credit + '</BOLD>');
+	parent.answer.document.writeln('<CENTER><HR WIDTH=25%></CENTER>' );
+	parent.answer.document.writeln('</FONT>' );
+}
+function all()
+{
+	all_q();
+	all_a();
+}
+</SCRIPT>
+</HEAD>
+<HTML>
+<BODY BACKGROUND="" BGCOLOR=#ffffcc TEXT=#000000 LINK=#0000ff VLINK=#800080 ALINK=#ff0000 onLoad="onLoad();">
+<FONT COLOR=RED>
+<FORM NAME="control">
+<CENTER>
+<TABLE  width=100% border=0 cellspacing=2 cellpadding=0>
+<TR>
+<TD>
+<CENTER>
+<font face="Arial,Helvetica font color=#FF0000 size=-1>
+Russian Orthodox Church
+<BR>of St Nicholas
+<br>Dallas, Texas
+<br>Orthodox Christian Catechesis
+</font>
+</CENTER>
+</TD>
+<TD >
+Question: 
+<SELECT NAME="qselect" onChange="document.forms[0].toggle.value='ANSWER' ;question();" >
+<OPTION VALUE=0>1
+<OPTION VALUE=1>2
+<OPTION VALUE=2>3
+<OPTION VALUE=3>4
+<OPTION VALUE=4>5
+<OPTION VALUE=5>6
+<OPTION VALUE=6>7
+<OPTION VALUE=7>8
+<OPTION VALUE=8>9
+<OPTION VALUE=9>10
+</SELECT> 
+
+<INPUT NAME=toggle         TYPE=BUTTON      VALUE="ANSWER" 
+  onClick="if( this.value == 'ANSWER' )   {  this.value='NEXT';  answer(); } else { this.value='ANSWER' ; next_q(); }"  
+>
+
+<SELECT NAME="cmd" onChange="
+var c=document.control.cmd.options[document.control.cmd.selectedIndex].value;
+if(c) {  	document.control.cmd.selectedIndex=0; document.location=c; } "
+<OPTION SELECTED VALUE=""> Select an option
+<OPTION SELECTED VALUE=""> Select an option
+<OPTION VALUE="Javascript:permission();"> Getting Permission
+<OPTION VALUE="Javascript:all()"> Side by Side
+<OPTION VALUE="Javascript:top.document.location='index.htm';"> Questions Index
+<OPTION VALUE="Javascript:top.document.location='../index.htm';"> St Nicholas Home
+<OPTION VALUE="Javascript:top.document.location='http://www.rocor.org';"> ROCOR Home </SELECT>
+
+<!--
+&nbsp;&nbsp;
+<A href=Javascript: permission();>Permission </A>&nbsp;&nbsp;
+<A href=Javascript: all_q();          >All Questions</A>&nbsp;&nbsp;
+<A href=Javascript: all_a();          >All Answers</A>&nbsp;&nbsp;
+<A href=Javascript: top.document.location=../index.htm';">HOME</A>
+<A href=Javascript: top.document.location=index.htm';" >Index</A>
+-->
+
+</CENTER>
+</FORM>
+</TD>
+</TR>
+</TABLE>
+
+</BODY
+</HTML>

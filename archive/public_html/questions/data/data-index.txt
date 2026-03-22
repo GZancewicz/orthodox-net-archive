@@ -1,0 +1,82 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|thomas_sunday_1|St Thomas Sunday||||||||||||||||||||||||||||||
+002|myrhh_bearers_1|The Holy Myrhh bearers||||||||||||||||||||||||||||||
+003|myrhh_bearers_2|More about the Sunday of The Holy Myrhh bearers||||||||||||||||||||||||||||||
+004|paralytic_1|The Sunday of the Paralytic||||||||||||||||||||||||||||||
+005|samaritan_woman_1|The Sunday of the Samaritan Woman|||||||||||||||||Also in format FORMAT:Word |||||||||||||
+006|blind_man_1|The Sunday of the Blind Man||||||||||||||||||||||||||||||
+007|ascension_1|The Ascension of Jesus Christ||||||||||||||||||||||||||||||
+008|first_ecumenical_council_1|The Sunday of the Fathers of the first Ecumenical Council||||||||||||||||||||||||||||||
+009|pentecost_1|Pentecost||||||||||||||||||||||||||||||
+010|sunday_of_all_saints_1|The Sunday of All Saints||||||||||||||||||||||||||||||
+011|09friape-matthew-21-12-20|9th Friday after Pentecost - Matthew Mat 20:17-28|||||||||||||||||Jesus overturns the moneychangers and curses the fig tree. |||||||||||||
+012|matt_14_22-34_walk_on_water_9sunape_1|9th Sunday after Pentecost -Matt 14:22-34|||||||||||||||||Jesus walks on the water |||||||||||||
+013|10monape|10th Monday after Pentecost - I Cor 15:12-19, Matt 21:18-22|||||||||||||||||And if Christ be not raised, your faith is vain; ye are yet in your sins Jesus curses the fig tree |||||||||||||
+014|10tueape|10th Tuesday after Pentecost - Mat 21:23-27, 1 Cor 15:29-38|||||||||||||||||By what authority doest thou these things?  |||||||||||||
+015|10wedape|10th Wednesday after Pentecost - 1 Cor 16:4-12 Matt 21:28-32 |||||||||||||||||The Parable of the two sons and the vineyard |||||||||||||
+016|10thuape|10th Thursday after Pentecost - 2Corinthians 1:1-7 Matthew 21:43-46 |||||||||||||||||The stone which the builders rejected,the same is become the head of the corner. |||||||||||||
+017|10friape|10th Friday after Pentecost - 2 Corinthians 1:12-20 Matthew                    22:23-33 |||||||||||||||||The same day came to him the Sadducees, which say that there is no resurrection |||||||||||||
+018|10sunape|10th Sunday after Pentecost - Matthew 17:14-23|||||||||||||||||Exorcism of the lunatic Son |||||||||||||
+019|11monape|11th Monday after Pentecost - Matthew 23:13-22 2 Corinthians 2:4-15|||||||||||||||||Woe unto you, scribes and Pharisees, hypocrites!  |||||||||||||
+020|11tueape|11th Tuesday after Pentecost - 2 Cor 2:14-17,3:1-3 Matthew 23:23-28|||||||||||||||||For we are unto God a sweet savour of Christ |||||||||||||
+021|11wedape|11th Wednesday 8/9/99after Pentecost - 2 Cor 3:4-11 Matthew 23:29-39|||||||||||||||||Fill ye up then the measure of your fathers. |||||||||||||
+022|matt_18_23-35_unmerciful_debtor_11sunape_1|11th Sunday after Pentecost - Matt 18:23-3514:22-34|||||||||||||||||Parable of the Unmerciful Debtor |||||||||||||
+023|12tueape|12th Tuesday after Pentecost - 2 Corinthians 5:15-21 Mark 1:16-22|||||||||||||||||Jesus calls four of His disciples. |||||||||||||
+024|matt_21_33-44_parable_evil_husbandmen_13sunape_1|The Parable of the Evil Husbandmen in the Vineyard (13sunape - Matt 21:33-44)||||||||||||||||||||||||||||||
+025|matt_21_1-14_parable_wedding_feast_14sunape_1|14th Sunday after Pentecost - Matt 21:1-14|||||||||||||||||the Parable of the Wedding Feast (14sunape) |||||||||||||
+026|luke_5_1-11_first_great_catch_of_fish_1|The First Great Catch of Fish (18sunape, Luke 5:1-11)||||||||||||||||||||||||||||||
+027|luke_16_19-31_parable_rich_man_lazarus_22sunape|Parable of the Rich Man and Lazarus (22sunape, Luke 16:19-31)||||||||||||||||||||||||||||||
+028|luke-10-25-37-parable-good-samaritan|25th Sunday after Pentecost - Luke 10:25-37|||||||||||||||||The Parable of the Good Samaritan |||||||||||||
+029|luke-13-10-17-healing_woman_on_sabbath|27th Sunday after Pentecost - Luke 13:10-17|||||||||||||||||The Healing of a woman with a long time infirmity |||||||||||||
+030|luke-17-12-19-10-lepers|28th Sunday after Pentecost - Luke 17:12-19|||||||||||||||||The Healing of the Ten Lepers |||||||||||||
+031|great_supper_1|The Parable of the Great Supper (Luke 14:16-24)||||||||||||||||||||||||||||||
+032|luke-10-25-37-parable-good-samaritan|25th Sunday after Pentecost - Luke 10:25-37|||||||||||||||||The Parable of the Good Samaritan |||||||||||||
+033|matt_21_33-44_parable_evil_husbandmen_13sunape_1|The Parable of the Evil Husbandmen in the Vineyard (13sunape, Matt 21:33-44)||||||||||||||||||||||||||||||
+034|matt_21_1-14_parable_wedding_feast_14sunape_1|14th Sunday after Pentecost - Matt 21:1-14|||||||||||||||||the Parable of the Wedding Feast |||||||||||||
+035|matt_18_23-35_unmerciful_debtor_11sunape_1|Parable of the Unmerciful Debtor (11sunape, Matt 18:23-35)||||||||||||||||||||||||||||||
+036|luke_16_19-31_parable_rich_man_lazarus_22sunape|Parable of the Rich Man and Lazarus (22sunape, Luke 16:19-31)||||||||||||||||||||||||||||||
+037|five_thousand|The Feeding of the Five Thousand||||||||||||||||||||||||||||||
+038|luke_5_1-11_first_great_catch_of_fish_1|18th Sunday after Pentecost - Luke 5:1-11|||||||||||||||||The First Great Catch of Fish (18sunape) |||||||||||||
+039|christs_geneology_1|The Geneology of Christ Part 1 (Matthew|||||||||||||||||1:1-17) |||||||||||||
+040|gospel-matthew-chapter-01|Gospel of Matthew Chapter 1||||||||||||||||||||||||||||||
+041|gospel-matthew-chapter-02|Gospel of Matthew Chapter 2||||||||||||||||||||||||||||||
+042|john_17_1|The High Priestly Prayer of Jesus Christ - John|||||||||||||||||17 |||||||||||||
+043|demoniac_son_1|The Healing of the Demoniac Son||||||||||||||||||||||||||||||
+044|nicholas_1|St Nicholas the Wonderworker||||||||||||||||||||||||||||||
+045|elias_1|The Holy Prophet Elias (Elijah)||||||||||||||||||||||||||||||
+046|christina_1|St Christina||||||||||||||||||||||||||||||
+047|apostle-andrew|Apostle Andrew||||||||||||||||||||||||||||||
+048|menaion_august_1|The August Menaion Volume 1||||||||||||||||||||||||||||||
+049|menaion_august_2|The August Menaion Volume 2||||||||||||||||||||||||||||||
+050|forgiveness_sunday_1|Forgiveness Sunday||||||||||||||||||||||||||||||
+051|lenten_services_1|Lenten Services||||||||||||||||||||||||||||||
+052|sunday_of_the_cross_1|The Sunday of the Holy Cross||||||||||||||||||||||||||||||
+053|mary_of_egypt_1|St Mary of Egypt||||||||||||||||||||||||||||||
+054|last_week_of_lent_1|The Last Week of Great Lent||||||||||||||||||||||||||||||
+055|holy_week_1|Holy Week||||||||||||||||||||||||||||||
+056|bright_week_1|Bright Week||||||||||||||||||||||||||||||
+057|appearances_1|The appearances of the risen Christ||||||||||||||||||||||||||||||
+058|myrhh_bearers_1|The Holy Myrhh-bearers (1)||||||||||||||||||||||||||||||
+059|myrhh_bearers_2|The Holy Myrhh-bearers (2)||||||||||||||||||||||||||||||
+060|samaritan_woman_1|The Samaritan Woman - 1||||||||||||||||||||||||||||||
+061|samaritan_woman_2|The Samaritan Woman - 2||||||||||||||||||||||||||||||
+062|theophany_1|Holy Theophany (The Baptism of Jesus Christ)||||||||||||||||||||||||||||||
+063|ascension_1|The Ascension of Jesus Christ||||||||||||||||||||||||||||||
+064|transfiguration_1|The Transfiguration of the Saviour||||||||||||||||||||||||||||||
+065|transfiguration-scripture_1|Explanation of Scripture read on the Transfiguration of the Saviour||||||||||||||||||||||||||||||
+066|pentecost_1|Pentecost||||||||||||||||||||||||||||||
+067|altar_serving_1|Altar Serving||||||||||||||||||||||||||||||
+068|symbol-of-faith-article-01|Part 1 - Introduction||||||||||||||||||||||||||||||
+069|symbol-of-faith-article-02|Part 2 - Article 1||||||||||||||||||||||||||||||
+070|symbol-of-faith-article-03-01|Light of Light, True God of True God, Begotten, not made; of one essence with the Father, by whom all things were made' ||||||||||||||||||||||||||||||
+071|symbol-of-faith-article-03|Part 3 - Article 2||||||||||||||||||||||||||||||
+072|symbol-of-faith-article-04-01|'Who for us men and for our salvation came down from the heavens, and was incarnate of the Holy Spirit and the Virgin Mary, and became man; '||||||||||||||||||||||||||||||
+073|symbol-of-faith-article-05-01|'And was crucified for us under Pontius Pilate, and suffered and was buried; And rose again on the third day, according to the Scriptures;'||||||||||||||||||||||||||||||
+074|symbol-of-faith-article-06-01|'And ascended into the heavens, and sitteth at the right hand of the Father.'||||||||||||||||||||||||||||||
+075|symbol-of-faith-article-07-01|'And shall come again, with glory, to judge both the living and the dead, Whose kingdom shall have no end. .'||||||||||||||||||||||||||||||
+076|symbol-of-faith-article-08-01|'And in the Holy Spirit, the Lord, the Giver of Life, Who proceedeth from the Father, Who with the Father and the Son together is worshiped and glorified, Who spake by the Prophets;  '||||||||||||||||||||||||||||||
+077|symbol-of-faith-article-09-01|'In One Holy Catholic and Apostolic Church. '||||||||||||||||||||||||||||||
+078|symbol-of-faith-article-10-01|'I Confess one Baptism for the remission of sins.'||||||||||||||||||||||||||||||

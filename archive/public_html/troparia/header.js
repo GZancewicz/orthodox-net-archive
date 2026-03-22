@@ -1,0 +1,2 @@
+document.write("<DIV CLASS=c>Orthodox Troparia<BR><A HREF='../index.html'><IMG SRC='../h.gif' width=35 height=50 border=0 ALT='Russian Orthodox Christian theology, sermons, homilies, pascha & feasts, services, links and more - index'></A><A HREF='../index.html'><img src='../sns.jpg' ALT='St Nicholas Russian Orthodox Church, McKinney (Dallas area) TX offers sermons, services, theology catechesis, directories and a lot more. Click here.' height=82 width=59 BORDER=0></A><A HREF='http://orthodox.net/cgi-bin/html_print.pl'>PRINT</A><BR><A HREF=index.html>Index</A></DIV>");
+

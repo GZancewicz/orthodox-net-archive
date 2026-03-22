@@ -1,0 +1,15 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-september/24-holy-protomartyr-thecia-equal-to-the-apostles.html">Holy Protomartyr and Equal to the Apostles Thecla </A>');
+document.writeln('<BR><I>LITURGY: </I>II Tim 3:10 15; Matt 25:1 13. ');
+document.writeln('<LI>St. Coprius of Palestine. ');
+document.writeln('<LI>St. Nicander, hermit of Pskov. ');
+document.writeln('<LI>St. Abramius, abbot of Mirozh (Pskov). ');
+document.writeln('<LI>Martyrdom of St. Galacteon, monk of Vologda. ');
+document.writeln('<LI><A HREF="/menaion-september/24-st-stephen-king-of-serbia-the-first-crowned.html">Saints Stephen (in monasticism Simon), David and Vladislav of Serbia. </A>');
+document.writeln('<LI>St. Dorothy of Kashin. ');
+document.writeln('<LI><A HREF="/menaion-september/24-st-david.html">St David</A>');
+document.writeln('<LI><A HREF="/menaion-september/24-holy-prince-vladislav.html">Holy Prince Vladislav</A>');
+document.writeln('<LI>Icon of the Most Holy Theotokos of "Mirozh"');
+document.writeln('<LI><A HREF="http://www.networks-now.net/sspp/9808icons_Mother_of_God.htm">Icon of the Most Holy Theotokos of the "Myrtle Tree". </A>');
+document.writeln('<LI>Repose of Schema Archimandrite Gabriel of Pskov Eleazar Monastery');
+document.writeln('</OL>');

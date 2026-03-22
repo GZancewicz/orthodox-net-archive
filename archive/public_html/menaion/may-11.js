@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy Equals-to-the-Apostles Methodius and Cyril, first teachers of the Slavs. ');
+document.writeln('<LI>Hieromartyr Mocius (Mucius), presbyter of Amphipolis in Macedonia');
+document.writeln('<BR><I>LITURGY: </I>II Tim 2:1-10; Jn 15:9-16. ');
+document.writeln('<LI>Commemoration of the Founding of Constantinople. ');
+document.writeln('<LI>St. Nicodemus, Archbishop of Serbia. ');
+document.writeln('<LI>St. Sophronius, recluse of the Kiev Caves. ');
+document.writeln('<LI>St. Joseph, Metropolitan of Astrakhan. ');
+document.writeln('<LI>New-Martyrs Diosorus and Argyrus. ');
+document.writeln('<LI>St. Bessarion, Archbishop of Larissa. ');
+document.writeln('<LI>Martyr Acacius of Lower Moesia. ');
+document.writeln('</OL>');

@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyr Arethas and those with him, including Martyr Syncletica and her two daughters. ');
+document.writeln('<LI>Blessed Elesbaan, king of Ethiopia. ');
+document.writeln('<LI>St. Athanasius, Patriarch of Constantinople. ');
+document.writeln('<LI>St. Arethas, recluse of the Pskov Caves. ');
+document.writeln('<LI>St. Sisoes, Schemamonk of the Kiev Caves. ');
+document.writeln('<LI>St. Theophilus the Silent of the Kiev Caves. ');
+document.writeln('<LI>St. Senoch, abbot of Tours (Gaul). ');
+document.writeln('<LI>New Martyr Bishop Lawrence of Balakin (1918). ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "The Joy of All Who Sorrow". ');
+document.writeln('<LI>(AkOL) Repose of Blessed Elder Zosimas (Verkhovsky) (1833). ');
+document.writeln('</OL>');

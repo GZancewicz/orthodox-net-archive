@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyrs Carpus, Papylus, Agathadorus and Agathonica at Pergamus. ');
+document.writeln('<LI>Martyr Florentius of Thessalonica. ');
+document.writeln('<LI>Martyr Benjamin, deacon of Persia. ');
+document.writeln('<LI>St. Nicetas the Confessor of Paphlagonia. ');
+document.writeln('<LI>St. Benjamin of the Kiev Caves. ');
+document.writeln('<LI>New Martyr Chryse (Zlata) of Bulgaria. ');
+document.writeln('<LI>St. Vannatius of Poitiers (Gaul). ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Of the Seven Lakes". ');
+document.writeln('<LI>Portaitissa Icon of the Most Holy Theotokos. ');
+document.writeln('</OL>');

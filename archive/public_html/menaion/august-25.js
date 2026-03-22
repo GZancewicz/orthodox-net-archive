@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Return of the relics of Apostle Bartholomew from Anastasiopolis to Lipari. ');
+document.writeln('<LI>Apostle Titus of the Seventy ');
+document.writeln('<BR><I>LITURGY: </I>Tit 1:1-4; 2:15-3:3, 12j-13, 15; Matt 5:14-19. ');
+document.writeln('<LI>Saints Barses and Eulogius, Bishops of Edessa, and St. Protopgenes, Bishop of Carrhae, confessors. ');
+document.writeln('<LI>St. Menas, Patriarch of Constantinople. ');
+document.writeln('<LI>St. John the Cappadocian and St. Epiphanius, pats. ');
+document.writeln('<LI>Constantinople. ');
+document.writeln('<LI>Repose of Abbess Magdalena of Sevsk Convent (1848) ');
+document.writeln('<LI>Repose of Benjamin of Valaam (1848). ');
+document.writeln('</OL>');

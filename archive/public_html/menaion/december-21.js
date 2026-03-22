@@ -1,0 +1,11 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI>Forefeast of the Nativity of Christ. ');
+document.writeln('<LI><A HREF="/menaion-december/21-holy-martyr-juliana-and-the-630-martyrs-with-her.html">Virgin Martyr Juliana of Nicomedia, and with her 500 men and 130 women. </A>');
+document.writeln('<LI><A HREF="/menaion-december/21-st-peter-the-wonderworker-metropolitan-of-russia.html">Repose of St. Peter, Metropolitan of All Russia. </A>');
+document.writeln('<LI><A HREF="/menaion-december/21-holy-martyr-themistocies.html">Martyr Theomistocles of Myra in Lycia. </A>');
+document.writeln('<LI>St. Juliana, princess of Vyazma. ');
+document.writeln('<LI>Blessed Procopius of Vyatka, fool for Christ. ');
+document.writeln('<LI>St. Paisius Velichkovsky. ');
+document.writeln('<LI>Repose of Schemamonk Michael of Harbin (1939). ');
+document.writeln('<LI>Blessed Peter "the Nose" of Kama (1938?). ');
+document.writeln('</OL>');

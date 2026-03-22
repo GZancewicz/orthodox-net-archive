@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyr Nestor of Thessalonica ');
+document.writeln('<BR><I>LITURGY: </I>Eph 6:10 17; Lk 21:12 19. ');
+document.writeln('<LI>Martyrs Capitolina and Eroteis of Cappadocia. ');
+document.writeln('<LI>Martyr Mark of the isle of Thasos. ');
+document.writeln('<LI>St. Nestor the Chronicler of the Kiev Caves. ');
+document.writeln('<LI>Opening of the Relics of St. Andrew, prince of Smolensk. ');
+document.writeln('<LI>St. Cyriacus, Patriarch of Constantinople. ');
+document.writeln('<LI>St. Procla, wife of Pontius Pilate. ');
+document.writeln('</OL>');

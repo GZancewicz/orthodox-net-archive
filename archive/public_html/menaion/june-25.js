@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Virgin Martyr Febronia of Nisibis. ');
+document.writeln('<LI>Prince and Princess Febronia (tonsured David and Euphrosyne), Wonderworkers of Murom. ');
+document.writeln('<LI>Virgin Martyrs Leonis, Libye, and Eutropia of Syria. ');
+document.writeln('<LI>St. Symeon of Sinai. ');
+document.writeln('<LI>Saints Dionysius and Dometius of the Monastery of the Forerunner on Mt. Athos. ');
+document.writeln('<LI>New-Martyr Procopius of Mt. Athos. who suffered at Smyrna. ');
+document.writeln('<LI>New-Martyr George of Attalia. ');
+document.writeln('<LI>Repose of Hiero-deacon Serapion (1859) and Schema-archimandrite Heliodorus of Glinsk Hermitage (1879). ');
+document.writeln('</OL>');

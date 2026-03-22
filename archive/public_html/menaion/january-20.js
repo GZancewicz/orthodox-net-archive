@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Euthymius the Great. ');
+document.writeln('<LI>Martyrs Bassus, Eusebius, Eutychius and Basilides at Nicomedia. ');
+document.writeln('<LI>Martyrs Inna, Pinna and Rimma, disciples of Apostle Andrew in Scythia. ');
+document.writeln('<LI>Martyrs Thyrsus and Agnes. ');
+document.writeln('<LI>St. Leo the Great, confessor, Emperor of the East. ');
+document.writeln('<LI>Martyr Anna at Rome. ');
+document.writeln('<LI>New-Martyr Zacharias at Patrai in Morea. ');
+document.writeln('<LI>Saints Euthymius the Silent and Laurence the Recluse of the Kiev Caves. ');
+document.writeln('<LI>St. Euthymius of Syanzhemsk. ');
+document.writeln('<LI>Blessed Peter the customs inspector of Constantinople. ');
+document.writeln('<LI>Repose of Righteous. ');
+document.writeln('<LI>Theodore Kuzmich (Tsar Alexander) (1864). ');
+document.writeln('</OL>');

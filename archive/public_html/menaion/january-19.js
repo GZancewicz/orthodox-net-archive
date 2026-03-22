@@ -1,0 +1,15 @@
+document.writeln('<OL>');
+document.writeln('<LI>February 1. ');
+document.writeln('<LI>St. Macarius the Great of Egypt St. Macarius of Alexandria. ');
+document.writeln('<LI>Virgin Martyr Euphrasia of Nicomedia. ');
+document.writeln('<LI>St. Arsenius, Archbishop of Kerkyra (Corfu). ');
+document.writeln('<LI>Translation of the Relics of St. Gregory the Theologian. ');
+document.writeln('<LI>St. Mark, Archbishop of Ephesus. ');
+document.writeln('<LI>St. Meletius the Gallesiote, monk. ');
+document.writeln('<LI>Blessed Theodore of Novgorod, fool-for-Christ. ');
+document.writeln('<LI>Opening of the Relics of St. Sabbas of Storozhev or Zvenigorod. ');
+document.writeln('<LI>St. Macarius, deacon of the Kiev Caves. ');
+document.writeln('<LI>St. Macarius of the Kiev Caves. ');
+document.writeln('<LI>St. Anthony, hermit of Georgia. ');
+document.writeln('<LI>St. Macarius the Roman of Novgorod. ');
+document.writeln('</OL>');

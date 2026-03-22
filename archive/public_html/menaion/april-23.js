@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy Glorious Great-martyr and Victory-bearer and Wonderworker George. ');
+document.writeln('<LI>Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of St. George. ');
+document.writeln('<LI>Martyr Alexandra the Empress (also 21 Apr). ');
+document.writeln('<LI>Martyrs Glycerius, Athanasius the Magician, Valerius, Donatus, and Therinus at Nicomedia. ');
+document.writeln('<LI>Blessed George of Shenkursk, fool-for-Christ. ');
+document.writeln('<LI>New-Martyr George of Ptolomais. ');
+document.writeln('<LI>New-Martyr Lazarus of Bulgaria who suffered at Pergamus. ');
+document.writeln('<LI>New-Martyr Priest Egor (George) of the Spas-Chekriak village (1918). ');
+document.writeln('</OL>');

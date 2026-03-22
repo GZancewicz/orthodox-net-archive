@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Synaxis of the Archangel Michael and the other Bodiless Powers: the Archangels Gabriel, Raphael Uriel, Salaphiel, Jegudiel, and Barachiel ');
+document.writeln('<BR><I>Readings</I>');
+document.writeln('<LI><I>VESPERS: </I>(1) Joshua 5:13 15; (2) Judges 6:2, 7, 11 24; (3) Isa 14:7 20. ');
+document.writeln('<LI><I>MATINS: </I> Matt 13:24 30, 36 43. ');
+document.writeln('<LI><I>LITURGY: </I> Heb 2:2 10; Lk 10:16 21. ');
+document.writeln('</UL>');
+document.writeln('<LI>Righteous Martha, Princess of Pskov. ');
+document.writeln('<LI>New Martyr Michael the Blessed of Chernigov (1922). ');
+document.writeln('<LI>Repose of Metropolitan Philaret of NYC (1985). ');
+document.writeln('</OL>');

@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Third Day of the Feast of the Nativity.');
+document.writeln('<LI><A HREF="/menaion-december/27-holy-protomartyr-stephen-the-archdeacon.html">Holy Protomartyr and Archdeacon Stephen </A>');
+document.writeln('<LI><A HREF="/menaion-december/27-our-holy-fathers-the-martyrs-theodore-and-theophanes-the-branded.html">St. Theodore Graptus </A>');
+document.writeln('<BR>"The Branded", confessor, brother of St. Theophanes the Hymnographer.');
+document.writeln('<LI>St. Theodore, Archbishop of Constantinople.');
+document.writeln('<BR>(services combined) ');
+document.writeln('<LI>St. Luke, monk of Tryglia.');
+document.writeln('<LI>New Martyrs Tikhon, Archbishop of Voronezh, and with him 160 martyred priests (1919).');
+document.writeln('<LI>Repose of Athanasius of Grigorious Monastery, Mt. Athos (1953).');
+document.writeln('</OL>');

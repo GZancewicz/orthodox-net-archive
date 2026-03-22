@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-september/06-commemoration-of-the-miracles-of-the-holy-archangel-name:michael.html">Commemoration of the Miracle of the Archangel Michael at Colossae (Chonae)</A>');
+document.writeln('<BR><I>LITURGY: </I>HEB  2:2-10 LUKE 10:16-21');
+document.writeln('<BR>Wine and Oil allowed');
+document.writeln('<LI><A HREF="/menaion-september/06-st-eudoxius.html">Martyr Eudoxius and those with him</A>');
+document.writeln('<LI><A HREF="/menaion-september/06-holy-martyr-romulus-and-the-11000-soldiers.html">Martyrs Romulus, Zeno, Macarius and 11,000 others in Armenia. </A>');
+document.writeln('<LI>St. Archippus of Herapolis. ');
+document.writeln('<LI>Martyrs Cyriacus, Faustus, Abibus, and 11 others at Alexandria. ');
+document.writeln('<LI>Hieromartyr Cyril, Bishop of Gortyna. ');
+document.writeln('<LI>St. David of Hermpolis in Egypt. ');
+document.writeln('<LI>Martyrs Calodote, Macarius, Andrew, Cyriacus, Dionysius, Andrew the soldier, Andropelagia, Thecla, Theoctistus, and Sarapabon the senator, in Egypt. ');
+document.writeln('<LI>Repose of Paisius the New of Mt. Athos. (1871). ');
+document.writeln('</OL>');

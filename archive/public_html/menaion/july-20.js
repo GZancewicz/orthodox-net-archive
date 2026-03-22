@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy Glorious Prophet Elias (Elijah) ');
+document.writeln('<BR><I>Readings</I>');
+document.writeln('<LI><I>VESPERS: </I>(1) III Kgs 17:1-23; (2) III Kgs 18:1, 17-40, 44, 42, 45-46; 19:1-16; (3) III Kgs 19:19-21; IV Kgs 2:1, 6-14. ');
+document.writeln('<LI><I>MATINS: </I> Lk 4:22-30. ');
+document.writeln('<LI><I>LITURGY: </I> Jas 5:10-20; Lk 4:22-30. ');
+document.writeln('</UL>');
+document.writeln('<LI>St. Abramius of Galich or Chukhloma Lake, disciple of St. Sergius of Radonezh. ');
+document.writeln('<LI>Opening of the Relics of St. Athanasius, abbot of Brest-Litovsk. ');
+document.writeln('<LI>New-Martyr Lydia, and with her the soldiers Alexei and Cyril (1928); Priest Philosoph Ornalsky and those with him (1918). ');
+document.writeln('<LI>Repose of Righteous Priest Valentine (Amphiteatrov) (1908). ');
+document.writeln('</OL>');

@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-september/23-conception-of-st-john-the-baptist.html">The Conception of the Honorable, Glorious Prophet, Forerunner and Baptist John </A>');
+document.writeln('<BR><I>LITURGY: </I>Gal 4:22 31; Lk 1:5 25 ');
+document.writeln('<LI>Martyrs Andrew, John, Peter and Antoninus of Syracuse, martyred in Africa. ');
+document.writeln('<LI><A HREF="/menaion-september/23-holy-martyr-iraida.html">Virgin Martyr Irais (Rhais) of Alexandria. </A>');
+document.writeln('<LI>Saints Xanthippa and Polyxena, disciples of the Apostles, who died in Spain. ');
+document.writeln('<LI><A HREF="/menaion-september/23-holy-new-martyr-nicolas-pantopoles-grocer.html">New Martyr Nicholas Pantopolos at Constantinople. </A>');
+document.writeln('<LI><A HREF="/menaion-september/23-holy-new-martyr-john.html">New Martyr John of Epirus. </A>');
+document.writeln('<LI>New Martyr Archimandrite Arsenius (1937). ');
+document.writeln('<LI>Repose of Abbess Eupraxia of Old Ladoga Convent (1823). ');
+document.writeln('</OL>');

@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy 45 Martyrs at Nicopolis in Armenia, including Leontius, Maurice, Daniel, Anthony, Alexander, Anicetus, Sisinius, Meneus, and Belarad (Verelad). ');
+document.writeln('<LI>The Placing of the Precious Robe of the Lord at Moscow. ');
+document.writeln('<LI>St. Anthony of the Kiev Caves, founder of monasticism in Russia. ');
+document.writeln('<LI>Martyrs Bianor and Silvanus of Pisidia. ');
+document.writeln('<LI>Martyr Apollonius of Sardis. ');
+document.writeln('<LI>St. Basil, Bishop of Ryazan. ');
+document.writeln('<LI>10,000 Fathers of the desert and caves of Scetis martryed by the impious Patriarch Theophilus of Alexandria. ');
+document.writeln('<LI>"Konevits" Icon of the Most Holy Theotokos. ');
+document.writeln('</OL>');

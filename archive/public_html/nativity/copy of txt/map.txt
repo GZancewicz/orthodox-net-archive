@@ -1,0 +1,75 @@
+TITLE:All Files in nativity
+DESCRIPTION:sameas-title
+KEYWORDS:SERMON ON THE NATIVITY OF CHRIST 1906 by Blessed Metropolitan Anthony, First Primate of the Russian Orthodox Church Outside RussiaNATIVITY HOMILY by His Eminence, Bishop PHOTII of Triaditza1999 Nativity Epistle of Metropolitan Vitaly, in English and Russian 1999 Nativity Epistle of Metropolitan Vitaly, in English and Russian Holy Nativity of Our Saviour Jesus Christ 1999Holy Nativity of Our Saviour Jesus ChristDiscourse On the Nativity of Christ by St Gregory Thaumatourgos Bishop of Neo-CaesareaNow is Christ Born! - Nativity Epistle of Archbishop Antony of Geneva and Western EuropeHoly Nativity of Our Saviour Jesus ChristArticles on aspects of Eastern Orthodox Christian Doctrine and practices, Ecumenism, Contemporary events, etcThe Celebration Of The Nativity Of Christ In Ancient MoscowNativity of the Saviour,  Sermon 21, Homily 1 by Pope St Leo the GreatA Nativity Sermon by Pope St Leo the Great (5th century)THE MYSTERY OF LOVING-KINDNESS -A Sermon by St John of Kronstadt on the Nativity of ChristTHE WORD BECAME FLESH - A Sermon by St John of Kronstadt on the Nativity of ChristDiscourse on the Nativity of the Most Holy Mother of God by Saint Andrew, Archbishop of Crete Russian Orthodox Christian Old Believer Nativity Traditions: - blessing the Home
+FILE:thisfile
+TEMPLATE:2rows.html
+NEW_WINDOW_IF_OUTSIDE_SITE:0
+PIFBLANKLINES:1
+SPECIALLANGUAGE:0
+MAP-HEADING:
+#HEADSUFFIX:<BASE TARGET="_blank">
+#HEADSUFFIX:<LINK REL='stylesheet' type='text/css' HREF='../liturgical.css'> <STYLE> p { text-align:justify; font-family:Arial,Helvetica,sans-serif; font-size:16.0pt; } </STYLE>
+#
+#
+#Type MAP Syntax:
+#HTTP://the.url/thefile.html
+#The Hypertext 
+#More Description until a blank line
+#FORMAT:PDF becomes <A HREF=http://he.url/thefile.pdf>PDF</A>
+#FORMAT:PDF:Title becomes <A HREF=http://he.url/thefile.pdf>Title</A>
+#FORMAT:PDF:Title:sfx becomes <A HREF=http://he.url/thefile-sfx.pdf>Title</A>
+TYPE:MAP
+
+BEGIN:All Files in nativity
+
+https://www.orthodox.net//nativity/1906-nativity-met-anthony.html
+SERMON ON THE NATIVITY OF CHRIST 1906 by Blessed Metropolitan Anthony, First Primate of the Russian Orthodox Church Outside Russia
+
+https://www.orthodox.net//nativity/1999-nativity-bishop-photi.html
+NATIVITY HOMILY by His Eminence, Bishop PHOTII of Triaditza
+
+https://www.orthodox.net//nativity/1999-nativity-epistle-met-vitaly-both-languages.html
+1999 Nativity Epistle of Metropolitan Vitaly, in English and Russian 
+
+https://www.orthodox.net//nativity/1999-nativity-epistle-met-vitaly.html
+1999 Nativity Epistle of Metropolitan Vitaly, in English and Russian 
+
+https://www.orthodox.net//nativity/1999-nativity-met-cyprian.html
+Holy Nativity of Our Saviour Jesus Christ 1999
+
+https://www.orthodox.net//nativity/1999-nativity-pavle.html
+Holy Nativity of Our Saviour Jesus Christ
+
+https://www.orthodox.net//nativity/discourse-gregory.html
+Discourse On the Nativity of Christ by St Gregory Thaumatourgos Bishop of Neo-Caesarea
+
+https://www.orthodox.net//nativity/epistle-ab-anthony.html
+Now is Christ Born! - Nativity Epistle of Archbishop Antony of Geneva and Western Europe
+
+https://www.orthodox.net//nativity/index.html
+Holy Nativity of Our Saviour Jesus Christ
+
+https://www.orthodox.net//nativity/nativity-chrysostom.html
+Articles on aspects of Eastern Orthodox Christian Doctrine and practices, Ecumenism, Contemporary events, etc
+
+https://www.orthodox.net//nativity/nativity-in-moscow.html
+The Celebration Of The Nativity Of Christ In Ancient Moscow
+
+https://www.orthodox.net//nativity/nativity-leo-1.html
+Nativity of the Saviour,  Sermon 21, Homily 1 by Pope St Leo the Great
+
+https://www.orthodox.net//nativity/nativity-pope-leo.html
+A Nativity Sermon by Pope St Leo the Great (5th century)
+
+https://www.orthodox.net//nativity/nativity-sjok-1.html
+THE MYSTERY OF LOVING-KINDNESS -A Sermon by St John of Kronstadt on the Nativity of Christ
+
+https://www.orthodox.net//nativity/nativity-sjok-2.html
+THE WORD BECAME FLESH - A Sermon by St John of Kronstadt on the Nativity of Christ
+
+https://www.orthodox.net//nativity/nativity-theotokos-by-andrew-of-crete.html
+Discourse on the Nativity of the Most Holy Mother of God by Saint Andrew, Archbishop of Crete 
+
+https://www.orthodox.net//nativity/russian-orthodox-christian-old-believer-nativity-traditions-blessing-homes.html
+Russian Orthodox Christian Old Believer Nativity Traditions: - blessing the Home
+

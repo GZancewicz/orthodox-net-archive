@@ -1,0 +1,381 @@
+p 
+{ 
+	text-align:justify;
+}
+
+p.ru-label, li.ru-label, div.ru-label
+	{mso-style-name:ru-label;
+	mso-style-parent:"";
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-size:10.0pt;
+	font-family:Arial,Helvetica,sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-family:"Times New Roman";
+	COLOR:#660000;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+	font-style:normal;
+}
+.reader
+{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:16.0pt;
+}
+.audible
+	{mso-style-name:audible;
+	mso-ansi-font-size:18.0pt;
+	font-size:18.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	font-weight:bold;}
+
+p.audible-deacon-only, li.audible-deacon-only, div.audible-deacon-only
+	{mso-style-name:audible-deacon-only;
+	margin-top:5.0pt;
+	margin-right:0in;
+	margin-bottom:5.0pt;
+	margin-left:0in;
+	mso-pagination:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	layout-grid-mode:line;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+font-style:normal;}
+.SC, .choir
+	{mso-style-name:choir;
+	mso-ansi-font-size:18.0pt;
+font-size:18.0pt;
+	mso-ascii-font-family:Arial,Helvetica,sans-serif;
+font-family:Arial,Helvetica,sans-serif;
+	mso-hansi-font-family:Arial,Helvetica,sans-serif;
+	color:gray;}
+.choir-label
+	{mso-style-name:choir-label;
+	mso-style-parent:choir;
+	mso-ansi-font-size:12.0pt;
+font-size:12.0pt;
+	mso-ascii-font-family:Arial,Helvetica,sans-serif;
+font-family:Arial,Helvetica,sans-serif;
+	mso-hansi-font-family:Arial,Helvetica,sans-serif;
+	color:gray;
+	font-weight:bold;
+	font-style:italic;}
+.priest-aloud
+	{mso-style-name:priest-aloud;
+	mso-ansi-font-size:18.0pt;
+font-size:18.0pt;
+	mso-ascii-font-family:"Times New Roman";
+font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	font-weight:bold;}
+.SPAL, .priest-aloud-label
+	{mso-style-name:priest-aloud-label;
+	mso-style-parent:priest-aloud;
+	mso-ansi-font-size:14.0pt;
+font-size:14.0pt;
+	mso-ascii-font-family:"Times New Roman";
+font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	font-weight:bold;
+	font-style:italic;}
+.reader-label
+	{mso-style-name:reader-label;
+	mso-style-parent:reader;
+	mso-ansi-font-size:12.0pt;
+font-size:12.0pt;
+	mso-ascii-font-family:Arial,Helvetica,sans-serif;
+font-family:Arial,Helvetica,sans-serif;
+	mso-hansi-font-family:Arial,Helvetica,sans-serif;
+	font-style:italic;}
+.reader-reference
+	{mso-style-name:reader-reference;
+	mso-style-parent:reader;
+	mso-ansi-font-size:8.0pt;
+font-size:8.0pt;
+	mso-ascii-font-family:Arial,Helvetica,sans-serif;
+font-family:Arial,Helvetica,sans-serif;
+	mso-hansi-font-family:Arial,Helvetica,sans-serif;}
+
+.ru
+	{mso-style-name:ru;
+	mso-ascii-font-family:Arial,Helvetica,sans-serif;
+font-family:Arial,Helvetica,sans-serif;
+	mso-hansi-font-family:Arial,Helvetica,sans-serif;
+	COLOR:#660000;
+	font-style:italic;}
+p.si-deacon, li.si-deacon, div.si-deacon
+	{mso-style-name:si-deacon;
+	margin-top:5.0pt;
+	margin-right:.4in;
+	margin-bottom:5.0pt;
+	margin-left:.4in;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+font-size:10.0pt;
+	font-family:Arial,Helvetica,sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+font-family:"Times New Roman";
+	color:silver;
+	layout-grid-mode:line;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+font-style:normal;}
+p.si-deacon-label, li.si-deacon-label, div.si-deacon-label
+	{mso-style-name:si-deacon-label;
+	mso-style-parent:si-deacon;
+	margin-top:5.0pt;
+	margin-right:.4in;
+	margin-bottom:5.0pt;
+	margin-left:.4in;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+font-size:10.0pt;
+	font-family:Arial,Helvetica,sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+font-family:"Times New Roman";
+	color:silver;
+	layout-grid-mode:line;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+font-style:normal;}
+p.si-priest-label, li.si-priest-label, div.si-priest-label
+	{mso-style-name:si-priest-label;
+	mso-style-next:Normal;
+	margin-top:5.0pt;
+	margin-right:.4in;
+	margin-bottom:5.0pt;
+	margin-left:.4in;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+font-size:10.0pt;
+	font-family:Arial,Helvetica,sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+font-family:"Times New Roman";
+	color:gray;
+	layout-grid-mode:line;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+font-style:normal;}
+
+.svcsesshymn
+	{mso-style-name:"svc sess hymn";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	text-autospace:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:Garamond;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+.SDOA
+	{mso-style-name:SDOA;
+	margin-top:5.0pt;
+	margin-right:0in;
+	margin-bottom:5.0pt;
+	margin-left:0in;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	font-style:italic;}
+.SPS
+	{mso-style-name:SPS;
+	margin-top:5.0pt;
+	margin-right:.4in;
+	margin-bottom:5.0pt;
+	margin-left:.4in;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:gray;}
+.SDS
+	{mso-style-name:SDS;
+	mso-style-parent:SPS;
+	margin-top:5.0pt;
+	margin-right:.4in;
+	margin-bottom:5.0pt;
+	margin-left:.4in;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:silver;
+	font-style:italic;}
+.SDSL
+	{mso-style-name:SDSL;
+	mso-style-parent:SDS;
+	margin-top:5.0pt;
+	margin-right:.4in;
+	margin-bottom:5.0pt;
+	margin-left:.4in;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:14.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:silver;
+	font-weight:bold;
+	font-style:italic;}
+.SL
+	{
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:16.0pt;
+	font-family:Arial;
+	font-weight:bold;
+	}
+.SPA
+	{mso-style-name:SPA;
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+.SPAL
+	{mso-style-name:SPAL;
+	mso-style-parent:SPA;
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	font-style:italic;}
+.SPSL
+	{mso-style-name:SPSL;
+	mso-style-parent:SPS;
+	mso-style-next:SPS;
+	margin-top:5.0pt;
+	margin-right:.4in;
+	margin-bottom:5.0pt;
+	margin-left:.4in;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:14.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:gray;
+	font-weight:bold;
+	font-style:italic;}
+.SR
+	{mso-style-name:SR;
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-size:16.0pt;
+	font-family:Arial;
+	}
+.SRL
+	{mso-style-name:SRL;
+	mso-style-parent:SR;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-style:italic;}
+.SRU
+	{mso-style-name:SRU;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	COLOR:#660000;
+	font-style:italic;}
+.SRUL
+	{mso-style-name:SRUL;
+	mso-style-parent:"";
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	text-autospace:none;
+	font-size:16.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	COLOR:#660000;
+	font-weight:bold;
+	font-style:italic;}
+.SRUB
+	{
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-autospace:none;
+	font-size:16.0pt;
+	font-family:Arial;
+	COLOR:#660000;
+	font-weight:bold;
+	font-style:italic;}
+.SC
+	{mso-style-name:SC;
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:gray;}
+.SCL
+	{mso-style-name:SCL;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:gray;
+	font-weight:bold;
+	font-style:italic;}

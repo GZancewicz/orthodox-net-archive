@@ -1,0 +1,11 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI>Forefeast of the Nativity of Christ. ');
+document.writeln('<LI>Repose of Righteous John of Kronstadt ');
+document.writeln('<LI><A HREF="/menaion-december/20-hieromartyr-ignatius-the-god-bearer-bishop-of-antioch.html">Hieromartyr Ignatius the God bearer, Bishop of Antioch (also celebrated January 29) </A>');
+document.writeln('<BR><I>LITURGY: </I>Heb 4:14 5:6; Mk 9:33 41. ');
+document.writeln('<LI>St. Philogonius, Bishop of Antioch. ');
+document.writeln('<LI><A HREF="/menaion-december/20-st-danilo-archbishop-of-serbia.html">St. Daniel II, Archbishop of Serbia. </A>');
+document.writeln('<LI>St. Ignatius, archimandrite of the Kiev Caves. ');
+document.writeln('<LI>New Martyr John of the Isle of Thasos. ');
+document.writeln('<LI>Repose of Anthony, Archbishop of Voronezh and Zadonsk (1846), and Metropolitan Philaret of Kiev (Theodosius in schmea) (1857). ');
+document.writeln('</OL>');

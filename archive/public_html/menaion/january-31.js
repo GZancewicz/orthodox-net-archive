@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy wonderworkers and unmercenaries Cyrus and John. ');
+document.writeln('<LI>Martyrs Athanasia and her daughters Theoctiste, Theodotia and Eudoxia, at Canopus in Egypt. ');
+document.writeln('<LI>St. Nicetas of the Kiev Caves, Bishop of Novgorod. ');
+document.writeln('<LI>Martyrs Victorinus, Victor, Nicephorus, Claudius, Diodorus, Serapion, and Papias of Egypt. ');
+document.writeln('<LI>Martyr Tryphaenes at Cyzicus. ');
+document.writeln('<LI>St. Pachomius, abbot of Keno Monastery. ');
+document.writeln('<LI>New-Martyr Elias Ardunis of Mt. Athos. ');
+document.writeln('<LI>Repose of Elder Codratus of Karakallou Monastery, Mt. Athos. (1930). ');
+document.writeln('</OL>');

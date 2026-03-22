@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy Equal-to-the-Apostles Emperor Constantine and his mother Helen. ');
+document.writeln('<LI>St. Constantine and his children Saints Michael and Theodore, wonderworkers of Murom. ');
+document.writeln('<LI>St. Cassian the Greek, monk of Uglich. ');
+document.writeln('<LI>St. Agapitus, abbot of Markushev (Vologda). ');
+document.writeln('<LI>New-Martyr Pachomius of Patmos (Mt. Athos. . ');
+document.writeln('<LI>St. Basil, Bishop of Ryazan. ');
+document.writeln('<LI>St. Hospicius of Trier (Gaul). ');
+document.writeln('<LI>The Meeting of the "Vladimir" Icon of the Most Holy Theotokos. ');
+document.writeln('<LI>Repose of Elder Isaac of Dionisiou Monastery (Mt. Athos. (1932). ');
+document.writeln('</OL>');

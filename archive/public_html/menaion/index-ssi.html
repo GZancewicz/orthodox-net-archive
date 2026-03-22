@@ -1,0 +1,167 @@
+
+
+<a name='Russian_Orthodox_Christian_Menaion_Calendar_
+'></a> <!--GOOSE 817-->
+
+<h1>Russian Orthodox Christian Menaion Calendar </h1>
+
+
+<a name='Saints_commemorated,_Feasts<BR>Scripture_Readings,_links_to_lives_of_Saints,<BR>rubrics,_some_Greek_Calendar_entries
+'></a> <!--GOOSE 817-->
+
+<h2>Saints commemorated, Feasts<BR>Scripture Readings, links to lives of Saints,<BR>rubrics, some Greek Calendar entries</h2>
+
+<SCRIPT type="text/javascript">
+names = [ "January", "February", "March", "April", "May", "June"
+		,"July" ,"August", "September", "October", "November", "December","January" ];
+days  = [ 31,29,31,30,31,30,31,31,30,30,30,31,31 ];
+var s=location.search; 
+var jmonnum;
+var jmon; 
+var m;
+var day;
+var jstr;
+var gstr;
+var gday;
+if( s.length > 1 ) 
+{ 
+	jsfile	= s.substring(1) + ".html";
+	a		= s.substring(1).split("-");
+	jmon	= a[0].substring(0,1).toUpperCase() + a[0].substring(1);
+	m		= jmon.toLowerCase();
+	jmonnum	= 0; 
+	for( ; jmonnum < 12 && names[jmonnum] != jmon ; jmonnum++ ) 
+		;
+	var d=a[1];
+	if( d < 10 ) d=d.substring(1);
+	day= parseInt(d);
+	gstr	= " ";
+	today	= " ";
+	gday = day + 13;
+	if( gday > days[jmonnum] ) 
+	{ 
+		gday = 13 - days[jmonnum] + jmonnum;
+		gstr = names[jmonnum+1] + " " + gday;
+	}
+	else 
+		gstr = names[jmonnum] +  " " + gday;
+}	
+else 
+{
+	today	= "<" + "I>Today<" + "/I>";
+	g		= new Date(); 
+	var ms	= g.getTime(); //milliseconds
+	ms		= ms - ( 1000 * 3600 * 24 * 13 );
+	j		= new Date(ms);
+	jmonnum	= j.getMonth();
+	jmon	= names[jmonnum]; 
+	m		= jmon.toLowerCase();
+	day		= j.getDate(); 
+	if( jmon == names[g.getMonth()] )
+		gstr = g.getDate();
+	else 
+		gstr = names[g.getMonth()] + " " + g.getDate();
+}
+if( day < 10 ) d="0" + day; else d = day;
+jsfile	= m		+ "-" + d	+ ".js"; 
+jstr	= jmon	+ " " + day;
+var nextmon;
+var prevmon; 
+var nextday;
+var prevday; 
+var nextfile; 
+var prevfile;
+var d;
+nextday = day + 1;
+if( nextday > days[jmonnum] ) 
+{ 
+	nextday		= 1; 
+	nextmon		= names[jmonnum+1];
+	nextfile	= nextmon.toLowerCase() + "-01";
+}
+else
+{ 
+	if( nextday < 10 ) d = "0" + nextday; else d = nextday;
+	nextfile	= jmon.toLowerCase() + "-" + d; 
+}
+prevday = day - 1; 	
+var prevmonnum=jmonnum;
+if( prevday < 1 ) 
+{
+	prevmonnum--;
+	if( prevmonnum < 0 ) prevmonnum=11; 
+}
+if( prevday < 10 ) d = "0" + prevday; else d = prevday;
+prevfile = names[prevmonnum].toLowerCase() + "-" + d; 
+document.writeln(   "<" + "B>Commemorations " + today + ": " 
+				+ jstr 
+				+ "/" 
+				+ gstr 
+				+ "<" + "/B>" 
+			);
+document.writeln("<" + "SCR" + "IPT SRC='" + jsfile + "'><"
++ "/SCR" + "IPT" + ">" );
+</SCRIPT>
+<SCRIPT type="text/javascript">
+document.writeln( "<" + "P><" + "B><" + "I>Show:<" + "/I><" + "/B> <" + "A HREF=" + m + ".html>All of "
+				 + jmon + "<" + "/A>"
+ 				 + "&nbsp;&nbsp;&nbsp;" 
+				 + "<" + "A HREF='index.html?" 
+					+ prevfile + "'>Previous Day<" + "/A>"
+				 + "&nbsp;&nbsp;&nbsp;" 
+				 + "<" + "A HREF='index.html?" 
+					+ nextfile + "'>Next Day<" + "/A>"
+				 );
+</SCRIPT>
+<p>
+<HR>
+
+<p>
+This calendar is created from the raw text derived from the calendar at http://www.pomog.org. It is a general resource, and is not meant to specify the exact commemorations in a particular year, and does not include the paschal cycle observance. 
+
+<p>
+<i>For a particular month and day:</i>
+<ul>
+
+<li>the Saints commemorated and Menaion Feasts observed with links for further information,</li>
+<li>Scripture Readings Liturgy, Vespers, and Matins (if applicable)</li>
+<li>as well as simple rubrics</li>
+<li>and some Greek Calendar entries</li>
+</ul>
+
+<i>all may be seen at a glance.</i>
+
+<p>
+I have massaged the data into a database which can be added to very easily. A single program recreates all the Menaion pages, with absolutely NO editing of any kind. The first draft of the automated Menaion database was finished in about six hours. The ROCOR <A HREF="../directory/index.html">Parish</A>, <A HREF="../directory/clergy.html">Clergy</A> and <A 
+HREF="../directory/clergyemail.html">Clergy E-Mail</A> directories, and  <A HREF="../links/index.html">Comprehensive Topical Orthodox Links</A>, as well as other pages on the St Nicholas web site are also created automatically, with no hand editing of HTML, from easy to update database.  The databases can be updated by someone with moderate typing skills (like me!), and require no HTML knowledge. 
+
+<p>
+As I have time I intend to add to the calendar  the following: 
+<ul>
+
+<li>Links to all known information about a Saint or Feast. </li>
+<li>All Scripture Readings References for a Feast, with a link  to the actual readings.</li>
+<li>Additional rubrics or links to rubrics</li>
+<li>The Gregorian (Civil) Calendar Date. </li>
+<li>More things, as I think of them.</li>
+</ul>
+
+
+<p>
+<HR>
+
+<p>
+If you know of links that can be added to the Menaion, please <A HREF="MAILTO:seraphim@orthodox.net">send me a note</A> with the Date of the Commemoration, the Saint or Feast, and the URLs of all the links, preferably with the title of the Page. If we utilize the Internet community, we will have an incredibly useful reference, in a short time. 
+
+<p>
+<HR>
+
+<p>
+I am an expert at manipulating data, in relational databases, spreadsheets, or other text form, and creating World Wide Web Content and applications automatically. I currently have a full time software job. I want to support my family using my programming skills, (which include HTML, JavaScript, C, Perl, Tcl, and SQL) at home in order to devote more time to my pastoral work.  If you have data which you want to get on the web, or other ideas, and need programming expertise, please contact me, so we can discuss your needs. 
+
+<p>
+Priest Seraphim Holland 
+<BR>E-Mail: <A HREF="MAILTO:seraphim@orthodox.net">seraphim@orthodox.net</A>
+<BR>Office: 972 519-4909
+<BR>Home: 972 529-2754
+<BR>Address: 2102 Summit Dr., McKinney, TX 75071

@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-april/08-the-holy-apostles-herodian.html">Holy Apostles of the Seventy: Herodion, Agabus, Asyncritus, Rufus, Phlegon, Hermes, and those with them. </A>');
+document.writeln('<LI><A HREF="/menaion-april/08-saint-celestine.html">St. Celestine, pope of Rome. </A>');
+document.writeln('<LI>Martyr Pausilippus of Heraclea in Thrace. ');
+document.writeln('<LI><A HREF="/menaion-april/08-saint-niphon.html">St. Niphont, Bishop of Novgorod. </A>');
+document.writeln('<LI>St. Rufus the Obedient of the Kiev Caves. ');
+document.writeln('<LI>New-Martyr John Naukliros ("the Skipper") in Thessaly. ');
+document.writeln('<LI>Iberian ("Spanish") Icon of the Most Holy Theotokos. ');
+document.writeln('<LI>Repose of Righteous Helen Voronova, disciple of Elder Barsanuphius of Optina (1916). ');
+document.writeln('</OL>');

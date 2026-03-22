@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Synaxis of the Holy Archangel Gabriel ');
+document.writeln('<BR><I>LITURGY: </I>Heb 2:2-10; Lk 10:16-21. ');
+document.writeln('<LI>St. Stephen of St. Sabbas' Monastery. ');
+document.writeln('<LI>Martyr Serapion. ');
+document.writeln('<LI>Martyr Marcian of Iconium. ');
+document.writeln('<LI>St. Julian, Bishop of Cenomanis (LeMans) in Gaul. ');
+document.writeln('<LI>Virgin Abbess Sarah of Scete in Libya. ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Axion Estin" ("it is Truly Meet"). ');
+document.writeln('</OL>');

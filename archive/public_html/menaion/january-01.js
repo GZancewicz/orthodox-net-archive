@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>The Circumcision of Our Lord Jesus Christ');
+document.writeln('<LI>St. Basil the Great, Archbishop of Caesaria in Cappadocia. ');
+document.writeln('<LI>Martyr Basil of Ancyra. ');
+document.writeln('<LI>St. Fulgentius, Bishop of Ruspe in North Africa. ');
+document.writeln('<LI>Martyr Theodotus. ');
+document.writeln('<LI>St. Gregory, Bishop of Nazianzus and father of St. Gregory the Theologian. ');
+document.writeln('<LI>St. Theodosius of Tryglia, abbot. ');
+document.writeln('<LI>New-martyr Peter of the Peloponnesus. ');
+document.writeln('<LI>New-Martyr Bishop Platon of Revel, Estonia, and with him priests Michael and Nicholas (1919). ');
+document.writeln('</OL>');

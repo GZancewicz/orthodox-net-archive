@@ -1,0 +1,17 @@
+document.writeln('<OL>');
+document.writeln('<LI>Hieromartyr Phocas, Bishop of Sinope ');
+document.writeln('<BR><I>LITURGY: </I>Heb 4:14-5:6; John 10:9-16');
+document.writeln('<LI>Prophet Jonah ');
+document.writeln('<LI><A HREF="/menaion-september/22-holy-martyr-phocas-the-gardener.html">Martyr Phocas the Gardener of Sinope. </A>');
+document.writeln('<LI><A HREF="/menaion-september/22-holy-priest-jonah.html">St. Jonah the Presbyter</A>');
+document.writeln('<BR>father of St. Theophanes the Hymnographer and St. Theodore Graptus. ');
+document.writeln('<LI><A HREF="/menaion-september/22-st-peter-the-merciful.html">St. Peter the Tax collector. </A>');
+document.writeln('<LI>St. Jonah, abbot of Yashezersk. ');
+document.writeln('<LI>The 26 Martyrs of Zographou Monastery on Mt. Athos. martyred by the Latins');
+document.writeln('<BR>(See October 10). ');
+document.writeln('<LI><A HREF="/menaion-september/22-our-holy-father-cosmas-of-zographou.html">St. Cosmas of Zographou. </A>');
+document.writeln('<LI>Martyrs Isaac and Martin. ');
+document.writeln('<LI>St. Macarius, abbot of Zhabyn. ');
+document.writeln('<LI>St. Theophanes the Silent, recluse of the Kiev Caves. ');
+document.writeln('<LI>Repose of Abbot Innocent of Valaam (1828)');
+document.writeln('</OL>');

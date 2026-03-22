@@ -1,0 +1,13 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI>Nativity Fast.; Fish, wine & oil allowed. ');
+document.writeln('<LI>Holy Apostle and Evangelist Matthew ');
+document.writeln('<BR><I>Readings</I>');
+document.writeln('<LI><I>VESPERS: </I>(1) I Pet 1:1 2:6; (2) I Pet 2:21 3:9; (3) I Pet 4:1 11. ');
+document.writeln('<LI><I>MATINS: </I> Jn 21:15 25. ');
+document.writeln('<LI><I>LITURGY: </I> I Cor 4:9 16; Matt 9:9 13. ');
+document.writeln('</UL>');
+document.writeln('<LI>St. Fulvianus, prince of Ethiopia, in holy baptism Matthew. ');
+document.writeln('<LI>St. Sergius, abbot of Malopinega. ');
+document.writeln('<LI>Repose of Schemamonk John the Fingerless, disciple of St. Paisius Velichkovsky (1843); ');
+document.writeln('<LI>New Hieromartyr Philoumenos of Jacob's Well, by the Jews. ');
+document.writeln('</OL>');

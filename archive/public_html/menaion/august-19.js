@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>September 1. ');
+document.writeln('<LI>Afterfeast of the Dormition. ');
+document.writeln('<LI>Martyr Andrew Stratelates and 2,593 soldiers with him in Cilicia ');
+document.writeln('<BR><I>LITURGY: </I>Eph 6:10-17; Lk 21:12-19. ');
+document.writeln('<LI>Martyrs Timothy, Agapius and Thecla of Palestine. ');
+document.writeln('<LI>St. Pitirim, Bishop of Perm. ');
+document.writeln('<LI>Opening of the Relics of St. Gennadius, abbot of Kostroma. ');
+document.writeln('<LI>St. Theophanes, new Wonderworker of Macedonia (Mt. Athos. . ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Of the Don". ');
+document.writeln('</OL>');

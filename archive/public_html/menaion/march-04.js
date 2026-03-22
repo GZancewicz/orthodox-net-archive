@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Gerasimus of the Jordan. ');
+document.writeln('<LI>Martyrs Paul, his sister Juliana, and Quadratus, Acacius, and Stratonicus, at Ptolemais in Syria. ');
+document.writeln('<LI>St. Gregory, Bishop of Constantius in Cyprus. ');
+document.writeln('<LI>St. James the Faster of Phoenicia (Syria). ');
+document.writeln('<LI>St. Daniel, prince of Moscow. ');
+document.writeln('<LI>Martyr Wenceslaus, prince of the Czechs. ');
+document.writeln('<LI>Blessed Basil (Basilko), prince of Rostov. ');
+document.writeln('<LI>St. Gregory, Bishop of Assa near Ephesus. ');
+document.writeln('<LI>St. Gerasimus, monk of Vologda. ');
+document.writeln('<LI>Saints of Pskov martyred by the Latins. ');
+document.writeln('<LI>Saints Ioasaph of Snetogorsk and Basil of Mirozh monasteries. ');
+document.writeln('<LI>Repose of Schemamonk Mark of Glinsk Hermitage (1893). ');
+document.writeln('</OL>');

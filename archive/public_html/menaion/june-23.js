@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyr Agrippina of Rome. ');
+document.writeln('<LI>Martyrs Eustochius, Gaius, Probus, Lollius, and Urban of Ancyra. ');
+document.writeln('<LI>Righteous Youth Artemius of Verkolsk. ');
+document.writeln('<LI>Saints Joseph, Anthony and Ioannicius, abbots of Vologda. ');
+document.writeln('<LI>Tr. rel St. Herman (Germanus), Archbishop of Kazan. ');
+document.writeln('<LI>Translation of the Relics of St. Michael of Klops Monastery, fool-for-Christ. ');
+document.writeln('<LI>New-Martyr Maxim, Bishop of Serphukhov (1931). ');
+document.writeln('<LI>New-Martyr Archbishop Metrophan of Astrakhan, and Bishop Leonty of Enotaevsa, and those with them. ');
+document.writeln('<LI>The Meeting of the Vladimir Icon of the Most Holy Theotokos. ');
+document.writeln('<LI>Repose of Schemamonk Zosimas of Solovki (1855). ');
+document.writeln('</OL>');

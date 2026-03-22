@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>March 3 Apostles Archippus and Philemon of the Seventy, and Martyr Apphia. ');
+document.writeln('<LI>St. Dositheus of Palestine, disciple of St. Abba Dorotheus. ');
+document.writeln('<LI>St. Rabulas of Samosata. ');
+document.writeln('<LI>Saints Eugene and Macarius, presbyters, confessors at Antioch. ');
+document.writeln('<LI>Martyrs Maximus, Theodotus, Hesychius, and Asclepiodota of Adrianopolis. ');
+document.writeln('<LI>St. Conon, abbot in Palestine. ');
+document.writeln('<LI>St. Philothea, nun of Athens. ');
+document.writeln('<LI>New Hieromartyr Nicetas of Epirus. ');
+document.writeln('<LI>Repose of Hieromonk Theodore of Sanaxar Monastery (1791). ');
+document.writeln('</OL>');

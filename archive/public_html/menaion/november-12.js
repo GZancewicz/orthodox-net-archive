@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. John the Merciful, Patriarch of Alexandria. ');
+document.writeln('<LI>St. Nilus the Faster of Sinai. ');
+document.writeln('<LI>Prophet Ahijah (Achias) (I Kgs 11:29). ');
+document.writeln('<LI>Blessed John "the Hairy", fool for Christ at Rostov. ');
+document.writeln('<LI>St. Leon, Patriarch of Constantinople. ');
+document.writeln('<LI>New Martyr Sabbas Nigdelinus of Constantinople. ');
+document.writeln('<LI>New Martyr Nicholas of Constantinople. ');
+document.writeln('<LI>St. Nilus the Myrrh gusher of Mt. Athos. ');
+document.writeln('<LI>Synaxis of New Martyr of Optina: Anatole, Barnabas, Dositheus, Nektary, Nikon, Panteleimon, and Vincent. ');
+document.writeln('<LI>Repose of Righteous Cosmas of Birsk (1882) and Fr. ');
+document.writeln('<LI>Hilarion of Valaam and Sarov (1841). ');
+document.writeln('<LI>Commemoration of the Righteous monks and laymen buried at Optina Monastery. ');
+document.writeln('</OL>');

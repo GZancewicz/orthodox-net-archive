@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Theophany. ');
+document.writeln('<LI>Martyrs Hermylus and Stratonicus at Belgrade. ');
+document.writeln('<LI>Martyr Peter of Anium, at Hierapolis. ');
+document.writeln('<LI>St. James, Bishop of Nisibis. ');
+document.writeln('<LI>Martyr Athanasius. ');
+document.writeln('<LI>Martyrs Pachomius and Papyrinus in Greece. ');
+document.writeln('<LI>St. Maximus of Kavsokalyvia Skete on Mt. Athos. ');
+document.writeln('<LI>St. Irinarch of Rostov. ');
+document.writeln('<LI>St. Eleazar of Anzersk Island at Solovki. ');
+document.writeln('<LI>St. Hilary, Bishop of Poitiers. ');
+document.writeln('</OL>');

@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-december/26-commemoration-of-the-flight-into-egypt.html">Second Day of the Feast of the Nativity.</A>');
+document.writeln('<LI><A HREF="/menaion-december/26-general-commemoration-of-the-most-holy-mother-of-god.html">Synaxis of the Most Holy Theotokos </A>');
+document.writeln('<BR><I>LITURGY: </I>Heb 2:11 19; Matt 2:13 23');
+document.writeln('<LI><A HREF="/menaion-december/26-st-euthymius-the-confessor-bishop-of-sardis.html">Hieromartyr Euthymius, Bishop of Sardis.</A>');
+document.writeln('<LI><A HREF="/menaion-december/26-our-holy-father-evarestus.html">St. Evaristus of the Studion Monastery.</A>');
+document.writeln('<LI><A HREF="/menaion-december/26-our-holy-father-constantine-of-synnada.html">St. Constantine, monk of Synnada.</A>');
+document.writeln('<LI>New Hieromartyr Constantius the Russian, at Constantinople.');
+document.writeln('<LI>St. Nicodemus the Serbian.');
+document.writeln('<LI>New Hieromartyr Andrew, Bishop of Ufa (1937).');
+document.writeln('<LI>New Martyr Valentina (1937).');
+document.writeln('<LI>Repose of Abbot Barlaam of Vallam (1849).');
+document.writeln('</OL>');

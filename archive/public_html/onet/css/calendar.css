@@ -1,0 +1,28 @@
+/* Hijacking Holy Trinity's style definitions */
+
+p.pdataheader span.dataheader {
+    font-size: 120%;
+}
+
+span.normaltext {
+    margin-bottom: 20px;
+    font-size: 90%;
+    display: block;  /* This makes the span behave like a block-level element so that the margin is applied. */
+}
+
+p.pscriptureheader {
+    margin-bottom: 0;
+}
+
+p.pscriptureheader + span.normaltext {
+    margin-top: 0;
+    font-size: 90%;
+}
+
+p.ptroparionheader + span.normaltext {
+    margin-top: 0;
+    font-size: 90%;
+}
+
+
+

@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Holy and Righteous Symeon the God-receiver and Anna the Prophetess ');
+document.writeln('<LI>Prophet Azarias Martyrs Adrian and Eubulus at Caesaria in Cappadocia. ');
+document.writeln('<LI>St. Symeon, first Bishop of Tver. ');
+document.writeln('<LI>St. Ansgar, Bishop of Hamburg, enlightener of Denmark and Sweden. ');
+document.writeln('<LI>St. Romanus, prince of Uglich. ');
+document.writeln('<LI>New-Martyrs Stamatius and John, brothers, and Nicholas, their companion. ');
+document.writeln('<LI>St. James, Archbishop of Serbia. ');
+document.writeln('<LI>Nicholas, Archbishop of Japan; Repose of Schemamonk Paul of Simonov Monastery, disciple of St. Paisius Velichkovsky (1825), and Hieromonk Isidore of Gethsemane Skete, Moscow (1908). ');
+document.writeln('</OL>');

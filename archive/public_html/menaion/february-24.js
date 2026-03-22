@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>First and Second Finding of the Precious Head of St. John the Baptist ');
+document.writeln('<BR><I>Readings</I>');
+document.writeln('<LI><I>VESPERS: </I>(1) Is 40:1-3, 9; 41:17-18; 45:8; 48:20-21; 54:1; (2) Malachi 3:1-3, 5-7, 12, 18; 4:4-6; (3) Wis 4:7, 16-17, 19-20; 5:1-7. ');
+document.writeln('<LI><I>MATINS: </I> Lk 7:17-30. ');
+document.writeln('<LI><I>LITURGY: </I> II Cor 4:6-12; Matt 11:2-15. ');
+document.writeln('</UL>');
+document.writeln('<LI>St. Erasmus of the Kiev Caves. ');
+document.writeln('<LI>Opening of the Relics of St. Romanus, prince of Uglich. ');
+document.writeln('</OL>');

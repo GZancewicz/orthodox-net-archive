@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Commemoration of the Apparition of the Sign of the Precious Cross over Jerusalem in 351 A.D. ');
+document.writeln('<BR><I>LITURGY: </I>I Cor 1:18-24; Jn 19:6-11, 13-20, 25-28, 30-35. ');
+document.writeln('<LI>Martyr Acacius the centurion at Byzantium. ');
+document.writeln('<LI>Repose of of St. Nilus, abbot of Sora. ');
+document.writeln('<LI>St. John of Zaden in Georgia, and 12 disciples: Saints Shio, David, Anthony, Thaddeus, Stephen, Isidore, Michael, Pyrrhus, Zeno, Jesse, Joseph, and Abibus. ');
+document.writeln('<LI>New-Martyr Pachomius of Patmos. ');
+document.writeln('<LI>Opening of the Relics of St. Nilus the Myrrh-gusher of Mt. Athos. ');
+document.writeln('<LI>"Zhirovits" Icon of the Most Holy Theotokos. ');
+document.writeln('<LI>Repose of Hieromonk Eulogius of Valaam (1969). ');
+document.writeln('</OL>');

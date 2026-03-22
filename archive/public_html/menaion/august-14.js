@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Forefeast of the Dormition. ');
+document.writeln('<LI>Prophet Micah. ');
+document.writeln('<LI>Translation of the Relics of St. Theodosius of the Kiev Caves. ');
+document.writeln('<LI>Hieromartyr Marcellus, Bishop of Apamea. ');
+document.writeln('<LI>St. Arcadius, monk of Novotorzhk. ');
+document.writeln('<LI>Martyr Ursicius at Nicomedia. ');
+document.writeln('<LI>New-Martyr Simeon of Trebizond. ');
+document.writeln('<LI>Greek Calendar: Martyr Luke the Soldier. ');
+document.writeln('<LI>Commemoration of the disciples of St. Tikhon of Zadonsk: Monks Theophanes, Aaron, Nicander, Cosmas and Metrophanes. ');
+document.writeln('</OL>');

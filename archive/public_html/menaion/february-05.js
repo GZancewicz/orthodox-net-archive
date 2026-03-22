@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyr Agatha of Palermo in Sicily. ');
+document.writeln('<LI>Martyr Theodula of Anazarbus in Cilicia, and with her Martyrs Helladius, Macarius, and Evagrius. ');
+document.writeln('<LI>St. Polyeuctus, Patriarch of Constantinople. ');
+document.writeln('<LI>St. Theodosius, Archbishop of Chernigov. ');
+document.writeln('<LI>New-Martyr Anthony of Athens. ');
+document.writeln('<LI>New-Martyr Matushka Agatha of Belo-Russia (1938)');
+document.writeln('<LI>New-Martyr Schemamonk Eugene (1939)');
+document.writeln('<LI>New-Martyr Righteous Paramon (1941). ');
+document.writeln('<LI>Icon of the Most Holy Theotokos "Seeking Out of the Lost". ');
+document.writeln('<LI>Repose of RighteousMichael, Metropolitan of Serbia (1897). ');
+document.writeln('</OL>');

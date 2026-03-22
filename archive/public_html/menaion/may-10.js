@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Apostle Simon Zelotes. ');
+document.writeln('<LI>St. Isidore the Fool of Tabenna in Egypt. ');
+document.writeln('<LI>Blessed Thais (Taisia) of Egypt. ');
+document.writeln('<LI>Martyr Hesychius of Antioch. ');
+document.writeln('<LI>Martyrs Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others in Sicily. ');
+document.writeln('<LI>St. Laurence, monk of Egypt. ');
+document.writeln('<LI>Blessed Simon of Yurievits, fool-for-Christ. ');
+document.writeln('<LI>Translation of the Relics of Blessed Martyr Basil of Mangazea in Siberia. ');
+document.writeln('<LI>Repose of Blessed Synesius of Irkutsk, friend of St. Sophronius (1787), and Eldress Thais (Taisia) of Voronezh (1840). ');
+document.writeln('</OL>');

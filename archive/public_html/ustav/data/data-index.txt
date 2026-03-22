@@ -1,0 +1,63 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|the-cell-rule-of-five-hundred-of-the-optina-monastery|The Cell Rule of Five Hundred of the Optina Monastery||||||||||||||||||||||||||||||
+002|seven-bow-beginning|The Seven Bow Beginning|||||||||||||||||Before any rule of private prayer |||||||||||||
+003|lectionary-for-the-kellia|Lectionary for the Kellia||||||||||||||||||||||||||||||
+004|pravilo-rule-for-communion-for-the-unlettered|Pravilo (Rule for preparation for communion) for the unlettered||||||||||||||||||||||||||||||
+005|read-bible-in-a-year|Read the Bible in a Year |||||||||||||||||By reading one chapter a day out of each of 8 sections of the Bible. |||||||||||||
+006|index|Current Julian Calendar |||||||||||||||||PDF Format |||||||||||||
+007|index|S. V. Bulgakov, Handbook for Church Servers|||||||||||||||||Translated by  Fr. Eugene Tarris Offsite |||||||||||||
+008|index|Great Lent materials (including the typicon)||||||||||||||||||||||||||||||
+009|index|Pascha materials (including the typicon)||||||||||||||||||||||||||||||
+010|calendar|Dates of Great Lent and Pascha through 2010||||||||||||||||||||||||||||||
+011|bulgakov-preparation-for-great-lent|Preparation for Great Lent||||||||||||||||||||||||||||||
+012|bulgakov-sunday-prodigal-son|Sunday of the Prodigal Son||||||||||||||||||||||||||||||
+013|bulgakov-meatfare-week|Meatfare Week, Meatfare Saturday and the Commemoration of the Departed||||||||||||||||||||||||||||||
+014|bulgakov-meatfare-sunday|Sunday of Meatfare or of the Last Judgment||||||||||||||||||||||||||||||
+015|bulgakov-cheesfare-saturday|Saturday before Cheesefare|||||||||||||||||Commemoration of the Ascetics |||||||||||||
+016|bulgakov-cheesfare-sunday|Cheesefare Sunday||||||||||||||||||||||||||||||
+017|bulgakov-second-week-great-lent|The Second Week of Great Lent||||||||||||||||||||||||||||||
+018|bulgakov-fourth-week-great-lent|The Fourth Week of Great Lent||||||||||||||||||||||||||||||
+019|bulgakov-pentecost|Russian Orthodox Typicon Notes &amp; Explanation for Pentecost from the Bulgakov Handbook||||||||||||||||||||||||||||||
+020|instructions-to-readers|INSTRUCTION TO THE CANTOR [1] ON HOW TO READ IN CHURCH|||||||||||||||||Compiled in accordance with the teaching of the holy fathers and ascetics, according to the directions of the church Typicon and on the basis of the Russian Orthodox Church's centuries-old experience in the divine services.  |||||||||||||
+021|readers-services-by-ab-averky|Comments on Reader Services by Archbishop Averky, of blessed memory||||||||||||||||||||||||||||||
+022|vestment-colors|Vestment Colors: From the Russian Church's Nastol'naya Kniga Sviashchenno-sluzhitelia||||||||||||||||||||||||||||||
+023|liturgics-ab-laurus|The Significance Of The Practical Study Of Liturgics||||||||||||||||||||||||||||||
+024|bulgakov-deacon|Concerning the Office of Deacon in the Russian Orthodox Church - from the Bulgakov Handbook.||||||||||||||||||||||||||||||
+025|fasting-rules|Fasting Rules on the Nativity|||||||||||||||||(with a translation from the Typicon) |||||||||||||
+026|nativity-fast|Nativity Fasting Typicon|||||||||||||||||A Translation from the typicon and other reference material |||||||||||||
+027|fastrule|About Fasting||||||||||||||||||||||||||||||
+028|fasting-and-oil|Fasting and &quot;Oil&quot; days||||||||||||||||||||||||||||||
+029|apostles-fast-skipping|The Apostles Fast - is it ever skipped by those using the New Calendar or Old Calendar?||||||||||||||||||||||||||||||
+030|great-lent-fasting-typicon-orthodox-western-rite|Great Lent Fasting Typicon according to the Orthodox Western Rite||||||||||||||||||||||||||||||
+031|real-all-night-vigil|Description of a &quot;Real&quot; All Night vigil|||||||||||||||||In Russia - 1911 |||||||||||||
+032|monk-serving-vigil|When a monk serves vigil ...||||||||||||||||||||||||||||||
+033|when-is-vespers-kathisma-omitted|What considerations govern the omission of the first Vespers kathisma on vigils of certain Great Feasts: &quot;Blazhen myzh ne poyetsya&quot;? ||||||||||||||||||||||||||||||
+034|candles-six-psalms|Extinguishing Candles during the Six Psalms||||||||||||||||||||||||||||||
+035|six-psalms-in-the-altar|In the altar during the Six Psalms||||||||||||||||||||||||||||||
+036|abbr-sun-kathisma|St John Maximovitch's Abbreviated method for reading the Sunday kathismas at Matins in parishes||||||||||||||||||||||||||||||
+037|inaudible-prayers|Concerning the inaudible prayers at the divine liturgy antiphons|||||||||||||||||by Protopresbyter Valery Lukianov |||||||||||||
+038|scripture-readings|How was it decided what scripture we should read each day?||||||||||||||||||||||||||||||
+039|lectionary-explained|An Examination of how the Gospel and Apostolos Lectionary is used throughout the year||||||||||||||||||||||||||||||
+040|how-to-read-epistle|How to read the Epistle in the Divine Liturgy|||||||||||||||||Full rubrics, from the Slavonic Apostolos |||||||||||||
+041|lectionary-for-the-kellia|Lectionary for the Kellia||||||||||||||||||||||||||||||
+042|abbr-sun-kathisma|St John Maximovitch's Abbreviated method for reading the Sunday kathismas at Matins in parishes||||||||||||||||||||||||||||||
+043|resurrectional-gospels-during-the-pentecostarion|Why is the Bright Tue liturgy reading Luke 24:12-35, and not from John?||||||||||||||||||||||||||||||
+044|index|Current Julian Calendar |||||||||||||||||PDF Format |||||||||||||
+045|commemoration-dead-orthodox-church|Commemoration of the Dead in the Orthodox Church |||||||||||||||||Traditional days of remembrance |||||||||||||
+046|rank-of-feasts|Concerning the service rank of feasts and commemorations in the Russian tradition||||||||||||||||||||||||||||||
+047|canon-refrains|Refrains for Reading Canons||||||||||||||||||||||||||||||
+048|akathist-rubrics|Akathist rubrics - Eastern and Russian Orthodox Typicon (Ustav)||||||||||||||||||||||||||||||
+049|order-for-reading-canons|The Order for reading Canons and Akathists When alone||||||||||||||||||||||||||||||
+050|odssupptext|The Order Of Divine Services Supplementary Texts|||||||||||||||||Additions to the Order of Divine Services published by St John of Kronstadt Press<BR>This is a large PDF File with Two sections:<BR>Supplement 1 - Lenten Services during the Lesser Fasts<BR>Supplement 2 - The Saturday Requiem Service |||||||||||||
+051|pronoun_paradigms|Thou, Thee, and Archaic Grammar|||||||||||||||||by A. Davies, R. Lipton, D. Richoux et al. Offsite |||||||||||||
+052|archaic-grammar|Archaic English Grammar|||||||||||||||||Offsite |||||||||||||
+053|shak.gram|A Note on Shakespeare's Grammar|||||||||||||||||Offsite |||||||||||||
+054|lukan-jump|The Lukan Jump|||||||||||||||||Several Explanations |||||||||||||
+055|thee-thou-apologia|A Strong reason for Traditional Liturgical Language - Theological precision!||||||||||||||||||||||||||||||
+056|paraclesis-service-explained|The Paraclesis Service to the Theotokos or another Saint||||||||||||||||||||||||||||||
+057|presanctified-curtain|Presanctified Liturgy question - Why is the curtain left half open? ||||||||||||||||||||||||||||||
+058|reader|Thoughts about the office of Reader in the Orthodox Church||||||||||||||||||||||||||||||
+059|a-jordanville-seminary-education|The benefits of a Theological Education at Holy Trinity Orthodox Seminary||||||||||||||||||||||||||||||

@@ -1,0 +1,170 @@
+// Get the containers
+const articleContainer = document.querySelector('#article-content');
+const titleContainer = document.querySelector('#article-title');
+
+// Define pageContent
+const pageContent = document.getElementById('page-content');
+
+// Debugging: Log the pageContent
+console.log('Page content element:', pageContent);
+
+// Load the articles when the document is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    fetch(`${CONFIG.FLASK_BACKEND_URL}/onet_article_data`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(response => {
+            // Filter out posts with the tag 'parish_life'
+            const filteredPosts = response.filter(article =>
+                !article.tags.includes('parish_life') && !article.tags.includes('motd')
+            );
+
+            // Helper function to extract the onet_n value from the tags
+            const getOnetTagValue = (tags) => {
+                for (let tag of tags) {
+                    const match = tag.match(/^onet_(\d+)$/);
+                    if (match) {
+                        return parseInt(match[1], 10);
+                    }
+                }
+                return null;
+            };
+
+            // Sort the filtered response
+            filteredPosts.sort((a, b) => {
+                const aOnetValue = getOnetTagValue(a.tags);
+                const bOnetValue = getOnetTagValue(b.tags);
+
+                if (aOnetValue !== null && bOnetValue !== null) {
+                    return bOnetValue - aOnetValue; // Descending order for onet_n tags
+                } else if (aOnetValue !== null) {
+                    return -1;
+                } else if (bOnetValue !== null) {
+                    return 1;
+                } else {
+                    return new Date(b.posted_at) - new Date(a.posted_at); // Descending order for posted_at
+                }
+            });
+
+            // Limit to 10 most recent posts
+            const recentPosts = filteredPosts.slice(0, 10);
+
+            // Create a table to hold the titles and dates
+            const table = document.createElement('table');
+            table.style.width = '100%'; // Optional: Set table width
+            table.style.borderCollapse = 'collapse'; // Optional: Remove space between table cells
+
+            recentPosts.forEach(article => {
+                // Create a table row for each article
+                const row = document.createElement('tr');
+
+                // Create a cell for the posted_at date
+                const dateCell = document.createElement('td');
+                dateCell.textContent = new Date(article.posted_at).toLocaleDateString(); // Format the date as needed
+                dateCell.style.padding = '8px'; // Optional: Add padding
+                dateCell.style.textAlign = 'left'; // Left justify content
+
+                // Create a cell for the title
+                const titleCell = document.createElement('td');
+                const link = document.createElement('a');
+                link.textContent = article.title;
+                console.log(article.url);
+                // link.href = `/blog_post.html?id=${article.id}`; // Assuming you want to pass the article ID as a query parameter
+                link_url = article.url.replace('https://orthodox-net.ghost.io', '');
+
+                // Remove the leading and trailing slashes
+                link_url = link_url.replace(/^\/|\/$/g, '');
+
+                // Log the result to verify
+                console.log(link_url);
+                // link.href = `/blog_post.html?${link_url}&id=${article.id}`; // Assuming you want to pass the article ID as a query parameter
+                // link.href = `/post.html?${link_url}&id=${article.id}`; // Assuming you want to pass the article ID as a query parameter
+                link.href = `/posts/${link_url}`;
+                link.style.textDecoration = 'none'; // Optional: Remove underline if needed
+                titleCell.appendChild(link);
+                titleCell.style.padding = '8px'; // Optional: Add padding
+                titleCell.style.textAlign = 'left'; // Left justify content
+
+                // Append cells to the row
+                row.appendChild(dateCell);
+                row.appendChild(titleCell);
+
+                // Append the row to the table
+                table.appendChild(row);
+            });
+
+            // Add "All Posts ..." link
+            const moreRow = document.createElement('tr');
+            const emptyCell = document.createElement('td');
+            const moreCell = document.createElement('td');
+            const moreLink = document.createElement('a');
+            moreLink.textContent = 'All Posts ...';
+            moreLink.href = '/all_posts.html';
+            moreLink.style.textDecoration = 'none'; // Optional: Remove underline if needed
+            moreLink.style.fontSize = '120%'; // Increase font size by 20%
+            moreCell.appendChild(moreLink);
+            moreCell.style.padding = '8px'; // Optional: Add padding
+            moreCell.style.textAlign = 'left'; // Left justify content
+
+            moreRow.appendChild(emptyCell);
+            moreRow.appendChild(moreCell);
+            table.appendChild(moreRow);
+
+            // Clear any previous content and add the new table of titles
+            titleContainer.innerHTML = '';
+            articleContainer.innerHTML = '';
+            articleContainer.appendChild(table);
+
+            // Debugging: Log the response data
+            console.log('Fetched articles:', response);
+
+            // Create a container for the latest posts section
+            const latestPostsSection = document.createElement('section');
+            latestPostsSection.className = 'section section-main';
+
+            // Create a container div for styling
+            const containerDiv = document.createElement('div');
+            containerDiv.className = 'container';
+
+            // Add a title for the section
+            const sectionTitle = document.createElement('h5');
+            sectionTitle.textContent = 'Latest Posts';
+            sectionTitle.style.textAlign = 'center';
+            containerDiv.appendChild(sectionTitle);
+
+            // Append title and article containers to the container div
+            containerDiv.appendChild(titleContainer);
+            containerDiv.appendChild(articleContainer);
+
+            // Append the container div to the latest posts section
+            latestPostsSection.appendChild(containerDiv);
+
+            // Debugging: Log the constructed section
+            console.log('Constructed Latest Posts section:', latestPostsSection);
+
+            // Find the address section
+            const addressSection = document.getElementById('address-section');
+
+            // Insert the new section before the address section
+            if (pageContent && addressSection) {
+                pageContent.insertBefore(latestPostsSection, addressSection);
+                console.log('Latest Posts section inserted successfully before address section.');
+            } else {
+                console.log('Page content div or address section not found.');
+            }
+
+            // Ensure data is being appended
+            if (response.length > 0) {
+                console.log('Articles found:', response.length);
+            } else {
+                console.log('No articles found.');
+            }
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error.message);
+        });
+});

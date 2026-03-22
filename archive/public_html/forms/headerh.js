@@ -1,0 +1,2 @@
+document.write("<a href='../index.html'><img align=left src='../sns.jpg' alt='St  Nicholas Russian Orthodox Church, McKinney (Dallas area) TX offers sermons, services, theology catechesis, directories and a lot more. Click here.' height=82 width=59 border=0></A> <b>St Nicholas Russian Orthodox Church, McKinney (Dallas area) Texas</b> <br><span class=srub>FORMS</span><a href=index.html>(index)</a>");
+

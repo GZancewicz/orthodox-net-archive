@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Translation of the Relics of St. Nicholas the Wonderworker from Myra to Bari. ');
+document.writeln('<LI>Prophet Isaiah. ');
+document.writeln('<LI>Martyr Christopher of Lycia, and with him Martyrs Callinica and Aquilina. ');
+document.writeln('<LI>Martyr Epimachus the New of Alexandria. ');
+document.writeln('<LI>Martyr Gordion at Rome. ');
+document.writeln('<LI>Translation of the Relics of Child-martyr Gabriel of Slutsk. ');
+document.writeln('<LI>Monk-martyr Nicholas who lived in Vuneni, of Larissa in Thessaly. ');
+document.writeln('<LI>St. Shio, monk, of Georgia. ');
+document.writeln('<LI>Repose of Schemahieromonk Joseph of Optina (1911). ');
+document.writeln('</OL>');

@@ -1,0 +1,59 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|index|Gospel Homilies|||||||||||||||||On most of the Sundays and Feasts of the church year |||||||||||||
+002|index|Questions and Answers|||||||||||||||||On many topics in the Orthodox Faith |||||||||||||
+003|index|Various Articles||||||||||||||||||||||||||||||
+004|index|Julian calendar for this month||||||||||||||||||||||||||||||
+005|index|Great Lent||||||||||||||||||||||||||||||
+006|index|PASCHA||||||||||||||||||||||||||||||
+007|index|The Pentecostarion Period||||||||||||||||||||||||||||||
+008|index|Nativity||||||||||||||||||||||||||||||
+009|index|Theophany||||||||||||||||||||||||||||||
+010|index|Orthodox Study Bible||||||||||||||||||||||||||||||
+011|index|Service Texts|||||||||||||||||HTML, printable, &amp;for the PalmPilot too! |||||||||||||
+012|index|Trebnic prayers||||||||||||||||||||||||||||||
+013|index|Akathists||||||||||||||||||||||||||||||
+014|index|Typicon Information|||||||||||||||||Emphasizing usage in Russian Orthodoxy |||||||||||||
+015|exactidx|An Exact Exposition|||||||||||||||||by Saint John Damascene |||||||||||||
+016|index|Gleanings From the Holy Fathers |||||||||||||||||4663 texts, divided into 1067 topics, and growing! |||||||||||||
+017|index|Miracles, icons of St. Nicholas||||||||||||||||||||||||||||||
+018|index|Lives of Saints||||||||||||||||||||||||||||||
+019|index|Lives of Russian New Hieromartyrs, Martyrs and Confessors of the Communist Yoke|||||||||||||||||146 Articles  |||||||||||||
+020|index|Ecumenism, the heresy of heresies|||||||||||||||||Articles and Documents |||||||||||||
+021|index|Scripture for memorization|||||||||||||||||On pocket sized cards |||||||||||||
+022|index|Children of the Church|||||||||||||||||A Youth Published Magazine |||||||||||||
+023|index|Order Online<BR>with VISA, MasterCard, Discover, American Express Accepted|||||||||||||||||<BR> We carry:  <UL> <LI>Orthodox Liturgical Furniture and Woodwork <LI>books <LI>Icons <LI>Crosses and Medallions <LI>Athonite incense <LI>Liturgical items <LI>Orthodox hymns <LI>Recorded Lectures <LI>Recorded Books <LI>Recorded Prayers <LI>Prayer Ropes <LI>Additional Items for Orthodox Worship <LI>Orthodox Calendars <LI>Children's Books/Items <LI>Coffees &amp; Teas <LI>Greeting Cards &amp; Postcards <LI>Gift Certificates </UL> |||||||||||||
+024|clergy|Clergy||||||||||||||||||||||||||||||
+025|index|Parishes||||||||||||||||||||||||||||||
+026|clergyemail|Clergy E-Mail||||||||||||||||||||||||||||||
+027|bookstores|Bookstores||||||||||||||||||||||||||||||
+028|supplies|Candles, Vestments, Incense And Other Church Supplies||||||||||||||||||||||||||||||
+029|charity|Charitable Funds||||||||||||||||||||||||||||||
+030|iconographers|Iconographers||||||||||||||||||||||||||||||
+031|homes|Nursing Homes||||||||||||||||||||||||||||||
+032|orphanages|Orphanages||||||||||||||||||||||||||||||
+033|periodicals|Periodicals||||||||||||||||||||||||||||||
+034|publishers|Publishers And Printers||||||||||||||||||||||||||||||
+035|schools|Schools||||||||||||||||||||||||||||||
+036|miscellaneous|Miscellaneous||||||||||||||||||||||||||||||
+037|rocor|ROCOR Parish Pages||||||||||||||||||||||||||||||
+038|index|MANY More Links, by subject!||||||||||||||||||||||||||||||
+039|index|Religious News and Events in and concerning Russia||||||||||||||||||||||||||||||
+040|index|FAQs||||||||||||||||||||||||||||||
+041|index|Feasting and Fasting Recipes||||||||||||||||||||||||||||||
+042|index|Comprehensive News about the Illegal Seizure of our Church's Jericho property||||||||||||||||||||||||||||||
+043|index|Religious News and Events in and concerning Russia ||||||||||||||||||||||||||||||
+044|index|||||||||||||||||||||||||||||||
+045|schedule|Regular Services Schedule|||||||||||||||||Usually, Sat Vigil @ 5PM with confessions preceding, and Sunday Liturgy @10AM with a Complimentary meal following.  |||||||||||||
+046|directions|Dallas church directions||||||||||||||||||||||||||||||
+047|contact_info|Contact Information||||||||||||||||||||||||||||||
+048|index|&quot;Redeeming the Time&quot;|||||||||||||||||Our Journal |||||||||||||
+049|index|St Nicholas Family Album||||||||||||||||||||||||||||||
+050|index|Conversion stories||||||||||||||||||||||||||||||
+051|mailinglists|E-Mail Lists Offered|||||||||||||||||Weekly Homilies, Catechetical Questions and Answers, Redeeming the Time, Typicon discussion List |||||||||||||
+052|parishioners-pages|Parishioner's Pages||||||||||||||||||||||||||||||
+053|who_may_receive|Who may receive the Holy Mysteries at St Nicholas?||||||||||||||||||||||||||||||
+054|title|Our Bookstore Catalog||||||||||||||||||||||||||||||
+055|youarehere|Map of parish neighborhood||||||||||||||||||||||||||||||

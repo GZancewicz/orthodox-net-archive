@@ -1,0 +1,110 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|pascha|Pascha|||||||||||||||||link:https://www.orthodox.net//podcasts/pascha.xml |||||||||||||
+002|thomas-sunday|Thomas Sunday|||||||||||||||||link:https://www.orthodox.net//podcasts/thomas-sunday.xml |||||||||||||
+003|sunday-of-the-myrhbearing-women|Sunday of the Myrhbearing women|||||||||||||||||link:https://www.orthodox.net//podcasts/sunday-of-the-myrhbearing-women.xml |||||||||||||
+004|4th-sunday-of-pascha-the-paralytic|4th Sunday of Pascha:The Paralytic|||||||||||||||||link:https://www.orthodox.net//podcasts/4th-sunday-of-pascha-the-paralytic.xml |||||||||||||
+005|5th-sunday-of-pascha-the-samaritan-woman|5th Sunday of Pascha:The Samaritan Woman|||||||||||||||||link:https://www.orthodox.net//podcasts/5th-sunday-of-pascha-the-samaritan-woman.xml |||||||||||||
+006|6th-sunday-of-pascha-the-blind-man|6th Sunday of Pascha:The Blind Man|||||||||||||||||link:https://www.orthodox.net//podcasts/6th-sunday-of-pascha-the-blind-man.xml |||||||||||||
+007|7th-sunday-of-pascha-fathers-of-the-first-ecumenical-council|7th Sunday of Pascha:Fathers of the First Ecumenical Council|||||||||||||||||link:https://www.orthodox.net//podcasts/7th-sunday-of-pascha-fathers-of-the-first-ecumenical-council.xml |||||||||||||
+008|pentecost|Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/pentecost.xml |||||||||||||
+009|1st-sunday-after-pentecost|1st Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/1st-sunday-after-pentecost.xml |||||||||||||
+010|2nd-sunday-after-pentecost|2nd Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/2nd-sunday-after-pentecost.xml |||||||||||||
+011|3rd-sunday-after-pentecost|3rd Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/3rd-sunday-after-pentecost.xml |||||||||||||
+012|4th-sunday-after-pentecost|4th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/4th-sunday-after-pentecost.xml |||||||||||||
+013|5th-sunday-after-pentecost|5th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/5th-sunday-after-pentecost.xml |||||||||||||
+014|6th-sunday-after-pentecost|6th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/6th-sunday-after-pentecost.xml |||||||||||||
+015|7th-sunday-after-pentecost|7th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/7th-sunday-after-pentecost.xml |||||||||||||
+016|8th-sunday-after-pentecost|8th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/8th-sunday-after-pentecost.xml |||||||||||||
+017|9th-sunday-after-pentecost|9th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/9th-sunday-after-pentecost.xml |||||||||||||
+018|10th-sunday-of-pentecost|10th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/10th-sunday-of-pentecost.xml |||||||||||||
+019|11th-sunday-of-pentecost|11th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/11th-sunday-of-pentecost.xml |||||||||||||
+020|12th-sunday-of-pentecost|12th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/12th-sunday-of-pentecost.xml |||||||||||||
+021|13th-sunday-of-pentecost|13th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/13th-sunday-of-pentecost.xml |||||||||||||
+022|14th-sunday-of-pentecost|14th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/14th-sunday-of-pentecost.xml |||||||||||||
+023|15th-sunday-of-pentecost|15th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/15th-sunday-of-pentecost.xml |||||||||||||
+024|16th-sunday-of-pentecost|16th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/16th-sunday-of-pentecost.xml |||||||||||||
+025|17th-sunday-of-pentecost|17th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/17th-sunday-of-pentecost.xml |||||||||||||
+026|18th-sunday-of-pentecost|18th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/18th-sunday-of-pentecost.xml |||||||||||||
+027|19th-sunday-of-pentecost|19th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/19th-sunday-of-pentecost.xml |||||||||||||
+028|20th-sunday-of-pentecost|20th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/20th-sunday-of-pentecost.xml |||||||||||||
+029|21st-sunday-after-pentecost|21st Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/21st-sunday-after-pentecost.xml |||||||||||||
+030|22nd-sunday-after-pentecost|22nd Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/22nd-sunday-after-pentecost.xml |||||||||||||
+031|23rd-sunday-after-pentecost|23rd Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/23rd-sunday-after-pentecost.xml |||||||||||||
+032|24th-sunday-after-pentecost|24th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/24th-sunday-after-pentecost.xml |||||||||||||
+033|25th-sunday-after-pentecost|25th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/25th-sunday-after-pentecost.xml |||||||||||||
+034|26th-sunday-after-pentecost|26th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/26th-sunday-after-pentecost.xml |||||||||||||
+035|27th-sunday-after-pentecost|27th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/27th-sunday-after-pentecost.xml |||||||||||||
+036|28th-sunday-after-pentecost|28th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/28th-sunday-after-pentecost.xml |||||||||||||
+037|29th-sunday-after-pentecost|29th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/29th-sunday-after-pentecost.xml |||||||||||||
+038|30th-sunday-of-pentecost|30th Sunday of Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/30th-sunday-of-pentecost.xml |||||||||||||
+039|31st-sunday-after-pentecost|31st Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/31st-sunday-after-pentecost.xml |||||||||||||
+040|36th-sunday-after-pentecost|36th Sunday after Pentecost|||||||||||||||||link:https://www.orthodox.net//podcasts/36th-sunday-after-pentecost.xml |||||||||||||
+041|1st-sunday-of-luke|1st Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/1st-sunday-of-luke.xml |||||||||||||
+042|2nd-sunday-of-luke|2nd Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/2nd-sunday-of-luke.xml |||||||||||||
+043|3rd-sunday-of-luke|3rd Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/3rd-sunday-of-luke.xml |||||||||||||
+044|4th-sunday-of-luke|4th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/4th-sunday-of-luke.xml |||||||||||||
+045|5th-sunday-of-luke|5th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/5th-sunday-of-luke.xml |||||||||||||
+046|6th-sunday-of-luke|6th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/6th-sunday-of-luke.xml |||||||||||||
+047|7th-sunday-of-luke|7th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/7th-sunday-of-luke.xml |||||||||||||
+048|8th-sunday-of-luke|8th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/8th-sunday-of-luke.xml |||||||||||||
+049|9th-sunday-of-luke|9th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/9th-sunday-of-luke.xml |||||||||||||
+050|10th-sunday-of-luke|10th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/10th-sunday-of-luke.xml |||||||||||||
+051|11th-sunday-of-luke|11th Sunday of Luke|||||||||||||||||link:https://www.orthodox.net//podcasts/11th-sunday-of-luke.xml |||||||||||||
+052|feasts-of-the-savior--nativity|Feasts of the Savior, Nativity|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-savior--nativity.xml |||||||||||||
+053|feasts-of-the-savior--theophany|Feasts of the Savior, Theophany|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-savior--theophany.xml |||||||||||||
+054|feasts-of-the-savior--transfiguration|Feasts of the Savior, Transfiguration|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-savior--transfiguration.xml |||||||||||||
+055|feasts-of-the-savior--exaltation-of-the-cross|Feasts of the Savior, Exaltation of the Cross|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-savior--exaltation-of-the-cross.xml |||||||||||||
+056|feasts-of-the-theotokos|Feasts of the Theotokos|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-theotokos.xml |||||||||||||
+057|feasts-of-the-saints|Feasts of the Saints|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints.xml |||||||||||||
+058|feasts-of-the-saints-july-04|Feasts of the Saints:July 04|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-july-04.xml |||||||||||||
+059|feasts-of-the-saints-july-13|Feasts of the Saints:July 13|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-july-13.xml |||||||||||||
+060|feasts-of-the-saints-august-29|Feasts of the Saints:August 29|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-august-29.xml |||||||||||||
+061|feasts-of-the-saints-july-21|Feasts of the Saints:July 21|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-july-21.xml |||||||||||||
+062|feasts-of-the-saints-june-24|Feasts of the Saints:June 24|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-june-24.xml |||||||||||||
+063|feasts-of-the-saints-june-29|Feasts of the Saints:June 29|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-june-29.xml |||||||||||||
+064|feasts-of-the-saints-august-01|Feasts of the Saints:August 01|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-august-01.xml |||||||||||||
+065|feasts-of-the-saints-august-29|Feasts of the Saints:August 29|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-august-29.xml |||||||||||||
+066|feasts-of-the-saints-september-23|Feasts of the Saints:September 23|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-september-23.xml |||||||||||||
+067|feasts-of-the-saints-september-26|Feasts of the Saints:September 26|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-september-26.xml |||||||||||||
+068|feasts-of-the-saints-december-06|Feasts of the Saints:December 06|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-december-06.xml |||||||||||||
+069|feasts-of-the-saints-january-24|Feasts of the Saints:January 24|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-january-24.xml |||||||||||||
+070|feasts-of-the-saints-august-20|Feasts of the Saints:August 20|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-august-20.xml |||||||||||||
+071|feasts-of-the-saints-november-16|Feasts of the Saints:November 16|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-november-16.xml |||||||||||||
+072|feasts-of-the-saints-january-22|Feasts of the Saints:January 22|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-january-22.xml |||||||||||||
+073|feasts-of-the-saints-march-09|Feasts of the Saints:March 09|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-march-09.xml |||||||||||||
+074|feasts-of-the-saints-october-28|Feasts of the Saints:October 28|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-october-28.xml |||||||||||||
+075|feasts-of-the-saints-august-29|Feasts of the Saints:August 29|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-august-29.xml |||||||||||||
+076|feasts-of-the-saints-september-01|Feasts of the Saints:September 01|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-september-01.xml |||||||||||||
+077|feasts-of-the-saints-september-26|Feasts of the Saints:September 26|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-september-26.xml |||||||||||||
+078|feasts-of-the-saints-october-15|Feasts of the Saints:October 15|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-october-15.xml |||||||||||||
+079|feasts-of-the-saints-january-02|Feasts of the Saints:January 02|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-january-02.xml |||||||||||||
+080|feasts-of-the-saints-march-09|Feasts of the Saints:March 09|||||||||||||||||link:https://www.orthodox.net//podcasts/feasts-of-the-saints-march-09.xml |||||||||||||
+081|weeks-before-great-lent|Weeks before Great Lent|||||||||||||||||link:https://www.orthodox.net//podcasts/weeks-before-great-lent.xml |||||||||||||
+082|sundays-before-great-lent-zacchaeus|Sundays before Great Lent:Zacchaeus|||||||||||||||||link:https://www.orthodox.net//podcasts/sundays-before-great-lent-zacchaeus.xml |||||||||||||
+083|sundays-before-great-lent-publican-and-pharisee|Sundays before Great Lent:Publican and Pharisee|||||||||||||||||link:https://www.orthodox.net//podcasts/sundays-before-great-lent-publican-and-pharisee.xml |||||||||||||
+084|sundays-before-great-lent-prodigal-son|Sundays before Great Lent:Prodigal Son|||||||||||||||||link:https://www.orthodox.net//podcasts/sundays-before-great-lent-prodigal-son.xml |||||||||||||
+085|sundays-before-great-lent-last-judgment-(meatfare)|Sundays before Great Lent:Last Judgment (Meatfare)|||||||||||||||||link:https://www.orthodox.net//podcasts/sundays-before-great-lent-last-judgment-(meatfare).xml |||||||||||||
+086|sundays-before-great-lent-forgiveness-(cheesefare)|Sundays before Great Lent:Forgiveness (Cheesefare)|||||||||||||||||link:https://www.orthodox.net//podcasts/sundays-before-great-lent-forgiveness-(cheesefare).xml |||||||||||||
+087|first-sunday-of-great-lent|First Sunday of Great Lent|||||||||||||||||link:https://www.orthodox.net//podcasts/first-sunday-of-great-lent.xml |||||||||||||
+088|second-sunday-of-great-lent|Second Sunday of Great Lent|||||||||||||||||link:https://www.orthodox.net//podcasts/second-sunday-of-great-lent.xml |||||||||||||
+089|third-sunday-of-great-lent|Third Sunday of Great Lent|||||||||||||||||link:https://www.orthodox.net//podcasts/third-sunday-of-great-lent.xml |||||||||||||
+090|fourth-sunday-of-great-lent|Fourth Sunday of Great Lent|||||||||||||||||link:https://www.orthodox.net//podcasts/fourth-sunday-of-great-lent.xml |||||||||||||
+091|fifth-sunday-of-great-lent|Fifth Sunday of Great Lent|||||||||||||||||link:https://www.orthodox.net//podcasts/fifth-sunday-of-great-lent.xml |||||||||||||
+092|lazarus-saturday|Lazarus Saturday|||||||||||||||||link:https://www.orthodox.net//podcasts/lazarus-saturday.xml |||||||||||||
+093|palm-sunday|Palm Sunday|||||||||||||||||link:https://www.orthodox.net//podcasts/palm-sunday.xml |||||||||||||
+094|holy-week-monday---saturday|Holy Week:Monday - Saturday|||||||||||||||||link:https://www.orthodox.net//podcasts/holy-week-monday---saturday.xml |||||||||||||
+095|holy-week-holy-monday|Holy Week:Holy Monday|||||||||||||||||link:https://www.orthodox.net//podcasts/holy-week-holy-monday.xml |||||||||||||
+096|holy-week-holy-tuesday|Holy Week:Holy Tuesday|||||||||||||||||link:https://www.orthodox.net//podcasts/holy-week-holy-tuesday.xml |||||||||||||
+097|holy-week-holy-wednesday|Holy Week:Holy Wednesday|||||||||||||||||link:https://www.orthodox.net//podcasts/holy-week-holy-wednesday.xml |||||||||||||
+098|holy-week-holy-thursday|Holy Week:Holy Thursday|||||||||||||||||link:https://www.orthodox.net//podcasts/holy-week-holy-thursday.xml |||||||||||||
+099|holy-week-holy-friday|Holy Week:Holy Friday|||||||||||||||||link:https://www.orthodox.net//podcasts/holy-week-holy-friday.xml |||||||||||||
+100|holy-week-holy-saturday|Holy Week:Holy Saturday|||||||||||||||||link:https://www.orthodox.net//podcasts/holy-week-holy-saturday.xml |||||||||||||
+101|matins-gospels|Matins Gospels|||||||||||||||||link:https://www.orthodox.net//podcasts/matins-gospels.xml |||||||||||||
+102|misc|Misc|||||||||||||||||link:https://www.orthodox.net//podcasts/misc.xml |||||||||||||
+103|living-water-commentary-on-orthodox-services|Living Water:Commentary on Orthodox Services|||||||||||||||||link:https://www.orthodox.net//podcasts/living-water-commentary-on-orthodox-services.xml |||||||||||||
+104|paraklesis-canon-to-the-theotokos|Paraklesis Canon to the Theotokos|||||||||||||||||link:https://www.orthodox.net//podcasts/paraklesis-canon-to-the-theotokos.xml |||||||||||||
+105|the-psalter-psalm-118|The Psalter:Psalm 118|||||||||||||||||link:https://www.orthodox.net//podcasts/the-psalter-psalm-118.xml |||||||||||||
+106|archimandrite-demetrios-carellas|Archimandrite Demetrios Carellas|||||||||||||||||link:https://www.orthodox.net//podcasts/archimandrite-demetrios-carellas.xml |||||||||||||

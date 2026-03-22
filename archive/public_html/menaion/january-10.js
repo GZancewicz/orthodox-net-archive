@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Theophany. ');
+document.writeln('<LI>St. Gregory of Nyssa St. Dometian, bishop of Melitene. ');
+document.writeln('<LI>St. Marcian, presbyter of Constantinople. ');
+document.writeln('<LI>St. Paul, abbot of Obnora (Vologda), and his disciple St. Macarius, abbot of Pisma Monastery. ');
+document.writeln('<LI>Blessed Theosebia the deaconess, sister of St. Basil the Great and St. Gregory of Nyssa. ');
+document.writeln('<LI>St. Ammon, monk. ');
+document.writeln('<LI>St. Macarius of the Kiev Caves. ');
+document.writeln('<LI>Repose of Schemahieromonk Antipas of Valaam (1882). ');
+document.writeln('</OL>');

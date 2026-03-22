@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Cyril, Equal-to-the Apostles, teacher of the Slavs. ');
+document.writeln('<LI>St. Auxentius, monk of Bithynia. ');
+document.writeln('<LI>St. Isaac, recluse of the Kiev Caves. ');
+document.writeln('<LI>St. Maron, hermit of Syria. ');
+document.writeln('<LI>St. Abraham, Bishop of Charres in Mesopotamia. ');
+document.writeln('<LI>Translation of the Relics of Martyr Michael and his counsellor Theodore of Chernigov. ');
+document.writeln('<LI>Martyr Philemon, Bishop of Gaza. ');
+document.writeln('<LI>New-Martyr George of Mitylene, at Constantinople. ');
+document.writeln('<LI>New-Martyr Nicholas of Corinth. ');
+document.writeln('</OL>');

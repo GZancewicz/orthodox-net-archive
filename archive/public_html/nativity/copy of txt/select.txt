@@ -1,0 +1,22 @@
+TITLE:All Files in nativity
+DESCRIPTION:All Files in nativity
+FILE:D:/www/orthodox.net/nativity/select.html 
+TEMPLATE:D:/www/orthodox.net/nativity/3rows2cols-floating.html 
+TYPE:HTML
+
+BEGIN:row1
+All Files in D:/www/orthodox.net/nativity
+
+BEGIN:row2
+ 
+<SCRIPT>
+function load(l)
+{ 
+	var str=l.options[l.selectedIndex].value; 
+	if(str=="") { alert ("This item is just a heading. Please from the list of items below this heading"); } else {location.href=str;} 
+}
+</SCRIPT>
+<CENTER>
+<FORM NAME="nativity">
+<SELECT NAME="s" SIZE=1 CLASS=sel>
+<OPTION VALUE=""	>Contents of nativity

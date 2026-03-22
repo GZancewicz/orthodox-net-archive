@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Athanasius the Great, and St. Cyril, Archbishops. ');
+document.writeln('<LI>of Alexandria ');
+document.writeln('<BR><I>LITURGY: </I>Heb 13:7-16; Matt 5:14-19. ');
+document.writeln('<LI>St. Marcian of Cyrrhus in Syria, monk. ');
+document.writeln('<LI>Martyr Xenia. ');
+document.writeln('<LI>St. Maximus, ruler of Serbia, metropolitan. ');
+document.writeln('<LI>St. Athanasius, abbot of Syandemsk. ');
+document.writeln('<LI>St. Silvanus of Palestine, monk. ');
+document.writeln('<LI>St. Athanasius of Novolotsk, monk. ');
+document.writeln('<LI>St. Leobardus of Marmoutier (Gaul). ');
+document.writeln('</OL>');

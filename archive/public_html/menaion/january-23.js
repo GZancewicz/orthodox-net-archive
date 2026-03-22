@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>Hieromartyr Clement, Bishop of Ancyra, and Martyr Agathangelus ');
+document.writeln('<BR><I>LITURGY: </I>Heb 13:7-16; Jn 10:9-16. ');
+document.writeln('<LI>St. Paulinus the Merciful, Bishop of Nola. ');
+document.writeln('<LI>St. Mausimas the Syrian, monk. ');
+document.writeln('<LI>St. Salamanes the Silent of the Euprates, monk. ');
+document.writeln('<LI>St. Gennadius of Kostroma, monk. ');
+document.writeln('<LI>Commemoration of the Sixth Ecumenical Council. ');
+document.writeln('<LI>St. Eusubius, recluse of Mt. ');
+document.writeln('<LI>Coryphe near Antioch. ');
+document.writeln('<LI>Translation of the Relics of St. Theoctistus, Bishop of Novgorod. ');
+document.writeln('<LI>St. Lupicinus of Lipidiaco (Gaul). ');
+document.writeln('<LI>Repose of Abbot Damascene of Valaam (1881). ');
+document.writeln('</OL>');

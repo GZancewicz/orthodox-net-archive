@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-september/10-holy-martyrs-menodora-metrodora-and-nymphodora.html">Martyrs Menodora, Metrodora, and Nymphodora at Nicomedia. </A>');
+document.writeln('<LI>Afterfeast of the Nativity of the Theotokos. ');
+document.writeln('<LI>Martyr Barypsabas in Dalmatia. ');
+document.writeln('<LI>Saints Peter and Paul, Bishops of Nicaea. ');
+document.writeln('<LI><A HREF="/menaion-september/10-st-pulcheria-the-empress.html">St. Pulcherius the Empress. </A>');
+document.writeln('<LI><A HREF="/menaion-september/10-ss-apollos-lucius-and-clement.html">Synaxis of the Holy Apostles Apelles, Lucius and Clement of the Seventy. </A>');
+document.writeln('<LI>St. Ioasaph, monk of Kubensk (Vologda). ');
+document.writeln('<LI>St. Paul the Obedient of the Kiev Caves. ');
+document.writeln('<LI>St. Cassian, abbot of Spaso Kamenny and Cyril of White Lake Monasteries. ');
+document.writeln('<LI>St. Salvius, Bishop of Albi (Gaul). ');
+document.writeln('<LI><A HREF="/menaion-september/10-three-holy-women-of-constantinople.html">The Three Holy Women of Constantinople.</A>');
+document.writeln('</OL>');

@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Hieromartyr Simeon, Bishop in Persia, and those with him: Martyrs Abdechalas and Ananias, presbyters, Usthazanes, Fusicus (Pusicius), Ascitrea, and Azat the eunuch. ');
+document.writeln('<LI>Martyr Adrian of Corinth. ');
+document.writeln('<LI>St. Acacius, Bishop of Melitene. ');
+document.writeln('<LI>St. Zosimas, abbot of Solovki. ');
+document.writeln('<LI>St. Agapitus, pope of Rome. ');
+document.writeln('<LI>Opening of the Relics of St. Alexander, abbot of Svir. ');
+document.writeln('<LI>St. Macarius of Corinth. ');
+document.writeln('<LI>Repose of Blessed Paisius, fool-for-Christ of the Kiev Caves (1893). ');
+document.writeln('</OL>');

@@ -1,0 +1,15 @@
+document.writeln('<OL>');
+document.writeln('<LI>Fast day; wine and oil allowed. ');
+document.writeln('<LI>Eve of the Theophany. ');
+document.writeln('<LI>Martyrs Theopemptus, Bishop of Nicomedia, and Theonas. ');
+document.writeln('<LI>St. Syncletica of Alexandria. ');
+document.writeln('<LI>Prophet Micah. ');
+document.writeln('<LI>Virgin Apollinaris of Egypt. ');
+document.writeln('<LI>St. Gregory of Crete, monk. ');
+document.writeln('<LI>St. Phosterius the hermit. ');
+document.writeln('<LI>St. Menas of Sinai. ');
+document.writeln('<LI>Martyr Theoidus. ');
+document.writeln('<LI>Martyr Sais. ');
+document.writeln('<LI>New-Martyr Romanus of Mt. Athos. ');
+document.writeln('<LI>St. Tatiana. ');
+document.writeln('</OL>');

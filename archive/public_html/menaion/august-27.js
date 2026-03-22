@@ -1,0 +1,12 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Poemen the Great ');
+document.writeln('<BR><I>LITURGY: </I>Gal 5:22-6:2; Matt 4:25-5:12. ');
+document.writeln('<LI>St. Poemen of Palestine. ');
+document.writeln('<LI>St. Sabbas of Benephali. ');
+document.writeln('<LI>St. Liberius, pope of Rome. ');
+document.writeln('<LI>St. Hosius the Confessor, Bishop of Cordova. ');
+document.writeln('<LI>Hieromartyr Kushka and St. Pimen (Poemen) of the Kiev Caves. ');
+document.writeln('<LI>Martyr Anthusa. ');
+document.writeln('<LI>Translation of the Relics of Saints Theognostus, Cyprian and Photius, Metropolitan of Moscow. ');
+document.writeln('<LI><A HREF="/recipes/st-phanourios-story-prayer-to-bread-recipes.html">Great-Martyr Phanurius the newly-appeared of Rhodes. </A>');
+document.writeln('</OL>');

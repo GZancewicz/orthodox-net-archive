@@ -1,0 +1,78 @@
+<HTML>
+<HEAD>
+<TITLE>Sample Menu Page</TITLE>
+</HEAD>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+     NS4 = (document.layers);
+     IE4 = (document.all);
+    ver4 = (NS4 || IE4);
+	 IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
+   isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+function popUp(){return};
+function popDown(){return};
+if (!ver4) event=null;
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+if (isMenu) {
+menuVersion = 3;
+menuWidth = 120;
+childOverlap = 20;
+childOffset = 5;
+perCentOver = null;
+secondsVisible = .5;
+fntCol = "blue";
+fntSiz = "10";
+fntBold = false;
+fntItal = false;
+fntFam = "Arial,sans-serif";
+backCol = "#DDDDDD";
+overCol = "#FFCCCC";
+overFnt = "purple";
+borWid = 2;
+borCol = "black";
+borSty = "solid";
+itemPad = 3;
+imgSrc = "../tri.gif";
+imgSiz = 10;
+separator = 1;
+separatorCol = "black";
+isFrames = false;
+keepHilite = true; 
+clickStart = false;
+clickKill = true;
+}
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+if (isMenu) {
+document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='../hierArrays.js' TYPE='text/javascript'><\/SCRIPT>");
+}
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+if (isMenu) {
+document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='../hierMenus.js' TYPE='text/javascript'><\/SCRIPT>");
+}
+
+
+//-->
+</SCRIPT>
+
+<BODY>
+
+
+<H3>Sample HTML page with 4 Hierarchical Menus</H3>
+
+<BLOCKQUOTE>
+<P><A HREF="javascript:void(0)" onMouseOver="popUp('elMenu1',event)" onMouseOut="popDown('elMenu1')" onClick="return false">TOPICS<IMG SRC=../tri.gif BORDER=0></A></P>
+</BLOCKQUOTE>
+
+</BODY>
+</HTML>

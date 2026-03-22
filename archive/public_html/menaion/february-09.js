@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>Opening of the Relics of St. Innocent of Irkutsk. ');
+document.writeln('<LI>Martyr Nicephorus of Antioch. ');
+document.writeln('<LI>Hieromartyrs Marcellus, Bishop of Sicily, Philagrius, Bishop of Cyprus, and Pancratius, Bishop of Taormina. ');
+document.writeln('<LI>Martyr Peter Damascene. ');
+document.writeln('<LI>Saints Nicephorus and Gennadius, monks of Vazheozersk (Vologda). ');
+document.writeln('<LI>St. Pancratius, hieromonk of the Kiev Caves. ');
+document.writeln('<LI>Saints Aemilianus and Braccchio of Tours (Gaul). ');
+document.writeln('<LI>Repose of Maria, desert-dweller of Olonets (1860). ');
+document.writeln('</OL>');

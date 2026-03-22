@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI>The Placing of the Honorable Robe of the Most Holy Theotokos at Blachernae ');
+document.writeln('<BR><I>LITURGY: </I>Heb 9:1-7; Lk 10:38-42; 11:27-28. ');
+document.writeln('<LI>St. Juvenal, Patriarch of Jerusalem. ');
+document.writeln('<LI>St. Photius, Metropolitan of Kiev. ');
+document.writeln('<LI>St. Juvenal, Proto-martyr of America and Alaska. ');
+document.writeln('<LI>St. Monegunda of Chartres (Gaul). ');
+document.writeln('<LI>"Akhtyrka" Icon of the Most Holy Theotokos. ');
+document.writeln('<LI>Repose of Elder Zachariah of Moscow (1936). ');
+document.writeln('</OL>');

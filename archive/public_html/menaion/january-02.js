@@ -1,0 +1,15 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Sylvester, pope of Rome.');
+document.writeln('<LI>Repose of St. Seraphim, wonderworker of Sarov.');
+document.writeln('<LI>Hieromartyr Theogenes, Bishop of Parium on the Hellespont. ');
+document.writeln('<LI>St. Sylvester of the Kiev Caves. ');
+document.writeln('<LI>St. Theopemptus, monk. ');
+document.writeln('<LI>St. Theodota, mother of the first Saints Cosmas and Damian. ');
+document.writeln('<LI>St. Mark the Deaf-mute. ');
+document.writeln('<LI>Martyr Sergius of Caesarea in Cappadocia. ');
+document.writeln('<LI>Martyr Theopistus. ');
+document.writeln('<LI>St. Cosmas, Archbishop of Constantinople. ');
+document.writeln('<LI>New-Martyr Zorsisus. ');
+document.writeln('<LI>Righteous Juliana of Lazarevo. ');
+document.writeln('<LI>Repose of Abbess Thais of Leushy (1915). ');
+document.writeln('</OL>');

@@ -1,0 +1,8 @@
+// Auto-generated from .env - DO NOT EDIT DIRECTLY
+// Run python3 util/generate_config.py to regenerate
+
+window.APP_CONFIG = {
+    HEROKU_FLASK_BACKEND_URL: "https://onet-flask-backend-1f4c6a3f01c8.herokuapp.com",
+    RENDER_FLASK_BACKEND_URL: "https://onet-flask-render.onrender.com",
+    FLASK_BACKEND_URL: "https://staging-orthodox-net-flask.onrender.com"
+};

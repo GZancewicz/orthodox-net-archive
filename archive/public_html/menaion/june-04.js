@@ -1,0 +1,16 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Metrophanes, first Patriarch of Constantinople. ');
+document.writeln('<LI>Hieromartyr Astius, Bishop of Dyrrachium in Macedonia. ');
+document.writeln('<LI>Martyr Concordius of Spoleto. ');
+document.writeln('<LI>Martyrs Frontasius, Severinus, Severian, and Salanus of Gaul. ');
+document.writeln('<LI>St. Zosimas of Cilicia, Bishop of Babylon in Egypt. ');
+document.writeln('<LI>St. Methodius, abbot of Peshnosha, disciple of St. Sergius of Radonezh. ');
+document.writeln('<LI>St. Sophia of Thrace. ');
+document.writeln('<LI>St. John, abbot of Monagria near Cyzicus. ');
+document.writeln('<LI>St. Alonius of Scete in Egypt. ');
+document.writeln('<LI>Saints Mary and Martha, sisters of St. Lazarus. ');
+document.writeln('<LI>Saints Eleazar and Nazarius, wonderworkers of Olonets. ');
+document.writeln('<LI>New-Martyrs Archbishops. ');
+document.writeln('<LI>Andronicus of Perm and Basil of Chernigov, and those with them (1918). ');
+document.writeln('<LI>Repose of Righteous sisters Vera and Lyubov (June 8), foundresses of Shamordino Convent of Elder Ambrose of Optina (1883). ');
+document.writeln('</OL>');

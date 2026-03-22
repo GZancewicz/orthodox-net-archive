@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyr Conon of Isauria. ');
+document.writeln('<LI>Martyr Conon the Gardener of Pamphylia. ');
+document.writeln('<LI>Virgin Martyr Irais (Rhais) of Antinoe in Egypt. ');
+document.writeln('<LI>Martyr Eulogius of Palestine. ');
+document.writeln('<LI>Martyr Eulampius of Palestine. ');
+document.writeln('<LI>Martyr Onisius of Isauria. ');
+document.writeln('<LI>St. Hesychius the Faster of Bithynia. ');
+document.writeln('<LI>St. Mark the Faster of Egypt. ');
+document.writeln('<LI>Translation of the Relics of St. Theodore, prince of Smolensk and Yaroslav, and his children Saints David and Constantine. ');
+document.writeln('<LI>Martyr Archelaus and 152 Martyrs in Egypt. ');
+document.writeln('<LI>St. Adrian, monk of Poshekhonye and his fellow-ascetic, St. Leonidas. ');
+document.writeln('<LI>New-Martyr John the Bulgarian (Mt. Athos. at Constantinople. ');
+document.writeln('</OL>');

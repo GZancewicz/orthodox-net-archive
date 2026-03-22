@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Nativity of the Theotokos. ');
+document.writeln('<LI>Translation of the Relics of Saints Sergius and Herman of Valaam ');
+document.writeln('<LI><A HREF="/menaion-september/11-our-holy-mother-theodora.html">Our Holy Mother Theodora</A>');
+document.writeln('<LI><A HREF="/menaion-september/11-our-holy-father-ephrosynus-the-cook.html">St. Euphrosynus the Cook of Alexandria. </A>');
+document.writeln('<LI><A HREF="/menaion-september/11-holy-martyr-ia.html">Martyr Ia of Persia and 9,000 Martyrs with her. </A>');
+document.writeln('<LI><A HREF="/menaion-september/11-holy-martyrs-diodore-didymus-and-diomedes.html">Martyrs Diodorus, Didymus, and Diomedes of Laodicea. </A>');
+document.writeln('<LI>Martyrs Demetrius, his wife Euanthis, and their son Demetrian at Skepsis on the Hellespont. ');
+document.writeln('<LI>Martyrs Serapion, Cronides (Hieronides) and Leontius of Alexandria. ');
+document.writeln('<LI>Canonization of St. Xenia of Petersburg (1978). ');
+document.writeln('<LI>Weeping Kazan Icon of "Kaplunovka". ');
+document.writeln('<LI>Repose of young Elder Melchizedek of Mzensk (1846) ');
+document.writeln('<LI>Repose Schemamonk Silouan of Mt. Athos. (1938). ');
+document.writeln('</OL>');

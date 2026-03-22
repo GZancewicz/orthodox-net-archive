@@ -1,0 +1,16 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-september/09-ss-joachim-and-anna.html">Holy and Righteous Ancestors of God Joachim and Anna</A>');
+document.writeln('<BR><I>LITURGY: </I>GAL 4:22-31 LUKE 8:16-21');
+document.writeln('<BR>Wine and Oil allowed');
+document.writeln('<LI>Afterfeast of the Nativity of the Theotokos. ');
+document.writeln('<LI><A HREF="/menaion-september/09-holy-martyr-severian.html">Martyr Severian of Sebaste. </A>');
+document.writeln('<LI>St. Joseph, abbot of Volokolamsk (or Volotsk). ');
+document.writeln('<LI>Martyr Chariton. ');
+document.writeln('<LI>Martyr Straton. ');
+document.writeln('<LI><A HREF="/menaion-september/09-st-theophanes-confessor-and-faster.html">St. Theophanes the confessor and faster of Mt. Diabenos. </A>');
+document.writeln('<LI><A HREF="/menaion-september/09-st-nicetas-the-man-of-god.html">Blessed Nicetas the Hidden of Constantinople. </A>');
+document.writeln('<LI>St. Joachim, abbot of Opochka Monastery (Pskov). ');
+document.writeln('<LI>Opening of the Relics of St. Theodosius, Archbishop of Chernigov. ');
+document.writeln('<LI><A HREF="/menaion-september/09-commemoration-of-the-third-ecumenical-council.html">Commemoration of the Third Ecumenical Council. </A>');
+document.writeln('<LI>Repose of Elder Joachim of St. Anne's Skete, Mt. Athos. ');
+document.writeln('</OL>');

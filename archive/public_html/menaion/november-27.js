@@ -1,0 +1,15 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI><A HREF="/menaion-november/27-holy-martyr-james-the-persian.html">Great Martyr James the Persian </A>');
+document.writeln('<BR><I>LITURGY: </I>Eph 6:10 17; Jn 15:1 7 ');
+document.writeln('<LI>St. Palladius of Thessalonica. ');
+document.writeln('<LI>St. James, Bishop and Wonderworker of Rostov. ');
+document.writeln('<LI><A HREF="/menaion-november/27-our-holy-father-romanus-the-wonderworker.html">St. Romanus the Wonderworker of Cilicia. </A>');
+document.writeln('<LI>Opening of the Relics of St. Vsevolod (Gabriel) of Pskov. ');
+document.writeln('<LI><A HREF="/menaion-november/27-our-holy-father-pinuphrius.html">St. Pinuphrius of Egypt. </A>');
+document.writeln('<LI><A HREF="/menaion-november/27-our-holy-father-nathanael.html">St. Nathaniel of Nitria. </A>');
+document.writeln('<LI>St. Diodorus, abbot of Yuriev Monastery (Solovki). ');
+document.writeln('<LI><A HREF="/menaion-november/27-seventeen-holy-fathers-martyred-in-india.html">Seventeen Holy Fathers Martyred In India</A>');
+document.writeln('<LI>Commemoration of the miracle of the Weeping Icon of the Most Holy Theotokos "Of the Sign" at Novgorod in 1170. ');
+document.writeln('<LI><A HREF="/ikons/theotokos-kursk-root.html">https://www.orthodox.net//ikons/theotokos kursk root01 tn.jpgIcon of the Most Holy Theotokos "Of the Sign": Kursk Root </A>');
+document.writeln('<LI>Icon of the Most Holy Theotokos Of Abalek. ');
+document.writeln('</OL>');

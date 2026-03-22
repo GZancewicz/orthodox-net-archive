@@ -1,0 +1,12 @@
+document.writeln('<BR><SPAN CLASS=ru>Nativity Fast.</SPAN><BR><OL>');
+document.writeln('<LI>Forefeast of the Entry into the Temple of the Most Holy Theotokos. ');
+document.writeln('<LI>St. Gregory Decapolites. ');
+document.writeln('<LI>St. Proclus, Archbishop of Constantinople ');
+document.writeln('<BR><I>LITURGY: </I>Heb 7:26 8:2; Jn 10:9 16. ');
+document.writeln('<LI>Martyrs Eustace, Thespisius and Anatolius of Nicaea. ');
+document.writeln('<LI>Martyr Dasius of Dorostorum. ');
+document.writeln('<LI>Martyrs Azaes the eunuch, Savonius, Thecla, Anna; Hieromartyrs Nerses and Joseph; and John, Severius, Isaac and Hypatius, Bishops of Persia. ');
+document.writeln('<LI>St. Theoctistus the Confessor. ');
+document.writeln('<LI>Martyrs Bautha and Denachis who suffered with Hieromartyr Nerses. ');
+document.writeln('<LI>St. Isaac, Bishop of Armenia. ');
+document.writeln('</OL>');

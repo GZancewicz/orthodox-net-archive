@@ -1,0 +1,30 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|rocor|ROCOR related links:|||||||||||||||||Parishes, diocese, bookstores, directories, Scripture, calendar, Slavonic resources, e-Zines, recommended reading, personal pages &amp; more |||||||||||||
+002|quicklinks|QuickLinks|||||||||||||||||Try here first - The best General Sites, Scripture, The Holy Fathers, directories, translation, Calendar and other links that are the most useful  |||||||||||||
+003|inquirers|FOR INQUIRERS|||||||||||||||||Articles and explanations for the inquirer into Orthodoxy  |||||||||||||
+004|holy-fathers|HOLY FATHERS|||||||||||||||||The writings of the Holy Fathers, in collections, collections of short sayings, by name |||||||||||||
+005|saints|COLLECTIONS|||||||||||||||||Collections of Lives of the Saints |||||||||||||
+006|saints-by-name|SAINTS BY NAME|||||||||||||||||Lives of the Saints, in alphabetical Order |||||||||||||
+007|saints-by-date|SAINTS BY DATE|||||||||||||||||Lives of the Saints, in order by Date of Commemoration |||||||||||||
+008|churchyear|#THE CHURCH YEAR|||||||||||||||||#The Russian Orthodox Church Year: calendars, references, resources #and teachings |||||||||||||
+009|feastdays|#FEAST DAYS|||||||||||||||||#Articles, sermons, explanations and references concerning the major #Feast Days in the Orthodox Calendar |||||||||||||
+010|icons|ICONS:|||||||||||||||||Theology of the Icon, Icon galleries |||||||||||||
+011|services|SERVICES|||||||||||||||||Services, prayers, the Typicon and music (lots of stuff!) |||||||||||||
+012|music|#MUSIC|||||||||||||||||#Sheet Music, audio |||||||||||||
+013|articles|ARTICLES|||||||||||||||||Articles on a wide array of topics. |||||||||||||
+014|parables|#PARABLES|||||||||||||||||#An Orthodox Christian Understanding of the Parables of Jesus Christ |||||||||||||
+015|ecumenism|ECUMENISM|||||||||||||||||Articles and documenents about Ecumenism |||||||||||||
+016|scripture|SCRIPTURE|||||||||||||||||Holy Scripture texts, resources |||||||||||||
+017|references|References||||||||||||||||||||||||||||||
+018|suppliers|SUPPLIERS:|||||||||||||||||Orthodox-related Suppliers (Sellers of Books, Icons, Church Supplies, etc.) |||||||||||||
+019|people|PEOPLE|||||||||||||||||People (Clergy, Orthodox Christians on the Internet, etc.) |||||||||||||
+020|orgs|ORGANIZATIONS:|||||||||||||||||Organization of the Church (Dioceses, Parishes, Monasteries, Seminaries, etc.) |||||||||||||
+021|places|PLACES|||||||||||||||||Places and Locations (Russia, Constantinople, Texas, etc.) |||||||||||||
+022|humor|HUMOR|||||||||||||||||"There were three three priests in a bar..." |||||||||||||
+023|links|LINKS|||||||||||||||||Other Link Collections |||||||||||||
+024|news|NEWS|||||||||||||||||News, Press Releases, periodicals |||||||||||||
+025|pro-life|PRO-LIFE |||||||||||||||||Links helpful to support the Pro-Life cause |||||||||||||
+026|general|#GENERAL|||||||||||||||||#General and Unsorted Information about Orthodox Christianity |||||||||||||

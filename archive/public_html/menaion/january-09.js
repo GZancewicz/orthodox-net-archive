@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Theophany. ');
+document.writeln('<LI>Martyr Polyeuctus of Melitine in Armenia. ');
+document.writeln('<LI>Hieromartyr Philip, Metropolitan of Moscow and All Russia. ');
+document.writeln('<LI>St. Eustratius the wonderworker. ');
+document.writeln('<LI>Prophet Shemaiah (Samaia, Semeias) ');
+document.writeln('<BR>III Kgs 12:22 ');
+document.writeln('<LI>St. Peter, Bishop of Sebaste in Armenia, and brother of St. Basil the Great and St. Gregory of Nyssa. ');
+document.writeln('<LI>New-Martyr Paul (Florensky). ');
+document.writeln('<LI>Repose of Elder Jonah (Peter in schema), founder of Holy Trinity Monastery in Kiev (1902). ');
+document.writeln('</OL>');

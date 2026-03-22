@@ -1,0 +1,84 @@
+# This file is ignored on production server but needed locally
+# Make these edits or equivalent to .htaccess in /public_html folder on production server
+
+Redirect 302 /test-htaccess-check /test-htaccess-check-success
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Route /articles/*.html (except index.html) to article_shell.html with ?file=pagename.html
+    RewriteRule ^articles/(?!index\.html$)([^/]+\.html)$ articles/new/article_shell.html?file=$1 [L,QSA]
+
+     # Route /sermons/*.html (except index.html) to sermon_shell.html with ?file=pagename.html
+    RewriteRule ^sermons/(?!index\.html$)([^/]+\.html)$ sermons/new/sermon_shell.html?file=$1 [L,QSA]
+
+    # Route /scripture/* URLs to scripture_shell.html
+    RewriteRule ^scripture/(?!index\.html$)([^/]+\.html)$ scripture/new/scripture_shell.html?file=$1 [L,QSA]
+
+    # Route /full-voice/* URLs to full-voice_shell.html
+    RewriteRule ^full-voice/(?!index\.html$)([^/]+\.html)$ full-voice/new/fullvoice_shell.html?file=$1 [L,QSA]
+
+    # Route /questions/* URLs to questions_shell.html
+    RewriteRule ^questions/(?!index\.html$)([^/]+\.html)$ questions/new/questions_shell.html?file=$1 [L,QSA]
+
+    # Route /greatlent/* URLs to greatlent_shell.html
+    RewriteRule ^greatlent/(?!index\.html$)([^/]+\.html)$ greatlent/new/greatlent_shell.html?file=$1 [L,QSA]
+
+    # Route /pascha/* URLs to pascha_shell.html
+    RewriteRule ^pascha/(?!index\.html$)([^/]+\.html)$ pascha/new/pascha_shell.html?file=$1 [L,QSA]
+
+    # Route /theophany/* URLs to theophany_shell.html
+    RewriteRule ^theophany/(?!index\.html$)([^/]+\.html)$ theophany/new/theophany_shell.html?file=$1 [L,QSA]
+
+    # Route /confess/* URLs to confess_shell.html
+    RewriteRule ^confess/(?!index\.html$)([^/]+\.html)$ confess/new/confess_shell.html?file=$1 [L,QSA]
+
+    # Route /fathers/* URLs to fathers_shell.html
+    RewriteRule ^fathers/(?!index\.html$)([^/]+\.html)$ fathers/new/fathers_shell.html?file=$1 [L,QSA]
+
+    # Route /gleanings/* URLs to gleanings_shell.html (except index.html and sub_all_topics.html)
+    RewriteRule ^gleanings/(?!index\.html$|sub_all_topics\.html$)([^/]+\.html)$ gleanings/new/gleanings_shell.html?file=$1 [L,QSA]
+
+    # Route /ustav/* URLs to ustav_shell.html
+    RewriteRule ^ustav/(?!index\.html$)([^/]+\.html)$ ustav/new/ustav_shell.html?file=$1 [L,QSA]
+
+    # Route /services/* URLs to services_shell.html
+    RewriteRule ^services/(?!index\.html$)([^/]+\.html)$ services/new/services_shell.html?file=$1 [L,QSA]
+
+    # Route /trebnic/* URLs to trebnic_shell.html
+    RewriteRule ^trebnic/(?!index\.html$)([^/]+\.html)$ trebnic/new/trebnic_shell.html?file=$1 [L,QSA]
+
+    # Route /music/* URLs to music_shell.html
+    RewriteRule ^music/(?!index\.html$)([^/]+\.html)$ music/new/music_shell.html?file=$1 [L,QSA]
+
+    # Route /menaion-thoughts/* URLs to menaion-thoughts_shell.html
+    RewriteRule ^menaion-thoughts/(?!index\.html$)([^/]+\.html)$ menaion-thoughts/new/menaion-thoughts_shell.html?file=$1 [L,QSA]
+
+    # Route /saints/* URLs to saints_shell.html
+    RewriteRule ^saints/(?!index\.html$)([^/]+\.html)$ saints/new/saints_shell.html?file=$1 [L,QSA]
+
+    # Route /russiannm/* URLs to russiannm_shell.html
+    RewriteRule ^russiannm/(?!index\.html$)([^/]+\.html)$ russiannm/new/russiannm_shell.html?file=$1 [L,QSA]
+
+    # Route /links/* URLs to links_shell.html
+    RewriteRule ^links/(?!index\.html$)([^/]+\.html)$ links/new/links_shell.html?file=$1 [L,QSA]
+
+    # Route /western-saints/* URLs to western-saints_shell.html
+    RewriteRule ^western-saints/(?!index\.html$)([^/]+\.html)$ western-saints/new/western-saints_shell.html?file=$1 [L,QSA]
+
+    # Route /monastic-stories/* URLs to monastic-stories_shell.html
+    RewriteRule ^monastic-stories/(?!index\.html$)([^/]+\.html)$ monastic-stories/new/monastic-stories_shell.html?file=$1 [L,QSA]
+
+    # Route /poetry/* URLs to poetry_shell.html
+    RewriteRule ^poetry/(?!index\.html$)([^/]+\.html)$ poetry/new/poetry_shell.html?file=$1 [L,QSA]
+
+    # Route /nativity/* URLs to nativity_shell.html
+    RewriteRule ^nativity/(?!index\.html$)([^/]+\.html)$ nativity/new/nativity_shell.html?file=$1 [L,QSA]
+
+    # Route /journal/* URLs to journal_shell.html
+    RewriteRule ^journal/(?!index\.html$)([^/]+\.html)$ journal/new/journal_shell.html?file=$1 [L,QSA]
+
+    # Route /posts/* URLs to new_post.html
+    RewriteRule ^posts/([^/]+)/?$ new_post.html [L]
+</IfModule>

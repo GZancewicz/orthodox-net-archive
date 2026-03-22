@@ -1,0 +1,10 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-april/10-the-holy-martyrs-terentius-.html">Martyrs Terence, Pompeius, Africanus, Maximus, Zeno, Alexander, Theodore, Macarius, and 33 others beheaded at Carthage. </A>');
+document.writeln('<LI>Martyrs James presbyter, and Azadanes and Abdicius deacons, of Persia. ');
+document.writeln('<LI>Prophetess Huldah (Olda) ');
+document.writeln('<BR>II Kgs 22:14');
+document.writeln('<LI>New-Martyr Demos of Smyrna. ');
+document.writeln('<LI>New Hieromartyr Gregory V, Patriarch of Constantinople. ');
+document.writeln('<LI>St. Milteades, pope of Rome. ');
+document.writeln('<LI>he 6,000 Holy Martyrs in Georgia.');
+document.writeln('</OL>');

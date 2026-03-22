@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI><A HREF="/menaion-april/07-saint-george-the-confessor.html">St. George, Bishop of Mitylene. </A>');
+document.writeln('<LI><A HREF="/menaion-april/07-the-holy-martyr-calliopius.html">Martyr Calliopus at Pompeiopolis in Cilicia. </A>');
+document.writeln('<LI>Martyrs Rufinus deacon, Aquilina, and 200 soldiers at Sinope. ');
+document.writeln('<LI>St. Serapion of Egypt, monk. ');
+document.writeln('<LI><A HREF="/menaion-april/07-the-venerable-daniel-of-pereyaslavl.html">St. Daniel, abbot of Peryaslavl-Zalesski. </A>');
+document.writeln('<LI><A HREF="/menaion-april/07-the-venerable-nil-sorsky.html">St. Nilus, abbot of Sora. </A>');
+document.writeln('<LI>St. Leucius, abbot of Volokolamsk. ');
+document.writeln('<LI>Opening of the Relics of St. Serapion, Archbishop of Novgorod. ');
+document.writeln('<LI>Repose of Schemamonk Agapitus the Blind of Valaam (1905). ');
+document.writeln('<LI> Our Holy Father Gregory the Sinaite.');
+document.writeln('<BR>See August 8');
+document.writeln('</OL>');

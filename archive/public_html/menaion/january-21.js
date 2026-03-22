@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI>St. Maximus the Confessor ');
+document.writeln('<BR><I>LITURGY: </I>Heb 11:33-40; Lk 12:8-12. ');
+document.writeln('<LI>Martyr Neophytus of Nicaea. ');
+document.writeln('<LI>Martyrs Eugene, Candidus, Valerian and Aquila at Trebizond. ');
+document.writeln('<LI>Martyr Anastasius, disciple of St. Maximus the Confessor. ');
+document.writeln('<LI>Virgin Martyr Agnes of Rome. ');
+document.writeln('<LI>St. Neophytus of Vatopedi (Mt. Athos. . ');
+document.writeln('<LI>St. Maximus the Greek. ');
+document.writeln('<LI>Synaxis of the Church of the Holy Peace by the Sea in Constantinople. ');
+document.writeln('<LI>Repose of desert-dweller Timon of Nadeyev (1840). ');
+document.writeln('<LI>Holy New Martyrs and Confessors of the Russian Land ');
+document.writeln('</OL>');

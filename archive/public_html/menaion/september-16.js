@@ -1,0 +1,14 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Exaltation of the Cross. ');
+document.writeln('<LI><A HREF="/menaion-september/16-holy-and-great-martyr-euphemia.html">Great Martyr Euphemia the All praised </A>');
+document.writeln('<BR><I>LITURGY: </I>II Cor 6:1 10; Lk 7:36 50. ');
+document.writeln('<LI>Martyrs Victor and Sosthenes at Chalcedon. ');
+document.writeln('<LI>St. Sebastiana, disciple of St. Paul the Apostle, martyred at Heraclea. ');
+document.writeln('<LI>Martyr Melitina of Marcianopolis. ');
+document.writeln('<LI><A HREF="/menaion-september/16-our-holy-father-dorotheus.html">St. Dorotheus, hermit of Egypt. </A>');
+document.writeln('<LI>Martyr Ludmilla, grandmother of St. Wenceslaus, prince of the Czechs. ');
+document.writeln('<LI><A HREF="/menaion-september/16-st-cyprian-metropolitan-of-kiev.html">Repose of St. Cyprian, Metropolitan of Kiev. </A>');
+document.writeln('<LI>St. Procopius, abbot of Sazava in Bohemia. ');
+document.writeln('<LI>New Martyrs Isaac and Joseph of Georgia. ');
+document.writeln('<LI>St. Cyprian of Serbia. ');
+document.writeln('</OL>');

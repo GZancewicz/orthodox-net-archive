@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Apodosis of the Theophany. ');
+document.writeln('<LI>The Holy Fathers slain at Sinai and Raithu: Isaiah, Sabbas, Moses and his disciple Moses, Jeremiah, Paul, Adam, Sergius, Domnus, Proclus, Hypatius, Isaac, Macarius, Mark, Benjamin, Eusebius, Elias and others. ');
+document.writeln('<LI>St. Stephen, abbot of Chenolakos Monastery near Chalcedon. ');
+document.writeln('<LI>St. Theodulus, son of St. Nilus of Sinai. ');
+document.writeln('<LI>St. Joseph Analytinus of Raithu Monastery. ');
+document.writeln('<LI>St. Nina (Nino), Equal-to-the-Apostles, Enlightener of Georgia. ');
+document.writeln('<LI>Virgin Martyr Agnes. ');
+document.writeln('<LI>New-Martyr Platon, Archbishop of Reval (Estonia) (1919). ');
+document.writeln('<LI>New Martyrs slain at Raithu Monastery, and New Hieromartyr Ambrose of Sarapul (1918). ');
+document.writeln('</OL>');

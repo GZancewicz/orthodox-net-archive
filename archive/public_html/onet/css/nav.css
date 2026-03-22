@@ -1,0 +1,107 @@
+
+/* https://www.w3schools.com/howto/howto_js_navbar_sticky.asp */
+
+.menu-button {
+  font-size: 50pt;
+}
+
+.wrapper {
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  padding: 10px;
+  margin: 10px 10px;
+  width: 100%;
+  z-index: 999;
+  /* display: inline-block; */
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+/* .sticky + .content {
+  padding-top: 60px;
+} */
+
+
+
+.navBar-section {
+  background-color: darkslategray;
+  /* border: 1px solid #ccc; */
+  opacity: 0.8
+  ;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0 10px;
+  /* font-family: "Proza Libre", sans-serif; */
+}
+
+.navBar{
+  background-color: none;
+
+}
+
+/*Floats each item to the left with padding of 14 & 16 px.
+Removes the underline with text decoration = none.*/
+.navBar a{
+  float: left;
+  /* color: grey; */
+  color: white;
+  /* padding: 14px 16px; */
+  padding: 0 20px 0;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.5rem;
+  /* font-family: Tahoma; */
+}
+
+/*Background color change during hover state*/
+.navBar a:hover{
+  background-color: white;
+  color: #009cde;
+}
+
+/*Hides the menu Icon which will show when the nav needs to be responsive*/
+.navBar .icon {
+    display: none;
+}
+
+
+.navBar a.nav-link {
+    float: left;
+    padding: 0 20px 0;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.5rem;
+    display: block; /* Links are visible by default */
+}
+
+@media screen and (max-width: 700px) {
+    .navBar a.nav-link:not(.icon) {
+        display: none; /* Hide links (except the hamburger icon) on small screens */
+    }
+    .navBar a.icon {
+        font-size: 30px;
+        float: right;
+        display: block;
+    }
+    .navBar.responsive {
+        position: relative;
+    }
+    .navBar.responsive a.icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .navBar.responsive a.nav-link {
+        float: none;
+        display: block !important; /* Show links in the responsive mode */
+        text-align: left;
+    }
+}
+
+

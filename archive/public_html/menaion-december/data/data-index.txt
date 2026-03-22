@@ -1,0 +1,191 @@
+#made from index.txt file
+#1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24
+#num|file|title|subtitle|subtitle2|year|cat|catnum|subcat|subcatnum|scripture|parable|miracle|txt|mp3|wma|rm|link|comment|synopsis|audiofirst|tooltip|indextitle|note|tag1|tag2|tag3|tag4|tag5|tag6|tag7|tag8|tag9
+#1:num|2:file|3:title|4:subtitle|5:subtitle2|6:year|7:cat|8:catnum|9:subcat|10:subcatnum|11:scripture|12:parable|13:miracle|14:txt|15:mp3|16:wma|17:rm|18:link|19:comment|20:synopsis|21:audiofirst|22:tooltip|23:indextitle|24:note|25:tag1|26:tag2|27:tag3|28:tag4|29:tag5|30:tag6|31:tag7|32:tag8|33:tag9
+001|01-holy-prophet-nahum|The Holy Prophet Nahum.||||||||||||||||||||||||||||||
+002|01-st-philaret-the-merciful| St Philaret the Merciful. ||||||||||||||||||||||||||||||
+003|01-the-holy-prophet-nahum| The Holy Prophet Nahum. ||||||||||||||||||||||||||||||
+004|02-hieromartyr-theodore-archbishop-of-alexandria|The Hieromartyr Theodore, Archbishop of Alexandria.||||||||||||||||||||||||||||||
+005|02-holy-and-great-martyr-barbara|The Holy and Great Martyr Barbara.||||||||||||||||||||||||||||||
+006|02-holy-martyr-myrope|The Holy Martyr Myrope.||||||||||||||||||||||||||||||
+007|02-holy-prophet-habakkuk|The Holy Prophet Habakkuk.||||||||||||||||||||||||||||||
+008|02-holy-prophet-zephaniah|The Holy Prophet Zephaniah.||||||||||||||||||||||||||||||
+009|02-our-holy-father-athanasius-the-recluse-of-the-kiev-caves| Our Holy Father Athanasius the Recluse Of the Kiev Caves. ||||||||||||||||||||||||||||||
+010|02-our-holy-father-nectarius-of-bitola|Our Holy Father Nectarius of Bitola.||||||||||||||||||||||||||||||
+011|02-our-holy-father-sava-of-storozhev|Our Holy Father Sava of Storozhev.||||||||||||||||||||||||||||||
+012|02-our-holy-father-sava-the-sanctified|Our Holy Father Sava the Sanctified.||||||||||||||||||||||||||||||
+013|02-st-gennadius-archbishop-of-novgorod|St Gennadius, Archbishop of Novgorod.||||||||||||||||||||||||||||||
+014|02-st-jesse-bishop-of-tsiklan| St Jesse, Bishop of Tsiklan. ||||||||||||||||||||||||||||||
+015|02-st-uros-king-of-serbia| St Uros, King of Serbia. ||||||||||||||||||||||||||||||
+016|02-the-holy-martyr-myrope| The Holy Martyr Myrope. ||||||||||||||||||||||||||||||
+017|02-the-holy-prophet-habakkuk| The Holy Prophet Habakkuk. ||||||||||||||||||||||||||||||
+018|03-hieromartyr-theodore-archbishop-of-alexandria|The Hieromartyr Theodore, Archbishop of Alexandria.||||||||||||||||||||||||||||||
+019|03-holy-prophet-zephaniah|The Holy Prophet Zephaniah.||||||||||||||||||||||||||||||
+020|03-our-holy-father-sava-of-storozhev| Our Holy Father Sava of Storozhev. ||||||||||||||||||||||||||||||
+021|03-our-holy-father-theodulus| Our Holy Father Theodulus. ||||||||||||||||||||||||||||||
+022|03-st-john-the-silent-the-hesychast|St John the Silent (the Hesychast).||||||||||||||||||||||||||||||
+023|03-st-john-the-silent| St John the Silent (the Hesychast). ||||||||||||||||||||||||||||||
+024|03-the-hieromartyr-theodore-archbishop-of-alexandria| The Hieromartyr Theodore, Archbishop of Alexandria. ||||||||||||||||||||||||||||||
+025|03-the-holy-prophet-zephaniah| The Holy Prophet Zephaniah. ||||||||||||||||||||||||||||||
+026|04-holy-and-great-martyr-barbara|The Holy and Great Martyr Barbara.||||||||||||||||||||||||||||||
+027|04-st-gennadius-archbishop-of-novgorod| St Gennadius, Archbishop of Novgorod. ||||||||||||||||||||||||||||||
+028|04-st-john-damacene| St John Damacene. ||||||||||||||||||||||||||||||
+029|04-the-holygreat-martyr-barbara| The Holy and Great Martyr Barbara. ||||||||||||||||||||||||||||||
+030|05-our-holy-father-nectarius-of-bitola| Our Holy Father Nectarius of Bitola. ||||||||||||||||||||||||||||||
+031|05-our-holy-father-sava-the-sanctified| Our Holy Father Sava the Sanctified. ||||||||||||||||||||||||||||||
+032|05-our-holy-fathers-karyon-and-zachariah|Our Holy Fathers Karyon and Zachariah.||||||||||||||||||||||||||||||
+033|05-our-holy-fathers-karyonzachariah| Our Holy Fathers Karyon and Zachariah. ||||||||||||||||||||||||||||||
+034|05-our-holy-fathers-the-martyrs-of-karyes| Our Holy Fathers, the Martyrs of Karyes. ||||||||||||||||||||||||||||||
+035|06-holy-martyr-nicolas-of-karamanos|The Holy Martyr Nicolas of Karamanos.||||||||||||||||||||||||||||||
+036|06-st-nicolas-bishop-of-patara| St Nicolas, Bishop of Patara. ||||||||||||||||||||||||||||||
+037|06-st-nicolas-the-wonderworker-archbishop-of-myra-in-lycia| St Nicolas the Wonderworker, Archbishop of Myra in Lycia. ||||||||||||||||||||||||||||||
+038|06-st-theophilus-bishop-of-antioch| St Theophilus, Bishop of Antioch. ||||||||||||||||||||||||||||||
+039|06-the-holy-martyr-nicolas-of-karamanos| The Holy Martyr Nicolas of Karamanos. ||||||||||||||||||||||||||||||
+040|07-conception-by-st-anna-of-the-most-holy-mother-of-god|The Conception by St Anna of the Most Holy Mother of God.||||||||||||||||||||||||||||||
+041|07-holy-martyrs-in-africa|The Holy Martyrs in Africa.||||||||||||||||||||||||||||||
+042|07-our-holy-father-gregory-the-hesychast| Our Holy Father Gregory the Hesychast. ||||||||||||||||||||||||||||||
+043|07-our-holy-father-nilus-of-stolobnoye| Our Holy Father Nilus of Stolobnoye. ||||||||||||||||||||||||||||||
+044|07-our-holy-father-patapius|Our Holy Father Patapius.||||||||||||||||||||||||||||||
+045|07-our-holy-father-stephen-the-new-light|Our Holy Father Stephen the New Light.||||||||||||||||||||||||||||||
+046|07-st-ambrose-bishop-of-mediolanum-milan|St Ambrose, Bishop of Mediolanum (Milan).||||||||||||||||||||||||||||||
+047|07-st-ambrose-bishop-of-mediolanum| St Ambrose, Bishop of Mediolanum (Milan). ||||||||||||||||||||||||||||||
+048|08-holy-martyrs-in-africa|The Holy Martyrs in Africa.||||||||||||||||||||||||||||||
+049|08-our-holy-father-patapius| Our Holy Father Patapius. ||||||||||||||||||||||||||||||
+050|08-the-holy-apostles-sosthenes-apollos-tychicus-epaphroditus-onesiphorus-cephascaesar| The Holy Apostles Sosthenes, Apollos, Tychicus, Epaphroditus, Onesiphorus, Cephas and Caesar. ||||||||||||||||||||||||||||||
+051|08-the-holy-martyrs-in-africa| The Holy Martyrs in Africa. ||||||||||||||||||||||||||||||
+052|09-conception-by-st-anna-of-the-most-holy-mother-of-god|The Conception by St Anna of the Most Holy Mother of God.||||||||||||||||||||||||||||||
+053|09-our-holy-father-stephen-the-new-light| Our Holy Father Stephen the New Light. ||||||||||||||||||||||||||||||
+054|09-st-hannah-mother-of-the-prophet-samuel| St Hannah, Mother of the Prophet Samuel. ||||||||||||||||||||||||||||||
+055|09-st-sophronius-archbishop-of-cyprus| St Sophronius, Archbishop of Cyprus. ||||||||||||||||||||||||||||||
+056|09-the-conception-by-st-anna-of-the-most-holy-mother-of-god| The Conception by St Anna of the Most Holy Mother of God. ||||||||||||||||||||||||||||||
+057|10-holy-martyr-gemellus|The Holy Martyr Gemellus.||||||||||||||||||||||||||||||
+058|10-holy-martyrs-menas-hermogenes-and-eugraphus|The Holy Martyrs Menas, Hermogenes and Eugraphus.||||||||||||||||||||||||||||||
+059|10-our-holy-father-thomas-of-bithynia| Our Holy Father Thomas of Bithynia. ||||||||||||||||||||||||||||||
+060|10-our-holy-mother-angelina-and-st-john-the-despot|Our Holy Mother Angelina and St John the Despot.||||||||||||||||||||||||||||||
+061|10-our-holy-mother-angelinast-john-the-despot| Our Holy Mother Angelina and St John the Despot. ||||||||||||||||||||||||||||||
+062|10-the-holy-martyr-gemellus| The Holy Martyr Gemellus. ||||||||||||||||||||||||||||||
+063|10-the-holy-martyrs-menas-hermogeneseugraphus| The Holy Martyrs Menas, Hermogenes and Eugraphus. ||||||||||||||||||||||||||||||
+064|11-holy-martyr-meirax|The Holy Martyr Meirax.||||||||||||||||||||||||||||||
+065|11-martyr-mirax|Holy Martyr Mirax ||||||||||||||||||||||||||||||
+066|11-martyrs-akepsios-and-haifal|Holy Martyrs Akepsios and Haifal||||||||||||||||||||||||||||||
+067|11-monk-daniel-the-pillar-dweller|The Monk Daniel the Pillar-Dweller ||||||||||||||||||||||||||||||
+068|11-monk-nikon-the-lean|Monk Nikon the Lean||||||||||||||||||||||||||||||
+069|11-our-holy-father-daniel-the-stylite| Our Holy Father Daniel the Stylite. ||||||||||||||||||||||||||||||
+070|11-our-holy-father-luke-the-stylite| Our Holy Father Luke the Stylite. ||||||||||||||||||||||||||||||
+071|11-our-holy-father-nikon-the-withered| Our Holy Father Nikon the Withered. ||||||||||||||||||||||||||||||
+072|11-the-holy-martyr-meirax| The Holy Martyr Meirax. ||||||||||||||||||||||||||||||
+073|12-hieromartyr-alexander-bishop-of-jerusalem|The Hieromartyr Alexander, Bishop of Jerusalem.||||||||||||||||||||||||||||||
+074|12-hieromartyr-gavrilo-patriarch-of-serbia|The Hieromartyr Gavrilo, Patriarch of Serbia.||||||||||||||||||||||||||||||
+075|12-holy-martyr-cynecius|The Holy Martyr Cynecius ||||||||||||||||||||||||||||||
+076|12-holy-martyr-synesius|The Holy Martyr Synesius.||||||||||||||||||||||||||||||
+077|12-holy-martyrs-eustratius-auxentius-eugene-mardarius-and-orestes|The Holy Martyrs Eustratius, Auxentius, Eugene, Mardarius and Orestes.||||||||||||||||||||||||||||||
+078|12-holy-martyrs-thyrsus-leucius-and-callinicus|The Holy Martyrs Thyrsus, Leucius and Callinicus.||||||||||||||||||||||||||||||
+079|12-monk-pherapont-of-monzensk|Monk Pherapont of Monzensk||||||||||||||||||||||||||||||
+080|12-saint-spyridon|Saint Spyridon||||||||||||||||||||||||||||||
+081|12-st-spiridon-the-wonderworker-bishop-of-tremithus| St Spiridon the Wonderworker, Bishop of Tremithus. ||||||||||||||||||||||||||||||
+082|12-the-hieromartyr-alexander-bishop-of-jerusalem| The Hieromartyr Alexander, Bishop of Jerusalem. ||||||||||||||||||||||||||||||
+083|12-the-holy-martyr-synesius| The Holy Martyr Synesius. ||||||||||||||||||||||||||||||
+084|13-hieromartyr-gavrilo-patriarch-of-serbia|The Hieromartyr Gavrilo, Patriarch of Serbia.||||||||||||||||||||||||||||||
+085|13-holy-martyr-lucy-the-virgin|The Holy Martyr Lucy the Virgin.||||||||||||||||||||||||||||||
+086|13-holy-martyrs-eustratius-auxentius-eugene-mardarius-and-orestes|The Holy Martyrs Eustratius, Auxentius, Eugene, Mardarius and Orestes.||||||||||||||||||||||||||||||
+087|13-the-hieromartyr-gavrilo-patriarch-of-serbia| The Hieromartyr Gavrilo, Patriarch of Serbia. ||||||||||||||||||||||||||||||
+088|13-the-holy-martyr-lucy-the-virgin| The Holy Martyr Lucy the Virgin. ||||||||||||||||||||||||||||||
+089|13-the-holy-martyrs-eustratius-auxentius-eugene-mardariusorestes| The Holy Martyrs Eustratius, Auxentius, Eugene, Mardarius and Orestes. ||||||||||||||||||||||||||||||
+090|14-holy-martyrs-philemon-apollonius-arrian-and-others|The Holy Martyrs Philemon, Apollonius, Arrian and others.||||||||||||||||||||||||||||||
+091|14-holy-martyrs-thyrsus-leucius-and-callinicus|The Holy Martyrs Thyrsus, Leucius and Callinicus.||||||||||||||||||||||||||||||
+092|14-the-holy-martyrs-philemon-apollonius-arrianothers| The Holy Martyrs Philemon, Apollonius, Arrian and others. ||||||||||||||||||||||||||||||
+093|14-the-holy-martyrs-thyrsus-leuciuscallinicus| The Holy Martyrs Thyrsus, Leucius and Callinicus. ||||||||||||||||||||||||||||||
+094|15-hieromartyr-eleutherius|The Hieromartyr Eleutherius.||||||||||||||||||||||||||||||
+095|15-our-holy-father-pardus-the-solitary| Our Holy Father Pardus the Solitary. ||||||||||||||||||||||||||||||
+096|15-our-holy-father-paul-of-latros| Our Holy Father Paul of Latros. ||||||||||||||||||||||||||||||
+097|15-st-stephen-the-confessor-of-sourozh| St Stephen the Confessor of Sourozh. ||||||||||||||||||||||||||||||
+098|15-the-hieromartyr-eleutherius| The Hieromartyr Eleutherius. ||||||||||||||||||||||||||||||
+099|16-holy-martyr-boniface|The Holy Martyr Boniface.||||||||||||||||||||||||||||||
+100|16-holy-martyr-sebastian-and-those-with-him|The Holy Martyr Sebastian and those with him.||||||||||||||||||||||||||||||
+101|16-holy-prophet-haggai|The Holy Prophet Haggai.||||||||||||||||||||||||||||||
+102|16-our-holy-fathers-the-new-martyrs-paisius-and-habakkuk-avakum|Our Holy Fathers, the New Martyrs Paisius and Habakkuk (Avakum).||||||||||||||||||||||||||||||
+103|16-st-boniface-the-merciful-bishop-of-ferentino|St Boniface the Merciful, Bishop of Ferentino.||||||||||||||||||||||||||||||
+104|16-st-modestus-patriarch-of-jerusalem|St Modestus, Patriarch of Jerusalem.||||||||||||||||||||||||||||||
+105|16-st-nicolas-chrysoverges-patriarch-of-constantinople| St Nicolas Chrysoverges, Patriarch of Constantinople. ||||||||||||||||||||||||||||||
+106|16-st-theophano-the-empress| St Theophano the Empress. ||||||||||||||||||||||||||||||
+107|16-the-holy-prophet-haggai| The Holy Prophet Haggai. ||||||||||||||||||||||||||||||
+108|17-our-holy-father-daniel| Our Holy Father Daniel. ||||||||||||||||||||||||||||||
+109|17-our-holy-fathers-the-new-martyrs-paisius-and-habakkuk-avakum|Our Holy Fathers, the New Martyrs Paisius and Habakkuk (Avakum).||||||||||||||||||||||||||||||
+110|17-our-holy-fathers-the-new-martyrs-paisiushabakkuk| Our Holy Fathers, the New Martyrs Paisius and Habakkuk (Avakum). ||||||||||||||||||||||||||||||
+111|18-holy-martyr-sebastian-and-those-with-him|The Holy Martyr Sebastian and those with him.||||||||||||||||||||||||||||||
+112|18-st-florus-bishop-of-aminsus| St Florus, Bishop of Aminsus. ||||||||||||||||||||||||||||||
+113|18-st-modestus-patriarch-of-jerusalem| St Modestus, Patriarch of Jerusalem. ||||||||||||||||||||||||||||||
+114|18-the-holy-martyr-sebastianthose-with-him| The Holy Martyr Sebastian and those with him. ||||||||||||||||||||||||||||||
+115|19-holy-martyr-boniface|The Holy Martyr Boniface.||||||||||||||||||||||||||||||
+116|19-our-holy-father-elias-of-murom| Our Holy Father Elias of Murom. ||||||||||||||||||||||||||||||
+117|19-st-boniface-the-merciful-bishop-of-ferentino| St Boniface the Merciful, Bishop of Ferentino. ||||||||||||||||||||||||||||||
+118|19-st-gregory-bishop-of-omir| St Gregory, Bishop of Omir. ||||||||||||||||||||||||||||||
+119|19-the-holy-martyr-boniface| The Holy Martyr Boniface. ||||||||||||||||||||||||||||||
+120|20-hieromartyr-ignatius-the-god-bearer-bishop-of-antioch|The Hieromartyr Ignatius the God-Bearer, Bishop of Antioch.||||||||||||||||||||||||||||||
+121|20-st-danilo-archbishop-of-serbia| St Danilo, Archbishop of Serbia. ||||||||||||||||||||||||||||||
+122|20-the-hieromartyr-ignatius-the-god-bearer-bishop-of-antioch| The Hieromartyr Ignatius the God-Bearer, Bishop of Antioch. ||||||||||||||||||||||||||||||
+123|21-holy-and-great-martyr-anastasia-the-deliverer-from-bonds-and-those-with-her|The Holy and Great Martyr Anastasia the Deliverer from Bonds, and those with her.||||||||||||||||||||||||||||||
+124|21-holy-martyr-juliana-and-the-630-martyrs-with-her|The Holy Martyr Juliana, and the 630 martyrs with her.||||||||||||||||||||||||||||||
+125|21-holy-martyr-themistocies|The Holy Martyr Themistocies.||||||||||||||||||||||||||||||
+126|21-st-peter-the-wonderworker-metropolitan-of-russia| St Peter the Wonderworker, Metropolitan of Russia. ||||||||||||||||||||||||||||||
+127|21-the-holy-martyr-julianathe-630-martyrs-with-her| The Holy Martyr Juliana, and the 630 martyrs with her. ||||||||||||||||||||||||||||||
+128|21-the-holy-martyr-themistocies| The Holy Martyr Themistocies. ||||||||||||||||||||||||||||||
+129|22-holy-and-great-martyr-anastasia-the-deliverer-from-bonds-and-those-with-her|The Holy and Great Martyr Anastasia the Deliverer from Bonds, and those with her.||||||||||||||||||||||||||||||
+130|22-holy-martyr-theodota-with-her-three-children|The Holy Martyr Theodota with her three Children.||||||||||||||||||||||||||||||
+131|22-the-holy-martyr-theodota-with-her-three-children| The Holy Martyr Theodota with her three Children. ||||||||||||||||||||||||||||||
+132|22-the-holygreat-martyr-anastasia-the-deliverer-from-bondsthose-with-her| The Holy and Great Martyr Anastasia the Deliverer from Bonds, and those with her. ||||||||||||||||||||||||||||||
+133|23-our-holy-father-antiochus-a-monk-of-palestine|Our Holy Father Antiochus, a monk of Palestine||||||||||||||||||||||||||||||
+134|23-our-holy-father-nahum-the-wonderworker-of-ochrid| Our Holy Father Nahum, the Wonderworker of Ochrid. ||||||||||||||||||||||||||||||
+135|23-our-holy-mother-the-martyr-eugenia-and-those-with-her|Our Holy Mother, the Martyr Eugenia, and those with her.||||||||||||||||||||||||||||||
+136|23-st-niphon-the-wonderworker| St Niphon the Wonderworker. ||||||||||||||||||||||||||||||
+137|23-ten-holy-martyrs-of-crete|The Ten Holy Martyrs of Crete.||||||||||||||||||||||||||||||
+138|23-the-ten-holy-martyrs-of-crete| The Ten Holy Martyrs of Crete. ||||||||||||||||||||||||||||||
+139|24-holy-new-monk-martyr-achmed|The Holy New Monk-Martyr Achmed ||||||||||||||||||||||||||||||
+140|24-our-holy-father-antiochus-a-monk-of-palestine|Our Holy Father Antiochus, a monk of Palestine||||||||||||||||||||||||||||||
+141|24-our-holy-father-nicolas-the-soldier| Our Holy Father Nicolas the Soldier. ||||||||||||||||||||||||||||||
+142|24-our-holy-mother-the-martyr-eugenia-and-those-with-her|Our Holy Mother, the Martyr Eugenia, and those with her.||||||||||||||||||||||||||||||
+143|24-our-holy-mother-the-martyr-eugeniathose-with-her| Our Holy Mother, the Martyr Eugenia, and those with her. ||||||||||||||||||||||||||||||
+144|25-general-commemoration-of-the-most-holy-mother-of-god|The General Commemoration of the Most Holy Mother of God.||||||||||||||||||||||||||||||
+145|25-holy-protomartyr-stephen-the-archdeacon|The Holy Protomartyr Stephen the Archdeacon.||||||||||||||||||||||||||||||
+146|25-nativity-of-our-lord-and-god-and-saviour-jesus-christ|The Nativity of our Lord and God and Saviour Jesus Christ.||||||||||||||||||||||||||||||
+147|25-our-holy-father-constantine-of-synnada|Our Holy Father Constantine of Synnada.||||||||||||||||||||||||||||||
+148|25-our-holy-father-evarestus|Our Holy Father Evarestus.||||||||||||||||||||||||||||||
+149|25-the-nativity-of-our-lordgodsaviour-jesus-christ| The Nativity of our Lord and God and Saviour Jesus Christ. ||||||||||||||||||||||||||||||
+150|26-commemoration-of-the-flight-into-egypt| Commemoration of the Flight into Egypt ||||||||||||||||||||||||||||||
+151|26-general-commemoration-of-the-most-holy-mother-of-god|The General Commemoration of the Most Holy Mother of God.||||||||||||||||||||||||||||||
+152|26-our-holy-father-constantine-of-synnada| Our Holy Father Constantine of Synnada. ||||||||||||||||||||||||||||||
+153|26-our-holy-father-evarestus| Our Holy Father Evarestus. ||||||||||||||||||||||||||||||
+154|26-st-euthymius-the-confessor-bishop-of-sardis| St Euthymius the Confessor, Bishop of Sardis. ||||||||||||||||||||||||||||||
+155|26-the-general-commemoration-of-the-most-holy-mother-of-god| The General Commemoration of the Most Holy Mother of God. ||||||||||||||||||||||||||||||
+156|27-holy-protomartyr-stephen-the-archdeacon|The Holy Protomartyr Stephen the Archdeacon.||||||||||||||||||||||||||||||
+157|27-our-holy-fathers-the-martyrs-theodore-and-theophanes-the-branded|Our Holy Fathers, the Martyrs Theodore and Theophanes the Branded.||||||||||||||||||||||||||||||
+158|27-our-holy-fathers-the-martyrs-theodoretheophanes-the-branded| Our Holy Fathers, the Martyrs Theodore and Theophanes the Branded. ||||||||||||||||||||||||||||||
+159|27-the-holy-protomartyr-stephen-the-archdeacon| The Holy Protomartyr Stephen the Archdeacon. ||||||||||||||||||||||||||||||
+160|28-14000-holy-children-in-bethlehem|The 14,000 Holy Children in Bethlehem.||||||||||||||||||||||||||||||
+161|28-20000-holy-martyrs-of-nicomedia|The 20,000 Holy Martyrs of Nicomedia.||||||||||||||||||||||||||||||
+162|28-holy-apostle-timon|The Holy Apostle Timon.||||||||||||||||||||||||||||||
+163|28-holy-martyr-anysia|The Holy Martyr Anysia.||||||||||||||||||||||||||||||
+164|28-holy-martyr-domna|The Holy Martyr Domna.||||||||||||||||||||||||||||||
+165|28-our-holy-father-simon-the-outpourer-of-myrrh| Our Holy Father Simon the Outpourer of Myrrh. ||||||||||||||||||||||||||||||
+166|28-our-holy-father-the-martyr-gideon|Our Holy Father, the Martyr Gideon.||||||||||||||||||||||||||||||
+167|28-our-holy-father-the-martyr-zoticus-protector-of-the-poor|Our Holy Father, the Martyr Zoticus, Protector of the Poor.||||||||||||||||||||||||||||||
+168|28-our-holy-fathers-mark-the-gravedigger-and-theophilus-the-weeper|Our Holy Fathers Mark the Gravedigger and Theophilus the Weeper.||||||||||||||||||||||||||||||
+169|28-our-holy-mother-melanie-the-roman|Our Holy Mother Melanie the Roman.||||||||||||||||||||||||||||||
+170|28-the-20000-holy-martyrs-of-nicomedia| The 20,000 Holy Martyrs of Nicomedia. ||||||||||||||||||||||||||||||
+171|28-the-holy-martyr-domna| The Holy Martyr Domna. ||||||||||||||||||||||||||||||
+172|29-14000-holy-children-in-bethlehem|The 14,000 Holy Children in Bethlehem.||||||||||||||||||||||||||||||
+173|29-our-holy-father-marcellus| Our Holy Father Marcellus. ||||||||||||||||||||||||||||||
+174|29-our-holy-fathers-mark-the-gravedigger-and-theophilus-the-weeper|Our Holy Fathers Mark the Gravedigger and Theophilus the Weeper.||||||||||||||||||||||||||||||
+175|29-our-holy-fathers-mark-the-gravediggertheophilus-the-weeper| Our Holy Fathers Mark the Gravedigger and Theophilus the Weeper. ||||||||||||||||||||||||||||||
+176|29-the-14000-holy-children-in-bethlehem| The 14,000 Holy Children in Bethlehem. ||||||||||||||||||||||||||||||
+177|30-holy-apostle-timon|The Holy Apostle Timon.||||||||||||||||||||||||||||||
+178|30-holy-martyr-anysia|The Holy Martyr Anysia.||||||||||||||||||||||||||||||
+179|30-our-holy-father-the-martyr-gideon| Our Holy Father, the Martyr Gideon. ||||||||||||||||||||||||||||||
+180|30-our-holy-mother-theodora-of-caesarea| Our holy Mother Theodora of Caesarea. ||||||||||||||||||||||||||||||
+181|30-our-holy-mother-theodora-of-constantinople| Our Holy Mother Theodora of Constantinople. ||||||||||||||||||||||||||||||
+182|30-the-holy-apostle-timon| The Holy Apostle Timon. ||||||||||||||||||||||||||||||
+183|30-the-holy-martyr-anysia| The Holy Martyr Anysia. ||||||||||||||||||||||||||||||
+184|31-blessed-theophylact-archbishop-of-ochrid| Blessed Theophylact, Archbishop of Ochrid. ||||||||||||||||||||||||||||||
+185|31-holy-and-righteous-joseph-king-david-and-james-the-lords-brother|Holy and Righteous Joseph, King David and James the Lord's Brother.||||||||||||||||||||||||||||||
+186|31-holyrighteous-joseph-king-davidjames-the-lord's-brother| Holy and Righteous Joseph, King David and James the Lord's Brother. ||||||||||||||||||||||||||||||
+187|31-our-holy-father-the-martyr-zoticus-protector-of-the-poor| Our Holy Father, the Martyr Zoticus, Protector of the Poor. ||||||||||||||||||||||||||||||

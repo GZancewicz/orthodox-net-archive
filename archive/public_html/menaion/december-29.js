@@ -1,0 +1,15 @@
+document.writeln('<OL>');
+document.writeln('<LI>Afterfeast of the Nativity of Christ. ');
+document.writeln('<LI><A HREF="/menaion-december/29-14000-holy-children-in-bethlehem.html">The 14,000 Infants (Holy Innocents) slain by Herod at Bethlehem </A>');
+document.writeln('<BR><I>LITURGY: </I>II Cor 5:15 21; Matt 2:13 23');
+document.writeln('<LI><A HREF="/menaion-december/29-our-holy-father-marcellus.html">St. Marcellus, abbot of the Monastery of the Unsleeping Ones.</A>');
+document.writeln('<LI>St. Thaddaeus, confessor, of the Studion.');
+document.writeln('<LI>St. Benjamin, monk of Nitria in Egypt.');
+document.writeln('<LI>St. Athenodorus, disciple of St. Pachomius the Great.');
+document.writeln('<LI>St. George, Bishop of Nicomedia.');
+document.writeln('<LI><A HREF="/menaion-december/29-our-holy-fathers-mark-the-gravedigger-and-theophilus-the-weeper.html">St. Mark the Grave digger of the Kiev Caves.</A>');
+document.writeln('<LI>Saints Theophilus and John of the Kiev Caves.');
+document.writeln('<LI>St. Theophilus of Luga and Omutch.');
+document.writeln('<LI>Commemoration of all Orthodox Christians who died from hunger, thirst, the sword, and freezing.');
+document.writeln('<LI>Repose of Elder Basiliscus of Siberia (1824).');
+document.writeln('</OL>');

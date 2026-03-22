@@ -1,0 +1,11 @@
+document.writeln('<OL>');
+document.writeln('<LI>Synaxis of the Three Hierarchs: Saints Basil the Great, Gregory the Theologian, and John Chrysostom. ');
+document.writeln('<LI>Hieromartyr Hippolytus, pope of Rome, and with him Martyrs Censorinus, Sabinus, Ares, the virgin Chryse, and with her Martyrs Felix, Maximus, Herculianus, Venerius, Styracius, Mennas, Commodus, Hermes, Maurus, Eusebius, Rusticus, Monagrius, Amandinus, Olympius, Cyprus, Theodore the Tribune, Maximus the Presbyter, Archelaus the deacon, and Cyriacus the bishop, all beheaded at Ostia. ');
+document.writeln('<LI>Martyr Theophilus the New in Cyprus. ');
+document.writeln('<LI>St. Zeno, hermit of Antioch. ');
+document.writeln('<LI>New-Martyr Theodore of Mitylene (Mt. Athos. . ');
+document.writeln('<LI>St. Peter, king of Bulgaria. ');
+document.writeln('<LI>St. Zeno the Faster of the Kiev Caves. ');
+document.writeln('<LI>"Tinos" Icon of the Most Holy Theotokos. ');
+document.writeln('<LI>Blessed Pelagia of Diviyevo (1884). ');
+document.writeln('</OL>');

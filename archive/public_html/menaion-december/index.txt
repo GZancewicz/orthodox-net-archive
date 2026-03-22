@@ -1,0 +1,24 @@
+TITLE:Orthodox Christian Menaion - Saints Lives for December
+DESCRIPTION:sameas-title
+KEYWORDS:samesas-title
+FILE:thisfile
+TEMPLATE:2rows.html
+NEW_WINDOW_IF_OUTSIDE_SITE:0
+PIFBLANKLINES:1
+SPECIALLANGUAGE:0
+MAP-HEADING:
+#HEADSUFFIX:<BASE TARGET="_blank">
+#HEADSUFFIX:<LINK REL='stylesheet' type='text/css' HREF='../liturgical.css'> <STYLE> p { text-align:justify; font-family:Arial,Helvetica,sans-serif; font-size:16.0pt; } </STYLE>
+#
+#
+#Type MAP Syntax:
+#HTTP://the.url/thefile.html
+#The Hypertext 
+#More Description until a blank line
+#FORMAT:PDF becomes <A HREF=http://he.url/thefile.pdf>PDF</A>
+#FORMAT:PDF:Title becomes  <A HREF=http://he.url/thefile.pdf>Title</A>
+#FORMAT:PDF:Title:sfx becomes <A HREF=http://he.url/thefile-sfx.pdf>Title</A>
+USE-DIVS-IN-LISTS:yes
+MAPHEADERFORMAT:class=r
+TYPE:MAP
+

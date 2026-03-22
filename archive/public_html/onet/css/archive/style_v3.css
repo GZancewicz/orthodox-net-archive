@@ -1,0 +1,375 @@
+body {
+  background-image: url(../images/bgblue.jpg);
+  /* font-family: "Proza Libre", sans-serif; */
+  /* font-family: "Cabin", sans-serif; */
+  font-family: "Alegreya", serif;
+}
+
+a {
+  color: #1c5880;
+  text-decoration:none;
+  font-weight: bold;
+}
+
+hr {
+  border-top: 1px solid gray;
+}
+
+.indent {
+    padding-left: 20px; /* Adjust the value as per your desired indentation */
+}
+
+
+.footnote {
+  margin-bottom: 8px!important;
+  font-size: 80%;
+}
+
+.section {
+  /* background-color: #f2e1c5; */
+  background-color: #f2e1c5;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 10px;
+}
+
+.acknowledgement {
+  background-color: #f2e1c5;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 1.5rem;
+}
+
+.copyright {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #f2e1c5;
+}
+
+.section-banner {
+  text-align: center;
+  /* display: inline-block; */
+}
+
+.section-main {
+  margin-top: 20px;
+  padding: 15px 0 15px;
+}
+
+.section-main p {
+  margin-bottom: 20px;
+}
+
+.section-gap {
+  background-image: url(../images/bgblue.jpg);
+}
+
+
+.section-links li {
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+.section-links ul {
+  list-style-type: none;
+  margin: 0 0;
+}
+
+.section-other-links {
+  text-align: left;
+  /* font-size: 1.2rem; */
+  /* margin: 20px 0; */
+  /* font-family: "Proza Libre", sans-serif; */
+}
+
+.section-other-links h6 {
+  /* font-size: 1.2rem; */
+  margin: 8px 0;
+}
+
+.section-other-links a {
+  /* font-size: 1.1rem; */
+  margin: 8px 0;
+}
+
+.section-other-links li {
+  /* font-size: 1.1rem; */
+  margin: 8px 0;
+  list-style-type: none;
+}
+
+.section-other-links ul {
+  /* font-size: 1.1rem; */
+  margin: 0 20px;
+  list-style-type: none;
+}
+
+.section-notes {
+  margin-top: 10px;
+  text-align: left;
+}
+
+
+
+.banner-title {
+  color: #850f00;
+  margin: 20px 0;
+  /* font-weight: bold; */
+  /* font-family: "Cormorant Garamond", serif; */
+  /* font-family: "Cabin", sans-serif ; */
+  /* font-family: "Alegreya Sans", sans-serif; */
+}
+
+.banner-subtitle {
+  color: #1c5880;
+  /* font-family: "Cormorant Garamond", serif; */
+  /* font-family: "Cabin", sans-serif ; */
+  /* font-family: "Alegreya Sans", sans-serif; */
+}
+
+.banner-img {
+  /* border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px; */
+  height: 150px;
+  object-fit: contain;
+  object-position: top;
+  /* width: 100px; */
+}
+
+
+/* img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+} */
+
+.church-address {
+  text-align: left;
+  /* font-size: 1.4rem; */
+}
+
+.church-intro {
+  text-align: left;
+  margin-top: 20px;
+  }
+
+.church-intro-text {
+  text-align: left;
+  /* font-size: 1.3rem; */
+  padding: 10px 0;
+}
+
+.church-name {
+  font-weight: bold;
+  /* font-size: 1.7rem; */
+}
+
+.main-img {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  object-fit: contain;
+  object-position: bottom;
+}
+
+.main-name {
+  text-align: left;
+  /* font-size: 1.8rem; */
+  /* font-family: "Proza Libre", sans-serif; */
+}
+
+.main-card {
+  padding-top: 10px;
+}
+
+.address-table {
+  /* font-size: 1.4rem; */
+}
+
+#rector-image {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  object-fit: contain;
+  object-position: bottom;
+}
+
+.donate-heading {
+  /* font-size: 1.5rem; */
+  font-weight: bold;
+  /* text-align: center;
+  margin: 20px 0; */
+}
+
+.homily-description {
+  margin-bottom: 10px;
+}
+
+.event-description {
+  margin-bottom: 5px;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+
+
+#legacy-content {
+  display: none;
+}
+
+#weekly-services {
+    text-align: center;
+}
+
+#weekly-services table {
+    /* margin: 0 auto; */
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+#weekly-services td, th {
+    padding: 2px 5px;  /* Adjust as needed */
+}
+
+#weekly-services tr, td, th {
+    margin: 0;
+}
+
+/* Container for each video entry */
+.video-entry {
+    margin-bottom: 30px; /* Spacing between video entries */
+}
+
+/* Container to maintain aspect ratio */
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    margin-bottom: 20px; /* Spacing between the video preview and the description */
+}
+
+/* The actual video content */
+.video-container a {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-decoration: none; 
+    color: inherit; 
+}
+
+/* Styling for the thumbnail image */
+.video-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+.video-container .video-title {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 2px 5px;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.video-container .video-info {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 2px 5px;
+    color: white;
+    border-radius: 3px;
+}
+
+/* Styling for the iframe */
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Carousel styles */
+#video-carousel {
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel-container {
+    display: flex;
+    transition: all 0.3s;
+}
+
+.video-div {
+    flex: 0 0 50%;  /* As each video spans 6 columns out of 12 in Skeleton.css, it takes 50% width */
+    overflow: hidden;  /* To ensure content doesn't overflow its box */
+}
+
+.carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(255, 255, 255, 0.7);
+    border: none;
+    cursor: pointer;
+    z-index: 2;  /* To ensure buttons are above the video content */
+}
+
+#scroll-left {
+    left: 10px;
+}
+
+#scroll-right {
+    right: 10px;
+}
+
+#video-carousel .carousel-button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#video-carousel .carousel-button {
+    margin: 0 10px;  /* Add some spacing between the buttons */
+    position: relative;
+    top: 0;
+    transform: none;
+}
+
+/* Media query for viewport less than 700px */
+@media only screen and (max-width: 700px) {
+  .carousel-button {
+    display: none !important; /* Hide the buttons */
+  }
+  .carousel-container {
+    display: block !important; /* Override flex layout */
+  }
+  .video-div {
+    display: block !important; /* Make each video div take up the full width */
+    margin-bottom: 15px; /* Add some space between the video divs */
+  }
+}
+
+/* This will hide the element on screens larger than 768px */
+@media (min-width: 769px) {
+  .small-only {
+    display: none;
+  }
+}

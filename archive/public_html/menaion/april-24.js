@@ -1,0 +1,13 @@
+document.writeln('<OL>');
+document.writeln('<LI>Martyr Sabbas Stratelites ("the General") of Rome, and 70 soldiers with him. ');
+document.writeln('<LI>Martyrs Eusebius, Neon, Leontius, Longinus, and others at Nicomedia. ');
+document.writeln('<LI>Martyrs Pasicrates and Valentine in Moesia (Bulgaria). ');
+document.writeln('<LI>St. Thomas the Fool of Syria. ');
+document.writeln('<LI>St. Elizabeth the Wonderworker of Constantinople. ');
+document.writeln('<LI>Saints Sabbas and Alexius the hermit of the Kiev Caves. ');
+document.writeln('<LI>New-Martyr Luke. ');
+document.writeln('<LI>New-Martyr Nicholas of Magnesia. ');
+document.writeln('<LI>Martyr Alexander of Lyons. ');
+document.writeln('<LI>St. Iorest and St. Sava Brancovici, Metropolitan of Ardeal, confessors against the Calvinists. ');
+document.writeln('<LI>Repose of Schemamonk Nicholas of Valaam (1947). ');
+document.writeln('</OL>');
