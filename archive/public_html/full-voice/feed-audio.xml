@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang='en-US'>
+<channel>
+<atom:link href="https://www.orthodox.net//sermons/feed-audio.xml" rel="self" type="application/rss+xml" />
+<title>A priest must speak with a full voice.</title>
+<description>Audio Orthodox Christian Sermons and reflections on the Gospels, Epistles and other topics</description>
+<link>https://www.orthodox.net//full-voice/</link>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+	<itunes:email>seraphim@orthodox.net</itunes:email>
+	<itunes:name>Priest Seraphim Holland</itunes:name>
+</itunes:owner>
+<itunes:category text="Religion &#38; Spirituality"><itunes:category text="Christianity"/></itunes:category>
+<itunes:image href="https://www.orthodox.net//saintnicholas.jpg" />
+<language>en-us</language>
+<copyright>(C) 2014 Priest Seraphim Holland</copyright>
+
+
+<item>
+<title>Bright Tuesday, 2014-02-22</title>
+<description>AUDIO sermon:Bright Tuesday. During the Paschal season, all 11 matinal resurrectional Gospels are read. The first one read is on Bright Tuesday: Many aspects of this story are explained, but the most important thing is that the way to Emmaus, this intensely personally story (told by Luke, who was there), is our way too, if we so choose. We are ignorant like the apostles on the way to Emmaus, we make plenty of mistakes too. the reason the apostles were enlightened because their hearts were burning within them as Jesus opened to them the scripture. What is this &quot;burning&quot;? This is a critical question. </description>
+<link>https://www.orthodox.net//sermons/pascha-tuesday-01_2014-02-22+bright-tuesday+the-road-to-emmaus_luke24-12-35.mp3</link>
+<guid>https://www.orthodox.net//sermons/pascha-tuesday-01_2014-02-22+bright-tuesday+the-road-to-emmaus_luke24-12-35.mp3</guid>
+<pubDate>Thu, 24 Apr 2014 17:13:20 -0600</pubDate>
+<itunes:author>Priest Seraphim Holland</itunes:author>
+<itunes:summary>AUDIO sermon:Bright Tuesday. During the Paschal season, all 11 matinal resurrectional Gospels are read. The first one read is on Bright Tuesday: Many aspects of this story are explained, but the most important thing is that the way to Emmaus, this intensely personally story (told by Luke, who was there), is our way too, if we so choose. We are ignorant like the apostles on the way to Emmaus, we make plenty of mistakes too. the reason the apostles were enlightened because their hearts were burning within them as Jesus opened to them the scripture. What is this &quot;burning&quot;? This is a critical question. </itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>sermons,homilies,homily,eastern orthodoxy,russian orthodoxy,russian orthodox,gospels,epistles,bible,catechesis,catechism</itunes:keywords>
+</item>
+
+</channel>
+</rss>
