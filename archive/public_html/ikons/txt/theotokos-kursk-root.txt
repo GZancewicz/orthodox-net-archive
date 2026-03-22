@@ -1,0 +1,54 @@
+TITLE:Kursk Root Icon of The Most Holy Theotokos (Kurskaya Korenaya Icona) - it's image, and story
+DESCRIPTION:Kursk Root Icon of The Most Holy Theotokos (Kurskaya Korenaya Icona) - it's image, and story
+KEYWORDS:Kursk Root Icon Most Holy Theotokos Kurskaya Korenaya Icona 
+FILE:thisfile
+TEMPLATE:nat-one-col-css.html
+HEADSUFFIX:
+PIFBLANKLINES:true
+MAP-HEADING:
+TYPE:HTML
+
+BEGIN:row1
+Kurskaya Korenaya Icona
+Kursk Root Icon of The Most Holy Theotokos
+
+
+BEGIN:row2
+
+<img SRC="theotokos-kursk-root01.jpg" ALT="Kursk Icon of the Mother of God" height=402 width=339 ALIGN=RIGHT>
+
+The Kursk icon of the Mother of God is also known as "Znamenie" (Sign), (derived from Prophet Isaiah's words(Is. 7, 14) that are the basis for iconographic composition of these icons). 
+
+The icon was found September 8, 1295, by one man from the city of Rylsk, near the large oak tree on the bank of the river Tooskara. As he picked up the icon, a small stream of water started to flow from under the roots of an oak tree: the man who found this icon and his fellows had build a wooden chapel (Chasovnia, in Russian, from "chasy" (Hours): a small consecrated building without altar, normally without any clergy, used for reading services that does not require a Priest, such as Hours, or prayer, reading Akathist hymns, etc.). Now on that same place stands the cathedral church of the Nativity of the Theotokos, in Korennoi men's hermitage. 
+
+As the news of the finding of an icon reached prince Vasilii Shemyaka, he ordered that the icon be brought to Rylsk. People met the icon with honor, but the Prince himself did not attend: he was struck with sudden blindness. As he wept about his lack of faith, and prayed to Virgin Mary, he was miraculously healed, and ordered a cathedral built in Rylsk, also in memory of Nativity of Theotokos. The icon was placed there and Prince Vasilii established its commemoration on Sept. 8. 
+
+Nevertheless, several times the icon was found to be mysteriously returned to the original chapel on the place of it's finding and it was finally decided to leave it there. Many healings were recorded that happened when the sick were praying to the Theotokos there. 
+
+In 1485 a band of Tartars attacked the region, and tried to burn the chapel together with hermitage. The chapel seemed to be resistant to fire and the Tartars suspected a priest by the name Bogolep, who was found there, to be some sort of magician. The priest said that it is because the miracle-working icon is there, the chapel does not burn. 
+
+The angry tartars took the icon, hacked it in two pieces, threw them away and successfully burned the chapel. The priest was taken prisoner to Crimea. There in spite of the Tartars efforts, he never abandoned his faith, and while looking after the sheep would sing church hymns and prayers to Theotokos. 
+
+His prayers were apparently heard, as once the envoys from Moscow came by, and hearing him and recognizing Orthodox singing, paid some money to free him. 
+
+The priest returned to his abandoned chapel, found the two parts of broken icon. He prayed long before that, since years had passed: and another miracle happened. When he aligned the two parts, they fused together without any glue, without any trace of injury, only at that place something like dew ("aki rosa") appeared and had dried out. 
+
+Since then the Hermitage was many times attacked by bands of Tartars, burned and restored, but each time the icon was left intact. Many miraculous healings were given by the Lord after prayer, through this icon. 
+
+Tsar Theodore Ioannovich in 1597 moved the icon to the capital city of Moscow, and Tsarica Irina decorated it with precious stones. The city of Kursk, which was in ruins after the Tartar attack, was rebuilt. Also, the Tsar ordered to add along the edge of the icon the smaller icons of the Lord Sabaoth, and 9 Old Testament prophets. 
+
+After a year the icon was returned to the place of its original discovery, and a new chapel was built there, by Tsar Theodore. Soon after 1598 the icon was again moved to Kursk, for fear of Tartar attack, and placed in the Cathedral church. In 1603 the impostor Pseudo-Dmitrii moved the icon to Putivl', and later to Moscow, where the holy icon resided until 1618. 
+
+Persistent people of Kursk made Tsar Michael Theodorovich return the icon. Znamenskii Monastery was also built at that time. When in 1612 Kursk was besieged by Hetman Zholkevski's army, citizens of the city prayed for delivery from the Polish invasion, and promised to build a monastery.) 
+
+The Hermitage at the place of original discovery of the icon was completely burned by the Tartars in 1611, then restored in 1618. The icon resided in Znamenskii monastery since 1726, and for two weeks each year the icon was placed back to in the Hermitage. 
+
+In 1806, by Emperor's edict, the icon was moved each year to the Hermitage at the ninth week after Pascha until September 9th. On these dates the a procession with the Cross (Krestnyi Hod) carried the icon from Kursk and back, for 27 miles. This happened each year, and up to forty to fifty thousand people usually took part. Many healings happened and were recorded not only near the icon, but also near the spring in Hermitage, that started to flow when the icon was first found in 1295. 
+
+In 1694 Tsars Ioann and Peter Alexeevich ordered a copy of the icon carried with troops wherever they went. Before that, the icon itself was carried, as in 1687, and 1689 in Crimea.
+
+Before this icon, as a boy and young man, prayed one citizen of Kursk: Prohor Moshnin, who later received a monastic name Seraphim, and became a great saint of Russia. In 1769 a ten-year old Prohor was very ill, there was no hope that he would live. In the semi-sleepy state, being very sick, the boy had a vision of the Most Holy Theotokos, she promised to visit him and heal him. Soon after that, as a yearly procession with the cross was taking place, a heavy rain started unexpectedly, and the procession was shortened by passing through the yard of Prohor's house. His mother carried him out, and prayed and venerated the icon, and was blessed with it. Very soon after that, Prohor Moshnin was well again. 
+
+On the night between March 7 and 8, 1898, one atheist-terrorist, Ufimtsev, tried to destroy the icon. A powerful explosion that badly damaged the Cathedral happened at 01:50 at night. There was a double miracle. First, despite that explosives were placed right under and next to the icon, it was left completely unharmed although the cathedral was badly damaged and everything within about 10 meters from the place where the icon resided was swept away. Secondly, the explosion was timed to happen during the evening Vigil service, when the church was filled with people, nevertheless it went off when no one was near (it is interesting to note that one of the Ufimtsev's young accessories as a result of this experience became a devoted Christian). 
+
+The icon was stolen and returned in 1919, and later was moved South with the retreating White Army, from Novorossiisk. On a steamboat called "St. Nicholas" it was taken trough Greece to Serbia. Next year it briefly returned to Crimea, and then finally left Russia with the retreating White army to Serbia. Since 1951 the icon has resided in the USA, and is everywhere is a source of continuing miracles. 

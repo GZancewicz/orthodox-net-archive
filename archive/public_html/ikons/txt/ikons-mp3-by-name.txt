@@ -1,0 +1,53 @@
+TITLE:All files in https://www.orthodox.net//ikons of type mp3 sorted by name as of Fri Apr  8 13:52:16 2016
+DESCRIPTION:sameas-title
+KEYWORDS:sameas-title
+FILE:thisfile
+AUTHOR:Priest Seraphim Holland
+COPYRIGHT:2016
+FAVICON:https://www.orthodox.net//favicon.ico
+#TEMPLATE:2rows.shtml
+#TEMPLATE:nat-one-col-css.html
+TEMPLATE:2rows-yellow-with-menu.html
+NEW_WINDOW_IF_OUTSIDE_SITE:0
+PIFBLANKLINES:1
+SPECIALLANGUAGE:0
+MAP-HEADING:
+#HEADSUFFIX:<BASE TARGET="_blank">
+#HEADSUFFIX:<LINK REL='stylesheet' type='text/css' HREF='../liturgical.css'> <STYLE> p { text-align:justify; font-family:Arial,Helvetica,sans-serif; font-size:16.0pt; } </STYLE>
+#HEADSUFFIX:<STYLE>p {FONT-SIZE: 16pt; FONT-FAMILY: Arial,Helvetica,sans-serif </STYLE>
+#
+#
+#Type MAP Syntax:
+#HTTP://the.url/thefile.html
+#The Hypertext 
+#More Description until a blank line
+#FORMAT:PDF becomes <A HREF=http://the.url/thefile.pdf>PDF</A>
+#FORMAT:PDF:Title becomes <A HREF=http://the.url/thefile.pdf>Title</A>
+#FORMAT:PDF:Title:sfx becomes <A HREF=http://the.url/thefile-sfx.pdf>Title</A>
+#SPANP:reader
+#Footnotes: 
+#the reference in the text must be a number in parens (1) (not in col 1)
+#The footnote MUST be the same number in paren, at the BEGINNING of the LINE (column 1)
+SSI:no
+USE-DIVS-IN-LISTS:no
+MAPHEADERFORMAT:class=r
+#If HEADERSCLASS:hdg, headers will be <h1 class=hdg1>, etc
+HEADERSCLASS:hdg
+USE_SPECIAL_HEADINGS:yes
+MAKEMAPINDEX:no
+MAKEMAPINDEXSUBSECTIONS:no
+FILE_HEADER_BEFORE_INDEX:
+USE_TOP:
+#if HEADER1,2,3 specified, their content will do at the very beginning in the body. Fully format
+#eg: HEADER1:<h1>Goose on the loose</h1>
+HEADER1:
+HEADER2:
+HEADER3:
+TYPE:MAP
+#TYPE:HTML
+#https://www.orthodox.net//c:/www/orthodox.net/ikons/-dir-mp3.html
+
+<p>All files in c:/www/orthodox.net/ikons of type mp3 sorted by name as of Fri Apr  8 13:52:16 2016</p>
+
+
+<p>Total files:0</p>
